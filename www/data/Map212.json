@@ -368,17 +368,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["現在の設定は「\\c[2]\\n[7]\\c[0]」です"]
+              "parameters": ["現在の設定は「\\c[2]おちんちん\\c[0]」です"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["違うのにするよ！", "俺は\\n[7]派だ"], 1, 0, 2, 1]
+              "parameters": [["違うのにするよ！", "俺はおちんちん派だ"], 1, 0, 2, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "違うのにするよ！"] },
             { "code": 303, "indent": 1, "parameters": [7, 10] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "俺は\\n[7]派だ"] },
+            { "code": 402, "indent": 0, "parameters": [1, "俺はおちんちん派だ"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -433,7 +433,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             { "code": 401, "indent": 0, "parameters": ["今日も一日お疲れ様"] },
             {
               "code": 102,
@@ -448,7 +448,7 @@
             },
             { "code": 402, "indent": 0, "parameters": [0, "好きだよ"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
             {
               "code": 401,
               "indent": 1,
@@ -457,7 +457,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "ご飯美味しかった"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
             { "code": 401, "indent": 1, "parameters": ["お粗末様っ！"] },
             {
               "code": 401,
@@ -467,7 +467,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "ベッドへ行こう"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
             {
               "code": 401,
               "indent": 1,
@@ -551,7 +551,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
             {
               "code": 401,
               "indent": 0,
@@ -574,7 +574,7 @@
               "parameters": [0, "オススメの本ある？"]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 3, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
             {
               "code": 401,
               "indent": 1,
@@ -588,7 +588,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "抱きしめる"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 4, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
             {
               "code": 401,
               "indent": 1,
@@ -602,7 +602,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "ベッドへ行こう"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
             {
               "code": 401,
               "indent": 1,
@@ -687,7 +687,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[5]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・ご飯食べたて"] },
             {
               "code": 401,
@@ -707,7 +707,7 @@
             },
             { "code": 402, "indent": 0, "parameters": [0, "ミールかな"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[5]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【ミール】"] },
             {
               "code": 401,
               "indent": 1,
@@ -716,7 +716,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["未だに素直な\\n[1]慣れないな"]
+              "parameters": ["未だに素直なアイル慣れないな"]
             },
             {
               "code": 401,
@@ -726,7 +726,7 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "いただきます"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 4, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[5]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【ミール】"] },
             {
               "code": 401,
               "indent": 1,
@@ -735,12 +735,12 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["まぁ、\\n[1]なら・・・いいよ\\i[249]"]
+              "parameters": ["まぁ、アイルなら・・・いいよ\\i[249]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "ベッドへ行く"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[5]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【ミール】"] },
             { "code": 401, "indent": 1, "parameters": ["う、うんっ！"] },
             { "code": 401, "indent": 1, "parameters": ["・・・そうだね！"] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -864,8 +864,8 @@
               "indent": 0,
               "parameters": [
                 [
-                  "俺の\\n[7]は大きいぜ？（小さい",
-                  "俺の\\n[7]は普通じゃない？(極小"
+                  "俺のおちんちんは大きいぜ？（小さい",
+                  "俺のおちんちんは普通じゃない？(極小"
                 ],
                 1,
                 0,
@@ -876,14 +876,14 @@
             {
               "code": 402,
               "indent": 0,
-              "parameters": [0, "俺の\\n[7]は大きいぜ？（小さい"]
+              "parameters": [0, "俺のおちんちんは大きいぜ？（小さい"]
             },
             { "code": 121, "indent": 1, "parameters": [379, 379, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
               "indent": 0,
-              "parameters": [1, "俺の\\n[7]は普通じゃない？(極小"]
+              "parameters": [1, "俺のおちんちんは普通じゃない？(極小"]
             },
             { "code": 121, "indent": 1, "parameters": [379, 379, 0] },
             { "code": 0, "indent": 1, "parameters": [] },

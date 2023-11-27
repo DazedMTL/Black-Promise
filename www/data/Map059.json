@@ -814,7 +814,7 @@
               "parameters": ["何者かの居住跡のようなものがある"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             {
               "code": 401,
               "indent": 0,
@@ -826,7 +826,7 @@
               "parameters": ["一体何が住んでるんだろう？"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -834,7 +834,7 @@
             },
             { "code": 401, "indent": 0, "parameters": ["今は居ないようだね"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -911,7 +911,7 @@
               "parameters": ["何者かの居住跡のようなものがある"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
             {
               "code": 401,
               "indent": 0,
@@ -919,7 +919,7 @@
             },
             { "code": 401, "indent": 0, "parameters": ["私はここ、嫌い"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -927,7 +927,7 @@
             },
             { "code": 401, "indent": 0, "parameters": ["今は居ないようだね"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1004,7 +1004,7 @@
               "parameters": ["何者かの居住跡のようなものがある"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[5]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
             { "code": 401, "indent": 0, "parameters": ["空気が淀んでいるね"] },
             {
               "code": 401,
@@ -1012,7 +1012,7 @@
               "parameters": ["きっと魔物か何かが住み着いているんだよ"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1020,7 +1020,7 @@
             },
             { "code": 401, "indent": 0, "parameters": ["今は居ないようだね"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1104,7 +1104,7 @@
               "parameters": ["あまりここに長居はしたくない"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1112,7 +1112,7 @@
             },
             { "code": 401, "indent": 0, "parameters": ["今は居ないようだね"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1540,7 +1540,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[3]さんに会いに来た？"]
+              "parameters": ["リラさんに会いに来た？"]
             },
             {
               "code": 401,
@@ -3149,11 +3149,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
-            { "code": 401, "indent": 0, "parameters": ["あっ！\\n[1]"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["あっ！アイル"] },
             { "code": 401, "indent": 0, "parameters": ["来てくれたんだ"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             {
               "code": 401,
               "indent": 0,
@@ -3207,11 +3207,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
-            { "code": 401, "indent": 0, "parameters": ["あっ・・・\\n[1]"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["あっ・・・アイル"] },
             { "code": 401, "indent": 0, "parameters": ["いらっしゃい！"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             {
               "code": 401,
               "indent": 0,

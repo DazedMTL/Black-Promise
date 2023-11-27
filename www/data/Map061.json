@@ -1202,12 +1202,12 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・ん！"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["見て\\n[1]！あそこに何かあるよ！"]
+              "parameters": ["見てアイル！あそこに何かあるよ！"]
             },
             {
               "code": 205,
@@ -1248,7 +1248,7 @@
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1402,8 +1402,8 @@
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1]"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["アイル"] },
             { "code": 401, "indent": 0, "parameters": ["大丈夫かい？"] },
             {
               "code": 205,
@@ -1435,7 +1435,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒い靄が\\n[2]を包み込む"]
+              "parameters": ["黒い靄がライトを包み込む"]
             },
             { "code": 212, "indent": 0, "parameters": [9, 102, true] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
@@ -1460,8 +1460,8 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\{\\n[2]大丈夫！？"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["\\{ライト大丈夫！？"] },
             { "code": 213, "indent": 0, "parameters": [9, 8, true] },
             {
               "code": 205,
@@ -1482,10 +1482,10 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・・・・あれ"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1493,7 +1493,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [10, 11, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             { "code": 401, "indent": 0, "parameters": ["ほんとに！？"] },
             { "code": 401, "indent": 0, "parameters": ["ほんとのほんと！？"] },
             {
@@ -1502,7 +1502,7 @@
               "parameters": ["・・・・・・はぁ、よかったぁ"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1514,7 +1514,7 @@
               "parameters": ["何か力のようなものを感じるね"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["もしかしたら"] },
             {
               "code": 401,
@@ -1528,7 +1528,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1537,7 +1537,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]が持っていてくれないか？"]
+              "parameters": ["アイルが持っていてくれないか？"]
             },
             {
               "code": 401,
@@ -1553,7 +1553,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             { "code": 401, "indent": 0, "parameters": ["何はともあれ"] },
             {
               "code": 401,
@@ -1561,7 +1561,7 @@
               "parameters": ["これで少しは前進って感じかな？"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1653,7 +1653,7 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・あそこ"] },
             { "code": 401, "indent": 0, "parameters": ["何かある"] },
             {
@@ -1695,7 +1695,7 @@
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1849,8 +1849,8 @@
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1]"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["アイル"] },
             { "code": 401, "indent": 0, "parameters": ["大丈夫かい？"] },
             {
               "code": 205,
@@ -1882,7 +1882,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒い靄が\\n[2]を包み込む"]
+              "parameters": ["黒い靄がライトを包み込む"]
             },
             { "code": 212, "indent": 0, "parameters": [9, 102, true] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
@@ -1907,7 +1907,7 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・！？"] },
             { "code": 213, "indent": 0, "parameters": [9, 8, true] },
             {
@@ -1929,10 +1929,10 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・・・・あれ"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1940,7 +1940,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [10, 7, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
             { "code": 401, "indent": 0, "parameters": ["そうなの？"] },
             {
               "code": 401,
@@ -1948,7 +1948,7 @@
               "parameters": ["大丈夫そうには見えなかったけど・・・"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1960,7 +1960,7 @@
               "parameters": ["何か力のようなものを感じるね"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["もしかしたら"] },
             {
               "code": 401,
@@ -1974,7 +1974,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1983,7 +1983,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]が持っていてくれないか？"]
+              "parameters": ["アイルが持っていてくれないか？"]
             },
             {
               "code": 401,
@@ -1999,7 +1999,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
             {
               "code": 401,
               "indent": 0,
@@ -2007,7 +2007,7 @@
             },
             { "code": 401, "indent": 0, "parameters": ["やめたほうがいい"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
             { "code": 401, "indent": 0, "parameters": ["日も傾いて来たから"] },
             { "code": 401, "indent": 0, "parameters": ["もう帰ろう"] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -2091,8 +2091,8 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[5]】"] },
-            { "code": 401, "indent": 0, "parameters": ["ねぇねぇ！\\n[1]！"] },
+            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["ねぇねぇ！アイル！"] },
             {
               "code": 401,
               "indent": 0,
@@ -2137,7 +2137,7 @@
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -2291,8 +2291,8 @@
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1]"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["アイル"] },
             { "code": 401, "indent": 0, "parameters": ["大丈夫かい？"] },
             {
               "code": 205,
@@ -2324,7 +2324,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒い靄が\\n[2]を包み込む"]
+              "parameters": ["黒い靄がライトを包み込む"]
             },
             { "code": 212, "indent": 0, "parameters": [9, 102, true] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
@@ -2349,7 +2349,7 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
             { "code": 401, "indent": 0, "parameters": ["わぁ！"] },
             { "code": 401, "indent": 0, "parameters": ["何よこれ！"] },
             { "code": 213, "indent": 0, "parameters": [9, 8, true] },
@@ -2372,10 +2372,10 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・・・・あれ"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -2383,15 +2383,15 @@
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[5]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
             { "code": 401, "indent": 0, "parameters": ["本当にー？"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まぁ、\\n[2]がそう言うならいいけど"]
+              "parameters": ["まぁ、ライトがそう言うならいいけど"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -2403,7 +2403,7 @@
               "parameters": ["何か力のようなものを感じるね"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["もしかしたら"] },
             {
               "code": 401,
@@ -2417,7 +2417,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -2426,7 +2426,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]が持っていてくれないか？"]
+              "parameters": ["アイルが持っていてくれないか？"]
             },
             {
               "code": 401,
@@ -2442,7 +2442,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[5]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
             {
               "code": 401,
               "indent": 0,
@@ -2450,7 +2450,7 @@
             },
             { "code": 401, "indent": 0, "parameters": ["この調子で行こう！"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[5]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
             {
               "code": 401,
               "indent": 0,
@@ -2541,12 +2541,12 @@
             },
             { "code": 213, "indent": 0, "parameters": [9, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]あそこに何か見えないかい？"]
+              "parameters": ["アイルあそこに何か見えないかい？"]
             },
             {
               "code": 205,
@@ -2571,7 +2571,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[2]が示した方を見ると"]
+              "parameters": ["ライトが示した方を見ると"]
             },
             {
               "code": 401,
@@ -2721,8 +2721,8 @@
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1]"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["アイル"] },
             { "code": 401, "indent": 0, "parameters": ["大丈夫かい？"] },
             {
               "code": 205,
@@ -2754,13 +2754,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒い靄が\\n[2]を包み込む"]
+              "parameters": ["黒い靄がライトを包み込む"]
             },
             { "code": 212, "indent": 0, "parameters": [9, 102, true] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・！？"] },
             { "code": 213, "indent": 0, "parameters": [9, 8, true] },
             {
@@ -2782,10 +2782,10 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・・・・あれ"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -2796,7 +2796,7 @@
             { "code": 401, "indent": 0, "parameters": ["本当に大丈夫なのか"] },
             { "code": 401, "indent": 0, "parameters": ["三度確認をする"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -2813,7 +2813,7 @@
               "parameters": ["何か力のようなものを感じる"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["もしかしたら"] },
             {
               "code": 401,
@@ -2827,7 +2827,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -2836,7 +2836,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]が持っていてくれないか？"]
+              "parameters": ["アイルが持っていてくれないか？"]
             },
             {
               "code": 401,
@@ -2863,7 +2863,7 @@
               "parameters": ["今日は大事を取って村に戻るよう提案する"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -3276,12 +3276,12 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・ん！"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["見て\\n[1]！あそこに何かあるよ！"]
+              "parameters": ["見てアイル！あそこに何かあるよ！"]
             },
             {
               "code": 205,
@@ -3322,7 +3322,7 @@
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -3476,8 +3476,8 @@
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1]"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["アイル"] },
             { "code": 401, "indent": 0, "parameters": ["大丈夫かい？"] },
             {
               "code": 205,
@@ -3509,7 +3509,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒い靄が\\n[2]を包み込む"]
+              "parameters": ["黒い靄がライトを包み込む"]
             },
             { "code": 212, "indent": 0, "parameters": [9, 102, true] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
@@ -3534,8 +3534,8 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\{\\n[2]大丈夫！？"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["\\{ライト大丈夫！？"] },
             { "code": 213, "indent": 0, "parameters": [9, 8, true] },
             {
               "code": 205,
@@ -3556,10 +3556,10 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・・・・あれ"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -3567,7 +3567,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [10, 11, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             { "code": 401, "indent": 0, "parameters": ["ほんとに！？"] },
             { "code": 401, "indent": 0, "parameters": ["ほんとのほんと！？"] },
             {
@@ -3576,7 +3576,7 @@
               "parameters": ["・・・・・・はぁ、よかったぁ"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -3588,7 +3588,7 @@
               "parameters": ["何か力のようなものを感じるね"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["もしかしたら"] },
             {
               "code": 401,
@@ -3602,7 +3602,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -3611,7 +3611,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]が持っていてくれないか？"]
+              "parameters": ["アイルが持っていてくれないか？"]
             },
             {
               "code": 401,
@@ -3627,7 +3627,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             { "code": 401, "indent": 0, "parameters": ["何はともあれ"] },
             {
               "code": 401,
@@ -3635,7 +3635,7 @@
               "parameters": ["これで少しは前進って感じかな？"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             {
               "code": 401,
               "indent": 0,
@@ -3727,7 +3727,7 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・あそこ"] },
             { "code": 401, "indent": 0, "parameters": ["何かある"] },
             {
@@ -3769,7 +3769,7 @@
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -3923,8 +3923,8 @@
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1]"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["アイル"] },
             { "code": 401, "indent": 0, "parameters": ["大丈夫かい？"] },
             {
               "code": 205,
@@ -3956,7 +3956,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒い靄が\\n[2]を包み込む"]
+              "parameters": ["黒い靄がライトを包み込む"]
             },
             { "code": 212, "indent": 0, "parameters": [9, 102, true] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
@@ -3981,7 +3981,7 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・！？"] },
             { "code": 213, "indent": 0, "parameters": [9, 8, true] },
             {
@@ -4003,10 +4003,10 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・・・・あれ"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -4014,7 +4014,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [10, 7, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
             { "code": 401, "indent": 0, "parameters": ["そうなの？"] },
             {
               "code": 401,
@@ -4022,7 +4022,7 @@
               "parameters": ["大丈夫そうには見えなかったけど・・・"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -4034,7 +4034,7 @@
               "parameters": ["何か力のようなものを感じるね"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["もしかしたら"] },
             {
               "code": 401,
@@ -4048,7 +4048,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -4057,7 +4057,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]が持っていてくれないか？"]
+              "parameters": ["アイルが持っていてくれないか？"]
             },
             {
               "code": 401,
@@ -4073,7 +4073,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
             {
               "code": 401,
               "indent": 0,
@@ -4081,7 +4081,7 @@
             },
             { "code": 401, "indent": 0, "parameters": ["やめたほうがいい"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
             { "code": 401, "indent": 0, "parameters": ["日も傾いて来たから"] },
             { "code": 401, "indent": 0, "parameters": ["もう帰ろう"] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -4165,8 +4165,8 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[5]】"] },
-            { "code": 401, "indent": 0, "parameters": ["ねぇねぇ！\\n[1]！"] },
+            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["ねぇねぇ！アイル！"] },
             {
               "code": 401,
               "indent": 0,
@@ -4211,7 +4211,7 @@
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -4365,8 +4365,8 @@
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1]"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["アイル"] },
             { "code": 401, "indent": 0, "parameters": ["大丈夫かい？"] },
             {
               "code": 205,
@@ -4398,7 +4398,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒い靄が\\n[2]を包み込む"]
+              "parameters": ["黒い靄がライトを包み込む"]
             },
             { "code": 212, "indent": 0, "parameters": [9, 102, true] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
@@ -4423,7 +4423,7 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
             { "code": 401, "indent": 0, "parameters": ["わぁ！"] },
             { "code": 401, "indent": 0, "parameters": ["何よこれ！"] },
             { "code": 213, "indent": 0, "parameters": [9, 8, true] },
@@ -4446,10 +4446,10 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・・・・あれ"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -4457,15 +4457,15 @@
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[5]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
             { "code": 401, "indent": 0, "parameters": ["本当にー？"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まぁ、\\n[2]がそう言うならいいけど"]
+              "parameters": ["まぁ、ライトがそう言うならいいけど"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -4477,7 +4477,7 @@
               "parameters": ["何か力のようなものを感じるね"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["もしかしたら"] },
             {
               "code": 401,
@@ -4491,7 +4491,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -4500,7 +4500,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]が持っていてくれないか？"]
+              "parameters": ["アイルが持っていてくれないか？"]
             },
             {
               "code": 401,
@@ -4516,7 +4516,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[5]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
             {
               "code": 401,
               "indent": 0,
@@ -4524,7 +4524,7 @@
             },
             { "code": 401, "indent": 0, "parameters": ["この調子で行こう！"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[5]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
             {
               "code": 401,
               "indent": 0,
@@ -4615,12 +4615,12 @@
             },
             { "code": 213, "indent": 0, "parameters": [9, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]あそこに何か見えないかい？"]
+              "parameters": ["アイルあそこに何か見えないかい？"]
             },
             {
               "code": 205,
@@ -4645,7 +4645,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[2]が示した方を見ると"]
+              "parameters": ["ライトが示した方を見ると"]
             },
             {
               "code": 401,
@@ -4795,8 +4795,8 @@
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1]"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["アイル"] },
             { "code": 401, "indent": 0, "parameters": ["大丈夫かい？"] },
             {
               "code": 205,
@@ -4828,13 +4828,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒い靄が\\n[2]を包み込む"]
+              "parameters": ["黒い靄がライトを包み込む"]
             },
             { "code": 212, "indent": 0, "parameters": [9, 102, true] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・！？"] },
             { "code": 213, "indent": 0, "parameters": [9, 8, true] },
             {
@@ -4856,10 +4856,10 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・・・・あれ"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -4870,7 +4870,7 @@
             { "code": 401, "indent": 0, "parameters": ["本当に大丈夫なのか"] },
             { "code": 401, "indent": 0, "parameters": ["三度確認をする"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -4887,7 +4887,7 @@
               "parameters": ["何か力のようなものを感じる"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["もしかしたら"] },
             {
               "code": 401,
@@ -4901,7 +4901,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -4910,7 +4910,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]が持っていてくれないか？"]
+              "parameters": ["アイルが持っていてくれないか？"]
             },
             {
               "code": 401,
@@ -4937,7 +4937,7 @@
               "parameters": ["今日は大事を取って村に戻るよう提案する"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,

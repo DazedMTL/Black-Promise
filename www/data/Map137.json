@@ -220,7 +220,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[3]の匂いがする"] },
+            { "code": 401, "indent": 0, "parameters": ["リラの匂いがする"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -459,7 +459,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             { "code": 401, "indent": 0, "parameters": ["どうしたの？"] },
             {
               "code": 401,
@@ -467,7 +467,7 @@
               "parameters": ["私の部屋に用事でもあるの？"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             {
               "code": 401,
               "indent": 0,
@@ -755,16 +755,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL「今日確か誕生日だったよね\\n[3]"]
+              "parameters": ["\\CL「今日確か誕生日だったよねリラ"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これ俺と\\n[2]からだからよかったら貰ってくれよ」"]
+              "parameters": ["これ俺とライトからだからよかったら貰ってくれよ」"]
             },
             { "code": 213, "indent": 0, "parameters": [4, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             {
               "code": 401,
               "indent": 0,
@@ -830,7 +830,7 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
@@ -913,7 +913,7 @@
             },
             { "code": 213, "indent": 1, "parameters": [4, 4, false] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
             {
               "code": 401,
               "indent": 1,
@@ -963,7 +963,7 @@
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 213, "indent": 1, "parameters": [4, 11, false] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
             {
               "code": 401,
               "indent": 1,
@@ -978,7 +978,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n[2]に惹かれていたんだと思う"]
+              "parameters": ["ライトに惹かれていたんだと思う"]
             },
             { "code": 242, "indent": 1, "parameters": [5] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
@@ -990,7 +990,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n[2]のために自分は何が出来るだろう"]
+              "parameters": ["ライトのために自分は何が出来るだろう"]
             },
             {
               "code": 401,

@@ -721,7 +721,7 @@
           "list": [
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
             { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
@@ -759,7 +759,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["戦闘後\\n[4]を探したが見つけられなかった"]
+              "parameters": ["戦闘後マーガレットを探したが見つけられなかった"]
             },
             {
               "code": 401,
@@ -810,7 +810,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["戦闘後\\n[4]を探したが見つけられなかった"]
+              "parameters": ["戦闘後マーガレットを探したが見つけられなかった"]
             },
             { "code": 201, "indent": 1, "parameters": [0, 4, 19, 2, 2, 0] },
             { "code": 211, "indent": 1, "parameters": [1] },
@@ -994,7 +994,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["戦闘後\\n[4]を探したが見つけられなかった"]
+              "parameters": ["戦闘後マーガレットを探したが見つけられなかった"]
             },
             { "code": 121, "indent": 1, "parameters": [318, 318, 0] },
             { "code": 211, "indent": 1, "parameters": [1] },

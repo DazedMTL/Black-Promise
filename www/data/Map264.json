@@ -580,11 +580,11 @@
               "parameters": [1, "hiro1 ni", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]来てくれたんだ"]
+              "parameters": ["アイル来てくれたんだ"]
             },
             {
               "code": 401,
@@ -592,7 +592,7 @@
               "parameters": ["えへへ、何だか久しぶりだね"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             {
               "code": 401,
               "indent": 0,
@@ -609,7 +609,7 @@
               "parameters": ["嬉しいけどちょっとだけ大変"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             { "code": 401, "indent": 0, "parameters": ["出産するときは"] },
             {
               "code": 401,
@@ -618,7 +618,7 @@
             },
             { "code": 401, "indent": 0, "parameters": ["その時はよろしくね"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             { "code": 401, "indent": 0, "parameters": ["そうだ！折角だから"] },
             {
               "code": 401,
@@ -638,7 +638,7 @@
               "parameters": ["お言葉に甘え今日は泊っていく事にする"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             { "code": 401, "indent": 0, "parameters": ["うんうん！"] },
             { "code": 401, "indent": 0, "parameters": ["それがいいよ！"] },
             {
@@ -843,7 +843,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[3]さんに会いに来た？"]
+              "parameters": ["リラさんに会いに来た？"]
             },
             {
               "code": 401,
@@ -1119,8 +1119,8 @@
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1]かよく来たな"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[3]も喜ぶ"] },
+            { "code": 401, "indent": 0, "parameters": ["アイルかよく来たな"] },
+            { "code": 401, "indent": 0, "parameters": ["リラも喜ぶ"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1892,7 +1892,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[3]ちゃんかわいいよね"]
+              "parameters": ["リラちゃんかわいいよね"]
             },
             {
               "code": 401,

@@ -170,7 +170,7 @@
               "parameters": ["当たり障りのない服が並んでいる"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["こらこら"] },
             {
               "code": 401,
@@ -178,11 +178,11 @@
               "parameters": ["俺がいる前で堂々と開けないでくれよ"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["別に\\n[1]に見られて"]
+              "parameters": ["別にアイルに見られて"]
             },
             {
               "code": 401,
@@ -295,7 +295,7 @@
               "parameters": ["机の上に綺麗な花が飾られている"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["月並みだけど"] },
             {
               "code": 401,
@@ -407,11 +407,11 @@
               "parameters": [5, "sin", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
-            { "code": 401, "indent": 0, "parameters": ["こんばんは\\n[1]"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["こんばんはアイル"] },
             { "code": 401, "indent": 0, "parameters": ["いい夜だね"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["どうかしたのかい？"] },
             {
               "code": 102,
@@ -430,14 +430,14 @@
               "parameters": [0, "何か相談したいことある？"]
             },
             { "code": 101, "indent": 1, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["・・・\\n[1]に隠し事は出来ないね"]
+              "parameters": ["・・・アイルに隠し事は出来ないね"]
             },
             { "code": 101, "indent": 1, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 1, "parameters": ["・・・ごめん"] },
             {
               "code": 401,
@@ -448,16 +448,16 @@
             { "code": 401, "indent": 1, "parameters": ["言いたくなったらで"] },
             { "code": 401, "indent": 1, "parameters": ["構わないと伝える"] },
             { "code": 101, "indent": 1, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[2]】"] },
-            { "code": 401, "indent": 1, "parameters": ["ありがとう\\n[1]"] },
+            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 1, "parameters": ["ありがとうアイル"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "腕を触る"] },
             { "code": 101, "indent": 1, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ちょっと\\n[1]・・・"]
+              "parameters": ["ちょっとアイル・・・"]
             },
             {
               "code": 401,
@@ -465,7 +465,7 @@
               "parameters": ["いきなりどうしたのさ！"]
             },
             { "code": 101, "indent": 1, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 1,
@@ -476,17 +476,17 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["しばらく\\n[2]の腕を堪能した"]
+              "parameters": ["しばらくライトの腕を堪能した"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "なんでもない"] },
             { "code": 101, "indent": 1, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 1, "parameters": ["そうかい？"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n[1]ならいつでも歓迎だよ"]
+              "parameters": ["アイルならいつでも歓迎だよ"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -535,7 +535,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             { "code": 401, "indent": 0, "parameters": ["あまり遅くなると"] },
             {
               "code": 401,

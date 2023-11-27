@@ -521,10 +521,10 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[4]も頑張ってるみたいだな"]
+              "parameters": ["マーガレットも頑張ってるみたいだな"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
             {
               "code": 401,
               "indent": 0,
@@ -556,7 +556,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]君も娘を頼んだよ"]
+              "parameters": ["アイル君も娘を頼んだよ"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             { "code": 401, "indent": 0, "parameters": ["任せて下さいと"] },
@@ -1070,7 +1070,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL「おーい！\\n[4]一緒に遊ぼうぜ！"]
+              "parameters": ["\\CL「おーい！マーガレット一緒に遊ぼうぜ！"]
             },
             {
               "code": 401,
@@ -1100,9 +1100,9 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["\\n[1]だった", "\\n[2]だった"], 1, 0, 2, 0]
+              "parameters": [["アイルだった", "ライトだった"], 1, 0, 2, 0]
             },
-            { "code": 402, "indent": 0, "parameters": [0, "\\n[1]だった"] },
+            { "code": 402, "indent": 0, "parameters": [0, "アイルだった"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 1, "parameters": [39] },
             { "code": 121, "indent": 1, "parameters": [625, 625, 0] },
@@ -1130,7 +1130,7 @@
               "parameters": ["いつでも待ってるからさ」"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
             {
               "code": 401,
               "indent": 1,
@@ -1169,17 +1169,17 @@
             { "code": 201, "indent": 1, "parameters": [0, 126, 17, 23, 2, 0] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "\\n[2]だった"] },
+            { "code": 402, "indent": 0, "parameters": [1, "ライトだった"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 117, "indent": 1, "parameters": [40] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 213, "indent": 1, "parameters": [12, 8, false] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n[1]・・・彼女が戸惑っているよ"]
+              "parameters": ["アイル・・・彼女が戸惑っているよ"]
             },
             {
               "code": 401,
@@ -1188,7 +1188,7 @@
             },
             { "code": 213, "indent": 1, "parameters": [7, 8, false] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
             { "code": 401, "indent": 1, "parameters": ["・・・・・・"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
@@ -1199,7 +1199,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n[2]の言葉は一見冷たいようで"]
+              "parameters": ["ライトの言葉は一見冷たいようで"]
             },
             {
               "code": 401,
@@ -1233,12 +1233,12 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CLいつか\\n[1]にしてもらったように"]
+              "parameters": ["\\CLいつかアイルにしてもらったように"]
             },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n[2]に何かが合った時は私が助けてあげようと"]
+              "parameters": ["ライトに何かが合った時は私が助けてあげようと"]
             },
             {
               "code": 401,

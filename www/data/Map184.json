@@ -1277,8 +1277,8 @@
           "list": [
             { "code": 111, "indent": 0, "parameters": [0, 288, 0] },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【\\n[5]】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・\\n[1]"] },
+            { "code": 401, "indent": 1, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 1, "parameters": ["・・・アイル"] },
             {
               "code": 401,
               "indent": 1,
@@ -1287,14 +1287,14 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\n[1]なら・・・ううん、なんでもない・・・・"]
+              "parameters": ["アイルなら・・・ううん、なんでもない・・・・"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 111, "indent": 1, "parameters": [0, 320, 0] },
             { "code": 101, "indent": 2, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【\\n[5]】"] },
-            { "code": 401, "indent": 2, "parameters": ["・・・\\n[1]"] },
+            { "code": 401, "indent": 2, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 2, "parameters": ["・・・アイル"] },
             {
               "code": 401,
               "indent": 2,
@@ -1303,13 +1303,13 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\n[1]なら・・・ううん、なんでもない・・・・"]
+              "parameters": ["アイルなら・・・ううん、なんでもない・・・・"]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 2, "parameters": ["hiroin3", 4, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【\\n[5]】"] },
-            { "code": 401, "indent": 2, "parameters": ["おはよう\\n[1]！"] },
+            { "code": 401, "indent": 2, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 2, "parameters": ["おはようアイル！"] },
             {
               "code": 401,
               "indent": 2,
@@ -1362,7 +1362,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[5]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1421,7 +1421,7 @@
               "parameters": [1, "hiro3 ni", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[5]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1433,7 +1433,7 @@
               "parameters": ["あたしが一番驚いているけれど"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[5]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1965,7 +1965,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何かあったら\\n[1]さんに"]
+              "parameters": ["何かあったらアイルさんに"]
             },
             {
               "code": 401,
@@ -2182,7 +2182,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["子供の頃\\n[2]と"] },
+            { "code": 401, "indent": 0, "parameters": ["子供の頃ライトと"] },
             {
               "code": 401,
               "indent": 0,
@@ -2307,7 +2307,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]！一緒に遊ぼうぜ！"]
+              "parameters": ["アイル！一緒に遊ぼうぜ！"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2516,7 +2516,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]たちを見ていたら自分も頑張ろうって"]
+              "parameters": ["アイルたちを見ていたら自分も頑張ろうって"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2569,7 +2569,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[4]ちゃん家に籠っているけれど元気かな？"]
+              "parameters": ["マーガレットちゃん家に籠っているけれど元気かな？"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3284,7 +3284,7 @@
               "code": 102,
               "indent": 1,
               "parameters": [
-                ["おくすけに会いに行く", "\\n[3]を探しに行く"],
+                ["おくすけに会いに行く", "リラを探しに行く"],
                 1,
                 0,
                 2,
@@ -3322,7 +3322,7 @@
             {
               "code": 402,
               "indent": 1,
-              "parameters": [1, "\\n[3]を探しに行く"]
+              "parameters": [1, "リラを探しに行く"]
             },
             { "code": 111, "indent": 2, "parameters": [0, 288, 0] },
             { "code": 111, "indent": 3, "parameters": [0, 665, 0] },
@@ -3804,7 +3804,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[2]の呪い騒動の時はごたごたしていたが"]
+              "parameters": ["ライトの呪い騒動の時はごたごたしていたが"]
             },
             {
               "code": 401,
@@ -3862,7 +3862,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ったく・・・\\n[2]の野郎"]
+              "parameters": ["ったく・・・ライトの野郎"]
             },
             {
               "code": 401,
@@ -3988,7 +3988,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前\\n[3]と付き合ってるんだろ？"]
+              "parameters": ["お前リラと付き合ってるんだろ？"]
             },
             {
               "code": 401,
@@ -4046,7 +4046,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前って\\n[3]と付き合ってるんだよな？"]
+              "parameters": ["お前ってリラと付き合ってるんだよな？"]
             },
             {
               "code": 401,
@@ -4104,7 +4104,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[2]と\\n[3]が付き合うとはなぁ"]
+              "parameters": ["ライトとリラが付き合うとはなぁ"]
             },
             {
               "code": 401,
@@ -4162,7 +4162,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["なんか\\n[3]の野郎変わっちまったな"]
+              "parameters": ["なんかリラの野郎変わっちまったな"]
             },
             {
               "code": 401,
@@ -4220,7 +4220,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[3]の奴魔物と付き合ってるんだろ？"]
+              "parameters": ["リラの奴魔物と付き合ってるんだろ？"]
             },
             {
               "code": 401,

@@ -651,12 +651,12 @@
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 251, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             { "code": 401, "indent": 0, "parameters": [""] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\{\\{\\n[1]大変だよ！！"]
+              "parameters": ["\\{\\{アイル大変だよ！！"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             {
@@ -796,11 +796,11 @@
               "parameters": [1, "hiro1", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[2]が倒れちゃったみたいで"]
+              "parameters": ["ライトが倒れちゃったみたいで"]
             },
             {
               "code": 401,
@@ -808,8 +808,8 @@
               "parameters": ["今は村長さんの家にいるの！"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1]も早く来て！"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["アイルも早く来て！"] },
             {
               "code": 401,
               "indent": 0,
@@ -926,9 +926,9 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             { "code": 401, "indent": 0, "parameters": ["おはよー！"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1]っ！"] },
+            { "code": 401, "indent": 0, "parameters": ["アイルっ！"] },
             { "code": 121, "indent": 0, "parameters": [37, 37, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             {
@@ -937,7 +937,7 @@
               "parameters": [1, "hiro1", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             {
               "code": 401,
               "indent": 0,
@@ -949,7 +949,7 @@
               "parameters": ["今日も張り切って探索に行こう！"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             {
               "code": 401,
               "indent": 0,
@@ -958,7 +958,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まずは\\n[2]の様子を見に行こっか？"]
+              "parameters": ["まずはライトの様子を見に行こっか？"]
             },
             {
               "code": 401,
@@ -966,7 +966,7 @@
               "parameters": ["きっとまだ村長の家にいるよね"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1247,17 +1247,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["現在の設定は「\\c[2]\\n[7]\\c[0]」です"]
+              "parameters": ["現在の設定は「\\c[2]おちんちん\\c[0]」です"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["違うのにするよ！", "俺\\n[7]派だ"], 1, 0, 2, 1]
+              "parameters": [["違うのにするよ！", "俺おちんちん派だ"], 1, 0, 2, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "違うのにするよ！"] },
             { "code": 303, "indent": 1, "parameters": [7, 10] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "俺\\n[7]派だ"] },
+            { "code": 402, "indent": 0, "parameters": [1, "俺おちんちん派だ"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1326,14 +1326,14 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
-            { "code": 401, "indent": 0, "parameters": ["おはよう\\n[1]"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["おはようアイル"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["さっき家の前で\\n[3]と会った"]
+              "parameters": ["さっき家の前でリラと会った"]
             },
             {
               "code": 401,
@@ -1341,11 +1341,11 @@
               "parameters": ["なんだか村長の家であったみたい"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1]にも声かけてって"]
+              "parameters": ["アイルにも声かけてって"]
             },
             { "code": 401, "indent": 0, "parameters": ["・・・私たちも行こ"] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1471,7 +1471,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["取りあえず\\n[2]の様子を見に行こう"]
+              "parameters": ["取りあえずライトの様子を見に行こう"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 42, 11, 6, 8, 0] },
@@ -1651,8 +1651,8 @@
               "indent": 0,
               "parameters": [
                 [
-                  "俺の\\n[7]は大きいんだよなぁ（小さい",
-                  "\\n[7]の大きさはこんなもんだろ(極小"
+                  "俺のおちんちんは大きいんだよなぁ（小さい",
+                  "おちんちんの大きさはこんなもんだろ(極小"
                 ],
                 1,
                 0,
@@ -1663,14 +1663,14 @@
             {
               "code": 402,
               "indent": 0,
-              "parameters": [0, "俺の\\n[7]は大きいんだよなぁ（小さい"]
+              "parameters": [0, "俺のおちんちんは大きいんだよなぁ（小さい"]
             },
             { "code": 121, "indent": 1, "parameters": [379, 379, 1] },
             { "code": 0, "indent": 1, "parameters": [] },
             {
               "code": 402,
               "indent": 0,
-              "parameters": [1, "\\n[7]の大きさはこんなもんだろ(極小"]
+              "parameters": [1, "おちんちんの大きさはこんなもんだろ(極小"]
             },
             { "code": 121, "indent": 1, "parameters": [379, 379, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
