@@ -1,0 +1,1182 @@
+{
+  "autoplayBgm": true,
+  "autoplayBgs": true,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "ライトの部屋",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 10,
+  "note": "",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 3,
+  "width": 15,
+  "data": [
+    1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560,
+    1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560,
+    1560, 1560, 1560, 1560, 1560, 1560, 1560, 3234, 3220, 3220, 3220, 3220,
+    3220, 3236, 1560, 3234, 3220, 3220, 3220, 3236, 1560, 1560, 3216, 3200,
+    3200, 3200, 3200, 3200, 3224, 1560, 3216, 3200, 3200, 3200, 3224, 1560,
+    1560, 3216, 3200, 3200, 3200, 3200, 3200, 3224, 1560, 3216, 3200, 3200,
+    3200, 3224, 1560, 1560, 3240, 3228, 3228, 3228, 3228, 3212, 3238, 1560,
+    3240, 3228, 3228, 3212, 3238, 1560, 1560, 1560, 1560, 1560, 1560, 1560,
+    3232, 1560, 1560, 1560, 1560, 1560, 3232, 1560, 1560, 1560, 3234, 3220,
+    3220, 3220, 3220, 3203, 3220, 3220, 3220, 3220, 3220, 3203, 3236, 1560,
+    1560, 3240, 3228, 3228, 3228, 3228, 3228, 3228, 3228, 3228, 3228, 3228,
+    3228, 3238, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560,
+    1560, 1560, 1560, 1560, 1560, 1560, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 250, 250, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    235, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0,
+    0, 0, 228, 0, 0, 50, 0, 0, 0, 26, 54, 55, 0, 0, 0, 0, 0, 236, 0, 0, 58, 80,
+    0, 0, 0, 62, 63, 0, 0, 0, 0, 0, 0, 0, 0, 0, 88, 0, 0, 108, 0, 0, 228, 0,
+    242, 242, 0, 202, 0, 0, 0, 0, 0, 0, 0, 0, 0, 236, 0, 226, 227, 0, 201, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 234, 228, 0, 201, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 224, 224, 0, 0, 0, 0, 224, 0, 0, 11,
+    0, 0, 0, 224, 0, 0, 0, 0, 224, 224, 0, 224, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "EV001",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Move1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 201, "indent": 0, "parameters": [0, 13, 2, 8, 6, 0] },
+            {
+              "code": 223,
+              "indent": 0,
+              "parameters": [[-68, -68, 0, 68], 1, true]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 1,
+      "y": 8
+    },
+    {
+      "id": 2,
+      "name": "ライト",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "sinnyuu",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 2,
+      "y": 3
+    },
+    {
+      "id": 3,
+      "name": "イベント",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 223,
+              "indent": 0,
+              "parameters": [[-255, -255, -255, 0], 1, false]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                1,
+                "sin heya kurayami",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                2,
+                "sin heya kurayami 2",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            { "code": 211, "indent": 0, "parameters": [0] },
+            { "code": 356, "indent": 0, "parameters": ["HALF_MOVE_ENABLE"] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                2,
+                {
+                  "list": [
+                    { "code": 37, "indent": null },
+                    { "code": 3, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 37, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 3, "indent": null }]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                5,
+                {
+                  "list": [{ "code": 17, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 17, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[2]は隠しているようだったけど"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["やっぱり今日も辛そうだった"]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Move5", "volume": 60, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["しっかりと話して"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["探索に行かないように説得しよう"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["たしかに\\n[2]がいなくちゃ"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["どうしても\\n[1]に負担がかかってしまう"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["だけどみんなで協力すれば大丈夫なはず"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[2]が苦しむ必要なんてない"]
+            },
+            {
+              "code": 223,
+              "indent": 0,
+              "parameters": [[0, 0, 0, 0], 1, false]
+            },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["よかった・・・起きててくれて"]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                4,
+                {
+                  "list": [
+                    { "code": 3, "indent": null },
+                    { "code": 3, "indent": null },
+                    { "code": 3, "indent": null },
+                    { "code": 3, "indent": null },
+                    { "code": 19, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 3, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 3, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 3, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 3, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["はぁ・・・はぁ・・・"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["・・・\\n[2]？"] },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [2, 0, 0, 0, 0, 0, 100, 100, 0, 0, 150, true]
+            },
+            {
+              "code": 241,
+              "indent": 0,
+              "parameters": [
+                { "name": "Scene7", "volume": 70, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "擦_濡01低速(loop)",
+                  "volume": 30,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 213, "indent": 0, "parameters": [4, 8, true] },
+            { "code": 213, "indent": 0, "parameters": [4, 1, true] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["・・・・・・・・・"] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [3, "sin 1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "擦_濡01低速(loop)",
+                  "volume": 20,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["部屋の中では\\n[2]が自慰をしていた"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            { "code": 401, "indent": 0, "parameters": ["くっ・・・ん・・・"] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["男の人の自慰なんて初めて見たから"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["少し面食らってしまう"]
+            },
+            { "code": 213, "indent": 0, "parameters": [4, 8, true] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["・・・だけど"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["不思議と目が逸らせなかった"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[2]はきっとこんなところ"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["誰にも見られたくないのだろう"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["こんなに弱々しくて"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["情けない姿なんて・・・・・・"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["はぁっ・・・はぁっ・・・"]
+            },
+            { "code": 213, "indent": 0, "parameters": [4, 8, true] },
+            { "code": 235, "indent": 0, "parameters": [3] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [4, "sin 2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["それは異常な光景だった"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["だけど、だからこそわかってしまった"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[2]は何か隠し事をしているんだって"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["それは私たちには勿論"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["もしかしたら\\n[1]にだって"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["言えないことなのかも知れない"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["・・・それによって"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["周りに迷惑がかかるだとか"]
+            },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "擦_濡03高速(loop)",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["くっ、はっ、はっ・・・"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[2]はその間も狂ったように"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["自慰をしている"] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["一体何がここまでさせるのだろう"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["きっと普通じゃあり得ないこと・・・"]
+            },
+            { "code": 246, "indent": 0, "parameters": [3] },
+            { "code": 235, "indent": 0, "parameters": [4] },
+            { "code": 117, "indent": 0, "parameters": [4] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [5, "sin 3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 121, "indent": 0, "parameters": [202, 202, 0] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                8,
+                {
+                  "list": [
+                    { "code": 39, "indent": null },
+                    { "code": 37, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 2, "indent": null },
+                    { "code": 40, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 39, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 37, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 2, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 40, "indent": null }]
+            },
+            { "code": 213, "indent": 0, "parameters": [4, 1, false] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[2]はついに達した"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[7]からは精液が溢れ出している"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[7]を扱いていた手はベトベトで"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["受け止められなかった精液が床に広がっている"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["はぁっ・・・はぁ・・・"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["だけど\\n[2]は依然辛い顔をしたままだ"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["・・・・・・そして"] },
+            { "code": 213, "indent": 0, "parameters": [4, 8, false] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["べとべとになった手を使い"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["そのまま自慰を再開する"]
+            },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "擦_濡02中速(loop)",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["あまりにも異常な光景"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["日常ではありえない現象"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["・・・もしかしたら呪いとか"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["探索に同行するのは"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["この現象が関係しているのかも"]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 246, "indent": 0, "parameters": [6] },
+            { "code": 242, "indent": 0, "parameters": [6] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["私はそっと踵を返す"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["・・・思っていたよりも深刻なのかも知れない"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[2]とは改めて話す必要がある"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["一人で苦しむだなんて私は許さない"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 117, "indent": 0, "parameters": [3] },
+            { "code": 121, "indent": 0, "parameters": [202, 202, 1] },
+            { "code": 211, "indent": 0, "parameters": [1] },
+            { "code": 201, "indent": 0, "parameters": [0, 47, 7, 10, 2, 0] },
+            { "code": 356, "indent": 0, "parameters": ["HALF_MOVE_DISABLE"] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        }
+      ],
+      "x": 2,
+      "y": 6
+    },
+    {
+      "id": 4,
+      "name": "ヒロイン",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "hiro1",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 4,
+      "y": 7
+    },
+    {
+      "id": 5,
+      "name": "ライトの部屋の扉",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Door1",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              { "code": 31, "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": false,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 4,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 6,
+      "y": 6
+    },
+    {
+      "id": 6,
+      "name": "自宅",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Door1",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Key", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["鍵が掛けられているようだ"]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              { "code": 31, "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": false,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 4,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 12,
+      "y": 6
+    },
+    {
+      "id": 7,
+      "name": "wada",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 3,
+      "y": 0
+    },
+    {
+      "id": 8,
+      "name": "精液",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 202,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 756,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 4,
+      "y": 3
+    },
+    {
+      "id": 9,
+      "name": "dadwawa",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 8,
+      "y": 3
+    },
+    {
+      "id": 10,
+      "name": "",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 14,
+      "y": 1
+    }
+  ]
+}

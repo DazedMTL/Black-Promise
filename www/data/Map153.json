@@ -1,0 +1,936 @@
+{
+  "autoplayBgm": false,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "民家２Ｆ",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 10,
+  "note": "",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 3,
+  "width": 15,
+  "data": [
+    1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560,
+    1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560,
+    1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560,
+    1560, 1560, 1560, 1560, 3234, 3220, 3220, 3236, 1560, 1560, 1560, 1560,
+    1560, 1560, 1560, 1560, 1560, 1560, 1560, 3216, 3200, 3200, 3224, 1560,
+    1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 3216, 3200,
+    3200, 3224, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560,
+    1560, 3216, 3200, 3200, 3224, 1560, 1560, 1560, 1560, 1560, 1560, 1560,
+    1560, 1560, 1560, 1560, 3216, 3200, 3200, 3224, 1560, 1560, 1560, 1560,
+    1560, 1560, 1560, 1560, 1560, 1560, 3243, 3209, 3200, 3200, 3224, 1560,
+    1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 3240, 3228,
+    3228, 3238, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560, 1560,
+    1560, 1560, 1560, 1560, 1560, 1560, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 53, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 201, 201, 0, 61, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 201, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "自宅",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 519,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Door1",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["薄い扉から"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["微かに音が漏れてくる"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["パンッパンッパンッ"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["・・・はっ\\i[249]あっ\\i[249]あっ\\i[249]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["はっはっはっ"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ねっ\\i[249]もうっ\\i[249]"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["朝だよっ\\i[249]ねぇってば\\i[249]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["もう少し・・・もう少しだけっ"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["もう\\i[249]そればっかりっ\\i[249]"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["今回だけだから・・・\\i[249]"]
+            },
+            { "code": 117, "indent": 0, "parameters": [5] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["パンッパンッパンッ"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              { "code": 31, "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": false,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 4,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Door1",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["はっはっはっ"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["んっ\\i[249]あっ\\i[249]気持ちい\\i[249]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["パンッパンッパンッ"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              { "code": 31, "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": false,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 4,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 9,
+      "y": 7
+    },
+    {
+      "id": 2,
+      "name": "EV002",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 112, "indent": 0, "parameters": [] },
+            { "code": 213, "indent": 1, "parameters": [0, 4, true] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 413, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": true
+        }
+      ],
+      "x": 4,
+      "y": 5
+    },
+    {
+      "id": 3,
+      "name": "EV003",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Move1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 246, "indent": 0, "parameters": [1] },
+            { "code": 201, "indent": 0, "parameters": [0, 37, 13, 7, 4, 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 13,
+      "y": 8
+    },
+    {
+      "id": 4,
+      "name": "rere",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 4,
+      "y": 0
+    },
+    {
+      "id": 5,
+      "name": "EV005",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 513,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "01あえぎ(小さめ息多め）",
+                  "volume": 70,
+                  "pitch": 120,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 241,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "パンパン_濡a01低速(loop)",
+                  "volume": 30,
+                  "pitch": 120,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [100] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 519,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "13あえぎ(リズミカルに）",
+                  "volume": 70,
+                  "pitch": 120,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 241,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "パンパン_濡a01低速(loop)",
+                  "volume": 30,
+                  "pitch": 120,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [100] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": true
+        }
+      ],
+      "x": 7,
+      "y": 3
+    },
+    {
+      "id": 6,
+      "name": "fesfse",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 14,
+      "y": 1
+    },
+    {
+      "id": 7,
+      "name": "EV007",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 513,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "ベッド軋(loop)b01低速",
+                  "volume": 50,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [400] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 519,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "ベッド軋(loop)c02中速",
+                  "volume": 30,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 0, "parameters": [400] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": false
+        }
+      ],
+      "x": 8,
+      "y": 4
+    },
+    {
+      "id": 8,
+      "name": "EV008",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 519,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 971,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 12,
+      "y": 1
+    },
+    {
+      "id": 9,
+      "name": "EV009",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 519,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 979,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["白い何かが広がっている"]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 12,
+      "y": 2
+    },
+    {
+      "id": 10,
+      "name": "EV010",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 519,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 986,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["白い何かが広がっている"]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 11,
+      "y": 6
+    },
+    {
+      "id": 11,
+      "name": "EV011",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 519,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 1015,
+            "characterName": "",
+            "characterIndex": 0,
+            "direction": 2,
+            "pattern": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["白い何かが広がっている"]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 12,
+      "y": 8
+    }
+  ]
+}

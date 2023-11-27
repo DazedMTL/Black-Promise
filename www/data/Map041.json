@@ -1,0 +1,2900 @@
+{
+  "autoplayBgm": true,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": {
+    "name": "MV_Add_M004_Village",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 65
+  },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "村長の家",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 13,
+  "note": "",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 3,
+  "width": 20,
+  "data": [
+    7955, 7955, 7954, 7954, 7954, 7954, 7954, 7954, 7954, 7954, 7954, 7954,
+    7954, 7955, 7954, 7954, 7954, 7954, 7958, 7958, 7953, 7961, 7960, 7960,
+    7960, 7960, 7960, 7960, 7960, 7960, 7960, 7964, 7952, 7961, 7960, 7960,
+    7960, 7960, 7964, 7956, 7957, 3234, 3220, 3220, 3220, 3220, 3220, 3220,
+    3220, 3220, 3220, 3236, 7957, 3234, 3220, 3220, 3220, 3220, 3236, 7957,
+    7957, 3216, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3224,
+    7957, 3216, 3200, 3200, 3200, 3200, 3224, 7957, 7957, 3216, 3200, 3200,
+    3200, 3200, 3200, 3200, 3200, 3200, 3200, 3224, 7957, 3216, 3200, 3200,
+    3200, 3200, 3224, 7957, 7957, 3216, 3200, 3200, 3200, 3200, 3200, 3200,
+    3200, 3200, 3200, 3224, 7957, 3216, 3200, 3200, 3200, 3200, 3224, 7957,
+    7957, 3216, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3224,
+    7957, 3216, 3200, 3200, 3200, 3200, 3224, 7957, 7957, 3240, 3228, 3228,
+    3228, 3212, 3228, 3228, 3228, 3228, 3228, 3238, 7957, 3240, 3212, 3228,
+    3228, 3228, 3238, 7957, 7953, 7962, 7962, 7962, 7966, 3232, 7963, 7962,
+    7962, 7962, 7962, 7966, 7960, 7967, 3232, 7963, 7962, 7962, 7962, 7956,
+    7957, 3234, 3220, 3220, 3220, 3203, 3220, 3220, 3220, 3220, 3220, 3220,
+    3220, 3220, 3203, 3220, 3220, 3220, 3236, 7957, 7957, 3216, 3200, 3200,
+    3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200,
+    3200, 3200, 3224, 7957, 7957, 3240, 3228, 3228, 3228, 3228, 3228, 3228,
+    3228, 3228, 3212, 3228, 3228, 3228, 3228, 3228, 3228, 3228, 3238, 7957,
+    7965, 7963, 7962, 7962, 7962, 7962, 7962, 7962, 7962, 7966, 3232, 7963,
+    7962, 7962, 7962, 7962, 7962, 7962, 7966, 7965, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    3186, 3172, 3172, 3172, 3172, 3188, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 3192, 3180, 3180, 3180, 3180, 3190, 0, 0, 0, 0, 3198, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 562, 563,
+    564, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 570, 571, 572, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 17, 0, 0, 0, 160, 0, 0, 17, 0, 0, 0, 0, 0, 0, 17, 0, 0, 0, 0,
+    0, 25, 132, 0, 0, 168, 0, 0, 25, 0, 0, 69, 70, 71, 0, 25, 0, 0, 0, 113, 114,
+    115, 140, 0, 0, 0, 0, 0, 0, 108, 0, 77, 78, 79, 0, 0, 108, 0, 0, 0, 0, 0, 0,
+    104, 0, 0, 104, 0, 0, 0, 0, 0, 0, 0, 81, 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 105, 0, 89, 90, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 104, 0, 0, 104, 0, 0, 0, 0, 0, 0, 0,
+    0, 124, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 201, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    201, 201, 201, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5,
+    0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0,
+    0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "自宅",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Door1",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Ice1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["選択肢によってはゲームオーバーや"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ヒロインが酷い目に遭うことがあります"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["そういったイベントの前には"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["セーブをするかの確認が入りますので"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["ご活用ください"] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Book2", "volume": 100, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["セーブしますか？"] },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["セーブしておく", "いらないよ！", "心の準備が・・・"],
+                2,
+                0,
+                2,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "セーブしておく"] },
+            { "code": 352, "indent": 1, "parameters": [] },
+            { "code": 123, "indent": 1, "parameters": ["B", 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "いらないよ！"] },
+            { "code": 123, "indent": 1, "parameters": ["A", 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "心の準備が・・・"] },
+            { "code": 123, "indent": 1, "parameters": ["B", 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "B",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Door1",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["心の準備は大丈夫ですか？"]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["完璧！", "あ、いえ、まだちょっと・・・"],
+                1,
+                0,
+                2,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "完璧！"] },
+            { "code": 123, "indent": 1, "parameters": ["A", 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [1, "あ、いえ、まだちょっと・・・"]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Door1",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 221, "indent": 0, "parameters": [] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Door1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 251, "indent": 0, "parameters": [] },
+            { "code": 121, "indent": 0, "parameters": [12, 12, 0] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                6,
+                {
+                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            { "code": 201, "indent": 0, "parameters": [0, 41, 8, 6, 8, 0] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            {
+              "code": 241,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "MV_Add_M002_Field2",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["村長ー"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["何だか話があるって聞いたんだけど？"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["うむうむ"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ちょっと気になることがあっての"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["二人とも\\n[2]の様子はどうじゃった？"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["倒れたと聞いて心配したが"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["特別具合が悪そうには見えなかったことを伝えた"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ちょっと疲れがでちゃったのかな？"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ぐらいにしか思わなかったんだけど"]
+            },
+            { "code": 213, "indent": 0, "parameters": [5, 8, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["うむうむ"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["実はちとまずいことになっているのじゃ"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["わしも二人が来る前に\\n[2]の様子を見たんじゃが"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "左腕の所に\\c[2]黒い模様\\c[0]が浮かび上がっておった"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["これは村に伝わる呪いの症状と"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["同じなのじゃ"] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["そっそんなぁ！"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["それって大丈夫なんですか！？"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["すまない詳しいことは知らんのじゃ"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["ただ・・・"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["その呪いを受けた者は"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "\\c[2]悪魔の如き力\\c[0]と\\c[2]最高の幸福\\c[0]を手にすると言われている"
+              ]
+            },
+            { "code": 213, "indent": 0, "parameters": [6, 2, false] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["・・・悪魔の力はともかく"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["最高の幸福が訪れるなんて"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["良いことなんじゃないですか？"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["それはわからん"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ただきっと良いことばかりではないのだろう"]
+            },
+            { "code": 213, "indent": 0, "parameters": [6, 11, false] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                6,
+                {
+                  "list": [{ "code": 17, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 17, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["そうだよね・・・"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["どうしよう\\n[2]大丈夫かな？"]
+            },
+            { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["慌てる\\n[3]を見てこちらまで不安になってくる"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["だけど親友に不幸が降りかかるのを"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["黙って見ていられない"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["村長にその呪いを解く方法はないのか尋ねた"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["すまんのう"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["重ねて言うがわしも詳しくはわからんのじゃ"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["・・・何かあるとすればやはり"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\c[2]ラリウス遺跡\\c[0]じゃろう"]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                6,
+                {
+                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            { "code": 213, "indent": 0, "parameters": [6, 7, false] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ラリウス遺跡って・・・・・・"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["この村の北、深い森の中にある遺跡"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["それがラリウス遺跡だ"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["中には無数の魔物がいるとされており"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["子供はおろか大人たちでさえ"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["遺跡には近寄らないことになっている"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["遺跡の最奥には凶悪な悪魔がいるという"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["今回の呪いはその悪魔が関係しているのかもしれん"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "わかると思うがそこを目指すのはとても危険なことじゃ"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[2]のためとは言えそれは・・・"]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [["行きます", "・・・・・・"], 1, 0, 1, 0]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "行きます"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["考えるまでもなかった"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["危険だろうがなんだろうが"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["自分に出来ることをしたい"]
+            },
+            { "code": 213, "indent": 1, "parameters": [6, 1, false] },
+            { "code": 101, "indent": 1, "parameters": ["hiroin1", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 1, "parameters": ["\\n[1]・・・"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["私も一緒に行きます！"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["hiroin1", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【\\n[3]】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["私に何が出来るかわからないけど"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["二人の事を黙って見ているなんてできません！"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 1, "parameters": ["・・・そうか"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["\\n[2]はいい友人をもったようじゃな"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["わしも出来る限り力を貸そう"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["これは少ないが選別じゃ"]
+            },
+            { "code": 125, "indent": 1, "parameters": [0, 0, 1000] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["村で買えるものは少ないかもしれないが"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["色々融通してくれるはずじゃ"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["hiroin1", 1, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【\\n[3]】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["こんなに沢山ありがとう！"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["遺跡に向かう前に\\n[4]の所で"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["何か買っていこうよ！"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["\\c[2]道具屋\\c[0]で準備をしてから"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["\\c[2]ラリウス遺跡\\c[0]に向かおう"]
+            },
+            { "code": 221, "indent": 1, "parameters": [] },
+            { "code": 121, "indent": 1, "parameters": [14, 14, 0] },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "MV_Add_M004_Village",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 222, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "・・・・・・"] },
+            { "code": 242, "indent": 1, "parameters": [5] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["・・・死にに行くようなもの"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["お前の事を悪く言うやつはおらんじゃろう"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["とっさに行きますとは言えなかった"]
+            },
+            { "code": 401, "indent": 1, "parameters": ["親友のためとはいえ"] },
+            { "code": 401, "indent": 1, "parameters": ["怖いものは怖い"] },
+            { "code": 213, "indent": 1, "parameters": [6, 5, false] },
+            { "code": 101, "indent": 1, "parameters": ["hiroin1", 3, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【\\n[3]】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["・・・・・・\\n[1]の馬鹿！"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["私はそれでも助けるから！"]
+            },
+            { "code": 221, "indent": 1, "parameters": [] },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                { "name": "Run", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 121, "indent": 1, "parameters": [13, 13, 0] },
+            { "code": 222, "indent": 1, "parameters": [] },
+            { "code": 213, "indent": 1, "parameters": [5, 8, false] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["・・・後のことはわしに任せてほしい"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["村の者で誰か助けられるやつがおるかもしれん"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["わしはお前の事を悪いとは思わん"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["そう考えすぎるんじゃないぞ・・・"]
+            },
+            { "code": 221, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 1, "parameters": ["程なくして"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["村で様々な事件が起こるが"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["その全てで見ていることしか出来なかった"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["ただただ悔しいと後悔する日々だけが"]
+            },
+            { "code": 401, "indent": 1, "parameters": ["無情に過ぎ去り"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["ふと目を向ければ大切な親友と"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["幸せそうに笑うあいつの姿が見えた"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 1, "parameters": ["・・・・・・"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 1, "parameters": ["・・・"] },
+            { "code": 353, "indent": 1, "parameters": [] },
+            { "code": 354, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 14,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Door1",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    { "code": 17, "indent": null },
+                    { "code": 15, "parameters": [6], "indent": null },
+                    { "code": 19, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 17, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [6], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Door1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 214, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              { "code": 31, "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": false,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 4,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 15,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Door1",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    { "code": 17, "indent": null },
+                    { "code": 15, "parameters": [6], "indent": null },
+                    { "code": 19, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 17, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [6], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Door1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 214, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              { "code": 31, "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": false,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 4,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 5,
+      "y": 8
+    },
+    {
+      "id": 2,
+      "name": "自宅",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Door1",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                0,
+                {
+                  "list": [
+                    { "code": 17, "indent": null },
+                    { "code": 15, "parameters": [6], "indent": null },
+                    { "code": 19, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 17, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 15, "parameters": [6], "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Door1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 214, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              { "code": 31, "indent": null },
+              { "code": 17, "indent": null },
+              { "code": 16, "indent": null },
+              { "code": 0, "parameters": [] }
+            ],
+            "repeat": false,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 4,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 14,
+      "y": 8
+    },
+    {
+      "id": 3,
+      "name": "EV003",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 3, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[6]さんが村長に声かけてねって"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["言っていたでしょ！"] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["もー\\n[1]はそうやって"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["大事なことすぐに忘れちゃうんだから"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["外に出る前に村長の所へ行こう"]
+            },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["外に出る前に村長の所へ行こう"]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 12,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Door1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 201, "indent": 0, "parameters": [0, 1, 48, 7, 0, 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 15,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Door1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 201, "indent": 0, "parameters": [0, 1, 48, 7, 0, 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 10,
+      "y": 12
+    },
+    {
+      "id": 4,
+      "name": "EV004",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Move1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 201, "indent": 0, "parameters": [0, 42, 2, 11, 4, 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 1,
+      "y": 11
+    },
+    {
+      "id": 5,
+      "name": "村長",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People4",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["わしの方でも引き続き調べてみよう"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["くれぐれも気を付けるのじゃぞ"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["気にしないで村長！"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["友達のためだもん苦じゃないよ"]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 37,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People4",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["おはよう"] },
+            { "code": 401, "indent": 0, "parameters": ["気を付けるんじゃぞ"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 54,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 70,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People4",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["おはよう"] },
+            { "code": 401, "indent": 0, "parameters": ["気を付けるんじゃぞ"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 34,
+            "itemValid": true,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 70,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People4",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["先ほど\\n[2]から受け取った"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["野宿セットのお礼を伝えた"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["ああ、その件か"] },
+            { "code": 401, "indent": 0, "parameters": ["気にしないでくれ"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["呪いの事を調べておるが"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["解決には程遠い"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["少しでも力になれればと思っての"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["使い古しで悪いが是非使ってやってくれ"]
+            },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 34,
+            "itemValid": true,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 70,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People4",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[2]の事を頼むぞ、\\n[1]"]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 8,
+      "y": 3
+    },
+    {
+      "id": 6,
+      "name": "リラ",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 12,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "hiro1",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 13,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 14,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 9,
+      "y": 6
+    },
+    {
+      "id": 7,
+      "name": "3リラ",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 54,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "hiro1",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 55,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 14,
+      "y": 6
+    },
+    {
+      "id": 8,
+      "name": "3日目村長",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 54,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People4",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["気を付けるんじゃぞ"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 68,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 14,
+      "y": 4
+    },
+    {
+      "id": 9,
+      "name": "3日目まがちゃん",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 54,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "hiro2",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 55,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 15,
+      "y": 7
+    },
+    {
+      "id": 10,
+      "name": "3日目朝",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 54,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Door1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 213, "indent": 0, "parameters": [7, 1, false] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                7,
+                {
+                  "list": [{ "code": 16, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["あっ\\n[1]!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[4]も来てくれたんだ"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["すまないのう"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["朝からバタバタしてしまって"]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                7,
+                {
+                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["いえいえ！"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["そんな大丈夫ですよっ！"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["それで\\n[6]さんの様子は"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["大丈夫なんですか？"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["うむ・・・今はまだ寝ているが"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["特別悪いところはなさそうじゃ"]
+            },
+            { "code": 213, "indent": 0, "parameters": [9, 7, false] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["呪いの影響・・・とか"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["今の所アザなどそれらしい症状はない"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["・・・ただ"] },
+            { "code": 213, "indent": 0, "parameters": [8, 8, true] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["いや・・・なんでもない"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["最近色々あったからな"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["そのせいじゃろう"] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["・・・そう"] },
+            { "code": 213, "indent": 0, "parameters": [7, 11, false] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["色々っていうのは本当だね"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["特に\\n[6]さんにはちょっと頼りっぱなし"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["だったかも・・・"] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                7,
+                {
+                  "list": [{ "code": 16, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 16, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["ごめん\\n[1]"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["今日もちょっと探索は難しそうだね"]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                9,
+                {
+                  "list": [{ "code": 17, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 17, "indent": null }]
+            },
+            { "code": 213, "indent": 0, "parameters": [9, 8, false] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["・・・私も\\n[3]のお手伝いするね"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["これで\\n[3]まで倒れたら"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["目も当てられない"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["二人の言うことはもっともだ"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["探索の事は任せてほしいと二人に伝える"]
+            },
+            { "code": 213, "indent": 0, "parameters": [8, 7, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["3人ともすまないの"] },
+            { "code": 401, "indent": 0, "parameters": ["迷惑をかける"] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                7,
+                {
+                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                9,
+                {
+                  "list": [{ "code": 19, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 19, "indent": null }]
+            },
+            { "code": 213, "indent": 0, "parameters": [7, 3, false] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["ううん！"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["今が頑張り時だもん！"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["皆で助け合って"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["乗り越えていけたらって思う！"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["ありがとう・・・"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[1]も探索くれぐれも気を付けるんじゃぞ"]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 121, "indent": 0, "parameters": [55, 55, 0] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 12,
+      "y": 3
+    },
+    {
+      "id": 11,
+      "name": "3日目まがちゃん後",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 55,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "hiro2",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["今日は一緒に行けなくてごめん"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[6]さんも良くなって"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["落ち着いたらまた一緒に行こ"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["気を付けてね"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 55,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "hiro2",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["気を付けてね"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 68,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 3,
+      "y": 3
+    },
+    {
+      "id": 12,
+      "name": "EV012",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 54,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "sabu 2",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[6]さんが眠っている"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["今はそっとしておこう"]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 68,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 16,
+      "y": 3
+    },
+    {
+      "id": 13,
+      "name": "rere",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 8,
+      "y": 0
+    },
+    {
+      "id": 14,
+      "name": "fsefefs",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 19,
+      "y": 1
+    }
+  ]
+}

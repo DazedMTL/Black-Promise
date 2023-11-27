@@ -1,0 +1,3318 @@
+{
+  "autoplayBgm": true,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": {
+    "name": "MV_Add_M004_Village",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 65
+  },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "自宅",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 10,
+  "note": "",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 3,
+  "width": 15,
+  "data": [
+    7043, 7043, 7042, 7042, 7042, 7042, 7042, 7042, 7042, 7042, 7042, 7042,
+    7042, 7046, 7046, 7041, 7049, 7048, 7048, 7048, 7048, 7048, 7048, 7048,
+    7048, 7048, 7048, 7048, 7052, 7044, 7045, 3234, 3220, 3220, 3220, 3220,
+    3220, 3220, 3220, 3220, 3220, 3220, 3220, 3236, 7045, 7045, 3216, 3200,
+    3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3224, 7045,
+    7045, 3216, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200,
+    3200, 3224, 7045, 7045, 3216, 3200, 3200, 3200, 3200, 3200, 3200, 3200,
+    3200, 3200, 3200, 3200, 3224, 7045, 7045, 3216, 3200, 3200, 3200, 3200,
+    3200, 3200, 3200, 3200, 3200, 3200, 3200, 3224, 7045, 7045, 3216, 3200,
+    3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3224, 7045,
+    7045, 3240, 3228, 3212, 3228, 3228, 3228, 3228, 3228, 3228, 3228, 3228,
+    3228, 3238, 7045, 7049, 7051, 7054, 3232, 7051, 7050, 7050, 7050, 7050,
+    7050, 7050, 7050, 7050, 7054, 7052, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 50, 51, 69, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0,
+    58, 59, 77, 209, 209, 209, 201, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 83, 0,
+    200, 0, 0, 0, 0, 0, 0, 0, 0, 96, 0, 0, 0, 91, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    104, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 224, 224,
+    224, 224, 224, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "EV001",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Door1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 201, "indent": 0, "parameters": [0, 184, 5, 7, 0, 0] },
+            { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 3,
+      "y": 9
+    },
+    {
+      "id": 2,
+      "name": "EV002",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Move1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 121, "indent": 0, "parameters": [681, 681, 0] },
+            { "code": 201, "indent": 0, "parameters": [0, 186, 2, 2, 6, 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 1,
+      "y": 2
+    },
+    {
+      "id": 3,
+      "name": "EV003",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 40,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Flame",
+            "direction": 8,
+            "pattern": 2,
+            "characterIndex": 7
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["ベットがある"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["どうしようかな・・・"]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["寝ようかな", "夜まで時間を潰す", "まだ起きている"],
+                2,
+                0,
+                2,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "寝ようかな"] },
+            { "code": 221, "indent": 1, "parameters": [] },
+            {
+              "code": 249,
+              "indent": 1,
+              "parameters": [
+                { "name": "Musical1", "volume": 85, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 230, "indent": 1, "parameters": [60] },
+            { "code": 201, "indent": 1, "parameters": [0, 214, 2, 6, 4, 0] },
+            { "code": 121, "indent": 1, "parameters": [665, 665, 0] },
+            { "code": 314, "indent": 1, "parameters": [0, 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "夜まで時間を潰す"] },
+            { "code": 221, "indent": 1, "parameters": [] },
+            { "code": 230, "indent": 1, "parameters": [30] },
+            { "code": 201, "indent": 1, "parameters": [0, 212, 10, 3, 2, 0] },
+            { "code": 222, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "まだ起きている"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 11,
+      "y": 3
+    },
+    {
+      "id": 4,
+      "name": "fefesfes",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 14,
+      "y": 0
+    },
+    {
+      "id": 5,
+      "name": "EV005",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 223,
+              "indent": 0,
+              "parameters": [[-255, -255, -255, 0], 1, true]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["それから月日は流れた───・・・"]
+            },
+            { "code": 121, "indent": 0, "parameters": [683, 683, 0] },
+            { "code": 129, "indent": 0, "parameters": [2, 1, false] },
+            { "code": 129, "indent": 0, "parameters": [3, 1, false] },
+            { "code": 129, "indent": 0, "parameters": [4, 1, false] },
+            { "code": 129, "indent": 0, "parameters": [5, 1, false] },
+            { "code": 126, "indent": 0, "parameters": [23, 1, 0, 1] },
+            { "code": 117, "indent": 0, "parameters": [12] },
+            { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Ice1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["お疲れ様です！"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ここまでプレイして頂きありがとうございました！"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["以降は貴方様がプレイした結果の村を"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["少しだけ見て回ることが出来ます"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["各ヒロインのエンディングは"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["自宅２階の回想部屋に追加されていますので"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["よろしかったら確認してください"]
+            },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 14,
+      "y": 3
+    },
+    {
+      "id": 6,
+      "name": "ヒロ２　親友１",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 298,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [27, 27, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [28, 28, 1, 2, 200, 500]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [23, 23, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [25, 25, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [24, 24, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [26, 26, 1, 2, 1000, 2000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [22, 22, 1, 2, 100, 200]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"3_t=10_subject=非処女\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"3_p=1_name=hiro3 c\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 545,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [27, 27, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [28, 28, 1, 2, 200, 500]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [23, 23, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [25, 25, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [24, 24, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [26, 26, 1, 2, 1000, 2000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [22, 22, 1, 2, 100, 200]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"3_t=10_subject=非処女\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"3_t=11_subject=最近の想像相手　ロール\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"3_t=2_subject=交際相手：　ロール\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"3_p=1_name=hiro3 c\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 300,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [27, 27, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [28, 28, 1, 2, 1000, 3000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [23, 23, 1, 2, 3000, 6000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [25, 25, 1, 2, 3000, 6000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [24, 24, 1, 2, 3000, 6000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [26, 26, 1, 2, 20000, 40000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [22, 22, 1, 2, 4000, 6000]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"3_t=10_subject=非処女\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"3_p=1_name=hiro3 c\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 657,
+            "switch1Valid": true,
+            "switch2Id": 668,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [27, 27, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [28, 28, 1, 2, 200, 500]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [23, 23, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [26, 26, 1, 2, 1000, 2000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [22, 22, 1, 2, 100, 200]
+            },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 647,
+            "switch1Valid": true,
+            "switch2Id": 668,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [27, 27, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [28, 28, 1, 2, 200, 500]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [23, 23, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [26, 26, 1, 2, 1000, 2000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [22, 22, 1, 2, 100, 200]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"3_t=2_subject=好きな人：　ライト　\\\\N[1]\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"3_t=11_subject=最近のエッチ相手　ライト\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"3_p=1_name=hiro3 a\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 661,
+            "switch1Valid": true,
+            "switch2Id": 668,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [27, 27, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [28, 28, 1, 2, 200, 500]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [23, 23, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [26, 26, 1, 2, 1000, 2000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [22, 22, 1, 2, 100, 200]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"3_t=2_subject=好きな人：　ライト　\\\\N[1]\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"3_t=11_subject=最近の想像相手　ライト\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"3_p=1_name=hiro3 a\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 651,
+            "switch1Valid": true,
+            "switch2Id": 668,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            { "code": 122, "indent": 0, "parameters": [27, 27, 1, 2, 10, 20] },
+            { "code": 122, "indent": 0, "parameters": [28, 28, 1, 2, 1, 3] },
+            { "code": 122, "indent": 0, "parameters": [23, 23, 1, 2, 5, 7] },
+            { "code": 122, "indent": 0, "parameters": [26, 26, 1, 2, 10, 30] },
+            { "code": 122, "indent": 0, "parameters": [22, 22, 1, 2, 2, 4] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"3_t=11_subject=最近の想像相手　\\\\N[1]\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 10,
+      "y": 9
+    },
+    {
+      "id": 7,
+      "name": "EV007",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 646,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [13, 13, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [19, 19, 1, 2, 200, 500]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [14, 14, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [15, 15, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [16, 16, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [17, 17, 1, 2, 2000, 3000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [18, 18, 1, 2, 100, 200]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_t=2_subject=交際相手：　\\\\N[1]？\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_t=10_subject=非処女\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_t=11_subject=最近のエッチ相手　ライト\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_p=1_name=hiro2 c\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 319,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [13, 13, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [19, 19, 1, 2, 200, 500]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [14, 14, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [15, 15, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [16, 16, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [17, 17, 1, 2, 2000, 3000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [18, 18, 1, 2, 100, 200]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_t=10_subject=非処女\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_p=1_name=hiro2 c\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 513,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [13, 13, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [19, 19, 1, 2, 200, 500]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [14, 14, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [15, 15, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [16, 16, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [17, 17, 1, 2, 2000, 3000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [18, 18, 1, 2, 100, 200]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_t=10_subject=非処女\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_p=1_name=hiro2 c\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 656,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [13, 13, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [19, 19, 1, 2, 200, 500]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [14, 14, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [15, 15, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [16, 16, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [17, 17, 1, 2, 2000, 3000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [18, 18, 1, 2, 100, 200]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_t=10_subject=非処女\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_t=11_subject=最近の想像相手　ライト\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_t=2_subject=交際相手：　ライト\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_p=1_name=hiro2 c\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 661,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [13, 13, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [19, 19, 1, 2, 200, 500]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [14, 14, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [15, 15, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [16, 16, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [17, 17, 1, 2, 2000, 3000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [18, 18, 1, 2, 100, 200]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_t=10_subject=非処女\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_t=2_subject=交際相手：　ライト\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_t=11_subject=最近の想像相手　ライト\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_p=1_name=hiro2 c\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 320,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [13, 13, 1, 2, 1000, 2000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [19, 19, 1, 2, 1000, 2000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [14, 14, 1, 2, 1000, 2000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [15, 15, 1, 2, 1000, 2000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [16, 16, 1, 2, 2000, 3000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [17, 17, 1, 2, 10000, 20000]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [18, 18, 1, 2, 100, 200]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_t=10_subject=非処女\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_p=1_name=hiro2 c\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 649,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 122, "indent": 0, "parameters": [13, 13, 1, 2, 5, 12] },
+            { "code": 122, "indent": 0, "parameters": [19, 19, 1, 2, 1, 3] },
+            { "code": 122, "indent": 0, "parameters": [14, 14, 1, 2, 1, 3] },
+            { "code": 122, "indent": 0, "parameters": [15, 15, 1, 2, 1, 2] },
+            { "code": 122, "indent": 0, "parameters": [16, 16, 1, 2, 2, 4] },
+            { "code": 122, "indent": 0, "parameters": [17, 17, 1, 2, 10, 30] },
+            { "code": 122, "indent": 0, "parameters": [18, 18, 1, 2, 5, 10] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_t=10_subject=非処女\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"2_t=11_subject=最近の想像相手　\\\\N[1]\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 8,
+      "y": 9
+    },
+    {
+      "id": 8,
+      "name": "EV008",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 525,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 122, "indent": 0, "parameters": [5, 5, 1, 2, 200, 500] },
+            { "code": 122, "indent": 0, "parameters": [6, 6, 1, 2, 100, 200] },
+            { "code": 122, "indent": 0, "parameters": [7, 7, 1, 2, 100, 200] },
+            { "code": 122, "indent": 0, "parameters": [8, 8, 1, 2, 100, 200] },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [10, 10, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [11, 11, 1, 2, 200, 500]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [9, 9, 1, 2, 2000, 3000]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_t=10_subject=非処女\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_p=1_name=hiro1 c\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 654,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 122, "indent": 0, "parameters": [5, 5, 1, 2, 200, 500] },
+            { "code": 122, "indent": 0, "parameters": [6, 6, 1, 2, 100, 200] },
+            { "code": 122, "indent": 0, "parameters": [7, 7, 1, 2, 100, 200] },
+            { "code": 122, "indent": 0, "parameters": [8, 8, 1, 2, 100, 200] },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [10, 10, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [11, 11, 1, 2, 200, 500]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [9, 9, 1, 2, 2000, 3000]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_t=10_subject=非処女\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_p=1_name=hiro1 c\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 288,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 122, "indent": 0, "parameters": [5, 5, 1, 2, 200, 500] },
+            { "code": 122, "indent": 0, "parameters": [6, 6, 1, 2, 100, 200] },
+            { "code": 122, "indent": 0, "parameters": [7, 7, 1, 2, 100, 200] },
+            { "code": 122, "indent": 0, "parameters": [8, 8, 1, 2, 200, 300] },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [10, 10, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [11, 11, 1, 2, 200, 500]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [9, 9, 1, 2, 3000, 5000]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_t=10_subject=非処女\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_p=1_name=hiro1 c\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 291,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 122, "indent": 0, "parameters": [5, 5, 1, 2, 200, 500] },
+            { "code": 122, "indent": 0, "parameters": [6, 6, 1, 2, 100, 200] },
+            { "code": 122, "indent": 0, "parameters": [7, 7, 1, 2, 100, 200] },
+            { "code": 122, "indent": 0, "parameters": [8, 8, 1, 2, 200, 400] },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [10, 10, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [11, 11, 1, 2, 200, 500]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [9, 9, 1, 2, 3000, 5000]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_t=2_subject=交際相手：　おくすけ\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_t=10_subject=非処女\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_p=1_name=hiro1 c\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 661,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 122, "indent": 0, "parameters": [5, 5, 1, 2, 200, 500] },
+            { "code": 122, "indent": 0, "parameters": [6, 6, 1, 2, 100, 200] },
+            { "code": 122, "indent": 0, "parameters": [7, 7, 1, 2, 100, 200] },
+            { "code": 122, "indent": 0, "parameters": [8, 8, 1, 2, 200, 400] },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [10, 10, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [11, 11, 1, 2, 200, 500]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [9, 9, 1, 2, 2000, 3000]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_t=10_subject=非処女\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_t=11_subject=最近の想像相手　ライト\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_t=2_subject=交際相手：　ライト\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_p=1_name=hiro1 c\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 645,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 122, "indent": 0, "parameters": [5, 5, 1, 2, 200, 500] },
+            { "code": 122, "indent": 0, "parameters": [6, 6, 1, 2, 100, 200] },
+            { "code": 122, "indent": 0, "parameters": [7, 7, 1, 2, 100, 200] },
+            { "code": 122, "indent": 0, "parameters": [8, 8, 1, 2, 100, 200] },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [10, 10, 1, 2, 100, 200]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [11, 11, 1, 2, 200, 500]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [9, 9, 1, 2, 2000, 3000]
+            },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_t=2_subject=交際相手：　\\\\N[1]？\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_t=10_subject=非処女\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_t=11_subject=最近のエッチ相手　ライト\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_p=1_name=hiro1 c\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 642,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 122, "indent": 0, "parameters": [5, 5, 1, 2, 4, 12] },
+            { "code": 122, "indent": 0, "parameters": [6, 6, 1, 2, 3, 5] },
+            { "code": 122, "indent": 0, "parameters": [7, 7, 1, 2, 3, 4] },
+            { "code": 122, "indent": 0, "parameters": [8, 8, 1, 2, 3, 5] },
+            { "code": 122, "indent": 0, "parameters": [10, 10, 1, 2, 5, 10] },
+            { "code": 122, "indent": 0, "parameters": [11, 11, 1, 2, 2, 3] },
+            { "code": 122, "indent": 0, "parameters": [9, 9, 1, 2, 20, 40] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_t=2_subject=交際相手：　\\\\N[1]\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_t=10_subject=非処女\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_t=11_subject=最近の想像相手　\\\\N[1]\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            { "code": 123, "indent": 0, "parameters": ["A", 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 4,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": true,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 6,
+      "y": 9
+    },
+    {
+      "id": 9,
+      "name": "EV009",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 29,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Flame",
+            "direction": 8,
+            "pattern": 2,
+            "characterIndex": 7
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["こちらでは男性器の名称を"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["任意に変更できます"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["変更されますか？"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["現在の設定は「\\c[2]\\n[7]\\c[0]」です"]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [["違うのにするよ！", "俺\\n[7]派だ"], 1, 0, 2, 1]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "違うのにするよ！"] },
+            { "code": 303, "indent": 1, "parameters": [7, 10] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "俺\\n[7]派だ"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 9,
+      "y": 2
+    },
+    {
+      "id": 10,
+      "name": "EV010",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 642,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "hiro1",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 0, "parameters": ["おはよう\\n[1]"] },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["今日もかわいい", "子供は何人欲しい？", "エッチしよ"],
+                1,
+                0,
+                2,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "今日もかわいい"] },
+            { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【\\n[3]】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["えっ・・・もう、いっつも言ってる・・・"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["でも、ありがとう、うれしい"]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [1, "子供は何人欲しい？"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【\\n[3]】"] },
+            { "code": 401, "indent": 1, "parameters": ["いっぱいほしいなぁ"] },
+            { "code": 401, "indent": 1, "parameters": ["\\n[1]とならきっと"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["幸せな家庭になると思うなぁ"]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "エッチしよ"] },
+            { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【\\n[3]】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["うん・・・いいよ・・・"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["私もね、したかったんだ"]
+            },
+            { "code": 221, "indent": 1, "parameters": [] },
+            {
+              "code": 245,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "02あえぎ(小さめ声多め_2）",
+                  "volume": 90,
+                  "pitch": 120,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "パンパン_渇01低速(loop)",
+                  "volume": 90,
+                  "pitch": 90,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 1, "parameters": [60] },
+            { "code": 242, "indent": 1, "parameters": [5] },
+            { "code": 246, "indent": 1, "parameters": [5] },
+            { "code": 117, "indent": 1, "parameters": [56] },
+            { "code": 121, "indent": 1, "parameters": [665, 665, 0] },
+            { "code": 230, "indent": 1, "parameters": [100] },
+            { "code": 201, "indent": 1, "parameters": [0, 185, 10, 3, 2, 0] },
+            { "code": 222, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 649,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "hiro1",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ん・・・やっと起きた・・・"]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["頭を撫でる", "ほっぺを触る", "エッチしよ"],
+                1,
+                0,
+                2,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "頭を撫でる"] },
+            { "code": 101, "indent": 1, "parameters": ["hiroin2", 2, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["\\n[1]は日に日に腕を上げている"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["その調子で励むといい"]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "ほっぺを触る"] },
+            { "code": 101, "indent": 1, "parameters": ["hiroin2", 6, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 1, "parameters": ["ひゃ・・・ひゃに？"] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "エッチしよ"] },
+            { "code": 101, "indent": 1, "parameters": ["hiroin2", 3, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["うん・・・今日もいっぱいしよ・・・"]
+            },
+            { "code": 221, "indent": 1, "parameters": [] },
+            {
+              "code": 245,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "02あえぎ(小さめ声多め_2）",
+                  "volume": 90,
+                  "pitch": 120,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "パンパン_渇01低速(loop)",
+                  "volume": 90,
+                  "pitch": 90,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 1, "parameters": [60] },
+            { "code": 242, "indent": 1, "parameters": [5] },
+            { "code": 246, "indent": 1, "parameters": [5] },
+            { "code": 117, "indent": 1, "parameters": [57] },
+            { "code": 121, "indent": 1, "parameters": [665, 665, 0] },
+            { "code": 230, "indent": 1, "parameters": [100] },
+            { "code": 201, "indent": 1, "parameters": [0, 185, 10, 3, 2, 0] },
+            { "code": 222, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 651,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "hiro3",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[5]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["えへへ・・・おはよう\\n[1]！"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["寝顔可愛かったよっ！"]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["おはよう", "\\n[5]・・・", "エッチしよ"],
+                1,
+                0,
+                2,
+                0
+              ]
+            },
+            { "code": 402, "indent": 0, "parameters": [0, "おはよう"] },
+            { "code": 101, "indent": 1, "parameters": ["hiroin3", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【\\n[5]】"] },
+            { "code": 401, "indent": 1, "parameters": ["・・・うん！"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["なんかいいね、こういうの"]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "\\n[5]・・・"] },
+            { "code": 101, "indent": 1, "parameters": ["hiroin3", 4, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【\\n[5]】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["なになに！？どうしたの！"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["・・・・・・呼んでみただけ！？"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["もー仕方ないなぁー！もー！"]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [2, "エッチしよ"] },
+            { "code": 101, "indent": 1, "parameters": ["hiroin3", 5, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【\\n[5]】"] },
+            { "code": 401, "indent": 1, "parameters": ["いいよ・・・お互い"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["いっぱい気持ちよくなろうね"]
+            },
+            { "code": 221, "indent": 1, "parameters": [] },
+            {
+              "code": 245,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "02あえぎ(小さめ声多め_2）",
+                  "volume": 90,
+                  "pitch": 130,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "擦_濡01低速(loop)",
+                  "volume": 90,
+                  "pitch": 90,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 230, "indent": 1, "parameters": [60] },
+            { "code": 242, "indent": 1, "parameters": [5] },
+            { "code": 246, "indent": 1, "parameters": [5] },
+            { "code": 117, "indent": 1, "parameters": [58] },
+            { "code": 121, "indent": 1, "parameters": [665, 665, 0] },
+            { "code": 230, "indent": 1, "parameters": [100] },
+            { "code": 201, "indent": 1, "parameters": [0, 185, 10, 3, 2, 0] },
+            { "code": 222, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 9,
+      "y": 4
+    },
+    null,
+    null,
+    {
+      "id": 13,
+      "name": "EV013",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 52,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Flame",
+            "direction": 8,
+            "pattern": 2,
+            "characterIndex": 7
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["こちらでは男性器のサイズを"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["任意で変更することが出来ます"]
+            },
+            { "code": 111, "indent": 0, "parameters": [0, 379, 0] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["現在のサイズは\\c[2]極小\\c[0]です"]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 411, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["現在のサイズは\\c[2]小さい\\c[0]です"]
+            },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 412, "indent": 0, "parameters": [] },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "俺の\\n[7]は大きいんだよなぁ（小さい",
+                  "\\n[7]の大きさはこんなもんだろ(極小"
+                ],
+                1,
+                0,
+                2,
+                1
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [0, "俺の\\n[7]は大きいんだよなぁ（小さい"]
+            },
+            { "code": 121, "indent": 1, "parameters": [379, 379, 1] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [1, "\\n[7]の大きさはこんなもんだろ(極小"]
+            },
+            { "code": 121, "indent": 1, "parameters": [379, 379, 0] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 8,
+      "y": 2
+    },
+    null
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "autoplayBgm": false,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 13,
+  "note": "",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 2,
+  "width": 20,
+  "data": [
+    1552, 1552, 1552, 1552, 1552, 2832, 2816, 2816, 2816, 2816, 2816, 2816,
+    2816, 2816, 2840, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 2850,
+    2836, 2817, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2818, 2836,
+    2852, 1552, 1552, 1552, 1552, 1552, 2850, 2817, 2816, 2816, 2816, 2816,
+    2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2818, 2852, 1552, 1552,
+    1552, 1552, 2832, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816,
+    2816, 2816, 2816, 2816, 2816, 2840, 1552, 1552, 1552, 2850, 2817, 2816,
+    2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816,
+    2816, 2840, 1552, 1552, 1552, 2832, 2816, 2816, 2816, 2816, 2816, 2816,
+    2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2840, 1552, 1552,
+    1552, 2856, 2844, 2824, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816,
+    2816, 2816, 2816, 2816, 2820, 2854, 1552, 1552, 1552, 1552, 1552, 2856,
+    2844, 2824, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2820, 2844,
+    2854, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 2856, 2844, 2844,
+    2844, 2824, 2820, 2844, 2844, 2844, 2854, 1552, 1552, 1552, 1552, 1552,
+    1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 2832, 2840, 1552,
+    1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552,
+    1552, 1552, 1552, 1552, 1552, 2832, 2840, 1552, 1552, 1552, 1552, 1552,
+    1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552,
+    1552, 2834, 2854, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552,
+    1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 2850, 2842, 1552, 1552,
+    1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 101, 101, 101, 101, 93, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101, 101, 101, 101,
+    101, 101, 101, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101, 101, 101,
+    101, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101, 101, 101,
+    101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101, 101, 101, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101, 101, 101, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101, 101, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 98, 101, 101, 101, 101, 101, 98, 98, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 98, 98, 101, 101, 101, 101, 101, 101, 101, 101, 0, 0, 98, 98, 0,
+    0, 98, 98, 98, 98, 101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 101,
+    101, 101, 101, 0, 0, 101, 101, 101, 101, 101, 101, 101, 101, 101, 94, 101,
+    101, 101, 101, 101, 101, 101, 101, 0, 0, 101, 101, 101, 101, 101, 101, 101,
+    101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 0, 0, 101, 101, 101,
+    101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 0, 0,
+    101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 93, 93, 93, 93, 101, 98,
+    98, 98, 98, 98, 98, 98, 98, 0, 98, 93, 93, 93, 93, 93, 94, 94, 94, 101, 0,
+    98, 0, 99, 0, 99, 99, 99, 99, 98, 98, 101, 101, 93, 93, 93, 93, 94, 101, 98,
+    0, 99, 99, 99, 99, 99, 99, 99, 99, 99, 0, 98, 98, 101, 94, 93, 94, 93, 98,
+    98, 99, 99, 99, 99, 99, 99, 99, 0, 99, 99, 99, 99, 98, 98, 93, 93, 93, 101,
+    0, 98, 99, 0, 99, 99, 99, 99, 99, 0, 99, 99, 99, 99, 98, 98, 93, 93, 93, 98,
+    98, 98, 99, 0, 99, 0, 99, 99, 99, 99, 99, 0, 99, 99, 98, 0, 94, 93, 93, 93,
+    93, 98, 98, 99, 99, 99, 99, 99, 99, 0, 99, 99, 99, 98, 98, 93, 93, 93, 94,
+    94, 94, 93, 93, 0, 98, 99, 99, 99, 99, 99, 99, 98, 98, 93, 93, 94, 94, 94,
+    93, 93, 93, 93, 93, 93, 93, 93, 93, 98, 98, 93, 93, 93, 93, 93, 93, 93, 93,
+    93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 98, 93, 93, 93, 93, 93, 93, 93,
+    93, 93, 93, 94, 94, 94, 94, 94, 94, 94, 94, 101, 98, 94, 94, 94, 94, 94, 94,
+    94, 94, 94, 93, 93, 93, 93, 93, 93, 93, 93, 93, 0, 93, 93, 93, 93, 93, 93,
+    93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 101, 98, 93, 93, 93, 93, 93,
+    93, 93, 93, 93, 93, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "ライト",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "kodomo",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 9,
+      "y": 12
+    },
+    {
+      "id": 2,
+      "name": "EV002",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 241,
+              "indent": 0,
+              "parameters": [
+                { "name": "Scene1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\CL場面は少し変わって"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["深い森の中を少年が泣きながら歩いている"]
+            },
+            { "code": 222, "indent": 0, "parameters": [] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                1,
+                {
+                  "list": [
+                    { "code": 4, "indent": null },
+                    { "code": 3, "indent": null },
+                    { "code": 4, "indent": null },
+                    { "code": 4, "indent": null },
+                    { "code": 4, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 4, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 3, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 4, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 4, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 4, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["うぅ・・・ぐす・・・"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["お父さんどこぉ・・・"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\CL「おまえ・・・泣いてるのか？」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\CL「きっと悲しい事があったんだな"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["我と一緒だ」"] },
+            { "code": 213, "indent": 0, "parameters": [1, 2, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ぐす・・・だれぇ・・・？"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\CL「なんて名前だったか・・・"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["随分昔にはあった気はするが"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["もう忘れてしまった」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\CL「だけど一緒にいる事はできる"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["よかったら我の話相手になってくれないか？」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\CL「ずっと一人ぼっちで寂しかったんだ」"]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 242, "indent": 0, "parameters": [4] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            { "code": 401, "indent": 0, "parameters": ["\\CLいつかの朝も"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["同じような夢を見たような・・・・・・"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            { "code": 401, "indent": 0, "parameters": ["\\CL・・・・・・"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            { "code": 401, "indent": 0, "parameters": ["\\CL・・・"] },
+            { "code": 211, "indent": 0, "parameters": [1] },
+            { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
+            { "code": 201, "indent": 0, "parameters": [0, 85, 13, 15, 6, 0] },
+            { "code": 121, "indent": 0, "parameters": [240, 240, 0] },
+            { "code": 121, "indent": 0, "parameters": [220, 220, 0] },
+            { "code": 122, "indent": 0, "parameters": [35, 35, 2, 0, 5] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        }
+      ],
+      "x": 14,
+      "y": 9
+    },
+    {
+      "id": 3,
+      "name": "まん丸",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Other1",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 3
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 10,
+      "y": 2
+    },
+    {
+      "id": 4,
+      "name": "",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 19,
+      "y": 2
+    },
+    {
+      "id": 5,
+      "name": "fesfsf",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 7,
+      "y": 9
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

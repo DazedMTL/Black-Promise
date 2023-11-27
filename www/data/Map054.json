@@ -1,0 +1,593 @@
+{
+  "autoplayBgm": false,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 13,
+  "note": "",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 1,
+  "width": 17,
+  "data": [
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "EV001",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "title", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Window_Original", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Actor_1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Actor_2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Actor_3", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Actor_4", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Actor_5", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Actor_11", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Actor_21", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Actor_31", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Actor_41", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Actor_51", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Command_0", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Command_1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Command_2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Cursor", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "GoldNumber", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "HPMeter", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "HPNumber", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "LayoutStatus", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "LVNumber", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "MagicCircle", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "MPMeter", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "MPNumber", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Music Book", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Picture Gallery", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "sub_1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "sub_2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "アイテム", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "オプション", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "ゲーム終了", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "スキル", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "ステータス", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "セーブ", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "並び替え", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "装備", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "sub_0", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "FaceArrow", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Title1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "Layout", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "IconSet", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "sub_0", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "えっち", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "title", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "sute ero", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "hiro3 a", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "hiro1 a", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "hiro2 a", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "hiro1 c", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "hiro2 c", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "hiro3 c", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": 2,
+      "name": "BGM",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Absorb2", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 0,
+      "y": 1
+    },
+    {
+      "id": 3,
+      "name": "dwadaw",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 5,
+      "y": 0
+    },
+    {
+      "id": 4,
+      "name": "dwadawda",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 5,
+      "y": 5
+    },
+    {
+      "id": 5,
+      "name": "",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 13,
+      "y": 1
+    }
+  ]
+}

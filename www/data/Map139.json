@@ -1,0 +1,701 @@
+{
+  "autoplayBgm": false,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 13,
+  "note": "",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 2,
+  "width": 20,
+  "data": [
+    1552, 1552, 1552, 1552, 1552, 2832, 2816, 2816, 2816, 2816, 2816, 2816,
+    2816, 2816, 2840, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 2850,
+    2836, 2817, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2818, 2836,
+    2852, 1552, 1552, 1552, 1552, 1552, 2850, 2817, 2816, 2816, 2816, 2816,
+    2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2818, 2852, 1552, 1552,
+    1552, 1552, 2832, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816,
+    2816, 2816, 2816, 2816, 2816, 2840, 1552, 1552, 1552, 2850, 2817, 2816,
+    2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816,
+    2816, 2840, 1552, 1552, 1552, 2832, 2816, 2816, 2816, 2816, 2816, 2816,
+    2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2840, 1552, 1552,
+    1552, 2856, 2844, 2824, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816,
+    2816, 2816, 2816, 2816, 2820, 2854, 1552, 1552, 1552, 1552, 1552, 2856,
+    2844, 2824, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2816, 2820, 2844,
+    2854, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 2856, 2844, 2844,
+    2844, 2824, 2820, 2844, 2844, 2844, 2854, 1552, 1552, 1552, 1552, 1552,
+    1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 2832, 2840, 1552,
+    1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552,
+    1552, 1552, 1552, 1552, 1552, 2832, 2840, 1552, 1552, 1552, 1552, 1552,
+    1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552,
+    1552, 2834, 2854, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552,
+    1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 2850, 2842, 1552, 1552,
+    1552, 1552, 1552, 1552, 1552, 1552, 1552, 1552, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 101, 101, 101, 101, 93, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101, 101, 101, 101,
+    101, 101, 101, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101, 101, 101,
+    101, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101, 101, 101,
+    101, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101, 101, 101, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101, 101, 101, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101, 101, 101, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 98, 101, 101, 101, 101, 101, 98, 98, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 98, 98, 101, 101, 101, 101, 101, 101, 101, 101, 0, 0, 98, 98, 0,
+    0, 98, 98, 98, 98, 101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 101,
+    101, 101, 101, 0, 0, 101, 101, 101, 101, 101, 101, 101, 101, 101, 94, 101,
+    101, 101, 101, 101, 101, 101, 101, 0, 0, 101, 101, 101, 101, 101, 101, 101,
+    101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 0, 0, 101, 101, 101,
+    101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 0, 0,
+    101, 101, 101, 101, 101, 101, 101, 101, 101, 101, 93, 93, 93, 93, 101, 98,
+    98, 98, 98, 98, 98, 98, 98, 0, 98, 93, 93, 93, 93, 93, 94, 94, 94, 101, 0,
+    98, 0, 99, 0, 99, 99, 99, 99, 98, 98, 101, 101, 93, 93, 93, 93, 94, 101, 98,
+    0, 99, 99, 99, 99, 99, 99, 99, 99, 99, 0, 98, 98, 101, 94, 93, 94, 93, 98,
+    98, 99, 99, 99, 99, 99, 99, 99, 0, 99, 99, 99, 99, 98, 98, 93, 93, 93, 101,
+    0, 98, 99, 0, 99, 99, 99, 99, 99, 0, 99, 99, 99, 99, 98, 98, 93, 93, 93, 98,
+    98, 98, 99, 0, 99, 0, 99, 99, 99, 99, 99, 0, 99, 99, 98, 0, 94, 93, 93, 93,
+    93, 98, 98, 99, 99, 99, 99, 99, 99, 0, 99, 99, 99, 98, 98, 93, 93, 93, 94,
+    94, 94, 93, 93, 0, 98, 99, 99, 99, 99, 99, 99, 98, 98, 93, 93, 94, 94, 94,
+    93, 93, 93, 93, 93, 93, 93, 93, 93, 98, 98, 93, 93, 93, 93, 93, 93, 93, 93,
+    93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 98, 93, 93, 93, 93, 93, 93, 93,
+    93, 93, 93, 94, 94, 94, 94, 94, 94, 94, 94, 101, 98, 94, 94, 94, 94, 94, 94,
+    94, 94, 94, 93, 93, 93, 93, 93, 93, 93, 93, 93, 0, 93, 93, 93, 93, 93, 93,
+    93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 101, 98, 93, 93, 93, 93, 93,
+    93, 93, 93, 93, 93, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "ライト",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "kodomo",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 9,
+      "y": 4
+    },
+    null,
+    {
+      "id": 3,
+      "name": "まん丸",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "!Other1",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 3
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 11,
+      "y": 4
+    },
+    {
+      "id": 4,
+      "name": "",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 19,
+      "y": 2
+    },
+    {
+      "id": 5,
+      "name": "EV005",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            { "code": 401, "indent": 0, "parameters": ["\\CL夢を見ていた"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["そこではいつか見た少年が"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["何かに向かって話をしていた"]
+            },
+            { "code": 213, "indent": 0, "parameters": [1, 8, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["お父さんもお母さんもやさしい"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["僕のためを思って色々してくれる"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["だけど、何だか期待に応えなきゃって"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["とっても息苦しいんだ"]
+            },
+            { "code": 213, "indent": 0, "parameters": [3, 8, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["難しい問題だな"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["人の善意ほど扱い辛い感情もそうそうない"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["我は人ではないから"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["そういうまどろっこしい感情は"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["よくわからないな"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["そうは言うけどクロちゃん寂しがり屋じゃん"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "初めて会った時、夜になっても返してくれなかったから"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["お父さんにいっぱい怒られたんだからね？"]
+            },
+            { "code": 213, "indent": 0, "parameters": [3, 11, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["おい！それは言わない約束だろう！？"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["あー・・・だから我が言いたいのは"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["そういう事ではなくだなぁ・・・"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["うん、わかってるって"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["難しい事考えないで"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["一緒に居ればいいって事でしょ？"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["僕もね、本当はとってもうれしいんだ"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["こうやってお話する相手って初めてだったから"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["怒らせたなら謝るよ、ごめん・・・"]
+            },
+            { "code": 213, "indent": 0, "parameters": [3, 8, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "まったく、我がこんなことで怒るわけないだろうに・・・"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["うん、知ってて言ってみた！"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["そんなところが大好きだよクロちゃん"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\CL二人はとても仲良くなっているようだった"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["・・・それにしても、クロちゃん・・・か・・・"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["その名前を聞くとなぜか心がざわついた"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["はいはい、その言葉も聞き飽きた"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["最初こそ動揺したがな、そう何度も言われれば"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["いい加減慣れてくるというものだぞ"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ははっ、拗ねないでよ！"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["僕もね考えてきたんだ"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["言葉だけじゃ伝わらないこともあるなって！"]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                1,
+                {
+                  "list": [{ "code": 3, "indent": null }, { "code": 0 }],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 3, "indent": null }]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["だから、これを受け取ってほしいな"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["僕の気持ちだよ"] },
+            { "code": 213, "indent": 0, "parameters": [3, 1, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["これは・・・ブレスレットとネックレスか？"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["これほど高価なもの貰えるわけないだろう！"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["そもそもなんでこんな物を・・・"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ブレスレットはお父さんから"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ネックレスはお母さんから貰ったんだ"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ほら、どちらも黒い水晶があしらってあるでしょ？"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["それがクロちゃんみたいで素敵だなって思って"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["おいおい、黒水晶は魔除けの石だぞ"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["そんなものを渡すなんて・・・"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["そうだったんだ・・・"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["ごめん、嫌だった？"] },
+            { "code": 213, "indent": 0, "parameters": [3, 11, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["勘違いするなよ、別に嫌だとは言っていない"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["これはありがたく頂くとしよう"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["・・・その、すごくうれしい・・・"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["よかった、クロちゃんが喜んでくれて"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["今はね、貰い物をあげる事しか出来ないけれど"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["だけどいつか、僕がクロちゃんのための"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["贈り物をちゃんと渡したいって思うんだ"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["だから、それまで待っていてくれる？"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["我を誰だと思っているんだ？"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["待つのはこれでも得意なんだ"]
+            },
+            { "code": 246, "indent": 0, "parameters": [5] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["だからと言って待たせすぎるなよ？"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["もうそういうのは飽きてしまったからな・・・"]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\CLそのあと少年はこの場所を離れる事になる"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["春が花びらの数だけ巡るまでに"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["必ず会いに行くと約束をして"]
+            },
+            { "code": 211, "indent": 0, "parameters": [1] },
+            {
+              "code": 223,
+              "indent": 0,
+              "parameters": [[-68, -68, 0, 68], 1, true]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            { "code": 401, "indent": 0, "parameters": ["\\CL・・・・・・"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            { "code": 401, "indent": 0, "parameters": ["\\CL・・・"] },
+            { "code": 121, "indent": 0, "parameters": [478, 478, 0] },
+            { "code": 201, "indent": 0, "parameters": [0, 4, 19, 2, 2, 0] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 4,
+          "moveType": 3,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        }
+      ],
+      "x": 11,
+      "y": 6
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

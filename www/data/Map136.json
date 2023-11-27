@@ -1,0 +1,645 @@
+{
+  "autoplayBgm": false,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": {
+    "name": "MV_Add_M004_Village",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 10,
+  "note": "",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 3,
+  "width": 15,
+  "data": [
+    7043, 7043, 7042, 7042, 7042, 7042, 7042, 7042, 7042, 7042, 7042, 7042,
+    7042, 7046, 7046, 7041, 7049, 7048, 7048, 7048, 7048, 7048, 7048, 7048,
+    7048, 7048, 7048, 7048, 7052, 7044, 7045, 3234, 3220, 3220, 3220, 3220,
+    3220, 3220, 3220, 3220, 3220, 3220, 3220, 3236, 7045, 7045, 3216, 3200,
+    3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3224, 7045,
+    7045, 3216, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200,
+    3200, 3224, 7045, 7045, 3216, 3200, 3200, 3200, 3200, 3200, 3200, 3200,
+    3200, 3200, 3200, 3200, 3224, 7045, 7045, 3216, 3200, 3200, 3200, 3200,
+    3200, 3200, 3200, 3200, 3200, 3200, 3200, 3224, 7045, 7045, 3216, 3200,
+    3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3224, 7045,
+    7045, 3240, 3228, 3212, 3228, 3228, 3228, 3228, 3228, 3228, 3228, 3228,
+    3228, 3238, 7045, 7049, 7051, 7054, 3232, 7051, 7050, 7050, 7050, 7050,
+    7050, 7050, 7050, 7050, 7054, 7052, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 50, 51, 69, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0,
+    58, 59, 77, 209, 209, 209, 201, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 83, 0,
+    200, 0, 0, 0, 0, 0, 0, 0, 0, 96, 0, 0, 0, 91, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    104, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 224, 224,
+    224, 224, 224, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "EV001",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Door1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 201, "indent": 0, "parameters": [0, 1, 5, 7, 0, 0] },
+            { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 3,
+      "y": 9
+    },
+    {
+      "id": 2,
+      "name": "EV002",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Move1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 121, "indent": 0, "parameters": [32, 32, 0] },
+            { "code": 201, "indent": 0, "parameters": [0, 3, 2, 2, 6, 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 1,
+      "y": 2
+    },
+    {
+      "id": 3,
+      "name": "ミール",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "hiro3",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 4
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 7,
+      "y": 3
+    },
+    {
+      "id": 4,
+      "name": "主人公",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "kodomo",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 7,
+      "y": 5
+    },
+    null,
+    {
+      "id": 6,
+      "name": "fsefse",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            { "code": 213, "indent": 0, "parameters": [3, 1, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[5]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["そいつ・・・誰・・・？"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\CLある日私たちの日常に変化が起きた"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[1]が一人の少年を連れてきたのだ"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\CL私は酷く警戒した"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[1]以外だと他には二人ぐらいとしか"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["接点が無かったから・・・"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\CL「そんな怖がらなくても大丈夫だよ"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["こいつは\\n[2]って言うんだ仲良くしてやってくれ」"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[5]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["そう言われてもあたしは・・・・・・"]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                ["\\n[1]に助けを求める", "\\n[2]を見つめる"],
+                1,
+                0,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [0, "\\n[1]に助けを求める"]
+            },
+            { "code": 221, "indent": 1, "parameters": [] },
+            { "code": 117, "indent": 1, "parameters": [39] },
+            { "code": 121, "indent": 1, "parameters": [628, 628, 0] },
+            { "code": 222, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["\\CLこの時のあたしには\\n[2]は邪魔者に見えた"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["だけど、それから何度か会っていくうちに"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["それは誤解だと理解した"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["\\CL\\n[2]にもいろいろあって"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["あたしと同じように\\n[1]に助けられたのだ"]
+            },
+            { "code": 242, "indent": 1, "parameters": [5] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["\\CL少しぐらいならこれからも"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["仲良くしてあげようと思えた・・・"]
+            },
+            { "code": 221, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            { "code": 401, "indent": 1, "parameters": ["\\CL・・・・・・"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            { "code": 401, "indent": 1, "parameters": ["\\CL・・・"] },
+            { "code": 223, "indent": 1, "parameters": [[0, 0, 0, 0], 1, true] },
+            { "code": 211, "indent": 1, "parameters": [1] },
+            { "code": 201, "indent": 1, "parameters": [0, 126, 19, 23, 2, 0] },
+            { "code": 222, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 402, "indent": 0, "parameters": [1, "\\n[2]を見つめる"] },
+            { "code": 221, "indent": 1, "parameters": [] },
+            { "code": 117, "indent": 1, "parameters": [40] },
+            { "code": 222, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["\\CL改めて少年を会眺める"]
+            },
+            { "code": 401, "indent": 1, "parameters": ["そうして目が合った"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["\\CL何も映っていない、暗い瞳をしていた"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["それは、何もかも失ったあの日のあたしに似ていて"]
+            },
+            { "code": 401, "indent": 1, "parameters": ["心が締め付けられる"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【\\n[5]】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["・・・・・・わかった"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["ここに居ても、別にいいよ・・・"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["\\CL本当は\\n[1]の事を独り占めしたかったけど"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["もうそんな気持ちにはならなかった"]
+            },
+            { "code": 242, "indent": 1, "parameters": [5] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["\\CLきっとこれから長い付き合いになるのだろう"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["先輩としてあたしから歩み寄ってやるのも"]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["やぶさかではなかった・・・"]
+            },
+            { "code": 221, "indent": 1, "parameters": [] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            { "code": 401, "indent": 1, "parameters": ["\\CL・・・・・・"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            { "code": 401, "indent": 1, "parameters": ["\\CL・・・"] },
+            { "code": 223, "indent": 1, "parameters": [[0, 0, 0, 0], 1, true] },
+            { "code": 211, "indent": 1, "parameters": [1] },
+            { "code": 201, "indent": 1, "parameters": [0, 126, 19, 23, 2, 0] },
+            { "code": 222, "indent": 1, "parameters": [] },
+            { "code": 0, "indent": 1, "parameters": [] },
+            { "code": 404, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        }
+      ],
+      "x": 9,
+      "y": 7
+    },
+    {
+      "id": 7,
+      "name": "fesfsef",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 14,
+      "y": 2
+    },
+    {
+      "id": 8,
+      "name": "親友",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "kodomo",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 6,
+      "y": 5
+    },
+    null,
+    null,
+    null,
+    null
+  ]
+}

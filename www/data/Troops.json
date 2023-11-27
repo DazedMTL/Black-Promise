@@ -1,0 +1,1450 @@
+[
+  null,
+  {
+    "id": 1,
+    "members": [
+      { "enemyId": 1, "x": 336, "y": 436, "hidden": false },
+      { "enemyId": 1, "x": 633, "y": 328, "hidden": false }
+    ],
+    "name": "こうもり*2",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      },
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "members": [
+      { "enemyId": 2, "x": 337, "y": 436, "hidden": false },
+      { "enemyId": 2, "x": 480, "y": 436, "hidden": false }
+    ],
+    "name": "スライム*2",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "members": [{ "enemyId": 3, "x": 408, "y": 436, "hidden": false }],
+    "name": "オーク",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "members": [{ "enemyId": 4, "x": 408, "y": 436, "hidden": false }],
+    "name": "ミノタウロス",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "members": [
+      { "enemyId": 1, "x": 159, "y": 316, "hidden": false },
+      { "enemyId": 1, "x": 669, "y": 310, "hidden": false },
+      { "enemyId": 2, "x": 468, "y": 346, "hidden": false }
+    ],
+    "name": "地下",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "members": [
+      { "enemyId": 2, "x": 189, "y": 418, "hidden": false },
+      { "enemyId": 2, "x": 350, "y": 307, "hidden": false },
+      { "enemyId": 5, "x": 593, "y": 403, "hidden": false }
+    ],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "members": [
+      { "enemyId": 2, "x": 166, "y": 352, "hidden": false },
+      { "enemyId": 2, "x": 426, "y": 340, "hidden": false },
+      { "enemyId": 2, "x": 668, "y": 349, "hidden": false }
+    ],
+    "name": "地下3",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "members": [],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "members": [
+      { "enemyId": 1, "x": 108, "y": 238, "hidden": false },
+      { "enemyId": 6, "x": 456, "y": 424, "hidden": false },
+      { "enemyId": 1, "x": 762, "y": 223, "hidden": false }
+    ],
+    "name": "北の森２",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "members": [
+      { "enemyId": 2, "x": 158, "y": 319, "hidden": false },
+      { "enemyId": 2, "x": 763, "y": 268, "hidden": false },
+      { "enemyId": 7, "x": 503, "y": 418, "hidden": false }
+    ],
+    "name": "北の森２",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "members": [
+      { "enemyId": 3, "x": 474, "y": 400, "hidden": false },
+      { "enemyId": 5, "x": 171, "y": 373, "hidden": false },
+      { "enemyId": 5, "x": 750, "y": 364, "hidden": false }
+    ],
+    "name": "北の森２",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "members": [],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "members": [
+      { "enemyId": 2, "x": 70, "y": 358, "hidden": false },
+      { "enemyId": 2, "x": 816, "y": 361, "hidden": false },
+      { "enemyId": 5, "x": 237, "y": 427, "hidden": false },
+      { "enemyId": 5, "x": 675, "y": 444, "hidden": false },
+      { "enemyId": 7, "x": 246, "y": 343, "hidden": false },
+      { "enemyId": 7, "x": 696, "y": 337, "hidden": false },
+      { "enemyId": 2, "x": 483, "y": 444, "hidden": false },
+      { "enemyId": 8, "x": 483, "y": 295, "hidden": false }
+    ],
+    "name": "ヒロ１寝取られモンスター",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 1,
+          "enemyIndex": 7,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "members": [],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "members": [
+      { "enemyId": 27, "x": 486, "y": 313, "hidden": false },
+      { "enemyId": 19, "x": 186, "y": 403, "hidden": false },
+      { "enemyId": 19, "x": 723, "y": 436, "hidden": false }
+    ],
+    "name": "中盤１",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "members": [
+      { "enemyId": 28, "x": 654, "y": 340, "hidden": false },
+      { "enemyId": 20, "x": 141, "y": 265, "hidden": false },
+      { "enemyId": 20, "x": 342, "y": 427, "hidden": false }
+    ],
+    "name": "中盤に２",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "members": [
+      { "enemyId": 20, "x": 486, "y": 337, "hidden": false },
+      { "enemyId": 19, "x": 222, "y": 391, "hidden": false },
+      { "enemyId": 19, "x": 705, "y": 403, "hidden": false }
+    ],
+    "name": "中盤３",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "members": [
+      { "enemyId": 27, "x": 304, "y": 346, "hidden": false },
+      { "enemyId": 28, "x": 653, "y": 444, "hidden": false }
+    ],
+    "name": "中盤４",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "members": [],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "members": [],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "members": [
+      { "enemyId": 19, "x": 226, "y": 328, "hidden": false },
+      { "enemyId": 19, "x": 736, "y": 340, "hidden": false },
+      { "enemyId": 20, "x": 489, "y": 424, "hidden": false }
+    ],
+    "name": "マガレ探索間男",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "members": [
+      { "enemyId": 22, "x": 140, "y": 436, "hidden": false },
+      { "enemyId": 22, "x": 489, "y": 301, "hidden": false },
+      { "enemyId": 22, "x": 769, "y": 442, "hidden": false }
+    ],
+    "name": "オーク３兄弟",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "members": [{ "enemyId": 9, "x": 486, "y": 427, "hidden": false }],
+    "name": "シロイモノ",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "members": [
+      { "enemyId": 23, "x": 150, "y": 436, "hidden": false },
+      { "enemyId": 23, "x": 372, "y": 322, "hidden": false },
+      { "enemyId": 23, "x": 591, "y": 444, "hidden": false },
+      { "enemyId": 23, "x": 768, "y": 328, "hidden": false }
+    ],
+    "name": "しゅるしゅる",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": true
+        },
+        "list": [
+          { "code": 313, "indent": 0, "parameters": [0, 5, 0, 11] },
+          { "code": 0, "indent": 0, "parameters": [] }
+        ],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "members": [
+      { "enemyId": 24, "x": 140, "y": 436, "hidden": false },
+      { "enemyId": 24, "x": 465, "y": 313, "hidden": false },
+      { "enemyId": 24, "x": 793, "y": 436, "hidden": false }
+    ],
+    "name": "オーク３兄弟",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": true
+        },
+        "list": [
+          { "code": 333, "indent": 0, "parameters": [-1, 0, 8] },
+          { "code": 0, "indent": 0, "parameters": [] }
+        ],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "members": [{ "enemyId": 25, "x": 381, "y": 373, "hidden": false }],
+    "name": "ニワトリさん",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 3,
+          "switchValid": true,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "members": [],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "members": [{ "enemyId": 11, "x": 489, "y": 444, "hidden": false }],
+    "name": "クロ",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 631,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": true
+        },
+        "list": [
+          { "code": 129, "indent": 0, "parameters": [1, 1, false] },
+          { "code": 129, "indent": 0, "parameters": [2, 1, false] },
+          { "code": 129, "indent": 0, "parameters": [12, 0, false] },
+          { "code": 0, "indent": 0, "parameters": [] }
+        ],
+        "span": 0
+      },
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 631,
+          "switchValid": false,
+          "turnA": 1,
+          "turnB": 0,
+          "turnEnding": true,
+          "turnValid": true
+        },
+        "list": [
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+          { "code": 401, "indent": 0, "parameters": ["話を聞いてくれ！"] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["僕はクロちゃんの事がっ・・"]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+          { "code": 401, "indent": 0, "parameters": ["うるさいっ！"] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["そんな言葉信じられるか！"]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["また、辛い思いをするぐらいなら"]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["せめて我の手で引導を渡してやろう！"]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["相手から桁外れの力を感じる"]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["正攻法では勝てそうにない"]
+          },
+          { "code": 121, "indent": 0, "parameters": [631, 631, 0] },
+          { "code": 0, "indent": 0, "parameters": [] }
+        ],
+        "span": 0
+      },
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 631,
+          "switchValid": true,
+          "turnA": 2,
+          "turnB": 0,
+          "turnEnding": true,
+          "turnValid": true
+        },
+        "list": [
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["初めて出会った時に運命だと思った"]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["まず、君の容姿に見惚れてしまったんだ"]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["物語に出てくるどんなお姫様よりも綺麗だと！"]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+          { "code": 401, "indent": 0, "parameters": ["一目惚れだったんだ！"] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["僕はそれから君と会う事ばかり考えていた！"]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["いきなりそんな見え透いた嘘を！"]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["騙されないんだからな！"]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+          { "code": 401, "indent": 0, "parameters": ["力がさらに強力になる"] },
+          { "code": 401, "indent": 0, "parameters": ["このままでは・・・"] },
+          { "code": 121, "indent": 0, "parameters": [632, 632, 0] },
+          { "code": 0, "indent": 0, "parameters": [] }
+        ],
+        "span": 0
+      },
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 632,
+          "switchValid": true,
+          "turnA": 3,
+          "turnB": 0,
+          "turnEnding": true,
+          "turnValid": true
+        },
+        "list": [
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["それから時間さえあれば君に会いに行ったよ"]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": [
+              "時間を重ねれば重ねるほど、どんどん君の事が好きになった"
+            ]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["君のやさしい声で紡がれる会話が好きだ"]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["どんなお話だって素敵な思い出に変えてしまう"]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["君と過ごした時間は掛け替えのないモノだった"]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["そう思っていたのは僕だけだったのか！？"]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["・・・そんなの・・・我だって・・・"]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["我だって大切だったに決まってる！"]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["でも、お前は忘れていたじゃないか！"]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["我を一人にして約束を守ってくれなかった！"]
+          },
+          { "code": 121, "indent": 0, "parameters": [633, 633, 0] },
+          { "code": 0, "indent": 0, "parameters": [] }
+        ],
+        "span": 0
+      },
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 633,
+          "switchValid": true,
+          "turnA": 4,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": true
+        },
+        "list": [
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["ごめん・・・その事は僕が悪い"]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["君に寂しい思いをさせてしまった"]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["許してくれだなんて言わない"]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["だけど、僕が君の事を大切だって"]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["その気持ちは本当なんだ"]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["・・・遅くなってごめんクロちゃん"]
+          },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["君を愛している、この世の何よりも大切にしたい"]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【\\n[2]】"] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["どうか僕のお嫁さんになってほしい"]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+          { "code": 401, "indent": 0, "parameters": ["・・・・・・・・・"] },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["・・・・・・ぐすっ・・・"]
+          },
+          { "code": 0, "indent": 0, "parameters": [] }
+        ],
+        "span": 0
+      },
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 633,
+          "switchValid": false,
+          "turnA": 4,
+          "turnB": 0,
+          "turnEnding": true,
+          "turnValid": true
+        },
+        "list": [
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["・・・ばか・・・ばかもの・・・"]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+          { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+          {
+            "code": 401,
+            "indent": 0,
+            "parameters": ["もう二度と・・・我の傍を離れるんじゃない・・・"]
+          },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+          { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+          { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+          { "code": 401, "indent": 0, "parameters": ["・・・"] },
+          { "code": 129, "indent": 0, "parameters": [12, 1, false] },
+          { "code": 129, "indent": 0, "parameters": [1, 0, false] },
+          { "code": 129, "indent": 0, "parameters": [2, 0, false] },
+          { "code": 121, "indent": 0, "parameters": [701, 701, 1] },
+          { "code": 121, "indent": 0, "parameters": [702, 702, 1] },
+          { "code": 121, "indent": 0, "parameters": [703, 703, 1] },
+          { "code": 340, "indent": 0, "parameters": [] },
+          { "code": 251, "indent": 0, "parameters": [] },
+          { "code": 0, "indent": 0, "parameters": [] }
+        ],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "members": [],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "members": [
+      { "enemyId": 13, "x": 364, "y": 295, "hidden": false },
+      { "enemyId": 14, "x": 521, "y": 444, "hidden": false }
+    ],
+    "name": "終盤１",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "members": [
+      { "enemyId": 13, "x": 477, "y": 319, "hidden": false },
+      { "enemyId": 15, "x": 213, "y": 364, "hidden": false },
+      { "enemyId": 15, "x": 723, "y": 361, "hidden": false },
+      { "enemyId": 15, "x": 486, "y": 444, "hidden": false }
+    ],
+    "name": "終盤２",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "members": [
+      { "enemyId": 15, "x": 215, "y": 397, "hidden": false },
+      { "enemyId": 15, "x": 723, "y": 397, "hidden": false },
+      { "enemyId": 16, "x": 415, "y": 280, "hidden": false },
+      { "enemyId": 14, "x": 498, "y": 444, "hidden": false }
+    ],
+    "name": "終盤３",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "members": [
+      { "enemyId": 13, "x": 515, "y": 283, "hidden": false },
+      { "enemyId": 14, "x": 466, "y": 444, "hidden": false },
+      { "enemyId": 15, "x": 703, "y": 391, "hidden": false },
+      { "enemyId": 16, "x": 159, "y": 355, "hidden": false },
+      { "enemyId": 15, "x": 204, "y": 424, "hidden": false }
+    ],
+    "name": "終盤４",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "members": [],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "members": [],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "members": [],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "members": [],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "members": [],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "members": [],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "members": [],
+    "name": "",
+    "pages": [
+      {
+        "conditions": {
+          "actorHp": 50,
+          "actorId": 1,
+          "actorValid": false,
+          "enemyHp": 50,
+          "enemyIndex": 0,
+          "enemyValid": false,
+          "switchId": 1,
+          "switchValid": false,
+          "turnA": 0,
+          "turnB": 0,
+          "turnEnding": false,
+          "turnValid": false
+        },
+        "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+        "span": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,1129 @@
+{
+  "autoplayBgm": false,
+  "autoplayBgs": false,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
+  "disableDashing": false,
+  "displayName": "道具屋２Ｆ",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 10,
+  "note": "",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 3,
+  "width": 15,
+  "data": [
+    6371, 6371, 6370, 6370, 6370, 6370, 6370, 6370, 6370, 6370, 6370, 6370,
+    6370, 6374, 6374, 6369, 6377, 6376, 6376, 6376, 6376, 6376, 6376, 6376,
+    6376, 6376, 6376, 6376, 6380, 6372, 6373, 3234, 3220, 3220, 3220, 3220,
+    3220, 3220, 3220, 3220, 3220, 3220, 3220, 3236, 6373, 6373, 3216, 3200,
+    3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3224, 6373,
+    6373, 3216, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200,
+    3200, 3224, 6373, 6373, 3216, 3200, 3200, 3200, 3200, 3200, 3200, 3200,
+    3200, 3200, 3200, 3200, 3224, 6373, 6373, 3216, 3200, 3200, 3200, 3200,
+    3200, 3200, 3200, 3200, 3200, 3200, 3200, 3224, 6373, 6373, 3216, 3200,
+    3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3200, 3224, 6373,
+    6373, 3240, 3228, 3228, 3228, 3228, 3228, 3228, 3228, 3228, 3228, 3228,
+    3228, 3238, 6373, 6381, 6379, 6378, 6378, 6378, 6378, 6378, 6378, 6378,
+    6378, 6378, 6378, 6378, 6382, 6381, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 201, 201, 201, 201,
+    201, 201, 201, 0, 0, 0, 0, 0, 0, 0, 0, 201, 201, 201, 0, 0, 201, 201, 0, 0,
+    0, 0, 0, 0, 0, 0, 201, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 0, 0,
+    161, 0, 0, 18, 0, 164, 165, 166, 167, 0, 0, 0, 26, 0, 0, 169, 0, 0, 26, 0,
+    172, 173, 174, 175, 0, 0, 209, 209, 209, 209, 224, 224, 224, 0, 0, 0, 0, 0,
+    0, 0, 0, 209, 209, 209, 176, 0, 224, 224, 224, 224, 224, 224, 0, 0, 0, 0,
+    209, 201, 201, 184, 0, 0, 0, 224, 224, 224, 224, 0, 0, 0, 0, 201, 201, 0, 0,
+    0, 0, 0, 0, 224, 224, 224, 0, 0, 0, 0, 201, 209, 209, 209, 0, 0, 0, 0, 224,
+    224, 224, 0, 0, 0, 0, 209, 209, 209, 209, 209, 209, 224, 209, 224, 0, 0, 0,
+    0, 0, 0, 209, 209, 209, 209, 209, 209, 209, 224, 224, 0, 0, 0, 12, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "EV001",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "Move1", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 201, "indent": 0, "parameters": [0, 29, 12, 8, 4, 0] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 13,
+      "y": 8
+    },
+    {
+      "id": 2,
+      "name": "EV002",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 223,
+              "indent": 0,
+              "parameters": [[-68, -68, -68, 0], 1, true]
+            },
+            { "code": 222, "indent": 0, "parameters": [] },
+            {
+              "code": 241,
+              "indent": 0,
+              "parameters": [
+                { "name": "Scene7", "volume": 40, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ここは滅多に人がこないから"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["いったい彼女は何を言っているんだ"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["こんな所に連れてきて"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["おっぱい・・・触っていいよ"]
+            },
+            { "code": 213, "indent": 0, "parameters": [4, 1, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["え！？"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["おっぱいを触っていいって言ったのか"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["何がどうなっているんだ"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["・・・僕はきっとまだ寝ぼけていて"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["夢を見ているのかもしれない"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["どうしようもない奴だ"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["でも、それはそれとして・・・"]
+            },
+            { "code": 213, "indent": 0, "parameters": [3, 2, false] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["触らないの？"] },
+            { "code": 356, "indent": 0, "parameters": ["HALF_MOVE_ENABLE"] },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                3,
+                {
+                  "list": [
+                    { "code": 37, "indent": null },
+                    { "code": 3, "indent": null },
+                    { "code": 0 }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 37, "indent": null }]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [{ "code": 3, "indent": null }]
+            },
+            { "code": 213, "indent": 0, "parameters": [4, 8, true] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "hiro2 seku 1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["えっと・・・では"] },
+            { "code": 401, "indent": 0, "parameters": ["触りますねっ・・・"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["僕はおそるおそる"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["彼女のおっぱいに手を伸ばした"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["・・・・・・そして"] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [2, "hiro2 seku 2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "衣擦音01", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["んっ・・・"] },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [1, "hiro2 seku 1", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            { "code": 213, "indent": 0, "parameters": [4, 1, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["ご、ごめんっ！"] },
+            { "code": 401, "indent": 0, "parameters": ["痛かった？"] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["そういうわけじゃ・・・ないです"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ちょっとびっくりしただけ"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            { "code": 401, "indent": 0, "parameters": ["・・・続けて"] },
+            { "code": 213, "indent": 0, "parameters": [4, 8, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["僕は咄嗟に離してしまった手を"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["もう一度おっぱいへと伸ばす"]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [2, "hiro2 seku 2", 0, 0, 0, 0, 100, 100, 255, 0]
+            },
+            { "code": 235, "indent": 0, "parameters": [1] },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                { "name": "衣擦音02", "volume": 90, "pitch": 100, "pan": 0 }
+              ]
+            },
+            {
+              "code": 245,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "01あえぎ(小さめ息多め）",
+                  "volume": 90,
+                  "pitch": 120,
+                  "pan": 0
+                }
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["はぁ・・・んっ・・・はぁ・・・"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["まさに夢のようだ"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["人生で初めて女の子のおっぱいを触った"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["それもずっと片思いをしていた"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["女の子のおっぱいだ"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["彼女は身体にコンプレックスがあるようだけど"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["僕は全然そんなことないって思う"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["どうかな？"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["胸を触るとか初めてで"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["よくわからなくて・・・ごめん"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["んっ・・・私も、わからないから"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["気にしなくて・・・いい"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["彼女もよくわからないということは"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[1]とそういうことが無い"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ということだろうか？"]
+            },
+            { "code": 213, "indent": 0, "parameters": [4, 8, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["もしそうだったらと思うと"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["優越感が身体を満たす"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["あっ・・・はぁ・・・はぁ"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["もう少しやさしく出来る？"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["自然と力がこもってしまったようだ"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["僕は何をやっているんだ"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["そもそもここにいない奴のことなんて"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["考えたって仕方ないんだ"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["・・・彼女の事だけを考えよう"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ごめんっ・・・痛かったよね"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["優しくする、ごめん"] },
+            { "code": 213, "indent": 0, "parameters": [3, 4, false] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["いいよ・・・そう・・・"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["んっ\\i[249]・・・ん\\i[249]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["僕は段々コツをつかみ始めていた"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["村の人たちの中には彼女の表情がわかり辛い"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["なんて言う人もいるが、そんなことはない"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["僕はいつも彼女を見ているから"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["彼女の表情が、花びらが舞うように"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ひらひらと変わっているのを知っている"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 7, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["はっ・・・\\i[249]んっ・・・\\i[249]んん\\i[249]"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["はぁ・・・\\i[249]"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["・・・だけど"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["今、彼女がしている表情は見たことが無かった"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["上気した肌は服の上からでも"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["しっとりと手に感じることが出来るし"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["たえまなく漏らす息には熱が含まれ"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["頬は朱にそまっている"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[4]ちゃん気持ちい？"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["僕の手で気持ち良くなってくれている？"]
+            },
+            { "code": 213, "indent": 0, "parameters": [3, 4, false] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 7, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["はいっ\\i[249]んっ\\i[249]・・・はぁ\\i[249]"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["気持ちいい・・・です・・・\\i[249]"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["僕は今までの人生で一番幸福を感じていた"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["気を抜くと自分本位に彼女を"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["めちゃくちゃにしたいって思ってしまう"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["だけどそれじゃだめだから"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["優しく彼女に気持ちよくなってほしいって"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["慎重に胸を揉んでいく"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 7, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["だめっ\\i[249]・・・ん\\i[249]"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["あっ・・・\\i[249]"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["彼女は感じやすいのだろうか"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["半ば僕にもたれかかる様にして"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["荒い息を繰り返している・・・そして"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 7, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["ん\\i[249]・・・いやっ\\i[249]"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["わたし・・・っ\\i[249]\\i[249]\\i[249]"]
+            },
+            { "code": 235, "indent": 0, "parameters": [2] },
+            { "code": 213, "indent": 0, "parameters": [4, 1, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["えっ！？"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[4]ちゃんどうしたのっ！？"]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["びくびくと痙攣したかと思うと"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["そのまま完全に彼女は倒れてしまった"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 7, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[4]】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["はぁ・・・\\i[249]はぁ・・・\\i[249]"]
+            },
+            { "code": 246, "indent": 0, "parameters": [10] },
+            { "code": 242, "indent": 0, "parameters": [10] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["その後、しばらくして目を覚ました彼女は"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["先ほどまでの事を覚えていないようだった"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["そんな彼女の反応を見て"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["先ほどまでの事が本当は夢だったんじゃないかって"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["少しだけ思ってしまう・・・だけど"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【冴えない顔のお兄さん】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["僕の耳元にかすかに残る吐息の熱が"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["夢じゃなかったと、教えてくれている気がした"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 211, "indent": 0, "parameters": [1] },
+            { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
+            { "code": 201, "indent": 0, "parameters": [0, 47, 9, 13, 2, 0] },
+            { "code": 356, "indent": 0, "parameters": ["HALF_MOVE_DISABLE"] },
+            { "code": 121, "indent": 0, "parameters": [129, 129, 1] },
+            { "code": 222, "indent": 0, "parameters": [] },
+            { "code": 0, "indent": 0, "parameters": [] }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        }
+      ],
+      "x": 3,
+      "y": 0
+    },
+    {
+      "id": 3,
+      "name": "じとめ",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "hiro2",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 5,
+      "y": 5
+    },
+    {
+      "id": 4,
+      "name": "おにい",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "People1",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 2
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 6,
+      "y": 5
+    },
+    {
+      "id": 5,
+      "name": "dawdaw",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 10,
+      "y": 4
+    },
+    {
+      "id": 6,
+      "name": "",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [{ "code": 0, "indent": 0, "parameters": [] }],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [{ "code": 0, "parameters": [] }],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 14,
+      "y": 0
+    }
+  ]
+}
