@@ -3,14 +3,14 @@
   {
     "id": 1,
     "animationId": 6,
-    "description": "主人公の思いでの剣、苦楽を共にしてきた\n使った経験は殆ど無い",
+    "description": "The sword of the protagonist's memories, which has\nshared both joy and sorrow, has been used very\nlittle.",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
       { "code": 22, "dataId": 0, "value": 0 }
     ],
     "iconIndex": 97,
-    "name": "思い出の剣",
+    "name": "Sword of Memories",
     "note": "",
     "params": [0, 0, 30, 0, 0, 0, 0, 0],
     "price": 500,
@@ -26,7 +26,7 @@
       { "code": 22, "dataId": 0, "value": 0 }
     ],
     "iconIndex": 99,
-    "name": "斧",
+    "name": "Axe",
     "note": "",
     "params": [0, 0, 10, 0, 0, 0, 0, 0],
     "price": 500,
@@ -35,14 +35,14 @@
   {
     "id": 3,
     "animationId": 1,
-    "description": "両親も使っていた杖\n無いよりはまし",
+    "description": "A staff that both of my parents used. It's better\nthan having nothing.",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
       { "code": 22, "dataId": 0, "value": 0 }
     ],
     "iconIndex": 101,
-    "name": "使い古した杖",
+    "name": "Worn Staff",
     "note": "",
     "params": [0, 0, 10, 0, 0, 0, 0, 0],
     "price": 500,
@@ -58,7 +58,7 @@
       { "code": 22, "dataId": 0, "value": 0 }
     ],
     "iconIndex": 102,
-    "name": "弓",
+    "name": "Bow",
     "note": "",
     "params": [0, 0, 10, 0, 0, 0, 0, 0],
     "price": 500,
@@ -67,14 +67,14 @@
   {
     "id": 5,
     "animationId": 6,
-    "description": "ライトの約束の剣\nどんな約束だったかは覚えていない",
+    "description": "Light's Promise Sword I don't remember what the\npromise was.",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
       { "code": 22, "dataId": 0, "value": 0 }
     ],
     "iconIndex": 97,
-    "name": "約束の剣",
+    "name": "Sword of Promise",
     "note": "",
     "params": [0, 0, 60, 20, 0, 20, 20, 0],
     "price": 500,
@@ -99,14 +99,14 @@
   {
     "id": 7,
     "animationId": 11,
-    "description": "相手のハートを狙い撃ち！",
+    "description": "Aim for the opponent's heart!",
     "etypeId": 1,
     "traits": [
       { "code": 31, "dataId": 1, "value": 0 },
       { "code": 22, "dataId": 0, "value": 0 }
     ],
     "iconIndex": 0,
-    "name": "愛用してる弓矢",
+    "name": "Beloved Bow and Arrows",
     "note": "",
     "params": [0, 0, 10, 0, 0, 0, 0, 0],
     "price": 500,
@@ -298,7 +298,7 @@
       { "code": 22, "dataId": 0, "value": 0 }
     ],
     "iconIndex": 97,
-    "name": "魔剣",
+    "name": "Magic Sword",
     "note": "",
     "params": [0, 0, 500, 0, 0, 0, 0, 0],
     "price": 0,

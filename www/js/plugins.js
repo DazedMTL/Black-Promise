@@ -5,7 +5,7 @@ var $plugins = [
     name: "CBR_eroStatus_main",
     status: true,
     description: "エロステータス作れちゃうプラグイン(本体)",
-    parameters: { eroStaName: "えっち", "": "", commonEvent: "19" },
+    parameters: { eroStaName: "Ecchi", "": "", commonEvent: "19" },
   },
   {
     name: "CBR_eroStatus_1",
