@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "夢の中",
+  "displayName": "Inside the Dream",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -154,37 +154,34 @@
               "parameters": [{ "code": 22, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・めよ"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["??? ...look at me"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・目覚めよ"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Wake up"] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 211, "indent": 0, "parameters": [1] },
             { "code": 121, "indent": 0, "parameters": [9, 9, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[2]約束の時だ\\c[0]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今こそ我の願いを叶えてくれ"]
+              "parameters": [
+                "\\c[2]It's time for the promised moment\\c[0] Now,\nfulfill my wish"
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [1] },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["約束の時？", "誰ですか？", "声可愛いですね"],
+                [
+                  "The promised moment?",
+                  "Who is it?",
+                  "Your voice is cute, isn't it?"
+                ],
                 1,
                 0,
                 1,
@@ -193,52 +190,48 @@
             },
             { "code": 402, "indent": 0, "parameters": [0, "約束の時？"] },
             { "code": 101, "indent": 1, "parameters": ["", 1, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・ふむ"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
+            { "code": 401, "indent": 1, "parameters": ["...Hm"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "誰ですか？"] },
             { "code": 101, "indent": 1, "parameters": ["", 1, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["・・・・・・なるほど"]
-            },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
+            { "code": 401, "indent": 1, "parameters": ["...I see"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "声可愛いですね"] },
             { "code": 101, "indent": 1, "parameters": ["", 1, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["・・・・・・別に普通だと思う"]
+              "parameters": ["...I think it's normal"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前・・・名前はなんと言う？"]
+              "parameters": ["You... What is your name?"]
             },
             { "code": 303, "indent": 0, "parameters": [1, 8] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・・・・アイル？"]
+              "parameters": ["...Aeru?...Is that what you mean?"]
             },
-            { "code": 401, "indent": 0, "parameters": ["・・・そういう事か"] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・・・・\\c[2]人違い\\c[0]だった"]
+              "parameters": [
+                "...It was a \\c[2]misunderstanding\\c[0]...go to\nsleep"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・寝ろ"] },
             { "code": 246, "indent": 0, "parameters": [5] },
             { "code": 221, "indent": 0, "parameters": [] },
             {
@@ -361,57 +354,42 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・ここはどこだろう"]
+              "parameters": ["Where could this be?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ぐすっ・・・・・・ぐすっ・・・"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["真っ暗な闇の中"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["誰かの泣き声が聞こえる"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はや・・・・・・に・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・を・・・・・・て"]
+              "parameters": ["*sniff*... *sniff*..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["微かに声が聞こえるが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何を言っているかは聞き取れない"]
+              "parameters": [
+                "In the pitch-black darkness, someone's crying can\nbe heard."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["Fast... to... hand"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・・・・お願い・・・"]
+              "parameters": [
+                "A faint voice can be heard, but it's impossible to\nmake out what is being said."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 2, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Please..."] },
             { "code": 246, "indent": 0, "parameters": [5] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [100] },
             { "code": 201, "indent": 0, "parameters": [0, 2, 10, 3, 2, 0] },
@@ -561,7 +539,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["スキップする", "しない"], 1, 0, 2, 0]
+              "parameters": [["Skip", "Not doing it"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "スキップする"] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },

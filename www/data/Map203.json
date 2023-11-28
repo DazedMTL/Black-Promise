@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "マーガレットの家２Ｆ",
+  "displayName": "Margaret's House 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -168,7 +168,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -327,7 +327,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["フリフリな服が入っている"]
+              "parameters": ["There are frilly clothes inside."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -375,7 +375,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["フリフリな服が入っている"]
+              "parameters": ["There are frilly clothes inside."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -423,7 +423,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["フリフリな服が入っている"]
+              "parameters": ["There are frilly clothes inside."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -480,12 +480,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["かわいい下着が入っている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一つぐらい取ってもばれないだろうか・・・"]
+              "parameters": [
+                "I wonder if I can take at least one cute underwear\nwithout being noticed..."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -533,12 +530,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["エッチな下着が入っている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["最近趣味が変わったのだろうか？"]
+              "parameters": [
+                "I wonder if their recent hobby has changed because\nthere are some naughty underwear inside."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -595,7 +589,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["難しそうな本が並んでいる"]
+              "parameters": ["There are difficult-looking books lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -750,7 +744,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["綺麗な花がいけらている"]
+              "parameters": ["Beautiful flowers are arranged."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -804,7 +798,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["いい匂いがする"] },
+            { "code": 401, "indent": 0, "parameters": ["It smells nice"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -862,39 +856,30 @@
               "parameters": [1, "hiro2 ni b", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あ・・・私の穴をお使いになりますか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それともしゃぶりましょうか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・それとも・・・"]
+              "parameters": [
+                "Ah... Will you use my hole? Or should I suck on\nit? ...Or perhaps..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 5, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どれも必要ないよと伝える"]
+              "parameters": [
+                "I'll let you know that none of those are\nnecessary."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そうですか・・・使いたくなったら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いつでも言ってください、お待ちしております"]
+              "parameters": [
+                "I see... If you ever want to use it, please let me\nknow. I'll be waiting."
+              ]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -944,7 +929,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["マーガレットはボーっと天井を見つめている"]
+              "parameters": ["Margaret is staring blankly at the ceiling"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

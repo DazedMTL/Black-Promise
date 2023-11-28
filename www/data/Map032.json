@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "マーガレットの家２Ｆ",
+  "displayName": "Margaret's House 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -168,7 +168,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -325,7 +325,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -387,7 +387,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["フリフリな服が入っている"]
+              "parameters": ["There are frilly clothes inside."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -435,7 +435,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["フリフリな服が入っている"]
+              "parameters": ["There are frilly clothes inside."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -483,7 +483,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["フリフリな服が入っている"]
+              "parameters": ["There are frilly clothes inside."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -540,12 +540,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["かわいい下着が入っている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一つぐらい取ってもばれないだろうか・・・"]
+              "parameters": [
+                "I wonder if I can take one cute underwear without\nanyone noticing..."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -593,12 +590,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["エッチな下着が入っている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["最近趣味が変わったのだろうか？"]
+              "parameters": [
+                "I wonder if their recent hobby has changed because\nthere are some naughty underwear inside?"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -655,7 +649,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["難しそうな本が並んでいる"]
+              "parameters": ["There are difficult-looking books lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -810,7 +804,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["綺麗な花がいけらている"]
+              "parameters": ["Beautiful flowers are arranged."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -864,7 +858,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["いい匂いがする"] },
+            { "code": 401, "indent": 0, "parameters": ["It smells nice"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -920,24 +914,23 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["読みかけの本が落ちている"]
+              "parameters": ["A half-read book has fallen."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["「男性を気持ちよくする必勝テクニック」"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["という題名らしい・・・"]
+              "parameters": [
+                "It seems to be the title of Surefire Techniques to\nPlease Men..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["マーガレットはこういう事に興味があるのだろうか・・・"]
+              "parameters": [
+                "I wonder if Margaret is interested in this kind of\nthing..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 4, false] },
             { "code": 0, "indent": 0, "parameters": [] }

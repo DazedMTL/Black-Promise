@@ -408,22 +408,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -542,80 +538,70 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["あの日から何だか"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["少しだけぎくしゃくしている"]
+              "parameters": [
+                "Since that day, I've been feeling a little\nawkward."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["私もおくすけさんも"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["その事には触れないけれど"]
+              "parameters": [
+                "Even though both you and I don't mention that\nmatter."
+              ]
             },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 213, "indent": 0, "parameters": [8, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・うん"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["怪我の具合はいい感じだね"]
+              "parameters": ["...Yeah, my injury is feeling better."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ありがとう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["本当に世話になったな"]
+              "parameters": ["Thank you, you really took care of me."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だからそういうのはいいんだってば"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私が勝手にやってることだよ？"]
+              "parameters": ["So it's okay for me to do it on my own, right?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そうか・・・そう、だな・・・"]
+              "parameters": ["I see... I see, yeah..."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日は朝からずっとこんな調子だ"]
+              "parameters": [
+                "I've been feeling like this since this morning. My\nbody doesn't seem to be particularly unwell, but I\nwonder if something is wrong."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["身体の調子は特別悪くなさそうだけど"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["何かあるのだろうか"] },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            { "code": 401, "indent": 0, "parameters": ["リラのお陰で"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ワタシの身体は随分よくなった"]
+              "parameters": ["Thanks to Lira, my body has improved a lot."]
             },
             {
               "code": 205,
@@ -636,390 +622,312 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だから、もう大丈夫だ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お前の村へ・・・本来いる場所に帰るんだ"]
+              "parameters": [
+                "That's why, I'm already fine. I'll return to your\nvillage... to where I originally belong."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [8, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["それはっ・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["That's..."] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["急な話、というわけでもないのだろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["元々そういうことだったのだから"]
+              "parameters": [
+                "It's not like it's a sudden conversation, but I\nsuppose it was originally meant to be that way."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ただ、なぜか"] },
-            { "code": 401, "indent": 0, "parameters": ["その言葉を聞いて"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["無性に心がざわついた"]
+              "parameters": [
+                "However, for some reason, my heart started to feel\nrestless when I heard those words."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前には本当に感謝している"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・いい思い出になった"]
+              "parameters": [
+                "I'm truly grateful to you... It's become a good\nmemory."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["何それ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もうこれっきりみたいじゃん！"]
+              "parameters": ["What's that?! It seems like this is the end!"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おくすけさんの言葉に噛みついてしまう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["心のざわつきは一向に晴れない"]
+              "parameters": [
+                "The restlessness in my heart that makes me want to\nsnap at Okusuke-san's words doesn't clear up at\nall."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            { "code": 401, "indent": 0, "parameters": ["そうだ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ワタシたちは別の場所へ"]
+              "parameters": ["I think we should go to a different place."]
             },
-            { "code": 401, "indent": 0, "parameters": ["行こうと思う"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここも色々あったからな・・・"]
+              "parameters": [
+                "There were various things that happened here\ntoo..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [8, 7, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんな勝手に決めて！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう少し何かあるんじゃないのっ"]
+              "parameters": [
+                "Don't decide that on your own! Isn't there\nsomething else a little bit more?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["本来人間と魔物はそういうものだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いつかまた、ワタシがお前を襲うかもしれない"]
+              "parameters": [
+                "Humans and monsters are originally like that.\nSomeday, I might attack you again."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["っ・・・！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["...!"] },
             { "code": 213, "indent": 0, "parameters": [7, 7, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["理解したならここを去れ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうかお前に幸せがありますように・・・"]
+              "parameters": [
+                "If you understand, then please leave this place. I\nhope you find happiness..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おくすけさんの言っていることは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["正しかった、魔物と人間なんて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["殺しあうのが常なのだ"]
+              "parameters": [
+                "What Okusuke-san is saying is correct. It's normal\nfor monsters and humans to kill each other."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今の状態が異常なだけ"]
+              "parameters": ["The current situation is abnormal... but"]
             },
-            { "code": 401, "indent": 0, "parameters": ["・・・だけど"] },
             { "code": 213, "indent": 0, "parameters": [8, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["おくすけさん"] },
-            { "code": 401, "indent": 0, "parameters": ["嘘ついてるでしょ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Okusuke-san, you're lying, aren't you?"]
+            },
             { "code": 213, "indent": 0, "parameters": [7, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・どういうことだ"]
+              "parameters": ["...What do you mean?"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色々ともっともらしいことを言ってるけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そんなのは全部嘘ばっかり"]
+              "parameters": [
+                "You're saying all sorts of plausible things, but\nit's all just a bunch of lies."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["本当は私から逃げたいんでしょ"]
+              "parameters": [
+                "You actually want to run away from me, don't you?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この前私を襲ったこと"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["後悔してるの？"] },
-            { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大丈夫、私は気にしてないよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あれがいつものおくすけさんじゃ無いって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちゃんとわかってるから、怖くなんてないよ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["違う、そういうことじゃないんだ・・・"]
+              "parameters": ["Do you regret attacking me the other day?"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["じゃあ、どういうことなの？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちゃんと言ってくれなきゃわからないよ"]
+              "parameters": [
+                "It's okay, I'm not worried. I know that's not the\nusual Okusuke-san, so I'm not scared at all."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラが言うことは半分正解だ"]
+              "parameters": ["No, that's not it..."]
             },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ワタシは恐ろしいんだ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ただそれはリラの事がじゃない"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["ワタシ自身の事だ"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あの時は抑えることが出来たが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あの衝動はワタシの本心だ"]
+              "parameters": [
+                "Then, what do you mean? If you don't tell me\nproperly, I won't understand."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・今だって頭の中では"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お前を犯す事ばかり考えている"]
+              "parameters": [
+                "What Lira is saying is half right. I'm terrified."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ただ、それは"] },
-            { "code": 401, "indent": 0, "parameters": ["信頼を裏切ることだ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["But that's not about Lira, it's about myself."]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もしそんなことをしてしまえば"]
+              "parameters": [
+                "I was able to restrain myself at that time, but\nthat impulse is my true feelings."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["ワタシは・・・"] },
-            { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おくすけさんが言っていることは"]
+              "parameters": [
+                "...Even now, all I can think about is violating\nyou in my mind."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いつかの魔物と同じことだった"]
+              "parameters": ["However, that would be betraying your trust."]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私の事を犯したいのだという"]
+              "parameters": ["If I were to do such a thing, then I..."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど、どうしてだろう"]
+              "parameters": [
+                "What Okusuke-san is saying is the same as the\nmonster from that day, wanting to violate me."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あの時感じた嫌悪感はまるでなかった"]
+              "parameters": [
+                "But, for some reason, I didn't feel any disgust at\nthat time."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・だからもう行ってくれ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["でないとワタシはお前を失望させることになる"]
+              "parameters": [
+                "...So please leave now, or I will end up\ndisappointing you."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おくすけさんは自分の身体をぎゅっと抱きしめ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その頬には涙が伝っている"]
+              "parameters": [
+                "Okusuke-san is hugging his own body tightly, tears\nstreaming down his cheeks."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["その姿に胸が締め付けられた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それが答えなのだろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私の口からは自然と言葉が零れる"]
+              "parameters": [
+                "My chest tightened at that sight. Perhaps that is\nthe answer. The words naturally spill from my\nmouth."
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [4] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["そんなことない"] },
-            { "code": 401, "indent": 0, "parameters": ["おくすけさんのこと"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["嫌いになったりしないよ"]
+              "parameters": [
+                "I won't come to dislike Okusuke-san for something\nlike that."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だからそんな顔しないで"]
+              "parameters": [
+                "So please don't make that kind of face. No matter\nwhat kind of Okusuke-san, I'm sure it'll be okay."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どんなおくすけさんだって"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["きっと大丈夫"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうなっても・・・知らないぞ・・・"]
+              "parameters": ["No matter what happens... I don't know..."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             {
@@ -1035,16 +943,13 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おくすけさんはそう言って"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私に近づき乱暴に服を脱がせ"]
+              "parameters": [
+                "Okusuke-san said that and forcibly took off my\nclothes as he approached me."
+              ]
             },
             {
               "code": 250,
@@ -1054,21 +959,13 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そしてベッドの上に投げ出される"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["顔を上げたときには大きな身体が"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私に覆いかぶさっていた"]
+              "parameters": [
+                "And when I raised my face after being thrown onto\nthe bed, a large body was looming over me."
+              ]
             },
             {
               "code": 241,
@@ -1079,45 +976,40 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            { "code": 401, "indent": 0, "parameters": ["今からお前を犯す"] },
-            { "code": 401, "indent": 0, "parameters": ["嫌なら逃げろ"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["そうは言っているが"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今の状態では逃げるなんて不可能だ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私はこのまま犯されるしかない"]
+              "parameters": [
+                "If you don't want to be violated from now on, then\nrun away."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["逃げられる状態だったとしても"]
+              "parameters": [
+                "He's saying that, but in my current state, it's\nimpossible to escape. I have no choice but to be\nviolated like this."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私は動かなかったとは思うけど"]
+              "parameters": [
+                "Even if I were in a state where I could escape, I\ndon't think I would have moved."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["優しくしてなんて言わないよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おくすけさんの好きに───んっ！"]
+              "parameters": [
+                "I won't say be gentle, Okusuke-san. Do as you\nlike───ah!"
+              ]
             },
             {
               "code": 250,
@@ -1133,31 +1025,25 @@
             },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Ah...gahh...h..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ・・・がぁっ・・・っ・・・"]
+              "parameters": [
+                "Before I could convey my words, a dick was thrust\ninto my body."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["言葉を伝えきる前に"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私の身体におちんちんが突き入れられる"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あまりにも乱暴な挿入"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["痛みで意識が飛びかける"]
+              "parameters": [
+                "The pain from the rough insertion was so intense\nthat I almost blacked out."
+              ]
             },
             {
               "code": 231,
@@ -1179,209 +1065,157 @@
             },
             { "code": 121, "indent": 0, "parameters": [323, 323, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ろくに濡れてもいない膣内を"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おくすけさんのおちんちんが抽送する"]
+              "parameters": [
+                "Okusuke-san's dick thrusts into my pussy, which\nisn't even properly wet."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
+            { "code": 401, "indent": 0, "parameters": ["Haa...ha...ha..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁっ・・・はっ・・・はっ"]
+              "parameters": [
+                "The way Okusuke-san is violating me single-\nmindedly is completely different from his usual\nself."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["一心不乱に私を犯す姿は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["普段のおくすけさんとはかけ離れていた"]
+              "parameters": [
+                "I wonder how much I've been enduring until now. I\nmust have been desperately suppressing these\nfeelings. As a result, I'm being treated like an\nobject."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今までどれだけ我慢していたのだろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["きっと必死でこの感情を押さえつけていたのだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その反動からか私はモノのように扱われる"]
+              "parameters": [
+                "However, there was no fear in him at that moment.\nOkusuke-san was just doing what was natural."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ただ、そこに恐怖心は無かった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今のおくすけさんは当たり前の事をしているだけだ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["好きな異性がいたら結ばれたい"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["犯して、孕ませたい"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・孕みたい"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はっ・・・はっ・・・はっ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おくすけさんは顔を肩にぐっと寄せて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おもむろに噛みついた"]
+              "parameters": [
+                "If I had a favorite opposite-sex partner, I would\nwant to be tied, violated, impregnated... I want\nto get pregnant."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["っい・・・あっ・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
+            { "code": 401, "indent": 0, "parameters": ["Haa...ha...ha..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["本当に私の全部を犯し尽くす気なのだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だけど、この行動は先ほどの弱さの裏返し"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こうまでして自分の証を残さないと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["不安でたまらないのだろう"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私がどこかへ行ってしまうと"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いつのまにかそっとおくすけさんの顔を抱き寄せ"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["口付けをしていた"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ここにいるから大丈夫って"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["伝わる様に精一杯やさしく"]
+              "parameters": [
+                "Okusuke-san pressed his face against my shoulder\nand leisurely bit down."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Ngh...ah..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ・・・ちゅ・・・！？"]
+              "parameters": [
+                "He really seems intent on violating all of me, but\nthis behavior is the flip side of the weakness\nfrom earlier."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あぁ・・じゅる・・・じゅるる・・・んっん・・・"]
+              "parameters": [
+                "He must be so anxious that he can't stand not\nleaving behind his own proof like this."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["If I were to disappear somewhere,"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Before I knew it, I was gently pulling Okusuke-\nsan's face close and kissing him."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I'll do my best to convey that I'm here, so it's\nokay with all the kindness I can muster."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["じゅ・・・ちゅ・・・はぁ・・・"]
+              "parameters": [
+                "Ngh...chu...!? Ah... slurp... slurping... nghhh..."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっじゅる・・・ん・・・"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私が口付けをすると水を得た魚のように"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おくすけさんの舌が口の中に侵入してきた"]
+              "parameters": [
+                "Ngh...chu...!? Ah... slurp... slurping... nghhh..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["長く太い舌は暴れ回り"]
+              "parameters": [
+                "When I kissed him, Okusuke-san's tongue entered my\nmouth like a fish finding water."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["粘液を啜り上げる"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "His long, thick tongue thrashes around, slurping\nup the mucus."
+              ]
+            },
             { "code": 246, "indent": 0, "parameters": [3] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それと共におちんちんも凶暴さを増し"]
+              "parameters": [
+                "At the same time, his penis becomes even more\nviolent, thrusting into me to the deepest part,\nand then ejaculating."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一番奥に突き入れたかと思うと"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["精液を噴出させる"] },
             {
               "code": 231,
               "indent": 0,
@@ -1390,35 +1224,22 @@
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 117, "indent": 0, "parameters": [5] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["んんっん───\\i[249]\\i[249]\\i[249]"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "はぁっ\\i[249]ちゅ・・・\\i[249]じゅる・・・\\i[249]"
+                "Nnnn───\\i[249]\\i[249]\\i[249]haa\\i[249]chu...\\i[249\n]juru...\\i[249]"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["全身がおすくけさんの色に染められていく"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ただ、まだまだ満足はしていないようで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おちんちんが強く叩きつけられる"]
+              "parameters": [
+                "My whole body is being dyed in Okusuke-san's\ncolor, but it seems like he's still not satisfied\nas he forcefully thrusts his penis."
+              ]
             },
             {
               "code": 231,
@@ -1439,58 +1260,39 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私のお尻は赤く腫れあがり"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おマンコからは愛液が溢れる"]
+              "parameters": [
+                "My butt is red and swollen, and love juices\noverflow from my pussy."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["たった数分でこれなのだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この行為が終わるころには"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私は壊れてしまっているかもしれない"]
+              "parameters": [
+                "In just a few minutes, I might be completely\nbroken by the time this act is over."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど、一度受け入れようと決めたのだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうなろうと最後まで付き合おうと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その思いを込めて再び口付けを交わした"]
+              "parameters": [
+                "However, once I decided to accept it, no matter\nwhat happens, I will stick with it until the end\nand exchanged kisses again with that\ndetermination."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 246, "indent": 0, "parameters": [5] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 121, "indent": 0, "parameters": [322, 322, 1] },
             { "code": 117, "indent": 0, "parameters": [3] },
             { "code": 121, "indent": 0, "parameters": [323, 323, 1] },

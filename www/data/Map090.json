@@ -195,12 +195,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL場面は少し変わって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["深い森の中を少年が泣きながら歩いている"]
+              "parameters": [
+                "\\CLThe scene changes a little, and a boy is walking\nthrough a deep forest, crying."
+              ]
             },
             { "code": 222, "indent": 0, "parameters": [] },
             {
@@ -249,84 +246,66 @@
               "parameters": [{ "code": 4, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うぅ・・・ぐす・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お父さんどこぉ・・・"]
+              "parameters": ["Ugh... *sob*... Where's dad..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL「おまえ・・・泣いてるのか？」"]
+              "parameters": ["\\CLAre you... crying?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL「きっと悲しい事があったんだな"]
+              "parameters": [
+                "\\CLYou must have had something sad happen. You're\nwith me now."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["我と一緒だ」"] },
             { "code": 213, "indent": 0, "parameters": [1, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["Ugh... Who...?"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ぐす・・・だれぇ・・・？"]
+              "parameters": [
+                "\\CLWhat was that name... I feel like it was from a\nlong time ago, but I've already forgotten."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL「なんて名前だったか・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["随分昔にはあった気はするが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう忘れてしまった」"]
+              "parameters": [
+                "\\CLBut if it's okay, would you be willing to listen\nto my story and stay with me?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL「だけど一緒にいる事はできる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["よかったら我の話相手になってくれないか？」"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\CL「ずっと一人ぼっちで寂しかったんだ」"]
+              "parameters": ["\\CLI've been lonely and alone for so long."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 242, "indent": 0, "parameters": [4] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\CLいつかの朝も"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["同じような夢を見たような・・・・・・"]
+              "parameters": [
+                "\\CLIt feels like I had the same dream on a morning\nlong ago..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\CL・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["\\CL..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\CL・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["\\CL..."] },
             { "code": 211, "indent": 0, "parameters": [1] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 201, "indent": 0, "parameters": [0, 85, 13, 15, 6, 0] },

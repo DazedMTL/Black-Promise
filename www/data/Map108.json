@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "北の森　奥地",
+  "displayName": "Northern Forest Depths",
   "encounterList": [
     { "regionSet": [], "troopId": 1, "weight": 5 },
     { "regionSet": [], "troopId": 2, "weight": 5 },
@@ -238,22 +238,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -629,17 +625,20 @@
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["どこからともなく"] },
-            { "code": 401, "indent": 0, "parameters": ["声が聞こえてくる"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["立ち去れ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここはお前たちのようなものが"]
+              "parameters": ["A voice can be heard coming from nowhere."]
             },
-            { "code": 401, "indent": 0, "parameters": ["来る場所ではない"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Leave, this is not a place for the likes of you to\ncome."
+              ]
+            },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -688,73 +687,60 @@
             { "code": 201, "indent": 0, "parameters": [0, 108, 14, 10, 8, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["どこからともなく"] },
-            { "code": 401, "indent": 0, "parameters": ["声が聞こえてくる"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["立ち去りなさい"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここはお前たちのようなものが"]
+              "parameters": ["A voice can be heard coming from nowhere."]
             },
-            { "code": 401, "indent": 0, "parameters": ["来る場所ではない"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・ってあれ！貴方ちは！"]
+              "parameters": [
+                "Leave this place. It's not a place for the likes\nof you."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["Wait! You are...!"] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [348, 348, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 213, "indent": 0, "parameters": [7, 4, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ピンク妖精】"] },
-            { "code": 401, "indent": 0, "parameters": ["やっぱり姫様を"] },
+            { "code": 401, "indent": 0, "parameters": ["【Pink Fairy】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["助けて頂いた人間様ですね！"]
+              "parameters": [
+                "You're the human who helped the princess after\nall!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ピンク妖精】"] },
-            { "code": 401, "indent": 0, "parameters": ["改めてまして"] },
+            { "code": 401, "indent": 0, "parameters": ["【Pink Fairy】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["その節はありがとうございました"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["妖精の国の皆が感謝しております！"]
+              "parameters": [
+                "Once again, thank you very much for your help.\nEveryone in the Fairy Kingdom is grateful!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ピンク妖精】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Pink Fairy】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これより先は妖精の国"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["本当でしたら何人たりとも"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["入れはしないのですが"]
+              "parameters": [
+                "From here on, if it's truly the Fairy Kingdom, no\none is allowed to enter."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ピンク妖精】"] },
-            { "code": 401, "indent": 0, "parameters": ["貴方たちは別です"] },
+            { "code": 401, "indent": 0, "parameters": ["【Pink Fairy】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうぞお入りくださいっ！"]
+              "parameters": ["You are different, please come in!"]
             },
             { "code": 201, "indent": 0, "parameters": [0, 109, 4, 18, 8, 0] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -801,13 +787,16 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ピンク妖精】"] },
-            { "code": 401, "indent": 0, "parameters": ["妖精の国へ"] },
-            { "code": 401, "indent": 0, "parameters": ["行きますか？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Pink Fairy】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Are you going to the fairy kingdom?"]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["行くよ", "また今度ね"], 1, 0, 2, 0]
+              "parameters": [["I'm going", "Maybe next time"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "行くよ"] },
             { "code": 201, "indent": 1, "parameters": [0, 109, 4, 18, 8, 0] },

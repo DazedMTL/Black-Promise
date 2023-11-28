@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "村長の家２Ｆ",
+  "displayName": "Village Chief's House 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -384,25 +384,21 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライト君には私がついているから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["二人も安心していてね"]
+              "parameters": [
+                "I'll be with Light-kun, so both of you can rest\nassured."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アザミさんが見てくれているなら"]
+              "parameters": ["If Azami-san is watching over, then it's okay!"]
             },
-            { "code": 401, "indent": 0, "parameters": ["大丈夫だね！"] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -447,12 +443,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["長居しても悪いし"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["早く村長さんの所へ行こう？"]
+              "parameters": [
+                "It's not good to stay too long, so shall we go to\nthe village chief's place quickly?"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -497,37 +494,29 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・そう"] },
-            { "code": 401, "indent": 0, "parameters": ["ラリウス遺跡にね"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["...So, to the Larius Ruins, huh."]
+            },
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["二人とも気を付けてね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私に手伝えることがあったら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["遠慮せずに言ってくれていいから"]
+              "parameters": [
+                "Both of you, take care. If there's anything I can\nhelp with, don't hesitate to tell me."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ありがとうアザミさん"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その時は頼りにするね！"]
+              "parameters": [
+                "Thank you, Azami-san. I'll rely on you at that\ntime!"
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -573,11 +562,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何かあったらいつでも言ってね"]
+              "parameters": [
+                "If anything happens, feel free to tell me anytime."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -622,11 +613,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何かあったらいつでも言ってね"]
+              "parameters": [
+                "If anything happens, feel free to tell me anytime."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -711,11 +704,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何かあったらいつでも言ってね"]
+              "parameters": [
+                "If anything happens, feel free to tell me anytime."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -760,11 +755,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何かあったらいつでも言ってね"]
+              "parameters": [
+                "If anything happens, feel free to tell me anytime."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -809,11 +806,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何かあったらいつでも言ってね"]
+              "parameters": [
+                "If anything happens, feel free to tell me anytime."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -868,20 +867,24 @@
           "list": [
             { "code": 111, "indent": 0, "parameters": [6, -1, 4] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["普通の壁だ"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["It's just a normal wall."]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["壁に小さな隙間が空いているようだ"]
+              "parameters": ["It seems like there's a small gap in the wall."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ベットで寝ているライトが辛うじて見える"]
+              "parameters": ["I can barely see Light sleeping on the bed."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -932,14 +935,14 @@
           "list": [
             { "code": 111, "indent": 0, "parameters": [6, -1, 4] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["普通の壁だ"] },
+            { "code": 401, "indent": 1, "parameters": ["It's a normal wall."] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["壁に小さな隙間が空いているようだ"]
+              "parameters": ["It seems like there's a small gap in the wall."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -1015,12 +1018,11 @@
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 213, "indent": 0, "parameters": [7, 11, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["アザミさん"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトの様子はどうですか？"]
+              "parameters": ["Azami-san, how is Light's condition?"]
             },
             {
               "code": 231,
@@ -1028,134 +1030,105 @@
               "parameters": [1, "sabu", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今は落ち着いているみたい"]
+              "parameters": ["It seems like he's calm now."]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトに何があったのか尋ねた"]
+              "parameters": ["Asked what happened to Light"]
             },
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライト君に仕事を手伝ってもらう予定だったから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["家まで迎えに行ったんだけど・・・"]
+              "parameters": [
+                "I was planning to have Light-kun help me with some\nwork, so I went to pick him up at home, but..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["途中で倒れているライト君を見つけて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["急いで家に連れてきたの"]
+              "parameters": [
+                "I found Light-kun collapsed on the way, so I\nhurriedly brought him home."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["きっとライトは真面目だから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["体調が悪くても約束を守ろうと思ったんですね"]
+              "parameters": [
+                "I'm sure Light is serious, so even if he's not\nfeeling well, he wanted to keep his promise."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトは村長に拾ってもらった過去があるためか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["女性のアザミさんやご高齢の村長の代わりに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["率先して仕事をこなしていた"]
+              "parameters": [
+                "Due to the fact that Light was picked up by the\nvillage chief in the past, it seems like he has\nbeen taking the lead in doing work in place of the\nfemale Azami-san and the elderly village chief."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日も手伝いの約束をしていたようで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そこに向かう途中で倒れてしまったようだ"]
+              "parameters": [
+                "It seems like he collapsed on his way there, even\nthough he had promised to help with the work\ntoday."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライト君を運び込む時に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リラちゃんにも手伝ってもらって"]
+              "parameters": [
+                "When I brought Light-kun in, Lira-chan helped me\ntoo."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["その後でアイル君を呼んできてって"]
+              "parameters": ["After that, I asked Aeru-kun to come over."]
             },
-            { "code": 401, "indent": 0, "parameters": ["私が頼んだの"] },
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライト君の事は私よりもアイル君の方が"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["詳しいかなって・・・"]
+              "parameters": [
+                "I wonder if Aeru-kun knows more about Light-kun\nthan I do..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["昨日も普通に一緒に過ごしただけで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["倒れてしまうような原因は思いつかなかった"]
+              "parameters": [
+                "I couldn't think of any reason for him to collapse\njust from spending time together normally\nyesterday."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そう、なんだか朝から騒がせちゃって"]
+              "parameters": [
+                "Yes, I'm sorry for causing a commotion since this\nmorning."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["ごめんなさいね"] },
             {
               "code": 205,
               "indent": 0,
@@ -1176,16 +1149,13 @@
             },
             { "code": 213, "indent": 0, "parameters": [7, 3, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いえいえ困ったときは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お互い様ですよ!ねっアイル!"]
+              "parameters": [
+                "No, no, it's mutual help when we're in trouble!\nRight, Aeru?"
+              ]
             },
             {
               "code": 205,
@@ -1206,55 +1176,46 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ふふっ"] },
-            { "code": 401, "indent": 0, "parameters": ["本当に仲がいいわね"] },
-            { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["取りあえず今は大丈夫だから"]
+              "parameters": ["Hehe, they really get along well, don't they?"]
             },
+            { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライト君が目を覚ましたらすぐに教えるわね"]
+              "parameters": [
+                "For now, he's okay, so I'll let Light-kun know as\nsoon as he wakes up."
+              ]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今のところ大事はないようだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["また後で改めて様子を見にこよう"]
+              "parameters": [
+                "For now, it seems like there's no serious issue.\nI'll come back later to check on him again."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それとお爺ちゃんが用事があるみたいで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["帰る前に声を掛けてもらる？"]
+              "parameters": [
+                "Also, it seems like grandpa has something to do,\nso could you call out to him before he leaves?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["村長から話があるようだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一階にいる村長の所に行ってみよう"]
+              "parameters": [
+                "It seems like the village chief has something to\ndiscuss. Let's go to where the village chief is on\nthe first floor."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [11, 11, 0] },
@@ -1621,19 +1582,20 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["たぶん日頃の疲れが"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["でちゃったんだろうね"]
+              "parameters": [
+                "You're probably just tired from your usual daily\nfatigue, huh?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今はそっとしておいてあげよう？"]
+              "parameters": ["Should I leave you alone for now?"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1679,8 +1641,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ライトが眠っている"] },
-            { "code": 401, "indent": 0, "parameters": ["そっとしておこう"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Let's leave Light sleeping quietly."]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1724,22 +1689,21 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["pe444", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルには頼ってばかりだね"]
+              "parameters": ["You always rely on Aeru, huh?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["気にすることはないと"]
+              "parameters": ["I reassure you that there's no need to worry."]
             },
-            { "code": 401, "indent": 0, "parameters": ["声を掛ける"] },
             { "code": 101, "indent": 0, "parameters": ["pe444", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・ありがとう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Thank you"] },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1784,12 +1748,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["pe444", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・ありがとう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今は安静にしておくよ"]
+              "parameters": ["...Thank you, I'll rest quietly for now."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1834,20 +1797,19 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["pe444", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["そっか"] },
-            { "code": 401, "indent": 0, "parameters": ["アザミさんが・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["I see, Azami-san..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["思いつめた表情をしているので"]
+              "parameters": [
+                "I encourage Light, who has a troubled expression."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["ライトを励ます"] },
             { "code": 101, "indent": 0, "parameters": ["pe444", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["ははっ・・・うん"] },
-            { "code": 401, "indent": 0, "parameters": ["ありがとう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Haha...thank you"] },
             { "code": 123, "indent": 0, "parameters": ["C", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1892,18 +1854,15 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["pe444", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何か考え事をしているようだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今は話しかけるのはやめておこう"]
+              "parameters": [
+                "It seems like he's thinking about something. I\nshould refrain from talking to him for now."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2076,73 +2035,65 @@
             { "code": 230, "indent": 0, "parameters": [60] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アザミさんおはよー！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトの様子はどう？"]
+              "parameters": ["Good morning, Azami-san! How is Light doing?"]
             },
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["二人ともおはよう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライト君なら今朝目をさましたの"]
+              "parameters": [
+                "Both of them, good morning. Light-kun just woke up\nthis morning."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ほんと！？"] },
-            { "code": 401, "indent": 0, "parameters": ["\\{よかったぁあ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Really!? Thank goodness!"]
+            },
             { "code": 213, "indent": 0, "parameters": [8, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["大体の事情はアザミさんから聞いたよ"]
+              "parameters": [
+                "I heard the general situation from Azami-san...\nabout my curse."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["・・・俺の呪いの事"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["二人が治す方法を探してくれてるって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ありがとう・・・二人とも"]
+              "parameters": [
+                "Thank you for looking for a way to cure both of\nus... both of you."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 11, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["困ったときはお互い様！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["きっと私たちが呪いに罹っていたら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトも同じことしたと思うし！"]
+              "parameters": [
+                "When in trouble, we help each other! I'm sure if\nwe were the ones cursed, Light would do the same\nfor us!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・うん"] },
-            { "code": 401, "indent": 0, "parameters": ["きっとそうだね"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["...Yeah, I'm sure that's the case."]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -2163,23 +2114,22 @@
             },
             { "code": 213, "indent": 0, "parameters": [7, 3, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["よし！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それじゃあ今日も張り切って"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["探索に行こうか！アイル！"]
+              "parameters": [
+                "Alright! Then let's go explore with full energy\ntoday too, Aeru!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ごめんなさい"] },
-            { "code": 401, "indent": 0, "parameters": ["そのことなんだけど"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I'm sorry, but about that..."]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -2199,32 +2149,29 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["出来ればリラちゃんには"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私の手伝いを頼めないかしら"]
+              "parameters": [
+                "If possible, Lira-chan, could I ask for your help?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["onees", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["実は・・・体調が少し優れなくて・・・"]
+              "parameters": ["Actually... I'm not feeling well..."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["そうなんですか！？"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・わかりました"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それじゃあお手伝いします！"]
+              "parameters": [
+                "Is that so!? ...I understand. In that case, I will\nhelp you!"
+              ]
             },
             {
               "code": 205,
@@ -2245,34 +2192,30 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["いいよねアイル?"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
+            { "code": 401, "indent": 0, "parameters": ["Aeru, is that okay?"] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["大丈夫と答え"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アザミさんに迷惑をかけないよう"]
+              "parameters": [
+                "I'll answer that it's okay and make sure not to\ncause any trouble for Azami-san."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["釘を指しておく"] },
             { "code": 213, "indent": 0, "parameters": [7, 7, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["何それ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こう見えてしっかり者なんだからね！？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お手伝いぐらいできますー！"]
+              "parameters": [
+                "What's that supposed to mean! Even though I may\nlook like this, I'm a reliable person, you know! I\ncan help out!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["onees", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ありがとう二人とも"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
+            { "code": 401, "indent": 0, "parameters": ["Thank you both"] },
             {
               "code": 205,
               "indent": 0,
@@ -2292,12 +2235,11 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["いえいえ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["気にしないでください！"]
+              "parameters": ["No, no, please don't worry about it!"]
             },
             {
               "code": 205,
@@ -2319,16 +2261,13 @@
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["じゃあアイル気を付けてね？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・昨日みたいなこともあるかもだし"]
+              "parameters": [
+                "Well then, Aeru, take care, okay? ...There might\nbe something like yesterday happening again."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [38, 38, 0] },
@@ -2511,12 +2450,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["気を付けてね"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["無理しちゃだめだよ？"]
+              "parameters": [
+                "Be careful and don't push yourself too hard, okay?"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2561,16 +2501,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今が頑張り時だよね！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["みんなで協力していこう！"]
+              "parameters": [
+                "Now is the time to do our best! Let's work\ntogether!"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2664,139 +2601,136 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイル君おはよう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Good morning, Aeru-kun"]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["二人とも起き上がっているということは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["体調の方はもういいのだろうか"]
+              "parameters": [
+                "I suppose if both of you are already up, then I\nguess your health is already okay, right?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [12, 3, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ああ、みんなのおかげで随分休ませてもらったから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いつまでも寝てるままじゃいられない"]
+              "parameters": [
+                "Ah, thanks to everyone, I've been able to rest\nquite a bit, so I can't just keep lying around\nsleeping forever."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それに昨日アイルとミールが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["薬草を取ってきてくれただろう？"]
+              "parameters": [
+                "And besides, didn't Aeru and Miiru bring back some\nmedicinal herbs yesterday?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [4, 3, false] },
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そのおかげって事でもあると思うんだけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["二人ともすっかりよくなっちゃった"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["ありがとうアイル"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それならよかったと安堵する"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それでこれからの事なんだけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺も探索に参加しようと思うんだ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["呪いと言っても体が動かないとか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そういうわけではないし"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["逆になんだか"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今までよりも力が湧いてくる気がするんだ"]
+              "parameters": [
+                "I suppose if both of you are already up, then I\nguess your health is already okay, right? Thank\nyou, Aeru."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトがいてくれるなら心強い"]
+              "parameters": ["In that case, thank goodness and relief."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["その通り"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺たち二人なら出来ないことなんてないさ"]
+              "parameters": [
+                "So, about what's going to happen from now on, I'm\nthinking of joining the exploration too."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Even if we call it a curse, it's not like our\nbodies are unable to move or anything like that."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "On the contrary, it feels like I have more energy\nwelling up inside me than before."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["It's reassuring to have Light around."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "That's right, there's nothing we can't do\ntogether."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ふふっ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["二人とも本当に仲がいいわね"]
+              "parameters": [
+                "Hehe, the two of you really get along well, don't\nyou?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 11, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["改めて指摘されると"] },
-            { "code": 401, "indent": 0, "parameters": ["何だか少し照れ臭い"] },
-            { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["当り前さ"] },
-            { "code": 401, "indent": 0, "parameters": ["俺たちは親友だから"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["その言葉に強く頷く"] },
-            { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["二人とも無理はしないでね"]
+              "parameters": [
+                "When pointed out again, it's a little\nembarrassing."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・何かあったら私を頼ってくれていいから"]
+              "parameters": ["Of course, we're best friends after all."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I strongly nod at those words"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Both of you, don't push yourselves too hard... If\nanything happens, you can rely on me."
+              ]
             },
             {
               "code": 205,
@@ -2818,8 +2752,8 @@
             },
             { "code": 213, "indent": 0, "parameters": [4, 3, false] },
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ね？ライト君"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
+            { "code": 401, "indent": 0, "parameters": ["Hey, Light-kun"] },
             { "code": 213, "indent": 0, "parameters": [12, 11, false] },
             {
               "code": 205,
@@ -2840,12 +2774,11 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["えっ！ああ、はい"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["その・・・よろしくお願いします"]
+              "parameters": ["Huh! Oh, um... Thank you in advance."]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             {
@@ -2885,16 +2818,11 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ええっと、それじゃあ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["さっそく行こうかアイル"]
+              "parameters": ["Um, well then, shall we go right away, Aeru?"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [72, 72, 0] },
@@ -3182,7 +3110,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["コンドームが落ちている・・・"]
+              "parameters": ["A condom has fallen..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3334,7 +3262,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["コンドームが落ちている・・・"]
+              "parameters": ["A condom has fallen..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3391,7 +3319,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["Something white is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3448,7 +3376,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3505,7 +3433,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

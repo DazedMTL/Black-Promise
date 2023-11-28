@@ -6,7 +6,7 @@
   "bgm": { "name": "CT_Nina", "pan": 0, "pitch": 100, "volume": 65 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "遺跡周辺　４",
+  "displayName": "Ruins Surroundings 4",
   "encounterList": [
     { "regionSet": [], "troopId": 15, "weight": 5 },
     { "regionSet": [], "troopId": 16, "weight": 5 },
@@ -1656,22 +1656,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }

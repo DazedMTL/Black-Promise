@@ -6,7 +6,7 @@
   "bgm": { "name": "Theme2", "pan": 0, "pitch": 100, "volume": 65 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "妖精の国　王子の家",
+  "displayName": "Fairy Country Prince's House",
   "encounterList": [
     { "regionSet": [], "troopId": 1, "weight": 5 },
     { "regionSet": [], "troopId": 2, "weight": 5 },
@@ -238,22 +238,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -358,21 +354,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【レイ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Ray】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["君たちか、ようこそ妖精の国へ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今はまだ難しいがそのうち人間たちとの交流も"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["考えていきたいと思っているんだ"]
+              "parameters": [
+                "Welcome to the fairy kingdom, all of you. It's\nstill difficult for now, but I'm thinking about\neventually considering interaction with humans."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -519,16 +507,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【双子の妖精】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Twin Fairies】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["姫様とレイ様がご結婚！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["なんとめでたいことなのでしょう！"]
+              "parameters": [
+                "Princess and Rei-sama are getting married! What a\njoyous occasion!"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -573,28 +558,22 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【双子の妖精】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Twin Fairies】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふふっ、すごいですよね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["二人の儀式の音色がここまで聞こえてきて"]
+              "parameters": [
+                "Hehe, it's amazing how we can hear the sound of\nthe two of them performing the ritual from here."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【双子の妖精】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Twin Fairies】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もうずっとしてらっしゃるんですよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["とっても愛し合っていて素敵・・・\\i[249]"]
+              "parameters": [
+                "They've been doing it for a while now, and they\nlove each other so much... \\i[249]"
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -640,11 +619,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【双子の妖精】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Twin Fairies】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私もいつか素敵な出会いがあるといいな・・・"]
+              "parameters": [
+                "I hope I'll have a wonderful encounter someday\ntoo..."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -698,21 +679,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【双子の妖精】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Twin Fairies】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これからお二人は子作りのために"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何日も部屋に籠られるのよね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["なんてロマンティックなのかしらっ！"]
+              "parameters": [
+                "I wonder if it's romantic for the two of you to be\nholed up in your room for days for the purpose of\nmaking babies!"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -757,40 +730,31 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【双子の妖精】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Twin Fairies】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["実はこの前、お二人に食事をお持ちしたんだけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["部屋の中すごかったのよっ！"]
+              "parameters": [
+                "Actually, the other day, when I brought you two\nfood, the room was a mess!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【双子の妖精】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Twin Fairies】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お二人とも本当にずっと行為をしているのね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["王子の精液があそこからあふれていたのっ"]
+              "parameters": [
+                "Both of you were really engaging in the act, huh?\nThe prince's semen was overflowing from there."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【双子の妖精】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Twin Fairies】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あまりにも刺激的だったから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その後にこっそりオナニーしちゃった・・・ほぅ"]
+              "parameters": [
+                "It was so stimulating that afterwards, I secretly\nmasturbated...hmm"
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -836,16 +800,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【双子の妖精】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Twin Fairies】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何だかドキドキしてきちゃった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["帰ったら思いっきりしちゃお\\i[249]"]
+              "parameters": [
+                "I'm feeling a bit excited, so when we get home,\nlet's do it to our heart's content \\i[249]"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -899,16 +860,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【妖精執事】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Fairy Butler】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["レイ様とミール様は儀式の準備がありますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうかお引き取り下さい"]
+              "parameters": [
+                "Please come and pick up Lord Rei and Lady Miiru as\nthey have preparations for the ceremony."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -953,16 +911,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【妖精執事】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Fairy Butler】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["レイ様とミール様は儀式中ですので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日はお引き取り下さい"]
+              "parameters": [
+                "Please pick up Aeru-sama and Miiru-sama today as\nthey are in the middle of a ceremony."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1675,21 +1630,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【妖精執事】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Fairy Butler】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["姫を助けて下さってありがとうございました"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ただ、すぐにでも儀式が行われますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["中々お会いする機会は無いかも知れません"]
+              "parameters": [
+                "Thank you for helping the princess. However, there\nwill be a ceremony soon, so you may not have the\nchance to meet her for a while."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2136,41 +2083,31 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["久しぶりだね、アイル・・・って"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まだそんなにたってないよね！"]
+              "parameters": [
+                "Long time no see, Aeru... but it hasn't been that\nlong, right?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あたしね、今お姫様なんだよ！"]
+              "parameters": [
+                "You know, I'm a princess now! Isn't that amazing?!"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["すごいでしょ！"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これからどんどん色んな事が変わっていくと思うけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あたしはね、アイルの事・・・・・・ううん、ごめん"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["また、いつでも来てね！"]
+              "parameters": [
+                "I think a lot of things will change from now on,\nbut as for me, Aeru... no, sorry. You can come by\nanytime!"
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2216,11 +2153,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 6, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["大丈夫、いつも通りに出来てる・・・"]
+              "parameters": ["It's okay, I can do it as usual..."]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }

@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "民家２Ｆ",
+  "displayName": "Private House 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -102,76 +102,62 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["扉の向こうから"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["微かに音が漏れてくる"]
+              "parameters": ["Faint sounds are leaking from beyond the door."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ぱんっ・・・ぱんっ・・・ぱんっ・・・"]
+              "parameters": ["*pant... pant... pant...*"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前はゆっくりなほうが"]
+              "parameters": ["You prefer taking things slowly, don't you?"]
             },
-            { "code": 401, "indent": 0, "parameters": ["好きなんだよな？"] },
             { "code": 101, "indent": 0, "parameters": ["", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ\\i[249]・・・別に、そう言うわけいじゃ・・・"]
+              "parameters": ["Nn... It's not like I prefer it that way..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もっと激しい方が好きだって？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["とんだ淫乱女だなお前は！"]
+              "parameters": [
+                "You like it more intense, huh? You're quite the\nlewd woman!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["えっ？・・・いやっ\\i[249]んっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちがっ──・・・\\i[249]\\i[249]\\i[249]"]
+              "parameters": ["Huh?... No, that's not──..."]
             },
             { "code": 121, "indent": 0, "parameters": [157, 157, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["パンッパンッパンッ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["パンッパンッ──・・・"]
+              "parameters": ["*thump thump thump thump thump*"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あぁ、もう出ちまいそうだぜ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お前がエロいせいだからな責任取れ！"]
+              "parameters": [
+                "Ah, I'm about to cum! It's because of your\nlewdness, so take responsibility!"
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [4] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -223,18 +209,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あっ\\i[249]あっ\\i[249]んっ\\i[249]はっ\\i[249]"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["??? Ahh...!"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["パンッパンッパンッ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["パンッパンッ──・・・"]
+              "parameters": ["*Thump, thump, thump, thump, thump...*"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -279,29 +260,24 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["扉の向こうから"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["微かに音が漏れてくる"]
+              "parameters": ["Faint sounds are leaking from beyond the door."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そうだ、いい感じだぜ"]
+              "parameters": ["That's right, it feels good."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["んっ・・・れろっ・・・ちゅ・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["Nn...lick...chu..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["その調子だぜ"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["Keep it up"] },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -351,13 +327,8 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちゅ・・・んっ・・・"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["・・・はぁ・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["Chu...n...haa..."] },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -407,47 +378,31 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["扉の向こうから"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["微かに音が漏れてくる"]
+              "parameters": ["Faint sounds are leaking from beyond the door."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あむっじゅるるちゅっ・・・はぁ・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["んっんっ・・・ちゅ・・・"]
+              "parameters": ["*munching sounds* ...hah...nnn...chu..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんなに慌てるなって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["夜はこれからだからな"]
+              "parameters": ["Don't rush so much, the night is just beginning."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふぁい・・・んっちゅ・・れろ・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["じゅる・・・ん・・・"]
+              "parameters": ["*munching...slurp...*"]
             },
             { "code": 123, "indent": 0, "parameters": ["C", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -498,16 +453,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["じゅるるっ、はぁ・・・はぁ・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちゅっ、れろ、ちゅ・・・"]
+              "parameters": ["*slurp* Haa... haa... *kiss*, *lick*, *kiss*..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

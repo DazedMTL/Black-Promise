@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "北の森　川辺",
+  "displayName": "Northern Forest Riverside",
   "encounterList": [
     { "regionSet": [], "troopId": 1, "weight": 5 },
     { "regionSet": [], "troopId": 2, "weight": 5 },
@@ -295,22 +295,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -705,21 +701,13 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いい場所が見つかってよかったね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["テントは本当に私が使っていいの？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["やっぱり３人で一緒に入ろうよ！"]
+              "parameters": [
+                "I'm glad we found a good spot. Can I really use\nthe tent? Let's all go in together after all!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 6, false] },
             { "code": 213, "indent": 0, "parameters": [4, 6, false] },
@@ -727,232 +715,173 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["無理を言わないでくれと"]
+              "parameters": [
+                "I express a little bit of exasperation, telling\nyou not to push yourself too hard."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["少し呆れ気味伝える"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["うーん・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["頑張れば大丈夫かも知れないけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["さすがに狭いと思うな"]
+              "parameters": [
+                "Hmm... You might be okay if you push yourself, but\nI think it's really cramped."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 7, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そっか・・・残念・・・"]
+              "parameters": ["I see... What a shame..."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それに何かあった時のために"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["みんなテントの中じゃ危ないからね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["誰かが外で見張っておかないと"]
+              "parameters": [
+                "Also, it's dangerous for everyone to be inside the\ntent in case something happens, so someone needs\nto keep watch outside."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトと交代で見張りをするから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リラにはテントの中にある食料の警戒を頼む"]
+              "parameters": [
+                "I'll take turns keeping watch with Light, so I'll\nask Lira to be cautious of the food inside the\ntent."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 11, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まかせて！・・・ん？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["遠回しに要らない子って言われてない！？"]
+              "parameters": [
+                "Leave it to me! ...Huh? Are you saying I'm not\nneeded in a roundabout way?!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["どうだろう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺にはアイルがリラを信頼して"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["言ったような気がするな"]
+              "parameters": [
+                "I wonder if Aeru trusts Lira and said that to me."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふふっ、まったくもー"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・二人ともありがとね"]
+              "parameters": ["Hehe, thank you both so much."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["始めの頃も言ったけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["やっぱり楽しいな、こういうの・・・"]
+              "parameters": [
+                "I said it at the beginning, but it's still fun,\nthis kind of thing..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["みんなそれぞれ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["やらなきゃいけない事が増えてって"]
+              "parameters": [
+                "Everyone has more and more things they need to do,\nhuh?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["村のために外に出る機会も多いよね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そのうち他所にいる時間の方がきっと多くなる"]
+              "parameters": [
+                "There are many opportunities to go outside for the\nsake of the village. Eventually, I'm sure there\nwill be more time spent elsewhere."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["なんだかそれって"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["すごく・・・寂しいな・・・"]
+              "parameters": ["Somehow, that feels really... lonely..."]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺は心配していないけどね"]
+              "parameters": ["I'm not worried, but I wonder how Aeru feels?"]
             },
-            { "code": 401, "indent": 0, "parameters": ["アイルはどう思う？"] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラのお母さんが作る料理は絶品だから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["村には定期的に帰ることになるだろう"]
+              "parameters": [
+                "Lira's mother's cooking is exquisite, so she will\nprobably return to the village regularly."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まったく、素直じゃないね？"]
+              "parameters": ["Honestly, she's not straightforward, huh?"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺も、もちろんアイルも"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リラの同じぐらいみんなの事が好きだから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何も心配しなくて大丈夫だよ"]
+              "parameters": [
+                "Of course, I also like everyone, including Lira\nand Aeru, so there's nothing to worry about."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そう・・・なのかな・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そうだと・・・うれしいな"]
+              "parameters": ["Is that so... If that's the case... I'm happy."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ああ、だから安心しておやすみ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["明日からもみんな一緒にがんばろう"]
+              "parameters": [
+                "Ah, so rest assured and good night. Let's all do\nour best together from tomorrow."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 10, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["うん・・・みんなで"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・みんな一緒に・・・・・・ぐぅ"]
+              "parameters": [
+                "Yeah... everyone together... all together...\n*stomach growls*"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まったく、リラは昔から心配性だね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それだけ大切に思ってくれている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ってことだとは思うけど"]
+              "parameters": [
+                "Honestly, Lira has been a worrier since the old\ndays. I think it just means she cares a lot."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [216, 216, 0] },
             {
@@ -986,36 +915,25 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラをそっと抱きかかえてあげる"]
+              "parameters": ["I gently embrace Lira"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["テントに運んであげるかい？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そういえばリラの面倒は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いつもアイルが見ていたね"]
+              "parameters": [
+                "Shall I carry it to the tent? Come to think of it,\nAeru always took care of Lira, didn't he?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラが早く安心できるように"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["明日からもがんばろう"]
+              "parameters": [
+                "Let's do our best from tomorrow so that Lira can\nfeel at ease soon."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [217, 217, 0] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1101,133 +1019,110 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["野宿とかあまりしないからちょっと新鮮"]
+              "parameters": [
+                "I don't really do things like camping, so it's a\nbit refreshing."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["マーガレットは村に来る前は大きな街にいて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["来てからも基本的にお店に籠っているから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["外に出る機会は少ないのかも知れない"]
+              "parameters": [
+                "Before coming to the village, Margaret lived in a\nbig city, and even after coming here, she mostly\nstays holed up in the shop, so she might not have\nmany opportunities to go outside."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["そういう意味では"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["村で一番お上品だよねマーガレットは"]
+              "parameters": [
+                "In that sense, Margaret is the most elegant in the\nvillage, isn't she?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["そんなことない"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["大きな街に居たって言っても"]
+              "parameters": [
+                "Even though I was in a big city before I can\nremember--"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["物心つく前"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["お上品って言ったら"] },
-            { "code": 401, "indent": 0, "parameters": ["やっぱりアザミさん"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・大人の女性"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "When it comes to being elegant, it's definitely\nAzami-san... a mature woman."
+              ]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["マーガレットとは対局って感じがするなぁと"]
+              "parameters": [
+                "In my heart, I feel like Margaret is the opposite\nof me."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["心の中で思う"] },
             { "code": 213, "indent": 0, "parameters": [2, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今・・絶対失礼な事考えた"]
+              "parameters": [
+                "Now.. I'm sure that even if I think of something\nrude, in the blink of an eye, I'll become like\nAzami-san... probably."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私も瞬きする間にアザミさんみたいになる"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["・・・たぶん"] },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アザミさんみたいに・・・・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Like Azami-san..."] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトも言いたいことがあるの？"]
+              "parameters": [
+                "Does Light have something to say too? I'm all\nears."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["受けて立つけど"] },
             { "code": 213, "indent": 0, "parameters": [4, 11, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["っえ！？・・・あー、いや"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そういうことじゃないんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちょっとぼーってしてた"]
+              "parameters": [
+                "Huh!? ...Ah, no, it's not like that. I was just a\nlittle lost in thought."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["今日はもう遅いし"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["早く寝て明日に備えよう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["見張りは俺と、アイルでやろうか"]
+              "parameters": [
+                "It's already late today, so let's go to bed early\nand prepare for tomorrow. Shall Aeru and I take\nturns keeping watch?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["ありがとう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["他の事ではなるべく役にたつから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["明日からもよろしくね"]
+              "parameters": [
+                "Thank you. I'll do my best to be as helpful as\npossible in other matters, so please continue to\nrely on me from tomorrow onwards."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [218, 218, 0] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1313,156 +1208,138 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["ねぇねぇー"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["なんでアイル一緒に寝てくれないの？"]
+              "parameters": ["Hey, hey- why won't Aeru sleep with me?"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 6, false] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ミールはレディだから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大切にしなくちゃいけない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["と、目を逸らしながら答える"]
+              "parameters": [
+                "Miiru||| || He said I'm a lady, so he has to treat\nme with care. *averting her eyes*"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 3, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["えー！なにー！"] },
-            { "code": 401, "indent": 0, "parameters": ["そういうことー！？"] },
-            { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["そこまで言うなら"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルの心の準備が出来るまで"]
+              "parameters": ["Eh?! What do you mean by that?!"]
             },
-            { "code": 401, "indent": 0, "parameters": ["待っててあげるね！"] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "If you're going to say that much, then I'll wait\nuntil Aeru is emotionally ready!"
+              ]
+            },
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルうまくかわしたな・・・"]
+              "parameters": ["Aeru dodged skillfully..."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["最初はこのメンバーってどうなんだろう？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["って思ったんだけど案外うまくやれてるね"]
+              "parameters": [
+                "At first, I wondered how this group would turn\nout, but surprisingly, they're getting along quite\nwell."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この３人で何かするって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今まで無かったもんね"]
+              "parameters": [
+                "We've never done anything with just the three of\nus before."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["このままテンポよく探索して"]
+              "parameters": [
+                "Let's keep up the pace and quickly explore, and\nthen let's swiftly lift Light's curse!"
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトの呪いなんてちゃちゃっと"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["解除しちゃおうね！"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["そうだね"] },
-            { "code": 401, "indent": 0, "parameters": ["心強いよ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["That's right, it's reassuring."]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["正直ミールがここまで使えるなんて思ってなかった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["最初拾った時なんて本当に世間知らずで・・・"]
+              "parameters": [
+                "Honestly, I never thought Miiru would be this\nuseful. When I first picked her up, she was really\nnaive..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 11, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["ちょっと！"] },
-            { "code": 401, "indent": 0, "parameters": ["それは昔の話でしょ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今がちゃんとしてれば問題ないの！"]
+              "parameters": [
+                "Hey! That's in the past, as long as I'm doing well\nnow, there's no problem!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["そうだよアイル"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺から見てもミールは随分変わった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["たぶん俺たちの中で誰よりも"]
+              "parameters": [
+                "That's right, Aeru. From my perspective, Miiru has\nchanged a lot. Probably more than anyone else in\nour group."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["そこはちゃんと"] },
-            { "code": 401, "indent": 0, "parameters": ["認めてあげないと"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["You should properly acknowledge that."]
+            },
             { "code": 213, "indent": 0, "parameters": [2, 3, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["さすがライト！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["わかってるじゃない！"]
+              "parameters": ["As expected of Light! You understand, don't you!"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まぁ、積もる話もあるけれど"]
+              "parameters": [
+                "Well, there are some things to discuss, but let's\njust rest for today."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["今日はもう休もうか"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["そうだね"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["二人ともおやすみなさい！"]
+              "parameters": ["That's right, both of you, good night!"]
             },
             { "code": 121, "indent": 0, "parameters": [219, 219, 0] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1551,174 +1428,129 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["折角テントを張ったのに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["二人で夜空を見ようだなんて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトはたまにちょっと変わっている所がある"]
+              "parameters": [
+                "Even though we went through the trouble of setting\nup the tent, Light can be a bit strange at times,\nsuggesting that we should watch the night sky\ntogether."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [4, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こんなにきれいな空なんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["別におかしい事じゃないだろ？"]
+              "parameters": [
+                "This sky is so beautiful, it's not really strange,\nis it?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["変わっているって言ったら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["正直アイルの方がよっぽどだと思うけどね"]
+              "parameters": [
+                "If we're talking about being strange, I honestly\nthink Aeru is much more so."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 7, false] },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ははっ・・・まったく"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そんな不服そうな顔をしないでくれよ"]
+              "parameters": [
+                "Haha... Please don't make such a dissatisfied\nface."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["感謝してるんだ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["きっとアイルがいなかったら"]
+              "parameters": [
+                "I'm grateful, surely if Aeru wasn't here, I\nwouldn't be who I am now."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["今の俺はいないから"] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それはきっと出会った頃の話だろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それなら気にすることはない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["全ては自己満足だったのだから"]
+              "parameters": [
+                "That must be a story from when we first met, so\nthere's no need to worry. It was all just self-\nsatisfaction."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["それでもだよ"] },
-            { "code": 401, "indent": 0, "parameters": ["ありがとうアイル"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Even so, thank you, Aeru."]
+            },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・っふ、ははっ・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ごめん急に変なことを言って"]
+              "parameters": [
+                "...Haha... Sorry for saying something strange all\nof a sudden."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["最近色々あっただろう？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だからさ、改めて伝えたいなって思ったんだ"]
+              "parameters": [
+                "You've been through a lot lately, right? That's\nwhy I wanted to tell you again."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 6, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そういうところが変わっているんだと"]
+              "parameters": [
+                "He sighed, thinking about how that aspect has\nchanged."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["ため息をつく"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まぁ、俺がそうなったのは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルの責任もあるってことで諦めるんだね"]
+              "parameters": [
+                "Well, I guess I'll just have to accept that it's\npartly Aeru's responsibility that I turned out\nthis way."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 7, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["このままだと朝まで話込んでしまいそうだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["明日からの探索もあるし先に休んでくれ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["適当な時間で見張り番を交代しよう"]
+              "parameters": [
+                "At this rate, we might end up talking until\nmorning. We have exploration to do from tomorrow,\nso please rest first. Let's take turns keeping\nwatch at a suitable time."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 6, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["言葉を素直に受け取り"]
+              "parameters": [
+                "I'll take your words at face value and rest first."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["先に休むことにする"] },
             { "code": 101, "indent": 0, "parameters": ["", 6, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["深い森の中だというのに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その日は安心して眠ることが出来た"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それはきっと傍にライトがいたからだろう"]
+              "parameters": [
+                "Even though it was said to be deep in the forest,\nI was able to sleep peacefully that day. It must\nhave been because Light was by my side."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [220, 220, 0] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1943,21 +1775,13 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いい場所が見つかってよかったね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["テントは本当に私が使っていいの？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["やっぱり３人で一緒に入ろうよ！"]
+              "parameters": [
+                "I'm glad we found a good spot. Can I really use\nthe tent? Let's all go in together after all!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 6, false] },
             { "code": 213, "indent": 0, "parameters": [4, 6, false] },
@@ -1965,232 +1789,175 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["無理を言わないでくれと"]
+              "parameters": [
+                "I express a little bit of exasperation, telling\nyou not to push yourself too hard."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["少し呆れ気味伝える"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["うーん・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["頑張れば大丈夫かも知れないけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["さすがに狭いと思うな"]
+              "parameters": [
+                "Hmm... You might be okay if you push yourself, but\nI think it's really cramped."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 7, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そっか・・・残念・・・"]
+              "parameters": ["I see... What a shame..."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それに何かあった時のために"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["みんなテントの中じゃ危ないからね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["誰かが外で見張っておかないと"]
+              "parameters": [
+                "Also, it's dangerous for everyone to be inside the\ntent in case something happens, so someone needs\nto keep watch outside."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトと交代で見張りをするから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リラにはテントの中にある食料の警戒を頼む"]
+              "parameters": [
+                "I'll take turns keeping watch with Light, so I'll\nask Lira to be cautious of the food inside the\ntent."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 11, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まかせて！・・・ん？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["遠回しに要らない子って言われてない！？"]
+              "parameters": [
+                "Leave it to me! ...Huh? Are you saying I'm not\nneeded in a roundabout way?!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["どうだろう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺にはアイルがリラを信頼して"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["言ったような気がするな"]
+              "parameters": [
+                "I wonder if Aeru trusts Lira and said something\nlike that to her."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふふっ、まったくもー"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・二人ともありがとね"]
+              "parameters": ["Hehe, thank you both so much."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["始めの頃も言ったけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["やっぱり楽しいな、こういうの・・・"]
+              "parameters": [
+                "I said it at the beginning, but it's still fun,\nthis kind of thing..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["みんなそれぞれ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["やらなきゃいけない事が増えてって"]
+              "parameters": [
+                "Everyone has more and more things they need to do,\nhuh?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["村のために外に出る機会も多いよね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そのうち他所にいる時間の方がきっと多くなる"]
+              "parameters": [
+                "There are many opportunities to go outside for the\nsake of the village. Eventually, I'm sure there\nwill be more time spent elsewhere."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["なんだかそれって"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["すごく・・・寂しいな・・・"]
+              "parameters": ["Somehow, that feels really... lonely..."]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺は心配していないけどね"]
+              "parameters": [
+                "I'm not worried, but I wonder how Aeru feels about\nit?"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["アイルはどう思う？"] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラのお母さんが作る料理は絶品だから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["村には定期的に帰ることになるだろう"]
+              "parameters": [
+                "Lira's mother's cooking is exquisite, so she will\nprobably return to the village regularly."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まったく、素直じゃないね？"]
+              "parameters": ["Honestly, she's not straightforward, huh?"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺も、もちろんアイルも"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リラの同じぐらいみんなの事が好きだから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何も心配しなくて大丈夫だよ"]
+              "parameters": [
+                "Of course, I also like everyone, including Lira\nand Aeru, so there's nothing to worry about."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そう・・・なのかな・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そうだと・・・うれしいな"]
+              "parameters": ["Is that so...? If that's the case... I'm happy."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ああ、だから安心しておやすみ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["明日からもみんな一緒にがんばろう"]
+              "parameters": [
+                "Ah, so rest assured and good night. Let's all do\nour best together from tomorrow."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 10, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["うん・・・みんなで"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・みんな一緒に・・・・・・ぐぅ"]
+              "parameters": [
+                "Yeah... everyone together... all together...\n*stomach growls*"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まったく、リラは昔から心配性だね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それだけ大切に思ってくれている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ってことだとは思うけど"]
+              "parameters": [
+                "Good grief, Lira has always been a worrier. I do\nthink it means she cares a lot about everyone\nthough."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [216, 216, 0] },
             {
@@ -2224,36 +1991,25 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラをそっと抱きかかえてあげる"]
+              "parameters": ["I gently embrace Lira"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["テントに運んであげるかい？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そういえばリラの面倒は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いつもアイルが見ていたね"]
+              "parameters": [
+                "Shall I carry it to the tent? Come to think of it,\nAeru always took care of Lira, didn't he?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラが早く安心できるように"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["明日からもがんばろう"]
+              "parameters": [
+                "Let's do our best from tomorrow so that Lira can\nfeel at ease quickly."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [217, 217, 0] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -2340,133 +2096,110 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["野宿とかあまりしないからちょっと新鮮"]
+              "parameters": [
+                "I don't really do things like camping, so it's a\nbit refreshing."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["マーガレットは村に来る前は大きな街にいて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["来てからも基本的にお店に籠っているから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["外に出る機会は少ないのかも知れない"]
+              "parameters": [
+                "Before coming to the village, Margaret lived in a\nbig city, and even after coming here, she mostly\nstays holed up in the shop, so she may not have\nmany opportunities to go outside."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["そういう意味では"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["村で一番お上品だよねマーガレットは"]
+              "parameters": [
+                "In that sense, Margaret is the most elegant in the\nvillage, isn't she?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["そんなことない"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["大きな街に居たって言っても"]
+              "parameters": [
+                "Even though I was in a big city before I can\nremember--"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["物心つく前"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["お上品って言ったら"] },
-            { "code": 401, "indent": 0, "parameters": ["やっぱりアザミさん"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・大人の女性"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "When it comes to being elegant, it's definitely\nAzami-san... a mature woman."
+              ]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["マーガレットとは対局って感じがするなぁと"]
+              "parameters": [
+                "In my heart, I feel like Margaret is the opposite\nof me."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["心の中で思う"] },
             { "code": 213, "indent": 0, "parameters": [2, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今・・絶対失礼な事考えた"]
+              "parameters": [
+                "Now.. I'm sure that even if I think of something\nabsolutely rude, in the blink of an eye, I'll\nbecome like Azami-san... probably"
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私も瞬きする間にアザミさんみたいになる"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["・・・たぶん"] },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アザミさんみたいに・・・・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Like Azami-san..."] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトも言いたいことがあるの？"]
+              "parameters": [
+                "Does Light have something to say too? I'm all\nears."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["受けて立つけど"] },
             { "code": 213, "indent": 0, "parameters": [4, 11, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["っえ！？・・・あー、いや"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そういうことじゃないんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちょっとぼーってしてた"]
+              "parameters": [
+                "Huh!? ...Ah, no, it's not like that. I was just a\nlittle lost in thought."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["今日はもう遅いし"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["早く寝て明日に備えよう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["見張りは俺と、アイルでやろうか"]
+              "parameters": [
+                "It's already late today, so let's go to bed early\nand prepare for tomorrow. Shall Aeru and I take\nturns keeping watch?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["ありがとう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["他の事ではなるべく役にたつから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["明日からもよろしくね"]
+              "parameters": [
+                "Thank you. I'll do my best to be as helpful as\npossible in other matters, so please take care of\nme from tomorrow as well."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [218, 218, 0] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -2553,156 +2286,138 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["ねぇねぇー"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["なんでアイル一緒に寝てくれないの？"]
+              "parameters": ["Hey, hey- why won't Aeru sleep with me?"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 6, false] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ミールはレディだから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大切にしなくちゃいけない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["と、目を逸らしながら答える"]
+              "parameters": [
+                "Miiru||| || He said I'm a lady, so he has to treat\nme with care. *averting his eyes*"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 3, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["えー！なにー！"] },
-            { "code": 401, "indent": 0, "parameters": ["そういうことー！？"] },
-            { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["そこまで言うなら"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルの心の準備が出来るまで"]
+              "parameters": ["Eh?! What do you mean by that?!"]
             },
-            { "code": 401, "indent": 0, "parameters": ["待っててあげるね！"] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "If you're going to say that much, then I'll wait\nuntil Aeru is emotionally ready!"
+              ]
+            },
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルうまくかわしたな・・・"]
+              "parameters": ["Aeru dodged skillfully..."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["最初はこのメンバーってどうなんだろう？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["って思ったんだけど案外うまくやれてるね"]
+              "parameters": [
+                "At first, I wondered how this group would turn\nout, but surprisingly, they're getting along quite\nwell."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この３人で何かするって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今まで無かったもんね"]
+              "parameters": [
+                "We've never done anything with just the three of\nus before, have we?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["このままテンポよく探索して"]
+              "parameters": [
+                "Let's keep up the pace and quickly explore, and\nthen let's swiftly lift Light's curse!"
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトの呪いなんてちゃちゃっと"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["解除しちゃおうね！"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["そうだね"] },
-            { "code": 401, "indent": 0, "parameters": ["心強いよ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["That's right, it's reassuring."]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["正直ミールがここまで使えるなんて思ってなかった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["最初拾った時なんて本当に世間知らずで・・・"]
+              "parameters": [
+                "Honestly, I never thought Miiru would be this\nuseful. When I first picked her up, she was really\nnaive..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 11, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["ちょっと！"] },
-            { "code": 401, "indent": 0, "parameters": ["それは昔の話でしょ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今がちゃんとしてれば問題ないの！"]
+              "parameters": [
+                "Hey! That's in the past, as long as I'm doing well\nnow, there's no problem!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["そうだよアイル"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺から見てもミールは随分変わった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["たぶん俺たちの中で誰よりも"]
+              "parameters": [
+                "That's right, Aeru. From my perspective, Miiru has\nchanged a lot. Probably more than anyone else in\nour group."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["そこはちゃんと"] },
-            { "code": 401, "indent": 0, "parameters": ["認めてあげないと"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["You should properly acknowledge that."]
+            },
             { "code": 213, "indent": 0, "parameters": [2, 3, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["さすがライト！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["わかってるじゃない！"]
+              "parameters": ["As expected of Light! You understand, don't you?"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まぁ、積もる話もあるけれど"]
+              "parameters": [
+                "Well, there are some things to discuss, but let's\njust rest for today."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["今日はもう休もうか"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["そうだね"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["二人ともおやすみなさい！"]
+              "parameters": ["That's right, both of you, good night!"]
             },
             { "code": 121, "indent": 0, "parameters": [219, 219, 0] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -2792,174 +2507,129 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["折角テントを張ったのに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["二人で夜空を見ようだなんて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトはたまにちょっと変わっている所がある"]
+              "parameters": [
+                "Even though we went through the trouble of setting\nup the tent, Light is occasionally a bit strange,\nsuggesting that we should watch the night sky\ntogether."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [4, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こんなにきれいな空なんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["別におかしい事じゃないだろ？"]
+              "parameters": [
+                "It's not really strange to suggest watching the\nbeautiful sky like this, is it?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["変わっているって言ったら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["正直アイルの方がよっぽどだと思うけどね"]
+              "parameters": [
+                "If we're talking about being strange, I honestly\nthink Aeru is much more so."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 7, false] },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ははっ・・・まったく"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そんな不服そうな顔をしないでくれよ"]
+              "parameters": [
+                "Haha... Please don't make such a dissatisfied\nface."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["感謝してるんだ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["きっとアイルがいなかったら"]
+              "parameters": [
+                "I'm grateful, surely if Aeru wasn't here, I\nwouldn't be who I am now."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["今の俺はいないから"] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それはきっと出会った頃の話だろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それなら気にすることはない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["全ては自己満足だったのだから"]
+              "parameters": [
+                "That must be a story from when we first met, so\nthere's no need to worry. It was all just self-\nsatisfaction."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["それでもだよ"] },
-            { "code": 401, "indent": 0, "parameters": ["ありがとうアイル"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Even so, thank you, Aeru."]
+            },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・っふ、ははっ・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ごめん急に変なことを言って"]
+              "parameters": [
+                "...Haha, sorry for saying something strange all of\na sudden."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["最近色々あっただろう？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だからさ、改めて伝えたいなって思ったんだ"]
+              "parameters": [
+                "You've been through a lot lately, right? That's\nwhy I wanted to tell you again."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 6, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そういうところが変わっているんだと"]
+              "parameters": [
+                "He sighed, saying That's what's changed about you."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["ため息をつく"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まぁ、俺がそうなったのは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルの責任もあるってことで諦めるんだね"]
+              "parameters": [
+                "Well, I guess I'll just have to accept that it's\npartly Aeru's responsibility that I turned out\nthis way."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 7, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["このままだと朝まで話込んでしまいそうだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["明日からの探索もあるし先に休んでくれ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["適当な時間で見張り番を交代しよう"]
+              "parameters": [
+                "At this rate, we might end up talking until\nmorning. We have exploration to do from tomorrow,\nso please rest first. Let's take turns keeping\nwatch at a suitable time."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 6, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["言葉を素直に受け取り"]
+              "parameters": [
+                "I'll take your words at face value and rest first."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["先に休むことにする"] },
             { "code": 101, "indent": 0, "parameters": ["", 6, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["深い森の中だというのに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その日は安心して眠ることが出来た"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それはきっと傍にライトがいたからだろう"]
+              "parameters": [
+                "Even though it was said to be deep in the forest,\nI was able to sleep peacefully that day. It must\nhave been because Light was by my side."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [220, 220, 0] },
             { "code": 221, "indent": 0, "parameters": [] },

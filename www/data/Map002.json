@@ -11,7 +11,7 @@
   },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "自宅",
+  "displayName": "Home",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -224,8 +224,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["まだ疲れていない"] },
-            { "code": 401, "indent": 0, "parameters": ["もう少し頑張ろう"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You're not tired yet, let's keep pushing a little\nlonger."
+              ]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -269,20 +274,19 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ベットがある"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうしようかな・・・"]
+              "parameters": ["I wonder what to do with the bed..."]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
                 [
-                  "寝ようかな（一日が経過します",
-                  "少し休もうかな（全回復します",
-                  "まだ起きていよう"
+                  "Should I go to bed? (Time passes)",
+                  "Maybe take a little rest? (Fully recovers)",
+                  "Let's stay up a little longer"
                 ],
                 1,
                 0,
@@ -452,7 +456,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["変な夢を見ていた気がする"]
+              "parameters": ["I feel like I had a strange dream."]
             },
             { "code": 121, "indent": 0, "parameters": [21, 21, 0] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -651,12 +655,11 @@
             { "code": 230, "indent": 0, "parameters": [10] },
             { "code": 251, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\{\\{アイル大変だよ！！"]
+              "parameters": ["Aeru, it's really tough!!"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             {
@@ -796,31 +799,30 @@
               "parameters": [1, "hiro1", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトが倒れちゃったみたいで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今は村長さんの家にいるの！"]
+              "parameters": [
+                "It seems like Light has collapsed, so right now\nhe's at the village chief's house!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイルも早く来て！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["一番の友達でしょっ！"]
+              "parameters": [
+                "Aeru, come quickly! You're my best friend, right?!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["二つ返事で頷くと"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["すぐに村長の家に向かった"]
+              "parameters": [
+                "He nodded without hesitation and immediately\nheaded to the village chief's house."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -926,9 +928,8 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["おはよー！"] },
-            { "code": 401, "indent": 0, "parameters": ["アイルっ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Good morning! Aeru!"] },
             { "code": 121, "indent": 0, "parameters": [37, 37, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             {
@@ -937,40 +938,29 @@
               "parameters": [1, "hiro1", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どう？疲れは取れた？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日も張り切って探索に行こう！"]
+              "parameters": [
+                "How are you feeling? Have you recovered from\nfatigue? Let's go explore with full energy today!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["って言いたいところだけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まずはライトの様子を見に行こっか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["きっとまだ村長の家にいるよね"]
+              "parameters": [
+                "I want to say that, but first, should we go check\non Light's condition? He's probably still at the\nvillage chief's house, right?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["良くなってるといいね"]
+              "parameters": ["I hope you're feeling better"]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1239,20 +1229,22 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらでは男性器の名称を"]
+              "parameters": [
+                "Here, you can freely change the name of the male\ngenitalia."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["任意に変更できます"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["変更されますか？"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["現在の設定は「\\c[2]おちんちん\\c[0]」です"]
+              "parameters": [
+                "Will it be changed? The current setting is\n\\c[2]dick\\c[0]."
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["違うのにするよ！", "俺おちんちん派だ"], 1, 0, 2, 1]
+              "parameters": [["I'll change it!", "I'm a dick guy"], 1, 0, 2, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "違うのにするよ！"] },
             { "code": 303, "indent": 1, "parameters": [7, 10] },
@@ -1326,28 +1318,24 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["おはようアイル"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Good morning, Aeru"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["さっき家の前でリラと会った"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["なんだか村長の家であったみたい"]
+              "parameters": [
+                "I just met Lira in front of the house. It seems\nlike we're going to the village chief's house."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルにも声かけてって"]
+              "parameters": ["Ask Aeru to come too... Let's go as well"]
             },
-            { "code": 401, "indent": 0, "parameters": ["・・・私たちも行こ"] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 201, "indent": 0, "parameters": [0, 41, 14, 7, 8, 0] },
@@ -1463,15 +1451,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["変な夢を見ていた気がする"]
+              "parameters": ["I feel like I had a strange dream."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["取りあえずライトの様子を見に行こう"]
+              "parameters": ["Let's go check on Light for now."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 42, 11, 6, 8, 0] },
@@ -1622,19 +1610,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらでは男性器のサイズを"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["任意で変更することが出来ます"]
+              "parameters": [
+                "Here, you can freely change the size of the male\ngenitalia."
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 379, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["現在のサイズは\\c[2]極小\\c[0]です"]
+              "parameters": ["The current size is \\c[2]extremely small\\c[0]."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -1642,7 +1627,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["現在のサイズは\\c[2]小さい\\c[0]です"]
+              "parameters": ["The current size is \\c[2]small\\c[0]."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -1651,8 +1636,8 @@
               "indent": 0,
               "parameters": [
                 [
-                  "俺のおちんちんは大きいんだよなぁ（小さい",
-                  "おちんちんの大きさはこんなもんだろ(極小"
+                  "My dick is big, isn't it? (small)",
+                  "Is this the size of your dick? (Tiny)"
                 ],
                 1,
                 0,

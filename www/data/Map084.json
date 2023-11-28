@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "北の森　川辺",
+  "displayName": "Northern Forest Riverside",
   "encounterList": [
     { "regionSet": [], "troopId": 1, "weight": 5 },
     { "regionSet": [], "troopId": 2, "weight": 5 },
@@ -295,22 +295,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -592,77 +588,71 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトの様子を尋ねる"]
+              "parameters": ["Inquire about Light's condition"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["最初よりもどんどん熱が上がっている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今もうなされているみたい・・・"]
+              "parameters": [
+                "It seems like his fever is rising even more than\nbefore, and he's suffering now..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [5, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私がちゃんとしてれば・・・ライトは・・・"]
+              "parameters": ["If I had done my job properly... Light would..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["過ぎた事は気にしても仕方がない"]
+              "parameters": [
+                "I want to convey that there's no point in worrying\nabout the past, and I'm sure Light wouldn't want\nto be troubled by such things."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトもそんなことで悩んでほしくないと"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["思うはずだと伝える"] },
             { "code": 213, "indent": 0, "parameters": [5, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そう・・・うん、そんな気がする"]
+              "parameters": ["Yeah, I have a feeling like that."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ごめん、今日は付きっきりで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトの看病をしたい"]
+              "parameters": [
+                "I'm sorry, today I want to take care of Light's\nnursing full-time."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["見張り番"] },
-            { "code": 401, "indent": 0, "parameters": ["お願いしてもいい？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Can I ask you to keep watch?"]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["任せてくれと頷き"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["その代わりにライトことを頼む"]
+              "parameters": [
+                "I'll take care of it, so please watch over Light\nin my place."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うん・・・ありがとうアイル"]
+              "parameters": ["Yeah... thank you, Aeru."]
             },
             {
               "code": 205,
@@ -709,10 +699,10 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 121, "indent": 0, "parameters": [236, 236, 1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 246, "indent": 0, "parameters": [3] },
             {
               "code": 223,
@@ -1119,80 +1109,74 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトの様子を尋ねる"]
+              "parameters": ["Inquire about Light's condition"]
             },
             { "code": 213, "indent": 0, "parameters": [5, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・すごく辛そう・・・"]
+              "parameters": ["...He looks really in pain..."]
             },
             { "code": 213, "indent": 0, "parameters": [5, 11, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["で、でも！安心してアイル"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["毒を何とかする方法は心当たりがあるの"]
+              "parameters": [
+                "B-But! I do have an idea on how to cure Light's\npoison, so please don't worry."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今から治療をしてみるね"]
+              "parameters": ["I'll start treatment now, I'm sure he'll be okay"]
             },
-            { "code": 401, "indent": 0, "parameters": ["きっと大丈夫"] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何か手伝えることはないだろうか"]
+              "parameters": ["Is there anything I can help with?"]
             },
             { "code": 213, "indent": 0, "parameters": [5, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["え！？・・・あぁーいや・・・"]
+              "parameters": ["Eh!? ...Ah, no... I wonder if he's okay!"]
             },
-            { "code": 401, "indent": 0, "parameters": ["大丈夫かな！"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ただ、すごく集中するから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["テントの中は見ないでもらっていい？"]
+              "parameters": [
+                "But, I'm really focused, so is it okay if you\ndon't look inside the tent?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["分かったと頷き"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["見張りに専念すると伝える"]
+              "parameters": [
+                "I'll nod to indicate that I understand and focus\non keeping watch."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うん・・・きっとライトは良くなるから"]
+              "parameters": [
+                "Yeah... I'm sure Light will get better, so please\nwait!"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["待っててね！"] },
             {
               "code": 205,
               "indent": 0,
@@ -1238,9 +1222,9 @@
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 246, "indent": 0, "parameters": [3] },
             {
               "code": 223,
@@ -1420,91 +1404,73 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトの様子を尋ねる"]
+              "parameters": ["Inquire about Light's condition"]
             },
             { "code": 213, "indent": 0, "parameters": [5, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だいぶ無理をしていたみたい・・・"]
+              "parameters": [
+                "It seems like he's been pushing himself quite a\nbit..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もっと自分がしっかりしていれば・・・"]
+              "parameters": ["If only I were more reliable..."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ううん、それなら私こそ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちゃんとサポート出来ていなかったから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルのせいだけじゃないよ"]
+              "parameters": [
+                "No, it's not just Aeru's fault. If only I were\nmore reliable with my support."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ちゃんと支えるつもりだったのに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こんなんじゃだめだよね・・・"]
+              "parameters": [
+                "I intended to support him properly, but it's no\ngood like this..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [5, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私はライトの看病をするね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルも大変だとは思うけど・・・"]
+              "parameters": [
+                "I'm taking care of Light, so I know Aeru is also\nhaving a hard time..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["気にするほどじゃないから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトを優先してほしいと伝える"]
+              "parameters": [
+                "I want to prioritize Light, so please don't worry\ntoo much about it."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["うん、ありがとう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Yeah, thank you"] },
             { "code": 213, "indent": 0, "parameters": [5, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["やっぱり今のままじゃだめだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私にも何か出来ることを探さないと・・・"]
+              "parameters": [
+                "As expected, it's not good the way it is now. I\nneed to find something I can do too..."
+              ]
             },
             {
               "code": 205,
@@ -1551,9 +1517,9 @@
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 246, "indent": 0, "parameters": [3] },
             {
               "code": 223,

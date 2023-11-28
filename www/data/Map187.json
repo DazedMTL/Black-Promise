@@ -11,7 +11,7 @@
   },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "リラの家",
+  "displayName": "Lira's house",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -164,16 +164,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["呪いの事は本当にありがとうね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あれからリラも一回り大人になった気がするわ"]
+              "parameters": [
+                "Thank you so much for the curse. Since then, it\nfeels like Lira has grown up a bit."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -218,17 +215,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リラを助けてくれたことは本当にありがとう"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "・・・でも、もう少し早く・・・いえ、何でもないわ・・・"
+                "Thank you so much for helping Lira... but, if only\nit had been a little sooner... No, it's nothing..."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -274,16 +266,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ねぇ・・・リラの姿がどこにも見えないの"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あんな身体でいったいどこに行ったのかしら・・・"]
+              "parameters": [
+                "Hey... I can't see Lira anywhere. I wonder where\nshe went with that body of hers..."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -328,21 +317,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふふっ・・・私はずっと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リラはアイルと付き合うと思っていたのよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["これからもよろしくしてあげてね"]
+              "parameters": [
+                "Hehe... I've always thought that Lira would be\ndating Aeru. Please continue to take care of her\nfrom now on."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -387,18 +368,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "リラはいつもライトを部屋に入れて何をしてるのかしら？"
+                "I wonder what Lira is always doing with Light in\nher room? I think she's probably thinking of a\nsurprise for Aeru."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["きっとアイルへのサプライズを考えてるんだと思うわ"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -443,21 +419,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラがライトと付き合うなんて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まぁ、どっちかだとは思っていたけれど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ううん、こっちの話よ"]
+              "parameters": [
+                "I had a feeling that Lira would end up dating\neither Aeru or Light, but well, that's a story for\nanother time."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -502,21 +470,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おくすけさんって本当に誠実よね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ただ、魔物って子だくさんって聞くし"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そこだけが心配だわ・・・"]
+              "parameters": [
+                "Okusuke-san is really sincere, but I've heard that\ndemons have lots of children, so that's the only\nworry..."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -561,21 +521,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こんなことになるだなんてね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まぁ、リラが決めた事ならいいんだけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルもあまり落ち込んでいてはだめよ？"]
+              "parameters": [
+                "I can't believe things turned out like this, but\nwell, if it's something Lira decided, then it's\nfine. But Aeru, you shouldn't be too down either,\nokay?"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -688,7 +640,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["食べ物が並んでいる"] },
+            { "code": 401, "indent": 0, "parameters": ["Food is lined up"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -741,7 +693,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["お日様の匂いがする"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["It smells like the sun."]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -797,7 +753,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["にんじんはいらないな。。。"]
+              "parameters": ["I don't need carrots..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -998,42 +954,37 @@
           "list": [
             { "code": 111, "indent": 0, "parameters": [0, 320, 0] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["もっとうまく出来なかったのかな・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["私がしっかりしていればあんな不幸なことは・・・"]
+              "parameters": [
+                "I wonder if I could have done better... If I had\nbeen more reliable, such a tragedy wouldn't have\nhappened..."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 111, "indent": 1, "parameters": [0, 300, 0] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["もっとうまく出来なかったのかな・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["私がしっかりしていればあんな不幸な事には"]
+              "parameters": [
+                "I wonder if I could have done better... If I had\nbeen more reliable, such a tragedy wouldn't have\nhappened..."
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["やっと日常に戻って来たって"]
+              "parameters": [
+                "It feels like we've finally returned to our\neveryday life!"
+              ]
             },
-            { "code": 401, "indent": 2, "parameters": ["感じがするね！"] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1081,16 +1032,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["悪魔って聞いて怖いイメージだったけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クロちゃんかわいいよね！"]
+              "parameters": [
+                "I used to have a scary image of demons, but Kuro-\nchan is so cute, isn't he?"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

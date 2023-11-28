@@ -411,12 +411,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ある日、おくすけの所にいるリラに会いに行くと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["部屋の中から物音が聞こえる"]
+              "parameters": [
+                "One day, when I went to see Lira who was with\nOkusuke, I heard a noise coming from the room."
+              ]
             },
             { "code": 222, "indent": 0, "parameters": [] },
             {
@@ -465,12 +462,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうやら今日はおくたはいないようだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["中の様子が気になりそっと隙間を開けて覗き込む"]
+              "parameters": [
+                "It seems like Okusuke isn't here today, so I\nquietly opened the gap and peeked inside, curious\nabout what's going on."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -485,122 +479,84 @@
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [5] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おぉっ\\i[249]あぁ\\i[249]はひぃ\\i[249]"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Oh, ahh, haaah!"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            { "code": 401, "indent": 0, "parameters": ["はっはっはっ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
+            { "code": 401, "indent": 0, "parameters": ["Hahaha"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["すごぃ\\i[249]おちんちんすきぃ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もっとっ\\i[249]めちゃくちゃいいっ\\i[249]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["目の前では激しい行為が行われていた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いや、行為といっていいのか暴力的ですらある"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["小さなリラの身体と不釣り合いなほど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大きなおくすけの身体が腰を打ち付けるたび"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["悲鳴のような喘ぎ声が聞こえる"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["少し前の話になるが"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["呪いの騒動が解決した後二人に会いに行くと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["付き合っていると打ち明けられた"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["最初は驚きもしたが"] },
-            { "code": 401, "indent": 0, "parameters": ["もちろん祝福した"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["自分の事のように喜んだ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それからしばらく二人には会っていなかったのだが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["久しぶりに来てみればリラのお腹はすっかり"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["大きくなっていた"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["二人の関係ならそれが普通なのだろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だけど、二人が付き合うと聞いても"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何処か実感できていなかったのかも知れない"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["すまない・・・こんな乱暴にしか"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["愛してやれなくて"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いいのっ\\i[249]あなたのやり方でっ\\i[249]"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "私の事いっぱい愛してっ\\i[249]それでいいのっ\\i[249]"
+                "Wow, I love <Ascii_0> dick, it feels so good\n<Ascii_0> more <Ascii_0> it's amazing <Ascii_0>"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "There was an intense act happening right in front\nof me. No, calling it an act might be too violent."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I could hear the scream-like moans every time the\nsmall body of Lira and the disproportionately\nlarge body of Okusuke clashed their hips."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Some time ago, after the commotion of the curse\nwas resolved, I went to see the two of them and\nthey confessed that they were dating."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "At first, I was surprised, but of course, I was\nhappy like it was my own matter and congratulated\nthem."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "After that, I hadn't seen the two of them for a\nwhile, but when I came to see them after a long\ntime, Lira's belly had become quite large."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "It might be normal if it's their relationship, but\neven when I heard that they were dating, I\ncouldn't quite feel it."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I'm sorry... that I can only love you so\nviolently."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "It's okay \\i[249] to love me in your own way\n\\i[249] a lot \\i[249] that's enough for me \\i[249]"
               ]
             },
             { "code": 121, "indent": 0, "parameters": [684, 684, 1] },
@@ -610,58 +566,45 @@
             { "code": 251, "indent": 0, "parameters": [] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ───\\i[249]\\i[249]\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["えへへ・・・\\i[249]とっても幸せだよ\\i[249]"]
+              "parameters": [
+                "Nn───\\i[249]\\i[249]\\i[249] Ehehe... \\i[249] I'm so\nhappy \\i[249]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["君と出会えてよかった"]
+              "parameters": ["I'm glad I met you... truly..."]
             },
-            { "code": 401, "indent": 0, "parameters": ["・・・本当に・・・"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私も同じだよ・・・だからもっとほしい\\i[249]"]
+              "parameters": [
+                "I feel the same... that's why I want more \\i[249]"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["覗いていた隙間をそっと閉じる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そしてゆっくりと元来た道を戻った"]
+              "parameters": [
+                "I quietly closed the gap I was peeking through,\nand slowly returned to the path I originally came\nfrom."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["複雑な思いが無いと言えば嘘になる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だけど、二人が選んだ道なら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["祝福してあげないといけない"]
+              "parameters": [
+                "It would be a lie to say that I have no\ncomplicated feelings, but if it's the path the two\nof them chose, I have to offer my blessings."
+              ]
             },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 117, "indent": 0, "parameters": [3] },
@@ -669,12 +612,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・おめでとう、二人とも"]
+              "parameters": ["...Congratulations to both of you"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 201, "indent": 0, "parameters": [0, 47, 26, 4, 2, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "マーガレットの部屋",
+  "displayName": "Margaret's room",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -173,7 +173,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -242,7 +242,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -304,7 +304,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが床に広がっている"]
+              "parameters": ["There is something white spread out on the floor"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

@@ -1614,22 +1614,22 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日も一日お疲れさま！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["なんとかみんな無事に帰ってこれたねっ"]
+              "parameters": [
+                "Good job today! Somehow, everyone made it back\nsafely, huh."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [8, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["ああ・・・うん"] },
-            { "code": 401, "indent": 0, "parameters": ["よかった・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Ah... yeah, thank goodness..."]
+            },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
             {
               "code": 205,
@@ -1650,8 +1650,8 @@
               "parameters": [{ "code": 1, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\}後で行くね・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["I'll go later..."] },
             { "code": 213, "indent": 0, "parameters": [8, 1, false] },
             {
               "code": 205,
@@ -1672,26 +1672,27 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\}いや、その・・・それは・・・"]
+              "parameters": ["No, that... that is..."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\}どうせ我慢できないんだから"]
+              "parameters": [
+                "Since you can't endure it anyway, don't complain."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["つべこべ言わない"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\}うん・・・ありがとう・・・"]
+              "parameters": ["Yeah... thank you..."]
             },
             { "code": 213, "indent": 0, "parameters": [10, 2, true] },
             { "code": 213, "indent": 0, "parameters": [8, 1, false] },
@@ -1733,16 +1734,13 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["えっ！？・・・あぁ・・・なんでもないよ！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それじゃあまた明日ね！"]
+              "parameters": [
+                "Huh!? ...Ah... it's nothing! Well then, see you\ntomorrow!"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 246, "indent": 0, "parameters": [3] },
@@ -2131,23 +2129,20 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["道具屋さんには隣の扉から入ろっ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日は遊びに来たわけじゃなくて"]
+              "parameters": [
+                "I'm going to enter from the next door to the tool\nshop. I didn't come here to play today."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["商品を買うために来たからね！"]
+              "parameters": ["I came to buy some items, you know!"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2193,11 +2188,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["すぐ隣の扉から入ろっ"]
+              "parameters": ["Enter from the door right next to us."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

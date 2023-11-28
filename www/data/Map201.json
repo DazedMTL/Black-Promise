@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "道具屋",
+  "displayName": "Tool Shop",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -353,16 +353,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["やぁ、いらっしゃい"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日は何が必要なんだい？"]
+              "parameters": ["Hey, welcome! What do you need today?"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -407,20 +402,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["マーガレットが彼氏を紹介した時はびっくりしたが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["見た目と違ってしっかり者らしいし安心だな"]
+              "parameters": [
+                "When Margaret introduced her boyfriend, I was\nsurprised, but he seems reliable despite his\nappearance, so I feel relieved."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -465,22 +453,14 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
+              "parameters": [
+                "Please stay by Margaret's side until she gets\nbetter..."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["マーガレットが良くなるまで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうか傍にいてやってくれ"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["頼む・・・"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -524,22 +504,14 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
+              "parameters": [
+                "I thought he was a spineless wimp, but turns out\nhe's got some guts after all. I've reevaluated him\na little bit."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["腑抜けだと思っていたが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["意外とあいつも根性があるんだな"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["少しだけ見直したぜ"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -583,20 +555,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["マーガレットの事よろしく頼むな！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まぁ、お前なら問題ないか"]
+              "parameters": [
+                "Take care of Margaret, okay? Well, I guess there\nwon't be any problems with you."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -641,20 +606,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お前たちって本当に付き合ってるんだよな？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いや、マーガレットがライトの話しかしないからよ"]
+              "parameters": [
+                "Are you two really dating? Well, Margaret only\ntalks about Light, so..."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -699,17 +657,14 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
+              "parameters": [
+                "If Light becomes my son-in-law, our shop will be\nsecure."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトが婿に来てくれるなら"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["うちの店も安泰だな"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -753,20 +708,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトはすげぇ奴だとは思っていたが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まさか３人とはなぁ・・・俺も若ければ・・・"]
+              "parameters": [
+                "I always thought Light was an amazing guy, but to\nthink he'd have three women... If only I were\nyounger..."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -811,20 +759,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["悪魔って言っても人間と変わらないんだな"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この前お菓子買いにきたぜ"]
+              "parameters": [
+                "Even though they're called demons, they're no\ndifferent from humans. They came to buy sweets the\nother day."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1002,51 +943,36 @@
           "list": [
             { "code": 111, "indent": 0, "parameters": [0, 300, 0] },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["あ・・・アイル・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ごめん、気にかけてくれて"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["それよりもあの子の傍にいてあげてほしい"]
+              "parameters": [
+                "Ah...Aeru...I'm sorry, I want you to be by her\nside and care for her more than worrying about me."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 111, "indent": 1, "parameters": [0, 288, 0] },
             { "code": 101, "indent": 2, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["あ・・・アイル・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["ごめん、気にかけてくれて"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["それよりもあの子の傍にいてあげてほしい"]
+              "parameters": [
+                "Ah...Aeru...I'm sorry, I want you to be by her\nside and care for her more than worrying about me."
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 2, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 2, "parameters": ["いらっしゃい"] },
+            { "code": 401, "indent": 2, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["今日もいい商品、揃ってる"]
+              "parameters": [
+                "Welcome, we have a great selection of items today."
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -1095,13 +1021,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・クロちゃん"] },
-            { "code": 401, "indent": 0, "parameters": ["私より背が低かった"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・角を含めなければだけど"]
+              "parameters": [
+                "...Kuro-chan was shorter than me...if you don't\ncount the horns."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1151,21 +1077,22 @@
               "parameters": [1, "hiro2 ni", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["いらっしゃい"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何かあったらカウンターの彼に"]
+              "parameters": [
+                "Welcome! If you need anything, please call out to\nthe person at the counter."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["声をかけてね"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["カウンターを見つめる視線は"]
+              "parameters": [
+                "The gaze staring at the counter seems somewhat\nmature."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["何処か大人びている"] },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1215,21 +1142,22 @@
               "parameters": [1, "hiro2 ni", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["いらっしゃい"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何かあったらカウンターの彼に"]
+              "parameters": [
+                "Welcome! If you need anything, just call out to\nthe person at the counter."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["声をかけてね"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["カウンターを見つめる視線は"]
+              "parameters": [
+                "The gaze staring at the counter seems somewhat\nmature."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["何処か大人びている"] },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1486,30 +1414,25 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
-            { "code": 401, "indent": 0, "parameters": ["やぁ、アイル！"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色々商品揃ってるよ！"]
+              "parameters": ["Hey, Aeru! There are various products available!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["まだ慣れないけれど"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一つ一つ覚えていこうって思うんだ"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これからもよろしくな！"]
+              "parameters": [
+                "I'm still not used to it, but I'll try to remember\neach one as we go along. Please take care of me\nfrom now on!"
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1555,11 +1478,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["仕事で忙しそうだ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これ以上声を掛けるのはやめておこう"]
+              "parameters": [
+                "It looks like you're busy with work, so I'll\nrefrain from bothering you further."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1604,29 +1528,22 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まさか俺がこんなことを"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["するなんて夢にも思わなかったぜ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まぁ、あいつのためだし仕方ないか"]
+              "parameters": [
+                "I never thought I'd do something like this in my\nwildest dreams. Well, it's for her sake, so I\nguess there's no helping it."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
-            { "code": 401, "indent": 0, "parameters": ["おい、そこのお前"] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ボーっとしてないで何か買ったらどうだ"]
+              "parameters": [
+                "Hey, you there. Instead of just standing around,\nhow about buying something?"
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1672,11 +1589,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["仕事で忙しそうだ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これ以上声を掛けるのはやめておこう"]
+              "parameters": [
+                "It looks like you're busy with work, so I'll\nrefrain from bothering you further."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

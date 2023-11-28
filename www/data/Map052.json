@@ -575,16 +575,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうやら地下に落ちてしまったようだ"]
+              "parameters": ["It seems like I've fallen into the underground."]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["辺りは薄暗く"] },
-            { "code": 401, "indent": 0, "parameters": ["よく見えない"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["The surroundings are dimly lit and hard to see."]
+            },
             {
               "code": 250,
               "indent": 0,
@@ -593,22 +595,23 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             {
               "code": 231,
               "indent": 0,
               "parameters": [1, "hiro2 1 1", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・いたい"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["...It hurts"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうやら自分が落ちた先に"]
+              "parameters": [
+                "It seems that Margaret has also fallen to where I\nam."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["マーガレットもいたようだ"] },
             { "code": 235, "indent": 0, "parameters": [1] },
             {
               "code": 231,
@@ -616,28 +619,25 @@
               "parameters": [2, "hiro2 1 2", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・ん"] },
-            { "code": 401, "indent": 0, "parameters": ["アイル"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Nn, Aeru"] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルまで落ちてきたの？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・ふふっとんだおっちょこちょい"]
+              "parameters": [
+                "Aeru, did you fall down here too? ...Haha, what a\nclumsy person."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["マーガレットには言われたくないよと"]
+              "parameters": [
+                "I retort that I don't want to be told by Margaret."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["反論をする"] },
             { "code": 235, "indent": 0, "parameters": [2] },
             {
               "code": 231,
@@ -652,20 +652,24 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Well... that's true"] },
+            { "code": 101, "indent": 0, "parameters": ["", 3, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まぁ・・・それはそう"]
+              "parameters": [
+                "But I managed to find some clues while looking\naround."
+              ]
             },
-            { "code": 101, "indent": 0, "parameters": ["", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["でも見て"] },
-            { "code": 401, "indent": 0, "parameters": ["ちゃんと手がかり"] },
-            { "code": 401, "indent": 0, "parameters": ["手に入れた"] },
             { "code": 101, "indent": 0, "parameters": ["", 3, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・確かこの辺に"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["...I'm sure it was around here."]
+            },
             {
               "code": 250,
               "indent": 0,
@@ -674,10 +678,10 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             {
               "code": 250,
               "indent": 0,
@@ -686,9 +690,8 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・アイル"] },
-            { "code": 401, "indent": 0, "parameters": ["謝って"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Aeru, I'm sorry."] },
             {
               "code": 250,
               "indent": 0,
@@ -698,18 +701,20 @@
             },
             { "code": 213, "indent": 0, "parameters": [-1, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ああ・・・たしかに"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["マーガレットのことを下敷きにしてしまっているようだ"]
+              "parameters": [
+                "Ah... It seems that I have inadvertently pinned\nMargaret down."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["すまないと一言謝り"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["立ち上がるために腕に力を入れる"]
+              "parameters": [
+                "I apologize and put strength into my arms to stand\nup."
+              ]
             },
             {
               "code": 250,
@@ -722,23 +727,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何だかこの地面触り心地がいい"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["敷きたてのシーツのようだ"]
+              "parameters": [
+                "Somehow, the touch of this ground feels like a\nfreshly laid sheet."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["なんだか気持ちよくて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["つい感触を確かめてしまう"]
+              "parameters": [
+                "Somehow, it feels so good that I unintentionally\ncheck the sensation."
+              ]
             },
             { "code": 235, "indent": 0, "parameters": [3] },
             {
@@ -747,23 +746,19 @@
               "parameters": [4, "hiro2 1 6", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ\\i[249]・・・ちょっと・・・"]
+              "parameters": ["Nn... \\i[249]...a little... ah..."]
             },
-            { "code": 401, "indent": 0, "parameters": ["やっ・・・"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["なんだかマーガレットの息が荒くなっている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いったいどうしたのだろう"]
+              "parameters": [
+                "Margaret||| || Somehow, Margaret's breathing has\nbecome rough. I wonder what's going on."
+              ]
             },
             {
               "code": 250,
@@ -773,21 +768,19 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁっ\\i[249]このっ・・・\\i[249]"]
+              "parameters": ["Haa... \\i[249]...This... \\i[249]...Nn\\i[249]"]
             },
-            { "code": 401, "indent": 0, "parameters": ["・・・んっ\\i[249]"] },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それっ・・・\\i[249]むっ・・・\\i[249]"]
+              "parameters": ["There... \\i[249]Mm... \\i[249]My..."]
             },
-            { "code": 401, "indent": 0, "parameters": ["私の・・・\\i[249]"] },
             { "code": 213, "indent": 0, "parameters": [-1, 2, false] },
             { "code": 235, "indent": 0, "parameters": [4] },
             {
@@ -796,8 +789,8 @@
               "parameters": [5, "hiro2 1 5", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\{私の胸っ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["My chest!"] },
             {
               "code": 250,
               "indent": 0,
@@ -891,41 +884,44 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["気が付かなかったとはいえ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["酷いことをしてしまった"]
+              "parameters": [
+                "Even though I didn't realize, I did something\nterrible."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ただただ謝る"] },
+            { "code": 401, "indent": 0, "parameters": ["Just apologize"] },
             { "code": 213, "indent": 0, "parameters": [2, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・まったく"] },
-            { "code": 401, "indent": 0, "parameters": ["今回だけ"] },
-            { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私の胸はタダじゃない"]
+              "parameters": ["...totally this time only"]
             },
-            { "code": 401, "indent": 0, "parameters": ["今後の誠意に期待"] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "My heart is not free. I expect sincerity from now\non."
+              ]
+            },
             { "code": 213, "indent": 0, "parameters": [-1, 11, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["取りあえず・・・これ"]
+              "parameters": ["For now... this seems about right."]
             },
-            { "code": 401, "indent": 0, "parameters": ["それっぽいの"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["試すためにも"] },
-            { "code": 401, "indent": 0, "parameters": ["ここ・・・早く出よ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["For now... this seems about right."]
+            },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 47, 7, 13, 2, 0] },
             {

@@ -326,12 +326,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CLどれぐらい時間が過ぎたのだろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["目を覚ますとそこは知らない場所だった"]
+              "parameters": [
+                "\\CLI wonder how much time has passed. When I woke up,\nit was a place I didn't recognize."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [4, 1, false] },
             {
@@ -389,23 +386,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL物音がした方を見ると"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["意識を失う前に会った人間がいた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["緊張で身体がこわばる、そんなあたしに彼は・・・"]
+              "parameters": [
+                "\\CLI looked towards the source of the noise and felt\nmy body stiffen with tension as I saw the person I\nhad met before losing consciousness. And then,\nhe..."
+              ]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["優しく話しかけてきた", "ぶっきらぼうに話しはじめた"],
+                ["Spoke to me gently", "Started speaking bluntly"],
                 1,
                 0,
                 2,
@@ -426,109 +415,78 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CL「ごめん、怖がらなくて大丈夫"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["君をどうこうするってつもりなんて"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["これっぽっちもないよ」"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\CL「ただ酷く疲れていたみたいだったから・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["大きなお世話ってことはわかっているんだ」"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\CL「どうか疲れが取れるまでの間だけでいい"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ここで休んでいかない？」"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\CL「何でも言って！出来る限りの事はするから"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["さながら君はお姫様って感じ！」"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\CLもちろんそんな言葉"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["すぐに信用できるものではなかった"]
+              "parameters": [
+                "\\CLSorry, I have no intention of doing anything to\nscare you. You don't need to worry at all."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLだけどその言葉が嘘じゃないってことはすぐに分かった"
+                "\\CLIt seemed like you were terribly tired... I\nunderstand that it's none of my business to meddle\nin."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["彼は常にあたしを優先してくれていた"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CLそれは、あたしが本来いた環境に比べれば"]
+              "parameters": [
+                "\\CLWould it be alright for you to rest here until you\nfeel less tired?"
+              ]
             },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["とても幼稚な物だったけど、不思議と心がやすらいだ"]
+              "parameters": [
+                "\\CLTell me anything! I'll do everything I can, just\nlike treating you like a princess!"
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\CLOf course, I couldn't immediately trust those\nwords."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\CLHowever, I quickly realized that those words were\nnot a lie. He always prioritized me."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "\\CLCompared to the environment I was originally in,\nit was very childish, but strangely, my heart felt\nat ease."
+              ]
             },
             { "code": 242, "indent": 1, "parameters": [4] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CLあたしの中では彼の傍に居るのがいつしか"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["当たり前となっていた"]
+              "parameters": ["\\CLBeing by his side had become natural to me."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CLそれは出会いから数年たった今も変わっていない"]
+              "parameters": [
+                "\\CLEven now, several years after we first met, that\nhasn't changed."
+              ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": ["\\CL・・・・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["\\CL..."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": ["\\CL・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["\\CL..."] },
             { "code": 201, "indent": 1, "parameters": [0, 85, 22, 10, 2, 0] },
             { "code": 211, "indent": 1, "parameters": [1] },
             { "code": 223, "indent": 1, "parameters": [[0, 0, 0, 0], 1, true] },
@@ -546,34 +504,25 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CL男の子って感じのぶっきらぼうな態度"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["最初こそ不快感が湧いてきたけれど"]
+              "parameters": [
+                "\\CLAt first, his brusque attitude with a boyish feel\nmade me feel uncomfortable."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CLけれどそれがただの照れ隠しだということは"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["彼と接するうちにすぐに分かった"]
+              "parameters": [
+                "\\CLHowever, I quickly realized that it was just his\nway of hiding his embarrassment as I got to know\nhim."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CL彼は口では色々言いながらも"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["いつもあたしを気遣ってくれていた"]
+              "parameters": [
+                "\\CLDespite saying various things, he always took care\nof me."
+              ]
             },
             { "code": 242, "indent": 1, "parameters": [4] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
@@ -581,19 +530,14 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLそんな彼のそばがあたしの新しい居場所になるのに"
+                "\\CLIt didn't take long for being by his side to\nbecome my new place."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["そこまで時間は掛からなかった"]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": ["\\CL・・・・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["\\CL..."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": ["\\CL・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["\\CL..."] },
             { "code": 201, "indent": 1, "parameters": [0, 85, 22, 10, 2, 0] },
             { "code": 211, "indent": 1, "parameters": [1] },
             { "code": 223, "indent": 1, "parameters": [[0, 0, 0, 0], 1, true] },

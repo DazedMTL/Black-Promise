@@ -11,7 +11,7 @@
   },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "民家",
+  "displayName": "Private house",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -471,19 +471,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【体格のいいお兄さん】"]
+              "parameters": ["【Well-built big brother】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["嫁さんが作る飯は本当に最高だぜ！"]
+              "parameters": [
+                "My wife's cooking is truly the best! I need to\nstay strong and work hard during the day and at\nnight too!"
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しっかり元気付けて仕事も夜も"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["頑張らねぇとな！"] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -531,12 +527,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラとの会話に集中している"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こちらは気にかけていないようだ"]
+              "parameters": [
+                "It seems like I'm not being paid attention to, as\nI'm focusing on the conversation with Lira."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -635,48 +628,46 @@
               "parameters": [1, "hiro1 ni", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["あ・・・アイル"] },
-            { "code": 401, "indent": 0, "parameters": ["どうしたの？"] },
-            { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・よっと・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ごめんね、そっち向くだけでも"]
+              "parameters": ["A...Aeru, what's wrong?"]
             },
-            { "code": 401, "indent": 0, "parameters": ["ちょっと辛くて"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まぁ、このお腹じゃ仕方ないよね"]
+              "parameters": [
+                "...Y-yeah... I'm sorry, just turning towards you\nis a little painful."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Well, with this stomach, it can't be helped,\nright?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["特に用事はなかった"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["困ったことがあったらいつでも頼ってほしい"]
+              "parameters": [
+                "I didn't have anything in particular to do, so if\nyou ever have any trouble, please rely on me\nanytime."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そっか・・・いつも気にかけてくれて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ありがとう、でも、何かあったら旦那に頼むから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルは自分の好きな事をしてね"]
+              "parameters": [
+                "I see... Thank you for always caring about me, but\nif anything happens, I'll rely on my husband, so\nAeru, please do what you like."
+              ]
             },
             {
               "code": 205,
@@ -753,12 +744,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お兄さんとの会話に集中している"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう、こちらを気にかけていないようだ"]
+              "parameters": [
+                "He seems to be focused on the conversation with\nhis brother, and not paying attention to us."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -855,7 +843,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが床に広がっている"]
+              "parameters": ["There is something white spread out on the floor"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -912,7 +900,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが床に広がっている"]
+              "parameters": ["There is something white spread out on the floor"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -969,7 +957,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが床に広がっている"]
+              "parameters": ["There is something white spread out on the floor"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1026,7 +1014,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが床に広がっている"]
+              "parameters": [
+                "There is something white spread out on the floor."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1083,7 +1073,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが床に広がっている"]
+              "parameters": ["There is something white spread out on the floor"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

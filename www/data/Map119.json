@@ -541,56 +541,55 @@
             },
             { "code": 211, "indent": 0, "parameters": [0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お頭】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こいつがお前が言ってた女か"]
+              "parameters": ["【Oto (Head of a group)】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["中々上玉拾って来たじゃねぇか"]
+              "parameters": [
+                "This is the woman you were talking about. You've\nreally found a rare gem."
+              ]
             },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ガラ悪い男】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["へい！ちょっと苦労しましたが"]
+              "parameters": ["【Rough-looking man】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お頭から頂いた薬のお陰で"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["なんとかなりやした！"]
+              "parameters": [
+                "Hey! I went through some trouble, but thanks to\nthe medicine I received from the boss, I managed\nto pull through!"
+              ]
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お頭】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Otohime】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["よくやった、それじゃあ早速商品を作るか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お前はそこで撮影の協力をしろ"]
+              "parameters": [
+                "Well done. Let's get to work on the product right\naway. You, over there, help with the filming."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [1, 3, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ガラ悪い男】"] },
-            { "code": 401, "indent": 0, "parameters": ["へい！お頭自らとは"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この女も幸せもんですね！"]
+              "parameters": ["【Rough-looking man】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Hey! The boss himself is lucky to have this woman!"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -664,8 +663,8 @@
             },
             { "code": 121, "indent": 0, "parameters": [342, 342, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["ん・・・・・・！？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Huh...?!"] },
             {
               "code": 231,
               "indent": 0,
@@ -696,192 +695,154 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["目が覚めて最初に感じたのは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["下腹部の違和感だった"]
+              "parameters": [
+                "The first thing I felt when I woke up was a\ndiscomfort in my lower abdomen."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["得体の知れない異物が"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私の中へと幾度となく突き立てられている"]
+              "parameters": [
+                "An unknown object has been repeatedly thrust into\nme."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["What... No..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Otohime】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["なにっ・・・いやっ・・・"]
+              "parameters": [
+                "Looks like she's awake. As you can see, I'm\nthoroughly enjoying her."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Even as I say that, my hips are mercilessly\npounded with force so strong it hurts."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "My head is so confused by the shock that I can't\nunderstand the situation."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The only thing I understand is that I'm being\nviolated by this man."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お頭】"] },
-            { "code": 401, "indent": 0, "parameters": ["目が覚めたか小娘"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Nn...no...stop..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Otohime】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["見ての通り堪能させてもらっている"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そう言いながらも痛いぐらいの力で"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["容赦なく腰が打ち付けられる"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["あまりの衝撃に"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["頭が混乱して現状が理解できない"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["ただ一つ分かるのは"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この男に犯されているという事だけ"]
+              "parameters": [
+                "I'm sorry, but the moment you came here, you\nbecame my merchandise."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Otohime】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっん・・・そんなっ・・・やめて・・・"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お頭】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["悪いがここに来た時点で"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["お前は俺の商品だ"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お頭】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大人しく女の価値を示せ"]
+              "parameters": ["Show the value of a woman quietly."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["嫌だと暴れる私の腰を"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大きな手が掴んで離さない"]
+              "parameters": [
+                "A large hand grabs my struggling hips and doesn't\nlet go, even as I resist."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そうして男のおちんちんが挿れられ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私の足はガクガクと痺れて何もできなくなってしまう"]
+              "parameters": [
+                "And then, the man's dick is inserted, and my legs\ntremble and go numb, leaving me unable to do\nanything."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お頭】"] },
-            { "code": 401, "indent": 0, "parameters": ["そうだ、それでいい"] },
+            { "code": 401, "indent": 0, "parameters": ["【Oto (Boss)】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["メスはメスらしくしていろ"]
+              "parameters": ["That's right, that's how a female should behave."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["あっ・・・ん・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Ah...n..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お頭】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Otohime】"] },
+            { "code": 401, "indent": 0, "parameters": ["Hmph, hmph, hmph!"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふんっふんっふんっ！"]
+              "parameters": [
+                "This man's actions are only for satisfying his own\ndesires as a male."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この男の行為はオスが欲求を"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["満たそうとするためだけの行為だ"]
+              "parameters": [
+                "He's meticulously teaching my body, which should\nknow nothing."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何も知らないはずの私の身体に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["丹念に教え込んでいる"]
+              "parameters": [
+                "A large hand grabs my hips, and the dick that\npierces my vagina, even the loud sound of our hips\ncolliding."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私の腰を掴む大きな手が"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["膣を抉るおちんちんが"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["腰がぶつかりあう大きな音さえも"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私には初めての事ばかりで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あまりの情報量にどうにかなってしまいそうだった"]
+              "parameters": [
+                "There was so much new information for me that I\nfelt like I was going to lose it."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お頭】"] },
-            { "code": 401, "indent": 0, "parameters": ["よし、それでは"] },
+            { "code": 401, "indent": 0, "parameters": ["【Otohime】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もうそろそろ種付けしてやる"]
+              "parameters": ["Alright, then it's about time to impregnate her."]
             },
             {
               "code": 231,
@@ -916,104 +877,73 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お頭】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Otohime】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺の精子を飲み干せば"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お前も目が覚めるだろう"]
+              "parameters": ["If you drink up my semen, you'll wake up too."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["種付けって・・・そんなっだめっ"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["それだけはいやっ！"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["男は先ほどよりも乱暴な腰遣いをはじめ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["丹念に私の一番奥を攻める"]
+              "parameters": ["Impregnation... No, that's no good!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["その一突き一突きが私の身体と"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["精神を揺さぶり何とも言えない感覚が"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["身体を支配する"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["やはりまだ状況を呑み込めていなかったのだろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["少し考えればわかる事だ"]
+              "parameters": [
+                "The man began to use a rougher hip movement than\nbefore, carefully attacking my deepest part."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["行為とは行きつく先は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["子作りをするというもの"]
+              "parameters": [
+                "Each thrust shakes my body and mind, dominating me\nwith an indescribable sensation."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この男は私に子種を注ぎ込み"]
+              "parameters": [
+                "Perhaps I still haven't fully grasped the\nsituation. It's something I should be able to\nunderstand if I think about it for a bit."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["孕ませるのだと言っているのだ"]
+              "parameters": [
+                "The ultimate goal of this behavior is to create\noffspring."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "This man is saying that he will pour his seed into\nme and impregnate me."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お頭】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そらぁ！受け止めろ！"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Otohime】"] },
+            { "code": 401, "indent": 0, "parameters": ["Here! Catch it!"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっあっやぁっ・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いやっ！んっ───\\i[249]\\i[249]\\i[249]"]
+              "parameters": ["Nngh... No! Nngh─── \\i[249]\\i[249]\\i[249]"]
             },
             {
               "code": 231,
@@ -1048,82 +978,60 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ・・・\\i[249]がぁ・・・\\i[249]"]
+              "parameters": ["Ah... \\i[249]... \\i[249]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私の膣にみっちりと押し込まれた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おちんちんがビクビクと波打ち"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["精液を注いでいく"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ドクドクと音が聞こえると錯覚してしまいそうなほど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["勢いよく飛び出した男の精液は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["すぐにでも私の中を満たすだろう"]
+              "parameters": [
+                "The dick that's been firmly pushed into my vagina\nis pulsating and pouring out semen."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そうだと分かっているはずなのに"]
+              "parameters": [
+                "The semen that gushed out with such force that it\nfeels like I can hear a 'dokudoku' sound, will\nsoon fill me up."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私の身体はむしろそれが嬉しい事のように"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おちんちんを包み込んで離さない"]
+              "parameters": [
+                "Even though I should understand that, my body\nseems to be embracing the dick as if it's\nsomething joyful, and won't let go."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お頭】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺は今まで何人も女を孕ませてきた"]
+              "parameters": ["【Oto (Head of a group)】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前もその一人になるんだ"]
+              "parameters": [
+                "I've impregnated many women before, and you will\nbe one of them."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お頭】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Oto (Boss)】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これから毎日種付けしてやる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["勿論今日だってこれで終わりじゃないぞ"]
+              "parameters": [
+                "From now on, I'll impregnate you every day. Of\ncourse, today is not the end with just this."
+              ]
             },
             {
               "code": 231,
@@ -1144,133 +1052,92 @@
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 121, "indent": 0, "parameters": [342, 342, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ\\i[249]んっ\\i[249]やぁっ\\i[249]"]
+              "parameters": ["Nngh... Nngh... Yaaah..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["一回の行為だけで分かってしまった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この男の精液を身体が求めている"]
+              "parameters": [
+                "My body craves the semen of this man, which I have\ncome to understand with just one act."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["意志や思いなどとは無関係に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["身体が歓喜に打ち震え"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["男との行為を待ち望んでいる"]
+              "parameters": [
+                "Regardless of will or emotions, my body trembles\nwith joy, eagerly awaiting the act with a man."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私が一人のメスなのだと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["わからされてしまった"]
+              "parameters": [
+                "I've been made to realize that I am just a female."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど負ける訳にはいかない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうにかしてここを抜け出して"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["皆の場所に帰らなきゃ"]
+              "parameters": [
+                "But I can't lose. I have to find a way to escape\nfrom here and return to everyone's place."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [342, 342, 1] },
             { "code": 251, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [343, 343, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["やぁ\\i[249]あ\\i[249]あぁ\\i[249]"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["んっん\\i[249]"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Yaaah...nngh..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お頭】"] },
-            { "code": 401, "indent": 0, "parameters": ["もっと腰を上げろ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Otohime】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そうすればまた子種を注いでやる"]
+              "parameters": ["Lift your hips more, and I'll pour in more seed."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ\\i[249]はいっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あげるっ\\i[249]あげますっ\\i[249]"]
+              "parameters": ["Nngh... I-I'm coming... I'm coming!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だから今は耐えなければ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この男をその気にさせて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それから、それからチャンスを伺って・・・"]
+              "parameters": [
+                "So for now, I have to endure and get this man in\nthe mood, and then, and then wait for a chance..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お頭】"] },
-            { "code": 401, "indent": 0, "parameters": ["よし、いい子だ"] },
-            { "code": 401, "indent": 0, "parameters": ["そらっ！そらぁ！"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Oto (Boss)】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ひぁっ\\i[249]すごっ\\i[249]あぁっ\\i[249]"]
+              "parameters": ["Good, that's it, you're a good girl! That's it!"]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ\\i[249]あっ\\i[249]あっ\\i[249]あっ\\i[249]"]
+              "parameters": [
+                "Hiyah... amazing... ahh... ah... ah... ah... ah..."
+              ]
             },
             {
               "code": 231,
@@ -1306,50 +1173,33 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あぁ\\i[249]入ってきてる\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["強い精子がいっぱい・・・\\i[249]"]
+              "parameters": ["Ah, strong semen is filling me up..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お頭】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Otohime】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これからいくらだって注いでやる"]
+              "parameters": [
+                "From now on, I'll pour in as much as you want, so\nalways think about how to please me, got it?"
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だから常に俺を悦ばせる事を考えろ"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["わかったな？"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・はい\\i[249]"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Yes \\i[249]"] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まだその時じゃないから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今だけ従順なフリをするだけ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["待っていてねみんな・・・・・・"]
+              "parameters": [
+                "It's not the time yet, so for now, I just have to\npretend to be obedient and wait, everyone..."
+              ]
             },
             { "code": 246, "indent": 0, "parameters": [4] },
             { "code": 242, "indent": 0, "parameters": [4] },

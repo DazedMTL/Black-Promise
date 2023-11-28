@@ -1753,42 +1753,36 @@
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [100] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["この先のはずだ！"] },
-            { "code": 401, "indent": 0, "parameters": ["急ごう！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["It should be ahead! Let's hurry!"]
+            },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトの呪いを解いてからしばらく経った頃"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["マーガレットの居場所が判明した"]
+              "parameters": [
+                "Some time has passed since the curse on Light was\nlifted, and Margaret's whereabouts were\ndiscovered."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ある盗賊団が流している記録結晶に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["マーガレットに酷似した女の子が映っていたのである"]
+              "parameters": [
+                "A crystal recording being circulated by a certain\nband of thieves showed a girl who closely\nresembled Margaret."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["手がかりを集めアジトを掴み"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ついにマーガレットを助けるためにここまで来た"]
+              "parameters": [
+                "We've gathered clues, seized the hideout, and\nfinally come this far to rescue Margaret."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [684, 684, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
@@ -1813,100 +1807,79 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["あぁ・・・ぁ・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Ah...ah..."] },
             { "code": 242, "indent": 0, "parameters": [10] },
             { "code": 246, "indent": 0, "parameters": [10] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お頭】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Otohime】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・久しぶりに使ったが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["さすがにガバガバだな"]
+              "parameters": [
+                "...It's been a while since I used it, but it's\nstill quite loose."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【子分A】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Henchman A】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もうろくに喘ぎもしませんし"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何処かに捨ててきましょうか？"]
+              "parameters": [
+                "He's not even breathing heavily. Should we just\ndump him somewhere?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【子分D】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Henchman D】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["捨てるぐらいなら俺にくださいよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こいつの事結構気に入ってるんですよね"]
+              "parameters": [
+                "If you're just going to throw him away, please\ngive him to me. I'm quite fond of this guy."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お頭】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Otohime】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こんなゴミが好みとは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["とんだ変わり者だな・・・"]
+              "parameters": [
+                "What a strange preference to like this kind of\ntrash..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["目の前で男の集団に囲まれ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["辛うじて女性のような身体が見える"]
+              "parameters": [
+                "Surrounded by a group of men, I can barely see a\nbody that looks like a woman's in front of me."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["部屋には男たちの汗と精液の臭いが充満していて"]
+              "parameters": [
+                "The room was filled with the smell of men's sweat\nand semen, making me feel nauseous."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["吐き気が込み上げる"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もう、怒りを抑えるのも限界だった"]
+              "parameters": ["I couldn't hold back my anger any longer."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・ッ！貴様らぁ！"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["...You scum!"] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトが飛び出したのはほぼ同時だった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["下半身を露出した男どもを切るのは簡単だった"]
+              "parameters": [
+                "Light||| || ...It was almost simultaneous when\nLight leaped out and cutting down the men who had\nexposed their lower bodies was easy."
+              ]
             },
             {
               "code": 250,
@@ -1916,103 +1889,79 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お頭】"] },
-            { "code": 401, "indent": 0, "parameters": ["なんだお前！"] },
-            { "code": 401, "indent": 0, "parameters": ["ぐぅ・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Otohime】"] },
+            { "code": 401, "indent": 0, "parameters": ["Who are you! Guh..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["一際体格の大きな男を切り伏せたとき"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["辺りは男たちの死体で埋まっていた"]
+              "parameters": [
+                "When he took down the particularly large man, the\narea was filled with the corpses of men."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ただ、そんなことはどうでもいい"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["今はマーガレットを・・・"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["ごめん、遅くなって"] },
-            { "code": 401, "indent": 0, "parameters": ["助けに来たよ"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["机の上でうつぶせになっている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["マーガレットへと声を掛ける"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["するとゆっくりとこちらを振り返った"]
+              "parameters": [
+                "However, such things don't matter right now.\nMargaret..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["すみま・・・せん・・・"]
+              "parameters": ["Sorry, I'm late. I came to help."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["聞こえるか聞こえないかの声で謝罪を述べると"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["マーガレットは膝を折りこちらのズボンを下ろそうとする"]
+              "parameters": [
+                "When I called out to the Margaret lying face down\non the desk, she slowly turned around to face me."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いま・・・なめます・・・"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・マーガレット"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["I'm... sorry..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["そんなマーガレットを俺は"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ただ抱きしめる事しか出来ない"]
+              "parameters": [
+                "Margaret apologized in a barely audible voice and\nthen tried to pull down my pants."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I'll... lick it now..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Margaret"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I can only embrace Margaret like that."]
             },
             { "code": 117, "indent": 0, "parameters": [3] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんな中でもマーガレットは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こちらを悦ばせようと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ただおちんちんに手を伸ばしていた"]
+              "parameters": [
+                "Even in such a situation, Margaret was simply\nreaching out for my dick to please me."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 201, "indent": 0, "parameters": [0, 47, 28, 10, 2, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

@@ -527,21 +527,30 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["リラ"] },
-            { "code": 401, "indent": 0, "parameters": ["いったん戻る？"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Lira, are you going back for a moment?"]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["戻る", "もう少し頑張る"], 1, 0, 2, 0]
+              "parameters": [
+                ["Go back", "Keep pushing a little more"],
+                1,
+                0,
+                2,
+                0
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "戻る"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["リラ"] },
-            { "code": 401, "indent": 1, "parameters": ["そうだね"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["無理しないようにしようね"]
+              "parameters": [
+                "Lira, I guess you shouldn't push yourself too\nhard, okay?"
+              ]
             },
             {
               "code": 250,
@@ -554,9 +563,11 @@
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "もう少し頑張る"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["リラ"] },
-            { "code": 401, "indent": 1, "parameters": ["そう？"] },
-            { "code": 401, "indent": 1, "parameters": ["私も頑張るね"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Lira, is that so? I will do my best too."]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -605,12 +616,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["村に戻ろうかな・・・"]
+              "parameters": ["Should we go back to the village..."]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["戻る", "もう少し頑張る"], 1, 0, 2, 0]
+              "parameters": [
+                ["Go back", "Keep pushing a little more"],
+                1,
+                0,
+                2,
+                0
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "戻る"] },
             {
@@ -914,63 +931,64 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["きゃあっ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイル！しっかりしてっ！"]
+              "parameters": ["Kyaa, Aeru! Pull yourself together!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["体中に痛みが走り"] },
-            { "code": 401, "indent": 0, "parameters": ["意識が遠のいていく"] },
-            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            { "code": 401, "indent": 0, "parameters": ["はぁはぁ・・・"] },
-            { "code": 401, "indent": 0, "parameters": ["なんとかなったな"] },
-            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["やり過ぎじゃないのか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう少し気遣いなどしたほうが・・・"]
+              "parameters": [
+                "Pain runs through my body and my consciousness is\nfading."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うるさい・・・いいか！"]
+              "parameters": ["*panting* ...I managed to pull through."]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺が魔物の何たるかを見せてやる！"]
+              "parameters": [
+                "Isn't this going too far? You should show a little\nmore consideration..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Shut up... Listen! I'll show you what a monster\nis!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ちょっとやめて"] },
-            { "code": 401, "indent": 0, "parameters": ["放してっ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hey, stop it and let go!"]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["沈んでいく意識の中で"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リラの声だけが響いていた"]
+              "parameters": [
+                "In the sinking consciousness, only Lira's voice\nechoed."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             {
               "code": 241,
               "indent": 0,
@@ -987,9 +1005,12 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["やめて！"] },
-            { "code": 401, "indent": 0, "parameters": ["近寄らないでっ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Stop! Don't come any closer."]
+            },
             {
               "code": 250,
               "indent": 0,
@@ -998,66 +1019,56 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ちくしょう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あばれるんじゃねぇよ！"]
+              "parameters": ["Damn it, don't go wild!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくた】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuta】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["なんか凶暴だよこの女"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["逃げた方がいいよ～！"]
+              "parameters": [
+                "This woman is kind of violent. It's better to run\naway!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["怯えてんじゃねぇよ！"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["見てろよ"] },
-            { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こわい・・・こわいよっ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルもやられちゃったし"]
+              "parameters": ["Don't be scared! Watch this."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これからどうしよう！"]
+              "parameters": ["Scary... It's scary, Aeru got caught too."]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["怖いのは嫌だよ・・・痛いのも嫌だよっ"]
+              "parameters": [
+                "What should we do now? I don't want to be\nscared... I don't want to be hurt either."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["女なんてすぐに大人しくしてやるぜ"]
+              "parameters": ["Women should just behave themselves quietly."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["こないでって"] },
-            { "code": 401, "indent": 0, "parameters": ["言ってるでしょ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I told you not to come!"]
+            },
             {
               "code": 250,
               "indent": 0,
@@ -1074,12 +1085,11 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            { "code": 401, "indent": 0, "parameters": ["おっと！へへ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okunii】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["捕まえたぜ・・・そらぁ！"]
+              "parameters": ["Oops! Hehe, I caught you... there!"]
             },
             {
               "code": 250,
@@ -1095,16 +1105,15 @@
               "parameters": [2, "hiro1 1 2", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["きゃっ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Eek!"] },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["やってやったぞ・・・うへー！"]
+              "parameters": ["I did it... Ugh! You're so soft!"]
             },
-            { "code": 401, "indent": 0, "parameters": ["やわらけぇ！"] },
             {
               "code": 245,
               "indent": 0,
@@ -1118,23 +1127,16 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["やめっ・・・このっ！"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Stop... this!"] },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まぁそうムキになるなよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["すぐに気持ちよくしてやるからさぁ"]
+              "parameters": [
+                "Well, don't get so worked up. I'll make you feel\ngood right away."
+              ]
             },
             { "code": 235, "indent": 0, "parameters": [2] },
             {
@@ -1143,96 +1145,70 @@
               "parameters": [3, "hiro1 1 3", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ\\i[249]・・・んっ\\i[249]・・・やだ！"]
+              "parameters": ["Ah... ngh... no! Let go of me!"]
             },
-            { "code": 401, "indent": 0, "parameters": ["放してっ"] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["脇の下から腕が入れられ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["魔物の両手が私の胸を乱暴に掴む"]
+              "parameters": [
+                "The monster's hands were inserted from under my\narms and grabbed my chest roughly."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そのままぐにゃぐにゃと指を動かし"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私の胸は魔物の望んだ形に変えられてしまう"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その事実があまりにも受け入れられず"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一刻も早く逃げ出したいと本能が叫ぶ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こいつはたまんねぇな！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もっと早くからこうしておけばよかったぜ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だけど、この魔物は私やアイルなんて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["比べ物にならないぐらい大きな身体をしていて"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いくら暴れたってビクともしなくて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "むしろその反応を見る魔物は下品な笑みを浮かべている"
+                "Just like that, the fingers moved softly, and my\nchest was transformed into the shape the monster\ndesired."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こんなの耐えられない"]
+              "parameters": [
+                "My instincts scream that I want to escape as soon\nas possible because the fact is too hard to\naccept."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["気持ち悪い・・・"] },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・はっ・・・はぁ・・・"]
+              "parameters": [
+                "This one's irresistible! I should have done this\nsooner!"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "However, this monster has a body so much larger\nthan mine or Aeru's that it's incomparable"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "No matter how much I struggle, the monster, with a\nvulgar smile on its face, doesn't even flinch and\nrather enjoys watching my reaction."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I can't bear this, it's disgusting..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["...ha...hah..."] },
             { "code": 235, "indent": 0, "parameters": [3] },
             {
               "code": 231,
@@ -1252,107 +1228,90 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            { "code": 401, "indent": 0, "parameters": ["へへっなんだ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["やっと大人しくなってきやがったか"]
+              "parameters": ["Hehe, finally starting to behave, huh?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okunii】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうだ、お前もだんだん気持ちよくなって"]
+              "parameters": [
+                "How about it? Are you starting to feel good little\nby little too? Come on! Come on!"
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["きたんじぁねぇのか？"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["ほらぁ！ほらぁ！"] },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ\\i[249]そんなことっ・・・ないっ"]
+              "parameters": ["Nn...that's not...true."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["固く反りあがった何かが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私のお尻に何度となく押し付けられる"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["これってもしかして"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おちんちん・・・なのかな"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["そう意識した瞬間"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私の身体がビクビクと跳ねた"]
+              "parameters": [
+                "Something stiff and curved is repeatedly pressed\nagainst my butt"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["異様なほど熱い魔物は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ふっふっと荒い息を隠そうともしない"]
+              "parameters": ["Is this, by any chance, a dick...?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私に発情しているんだと"]
+              "parameters": [
+                "The moment I became aware of it, my body twitched."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["嫌でも伝わってきてしまう"]
+              "parameters": [
+                "The unusually hot monster doesn't even bother to\nhide its rough breathing as it snickers."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I can't help but feel that it's conveying its\narousal to me."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・はぁ・・・はなして・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["気持ちの悪い手を・・・どけてよっ"]
+              "parameters": [
+                "...Ha...please...get rid of that disgusting\nhand..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ちっ・・・"] },
-            { "code": 401, "indent": 0, "parameters": ["面倒くせぇ女だな"] },
-            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["聞き分けがわりぃ奴には"]
+              "parameters": ["Ugh... what a pain in the ass woman."]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ちゃんと躾をしてやらねぇとな！"]
+              "parameters": [
+                "I need to properly discipline this stubborn one\nwho won't listen!"
+              ]
             },
             { "code": 235, "indent": 0, "parameters": [4] },
             {
@@ -1361,33 +1320,30 @@
               "parameters": [5, "hiro1 1 6", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["っひゃっ\\i[249]"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Hyahh\\i[249]"] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["次の瞬間"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ぎゅうっと魔物が私の乳首を摘まみ上げた"]
+              "parameters": [
+                "The next moment, the monster tightly pinched my\nnipples."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["思わず漏れた私の声は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["自分の声じゃないみたいで激しく動揺してしまう"]
+              "parameters": [
+                "The voice that unintentionally escaped me made me\nfeel intensely unsettled, as if it wasn't my own\nvoice."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            { "code": 401, "indent": 0, "parameters": ["いいねぇ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["やればできるじゃねぇか"]
+              "parameters": ["Nice! You can do it if you try, huh?"]
             },
             { "code": 235, "indent": 0, "parameters": [5] },
             {
@@ -1396,121 +1352,95 @@
               "parameters": [6, "hiro1 1 5", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ちがっ・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私はそんな・・・ひゃぁ\\i[249]"]
+              "parameters": ["No... not like this... hyaa\\i[249]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["魔物は先ほどまでよりも"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["無茶苦茶に私の身体を弄りだした"]
+              "parameters": [
+                "The monster began to mess with my body even more\nrecklessly than before."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけどその動きは私の反応を窺うものに変わっていた"]
+              "parameters": [
+                "However, its movements had turned into something\nthat was probing my reactions."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お尻に押し付けられているおちんちんも"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私が反応していると分かっているのだろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大きく熱くよりハッキリと存在を示している"]
+              "parameters": [
+                "The dick being pressed against my butt must also\nknow that I'm reacting, as it's showing its\nexistence more clearly, larger and hotter."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いつしか私の口からも"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["熱い吐息が絶え間なく漏れていることに気が付く"]
+              "parameters": [
+                "Before I knew it, I realized that hot breath was\nconstantly escaping from my mouth."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私と魔物の熱がいつしか溶け合って"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どちらが発情しているのかも分からなくなる"]
+              "parameters": [
+                "Before I knew it, I realized that the heat between\nme and the monster had melted together, and I\ncouldn't tell which one of us was in heat."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["絶え間のない刺激に"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もうどうにかなってしまうそうだった"]
+              "parameters": [
+                "It seemed that I was already at my limit with the\nconstant stimulation."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Ah... haa... no..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ\\i[249]・・・はぁっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ん・・・だめ\\i[249]"]
+              "parameters": ["...Hehe, it's about time, huh?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・へへっ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もうそろそろ頃合いか"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺もその気になってきちまった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ここまで来たらヤルしかねぇよなぁ！"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["魔物が何かを言った"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["朧げな意識の中でもその意味をじわりと理解する"]
+              "parameters": [
+                "I'm also getting in the mood. If we've come this\nfar, there's no choice but to do it, right?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それと同時に恐怖が全身を駆け巡るほどの"]
+              "parameters": [
+                "Even in the vague consciousness where the monster\nsaid something, I gradually understood its\nmeaning."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["邪悪さを感じ取る"] },
+            { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "At the same time, I felt the wickedness to the\nextent that fear ran through my whole body."
+              ]
+            },
             { "code": 235, "indent": 0, "parameters": [6] },
             {
               "code": 231,
@@ -1518,123 +1448,104 @@
               "parameters": [7, "hiro1 1 7", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["お願い・・・します"] },
-            { "code": 401, "indent": 0, "parameters": ["たすけて・・・"] },
-            { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["恐怖で体が震え"] },
-            { "code": 401, "indent": 0, "parameters": ["瞳からは涙が零れる"] },
-            { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんなぐちゃぐちゃな瞳に映ったのは"]
+              "parameters": ["Please... help me..."]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["涎を垂らした下品な魔物の笑み"]
+              "parameters": [
+                "My body trembles with fear, and tears spill from\nmy eyes."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Reflected in those messy, teary eyes was the\nvulgar smile of a drooling, indecent monster."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["やべぇたまんねぇな！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["やっぱ魔物はこうでなくっちゃ！"]
+              "parameters": [
+                "Damn, this pussy is irresistible! This is how\nmonsters should be!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["助けてやりたいのはやまやまだけどよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺の体がお前を孕ませろってきかねぇんだよ"]
+              "parameters": [
+                "I'm dying to help you, but my body isn't asking to\nimpregnate you, you know."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            { "code": 401, "indent": 0, "parameters": ["大丈夫だ安心しろよ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺はこれからビックになるからよ"]
+              "parameters": [
+                "It's okay, relax. I'm going to get excited from\nnow on, so..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺の子種を注がれたなんていったら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そこらの人間よりもよほど幸せな事さ！"]
+              "parameters": [
+                "If you say that you've been filled with my seed,\nit's much more blissful than any ordinary human!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そう言って魔物が笑うと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私の胸を千切れるほど強く揉んだ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ああ・・・"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私はこのままこの魔物に犯されて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["子供を産むことになるのだ"]
+              "parameters": [
+                "As the monster laughed and said that, it squeezed\nmy chest so hard it felt like it was tearing\napart."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そう思うと体の奥がより一層熱くなる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["諦めにも似た感覚の中できつく目を瞑る"]
+              "parameters": [
+                "Ah... I'm going to be violated by this monster and\ngive birth to a child like this."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こういうことは本当に好きな人と"]
+              "parameters": [
+                "As I thought that, a feeling similar to\nresignation that made the depths of my body even\nhotter caused me to tightly close my eyes."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["幸せな気持ちでしたかった・・・なんて"]
+              "parameters": [
+                "I wanted to feel truly happy with someone I love\ndoing this kind of thing... or something like\nthat."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["なんだ急に大人しくなりやがって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まぁすぐにひぃひぃ言うことに───"]
+              "parameters": [
+                "What's this sudden obedience? Well, you'll be\nmoaning in no time anyway──"
+              ]
             },
             { "code": 235, "indent": 0, "parameters": [7] },
             { "code": 246, "indent": 0, "parameters": [3] },
@@ -1658,18 +1569,21 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            { "code": 401, "indent": 0, "parameters": ["おくにぃ！"] },
-            { "code": 401, "indent": 0, "parameters": ["そこまでだ"] },
-            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            { "code": 401, "indent": 0, "parameters": ["あぁ？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今最高に良いところなんだよ"]
+              "parameters": ["Okuni! That's far enough."]
             },
-            { "code": 401, "indent": 0, "parameters": ["見ればわかるだろ！"] },
+            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Huh? Can't you see this is the best part right\nnow?"
+              ]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -1689,13 +1603,14 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["村へ続く道から足音がする"]
+              "parameters": [
+                "I can hear footsteps coming from the path leading\nto the village. It seems like someone is\napproaching."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["誰か来ているようだ"] },
             { "code": 213, "indent": 0, "parameters": [11, 1, false] },
             {
               "code": 205,
@@ -1716,12 +1631,13 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            { "code": 401, "indent": 0, "parameters": ["なんだと？いいぜ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okunii】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それじゃあ俺様が蹴散らしてやるぜ！"]
+              "parameters": [
+                "What? Alright! In that case, I'll kick their ass!"
+              ]
             },
             {
               "code": 205,
@@ -1742,84 +1658,77 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["馬鹿を言うんじゃない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ワタシたちは3人とも傷ついている"]
+              "parameters": [
+                "Don't say something stupid. The three of us are\nall hurt."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["村の大人たちが相手じゃ"]
+              "parameters": [
+                "If we were to face the adults from the village,\nwe'd end up getting killed."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["殺されてしまうさ"] },
             { "code": 213, "indent": 0, "parameters": [10, 11, false] },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくた】"] },
-            { "code": 401, "indent": 0, "parameters": ["はわぁああ"] },
-            { "code": 401, "indent": 0, "parameters": ["そうだよ！"] },
-            { "code": 401, "indent": 0, "parameters": ["早く逃げようよ！"] },
-            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            { "code": 401, "indent": 0, "parameters": ["っち"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuta】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それじゃあこの女だけでも・・・"]
+              "parameters": ["Hawaaa that's right! Let's escape quickly!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Then, in that case, just this girl..."]
             },
             { "code": 213, "indent": 0, "parameters": [12, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それもあまり賢明な選択とは言えないな"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おくにぃほどの強さなら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["またチャンスもあるさ"]
+              "parameters": [
+                "That's not a very wise choice either, Okunii. If\nyou're as strong as you say, there will be another\nchance."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            { "code": 401, "indent": 0, "parameters": ["うーん"] },
-            { "code": 401, "indent": 0, "parameters": ["それもそうだな！"] },
-            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            { "code": 401, "indent": 0, "parameters": ["へへっ女！"] },
-            { "code": 401, "indent": 0, "parameters": ["命拾いしたな"] },
-            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["次会った時はちゃんと孕ませてやるから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しっかり準備しておくんだぞ！"]
+              "parameters": ["Hmm, that's true too!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            { "code": 401, "indent": 0, "parameters": ["おらぁ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["さっさとずらかるぞ！"]
+              "parameters": ["Hehe, lucky to be alive, girl."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Next time we meet, I'll make sure to impregnate\nyou properly, so be prepared!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okunii】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hey! Let's get out of here quickly!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             {
@@ -1835,21 +1744,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["魔物たちが森の奥へと帰っていく"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ただ一匹こちらを見つめている魔物がいた"]
+              "parameters": [
+                "There was only one monster that stared at us as\nthe other monsters returned to the depths of the\nforest."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [12, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・すまなかった"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
+            { "code": 401, "indent": 0, "parameters": ["...I'm sorry"] },
             {
               "code": 205,
               "indent": 0,
@@ -1870,92 +1772,69 @@
             },
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1 2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["え・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Eh..."] },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            { "code": 401, "indent": 0, "parameters": ["お前のような少女に"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まさかあそこまで乱暴をするとは思わなかった"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あいつなりの考えがあるのだろうが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ワタシは賛同できそうにない・・・"]
+              "parameters": [
+                "I never thought a girl like you would be so rough."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それと重ねてすまない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["村の連中が来ているというのは嘘なのだ"]
+              "parameters": [
+                "He may have his own thoughts, but I can't seem to\nagree with him..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["本当はそこの彼とお前を"]
+              "parameters": [
+                "And I'm sorry to say that the villagers coming\nhere is also a lie."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["村まで送っていければいいのだが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そこまでやるとおくにぃに怪しまれる"]
+              "parameters": [
+                "Actually, I would like to escort him and you to\nthe village, but if I go that far, Okunii will\nbecome suspicious."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Um...well..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["えっと・・・その・・・"]
+              "parameters": [
+                "It may not be my place to say, but this forest and\nruins are dangerous. It would be best for your\nsafety not to come here anymore."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ワタシが言うことではないかもしれないが"]
+              "parameters": ["Well then, farewell!"]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この森や遺跡は危険だ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう来ない方が身のためだろうな"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            { "code": 401, "indent": 0, "parameters": ["では"] },
-            { "code": 401, "indent": 0, "parameters": ["さらばだ！"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["あの！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・・・・ありがとうございました"]
+              "parameters": ["Um...thank you very much"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             {
@@ -1969,35 +1848,29 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["魔物はこちらを一度だけ振り返り"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["森の中へ消えていった"]
+              "parameters": [
+                "The monster turned around once and disappeared\ninto the forest."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["変わった魔物もいるんだ・・・"]
+              "parameters": ["There are some strange creatures out there..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["胸に湧いた微かな温かさを感じると"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルを担ぎ村へと帰っていった"]
+              "parameters": [
+                "I felt a faint warmth welling up in my chest, so I\ncarried Aeru and headed back to the village."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 211, "indent": 0, "parameters": [1] },
             {
               "code": 205,

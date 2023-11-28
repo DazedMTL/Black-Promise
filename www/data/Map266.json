@@ -238,22 +238,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so it will be useful for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -361,7 +357,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この先に行く用事はない"]
+              "parameters": ["There's no need to go any further."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -471,7 +467,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -532,45 +528,28 @@
               "parameters": [1, "hiro1 oku ED", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ\\i[249]んっ\\i[249]んっ\\i[249]あっ\\i[249]"]
+              "parameters": ["Ahh, it feels so good, demon dick is amazing..."]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuta】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "気持ちぃ\\i[249]悪魔おちんちんすごぃ\\i[249]\\i[249]\\i[249]"
+                "What a surprise, coming here on your own like a\nbold female! Come on, come on!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくた】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まさか自分から来るなんて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["飛んだメスだ！そらぁそらぁ！"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "はぃ\\i[249]私はメスですっ\\i[249]精液大好きですっ\\i[249]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "だからもっと\\i[249]もっといじめてっ\\i[249]あっ\\i[249]あっ\\i[249]"
+                "Yes, I'm a female. I love semen, so please tease\nme more and more. Ah, ah..."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -578,22 +557,22 @@
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 246, "indent": 0, "parameters": [5] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["そのままゆっくりと"] },
-            { "code": 401, "indent": 0, "parameters": ["元来た道を戻る"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["きっとこれがリラにとっての"]
+              "parameters": ["Slowly return along the same path you came from"]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["幸せなのだろう・・・"]
+              "parameters": [
+                "This must be what happiness looks like for Lira..."
+              ]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
@@ -2251,7 +2230,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2308,7 +2287,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが壁から垂れている・・・"]
+              "parameters": ["Something white is dripping from the wall..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2365,7 +2344,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2422,7 +2401,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが壁から垂れている・・・"]
+              "parameters": ["Something white is dripping from the wall..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2479,7 +2458,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2536,7 +2515,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2593,7 +2572,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2650,7 +2629,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2707,7 +2686,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2764,7 +2743,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2821,7 +2800,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

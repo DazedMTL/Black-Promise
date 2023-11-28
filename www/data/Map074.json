@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "ライトの部屋",
+  "displayName": "Light's room",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -298,21 +298,13 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトはもう寝ちゃったかな？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["本人は大丈夫って言っているけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["やっぱり少し心配だよね"]
+              "parameters": [
+                "I wonder if Light has already gone to sleep? He\nsays he's okay, but I'm still a little worried."
+              ]
             },
             {
               "code": 250,
@@ -322,47 +314,32 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日は３人で探索に行った"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私はこういうことって久しぶりだったから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一人浮かれてしまっていたけど"]
+              "parameters": [
+                "Today, going on an exploration with the three of\nus was something I hadn't done in a while, so I\ngot a little carried away by myself."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルはアイルで毎日探索に出て頑張っているし"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトは未だに呪いに蝕まれている"]
+              "parameters": [
+                "Aeru is doing his best going on explorations every\nday, and Light is still being consumed by the\ncurse."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私に出来ることはいつだって"]
+              "parameters": [
+                "All I can do is come and check on things like\nthis... It's a little frustrating."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こうやって様子を見に来ることぐらいだ"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["・・・少し嫌になる"] },
             {
               "code": 223,
               "indent": 0,
@@ -370,13 +347,14 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あ・・・明かりが漏れてる"]
+              "parameters": [
+                "Ah... it seems like light is still leaking, he's\nstill awake."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["まだ起きてるみたい"] },
             {
               "code": 205,
               "indent": 0,
@@ -423,19 +401,14 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぁ・・・はぁ・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["*panting* *panting*"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ライトの声？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうしたんだろう・・・"]
+              "parameters": ["Light's voice? I wonder what's wrong..."]
             },
             {
               "code": 232,
@@ -464,12 +437,8 @@
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
             { "code": 213, "indent": 0, "parameters": [4, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あ、あれってもしかして・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Ah, could it be..."] },
             {
               "code": 231,
               "indent": 0,
@@ -488,31 +457,25 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["少し開いていた扉から中を窺うと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そこにはライトがいた・・・だけど・・・"]
+              "parameters": [
+                "When I peeked inside the slightly open door, Light\nwas there... but..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["くっ・・・ん・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["*gulp*..."] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そこには必死に手を動かし"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["自分を慰めるライトの姿があった"]
+              "parameters": [
+                "There, I saw Light desperately moving his hands to\ncomfort himself."
+              ]
             },
             {
               "code": 205,
@@ -535,48 +498,33 @@
             { "code": 235, "indent": 0, "parameters": [3] },
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まさかこんな時に来てしまうなんて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私は咄嗟に視線を外す"]
+              "parameters": [
+                "I can't believe I came at a time like this, I\ninstinctively averted my gaze."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・ライトでもああいう事するんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いや、そうだよね、男の子だもんね"]
+              "parameters": [
+                "...Even Light does that kind of thing. But, yeah,\nhe's a boy after all."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・・・・私だってするし"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["当たり前のこと・・・"]
+              "parameters": ["...I do it too, it's only natural..."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぁっ・・・はぁっ・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["*panting* *panting*"] },
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
             {
               "code": 205,
@@ -602,57 +550,38 @@
               "parameters": [4, "sin 2", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトはすごく辛そうだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大丈夫とか言っていたのは嘘だったのか"]
+              "parameters": [
+                "Was it a lie when Light said he was okay, even\nthough he seemed to be in so much pain?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それとも男の子はこういうのが普通なのかな"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["自分の身体を削るみたいに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["必死に手を動かして、荒い息をして"]
+              "parameters": [
+                "I wonder if this is normal for boys, desperately\nmoving their hands as if scraping away at their\nown bodies, breathing heavily."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もしも、これが普通じゃなくて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["辛いことだったとしたら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルには相談しているんだろうな"]
+              "parameters": [
+                "If this isn't normal and is actually painful, I\nwonder if Light would talk to Aeru about it."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・・・・何だか嫌だな"]
+              "parameters": ["...Somehow, I feel uncomfortable."]
             },
             {
               "code": 245,
@@ -667,35 +596,29 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["くっ、はっ、はっ・・・"]
+              "parameters": ["*gulp* *panting* *panting*"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんな物思いに耽っているうちにも"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトは必至で自分を慰めていた"]
+              "parameters": [
+                "While lost in such thoughts, Light was desperately\ncomforting himself."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["明らかに先ほどよりも動きが早くなっている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["必死に何かにすがるみたいに・・・そして"]
+              "parameters": [
+                "Clearly, he's moving faster than before,\ndesperately clinging to something... and"
+              ]
             },
             { "code": 246, "indent": 0, "parameters": [3] },
             { "code": 235, "indent": 0, "parameters": [4] },
@@ -753,70 +676,44 @@
             },
             { "code": 213, "indent": 0, "parameters": [4, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ビクビクと身体が震えたかと思うと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おちんちんから大量の精液が飛び出した"]
+              "parameters": [
+                "Just as I thought his body was trembling with\nexcitement, a large amount of semen shot out from\nhis penis."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["その精液はライトの身体だけじゃなく"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["床にも飛び散ってしまっている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・なんだかすごい光景だ"]
+              "parameters": [
+                "That semen has not only scattered on Light's body,\nbut also on the floor... It's quite a sight\nsomehow."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぁっ・・・はぁ・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["*panting* *panting*"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトは荒く深い息をつく"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["表情は歪められているが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["これでやっと楽になるのだろう"]
+              "parameters": [
+                "Light's rough and deep breathing, with a contorted\nexpression, but I suppose he finally feels\nrelieved."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・そう思っていたのに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトはもう一度手を動かし始めた"]
+              "parameters": [
+                "...I thought so, but Light started moving his\nhands again."
+              ]
             },
             {
               "code": 245,
@@ -831,68 +728,57 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こんなものは絶対普通じゃない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトはきっと苦しんでいる・・・なのに"]
+              "parameters": [
+                "This is definitely not normal. Light must be\nsuffering... and yet"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうして何も言ってくれないの"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私じゃ頼りにならないのかな"]
+              "parameters": [
+                "Why won't you tell me anything? Am I not reliable?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何か出来ればいいのに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ただ見ているだけじゃなくて"]
+              "parameters": [
+                "I wish I could do something, instead of just\nwatching."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 246, "indent": 0, "parameters": [6] },
             { "code": 242, "indent": 0, "parameters": [6] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトはその後も何回も射精を繰り返した"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その間、私は結局見ている事しか出来なくて"]
+              "parameters": [
+                "While Light continued to ejaculate multiple times\nafterwards, I ended up being able to do nothing\nbut watch."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["悔しさと寂しさで"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうにかなってしまいそうだった"]
+              "parameters": [
+                "With frustration and loneliness, I felt like I was\nabout to lose it."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 117, "indent": 0, "parameters": [3] },
             { "code": 121, "indent": 0, "parameters": [202, 202, 1] },
             { "code": 211, "indent": 0, "parameters": [1] },
@@ -1064,7 +950,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

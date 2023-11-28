@@ -11,7 +11,7 @@
   },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "民家",
+  "displayName": "Private house",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -222,19 +222,20 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【双子のお母さん】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイルこんにちは"] },
+            { "code": 401, "indent": 0, "parameters": ["【Twin Mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["また子供たちが遊びたがっていたわよ"]
+              "parameters": ["Aeru, hello. The children wanted to play again."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【双子のお母さん】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Twin Mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["面倒見がいいからよくなついているのねぇ"]
+              "parameters": [
+                "You're so good at taking care of them, that's why\nthey've gotten so attached to you."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

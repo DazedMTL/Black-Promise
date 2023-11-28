@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "民家２Ｆ",
+  "displayName": "Private House 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -99,58 +99,57 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["薄い扉から"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["微かに音が漏れてくる"]
+              "parameters": ["Faint sounds leak from the thin door."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["パンッパンッパンッ"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・はっ\\i[249]あっ\\i[249]あっ\\i[249]"]
+              "parameters": ["*Thump, thump, thump*"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["はっはっはっ"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ねっ\\i[249]もうっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["朝だよっ\\i[249]ねぇってば\\i[249]"]
+              "parameters": ["...haa\\i[249]aa\\i[249]aa\\i[249]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["Hahaha"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もう少し・・・もう少しだけっ"]
+              "parameters": ["Nn... it's morning already, you know? Hey..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もう\\i[249]そればっかりっ\\i[249]"]
+              "parameters": ["Just a little more... just a little longer"]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今回だけだから・・・\\i[249]"]
+              "parameters": [
+                "Just a little more... just a little longer... this\ntime only..."
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [5] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["パンッパンッパンッ"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["*Thump, thump, thump*"]
+            },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -200,17 +199,17 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["はっはっはっ"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["Hahaha"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ\\i[249]あっ\\i[249]気持ちい\\i[249]"]
+              "parameters": ["Nngh, ahh, it feels good"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["パンッパンッパンッ"] },
+            { "code": 401, "indent": 0, "parameters": ["*thump thump thump*"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -795,7 +794,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -852,7 +851,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -909,7 +908,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

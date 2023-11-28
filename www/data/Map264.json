@@ -238,22 +238,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -361,7 +357,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この先に行く用事はない"]
+              "parameters": ["There's no need to go any further."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -471,7 +467,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -580,71 +576,55 @@
               "parameters": [1, "hiro1 ni", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイル来てくれたんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["えへへ、何だか久しぶりだね"]
+              "parameters": ["Aeru came, ehehe, it's been a while, hasn't it?"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["最近はお腹も大きくなったから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["中々出歩けなくて・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["嬉しいけどちょっとだけ大変"]
+              "parameters": [
+                "Recently, my belly has gotten bigger so I can't go\nout as much... I'm happy, but it's a little tough."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["出産するときは"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["村に戻るつもりだから"]
+              "parameters": [
+                "When I give birth, I plan to return to the\nvillage, so please take care of things then."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["その時はよろしくね"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["そうだ！折角だから"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お料理作ってあげるよ！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["よかったら食べていって！"]
+              "parameters": [
+                "I know! Since you're here, I'll make some food for\nyou! If you'd like, please eat it!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["もう日が暮れそうだ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お言葉に甘え今日は泊っていく事にする"]
+              "parameters": [
+                "It looks like the sun is about to set, so I'll\ntake you up on your offer and stay the night."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["うんうん！"] },
-            { "code": 401, "indent": 0, "parameters": ["それがいいよ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["なんだかうれしいなぁ"]
+              "parameters": [
+                "Yeah, yeah! That sounds good! I'm feeling happy\nfor some reason."
+              ]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -751,40 +731,28 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["結界が張られている"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これをどうにかしなければ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["中に入れそうにない・・・"]
+              "parameters": [
+                "The barrier is set up, so we can't seem to get\ninside without doing something about it..."
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 488, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["結界の先から激しく何かがぶつかり合う音と"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["女性の声が聞こえてくる"]
+              "parameters": [
+                "From beyond the barrier, the sound of something\ncolliding violently and a woman's voice can be\nheard."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【??】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["あっ\\i[249]あっ\\i[249]はっ\\i[249]んっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["凄いですっ\\i[249]ご主人さまぁ\\i[249]"]
+              "parameters": ["Ahh, it's amazing, Master!"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -831,36 +799,29 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくた】"] },
-            { "code": 401, "indent": 0, "parameters": ["はぇ～・・・っ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuta】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["や、やぁ！どうしたんだい？"]
+              "parameters": ["Huh...! W-What's up?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくた】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuta】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラさんに会いに来た？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["えっと、今はやめておいた方が・・・"]
+              "parameters": [
+                "Came to see Lira-san? Um, maybe it's better to\nstop for now..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくた】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuta】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おくすけの体調が悪化していてーそれでー"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うん、そういうことだから、また後の方がいいかな"]
+              "parameters": [
+                "Okusuke's condition is worsening, and, um, that's\nwhy... it might be better to come back later."
+              ]
             },
             {
               "code": 205,
@@ -924,8 +885,8 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくた】"] },
-            { "code": 401, "indent": 0, "parameters": ["はぇ～・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuta】"] },
+            { "code": 401, "indent": 0, "parameters": ["Huh..."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1118,9 +1079,14 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイルかよく来たな"] },
-            { "code": 401, "indent": 0, "parameters": ["リラも喜ぶ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Aeru, it's good to see you. Lira will be happy\ntoo."
+              ]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1888,16 +1854,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくた】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuta】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラちゃんかわいいよね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["僕も人間の女の子をお嫁さんにしようかなぁ"]
+              "parameters": [
+                "Lira-chan is cute, isn't she? I wonder if I should\nalso marry a human girl."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2510,7 +2473,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["Something white is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2567,7 +2530,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2624,7 +2587,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2681,7 +2644,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

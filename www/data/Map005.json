@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "自宅",
+  "displayName": "Home",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -226,12 +226,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["休む前にライトの様子を見に行こう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まだ\\c[2]村長の家\\c[0]にいるはずだ"]
+              "parameters": [
+                "Let's go check on Light before taking a break. He\nshould still be at the \\c[2]village chief's\nhouse\\c[0]."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -279,17 +276,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日はもう休みますか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（一日が経過します）"]
+              "parameters": [
+                "Are you taking the day off today? (One day will\npass)"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["寝ようかな", "まだ起きてる"], 1, 0, 2, 0]
+              "parameters": [
+                ["Should I go to sleep?", "Still awake?"],
+                1,
+                0,
+                2,
+                0
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "寝ようかな"] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -357,12 +357,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["休む前にライトの様子を見に行こう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まだ\\c[2]村長の家\\c[0]にいるはずだ"]
+              "parameters": [
+                "Before resting, let's go check on Light's\ncondition. He should still be at the \\c[2]village\nchief's house\\c[0]."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -410,17 +407,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日はもう休みますか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（一日が経過します）"]
+              "parameters": [
+                "Are you taking the day off already? (One day will\npass)"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["寝ようかな", "まだ起きてる"], 1, 0, 2, 0]
+              "parameters": [
+                ["Should I go to bed?", "Still awake?"],
+                1,
+                0,
+                2,
+                0
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "寝ようかな"] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -488,7 +488,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["休む前に\\c[2]村長の家\\c[0]に薬草を届けに行こう"]
+              "parameters": [
+                "Before resting, let's go deliver the medicinal\nherbs to the \\c[2]village chief's house\\c[0]."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -536,17 +538,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日はもう休みますか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（一日が経過します）"]
+              "parameters": [
+                "Are you taking the day off already? (One day will\npass)"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["寝ようかな", "まだ起きてる"], 1, 0, 2, 0]
+              "parameters": [
+                ["Should I go to bed?", "Still awake?"],
+                1,
+                0,
+                2,
+                0
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "寝ようかな"] },
             {
@@ -616,17 +621,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日はもう休みますか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（一日が経過します）"]
+              "parameters": [
+                "Are you taking the day off today? (One day will\npass)"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["寝ようかな", "まだ起きてる"], 1, 0, 2, 0]
+              "parameters": [
+                ["Should I go to sleep?", "Still awake?"],
+                1,
+                0,
+                2,
+                0
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "寝ようかな"] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -707,70 +715,49 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["回想部屋が追加されました"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["自宅の二階にある花瓶に触れてみてください"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["回想部屋では主にヒロインに起こったイベントを"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["回想することができます"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルとの思い出や出来事もあるでしょうが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルの知らない事もあるかも知れません"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何か気になる事がありましたら"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["確認してみましょう"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["また、ベッド脇の本棚を調べることで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\c[2]男性器\\c[0]の名称を任意に変更できます"]
+              "parameters": [
+                "A flashback room has been added. Please try\ntouching the vase on the second floor of your\nhome."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "隣のタンスでは主人公の\\c[2]男性器サイズ\\c[0]を設定が出来ます"
+                "In the flashback room, you can recall events\nmainly involving the heroines."
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["初期設定では\\c[2]小さい\\c[0]に設定してます"]
+              "parameters": [
+                "There may be memories and events with Aeru, but\nthere may also be things that Aeru doesn't know."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["気になる方はご活用下さい"]
+              "parameters": [
+                "If there's something bothering you, let's check it\nout."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Also, by examining the bookshelf next to the bed,\nyou can freely change the name of the \\c[2]male\ngenitalia\\c[0]."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Next to the dresser, you can set the \\c[2]size of\nthe male genitalia\\c[0] for the protagonist. It is\ninitially set to \\c[2]small\\c[0], so feel free to\nchange it if you're concerned."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [52, 52, 0] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -869,25 +856,31 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらでは男性器の名称を"]
+              "parameters": [
+                "Here, you can freely change the name of the male\ngenitalia."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["任意に変更できます"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["変更されますか？"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["現在の設定は「\\c[2]おちんちん\\c[0]」です"]
+              "parameters": [
+                "Will it be changed? The current setting is\n\\c[2]dick\\c[0]."
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["違うのにするよ！", "俺はおちんちん派だ"], 1, 0, 2, 1]
+              "parameters": [["Change it!", "I prefer dicks"], 1, 0, 2, 1]
             },
             { "code": 402, "indent": 0, "parameters": [0, "違うのにするよ！"] },
             { "code": 303, "indent": 1, "parameters": [7, 10] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "俺はおちんちん派だ"] },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [1, "俺はおちんちん派だ"]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1001,64 +994,33 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\c[2]黒のブレスレッド\\c[0]を手に入れました"]
+              "parameters": [
+                "Acquired the \\c[2]Black Bracelet\\c[0]. Using this,\nyou can trigger events with a specific character\nat will."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "こちらは\\c[2]任意で特定のキャラクター\\c[0]に使うことで"
+                "The events that occur are progressive, and in the\nfuture, when this item appears again, you can use\nit on the same character to trigger them."
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["イベントが発生します"]
-            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["発生するイベントは段階的になっており"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今後このようなアイテムが出た際に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["同じキャラクターに使うことで解放されていきます"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイテムを使用しても無くなることはありませんので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["全ての対象キャラクターに使用することが出来ます"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ですが,一定まで段階イベントが進んでしまうと"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\c[2]ヒロインが取り返しのつかないこと\\c[0]になりますので"
+                "You can use it on all target characters as it will\nnot disappear even after use."
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そのあたりはお気を付けください"]
+              "parameters": [
+                "However, please be careful as the heroine may\nbecome irreparable once the stage events have\nprogressed to a certain extent."
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1205,19 +1167,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらでは男性器のサイズを"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["任意で変更することが出来ます"]
+              "parameters": [
+                "Here, you can freely change the size of the male\ngenitalia."
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 379, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["現在のサイズは\\c[2]極小\\c[0]です"]
+              "parameters": ["The current size is \\c[2]extremely small\\c[0]."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -1225,7 +1184,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["現在のサイズは\\c[2]小さい\\c[0]です"]
+              "parameters": ["The current size is \\c[2]small\\c[0]."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -1234,8 +1193,8 @@
               "indent": 0,
               "parameters": [
                 [
-                  "俺のおちんちんは大きいぜ？（小さい",
-                  "俺のおちんちんは普通じゃない？(極小"
+                  "Is my dick big? (small)",
+                  "Is my dick not normal? (Extremely small)"
                 ],
                 1,
                 0,

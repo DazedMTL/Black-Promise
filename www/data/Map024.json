@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "民家２Ｆ",
+  "displayName": "Private House 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -198,7 +198,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -360,11 +360,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["白い何かが"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["床の上に広がっている"]
+              "parameters": [
+                "There is something white spread out on the floor."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -418,11 +419,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["白い何かが"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["床の上に広がっている"]
+              "parameters": [
+                "There is something white spread out on the floor."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -476,11 +478,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["白い何かが"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["床の上に広がっている"]
+              "parameters": [
+                "There is something white spread out on the floor."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -534,11 +537,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["白い何かが"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["床の上に広がっている"]
+              "parameters": [
+                "There is something white spread out on the floor."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -825,11 +829,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["白い何かが"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["床の上に広がっている"]
+              "parameters": [
+                "There is something white spread out on the floor."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

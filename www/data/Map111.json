@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "宿屋",
+  "displayName": "Inn",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -131,16 +131,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【宿屋のおじさん】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Innkeeper】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁ・・・部屋の壁・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう少し厚くした方がよさそうだな"]
+              "parameters": [
+                "Haa... The walls of the room... seem like they\nshould be a little thicker."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -386,99 +383,62 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["部屋の中から音が漏れている"]
+              "parameters": ["There's a sound leaking from inside the room."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["Bang! Bang! Bang!"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["パンッ！パン！パンッ！"]
+              "parameters": [
+                "Ah! It feels good! It's been a while since I've\nfelt this way."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あぁー！気持ちいい！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["最近ご無沙汰だったからな"]
+              "parameters": ["Ah, I said not to put it in!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ\\i[249]んっ\\i[249]んっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["挿れないって言ったのにっ\\i[249]"]
+              "parameters": [
+                "Is that so? But you seem to be feeling good too,\nso it's not really a bad thing, right?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["そうだっけ？"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["でもさ、あんたも気持ちよさそうだし"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["別に悪い事じゃないでしょ"]
+              "parameters": ["There's no way that's true"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんなことっ\\i[249]あっ\\i[249]"]
+              "parameters": [
+                "You're so alluringly disheveled, it's making my\ndick uncontrollable. So, let's stick together to\nthe end."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["乱れてるあんたすごい色っぽくて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺のおちんちんが治まんないんだよね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だからとことん付き合ってよ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["やっ\\i[249]だめっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あっ\\i[249]あっ\\i[249]あっ\\i[249]んっ\\i[249]"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["No, stop! Ahh!"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["パンッ！パン！パンッ！"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Bang! Bang! Bang!"] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -530,11 +490,7 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・もう行こう"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["Let's go already"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,

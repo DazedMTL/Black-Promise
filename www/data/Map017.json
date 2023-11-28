@@ -11,7 +11,7 @@
   },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "宿屋",
+  "displayName": "Inn",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -136,9 +136,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【宿屋のおじさん】"] },
-            { "code": 401, "indent": 0, "parameters": ["こんにちはアイル"] },
-            { "code": 401, "indent": 0, "parameters": ["今日も元気そうだな"] },
+            { "code": 401, "indent": 0, "parameters": ["【Innkeeper】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hello Aeru, you seem energetic today as well."]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -191,16 +194,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【学者】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Scholar】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いいですよ、ラリウス遺跡はですね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["昔から悪魔が住み着いているとされており・・・"]
+              "parameters": [
+                "It's okay, the Larius Ruins have been said to be\ninhabited by demons since ancient times..."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -245,16 +245,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【学者】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Scholar】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いたた・・・何でもないです"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私にもまだまだ知らないことが多いようです"]
+              "parameters": [
+                "Ouch... It's nothing. It seems there are still\nmany things I don't know."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -299,16 +296,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【学者】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Scholar】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私も呪いの件について調べています"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何かわかったら教えますね"]
+              "parameters": [
+                "I'm also researching the curse. I'll let you know\nif I find anything."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -822,16 +816,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この周辺の遺跡ってどんなところか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["よかったら教えてくれない？"]
+              "parameters": [
+                "Can you tell me what kind of place the ruins\naround here are?"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -928,7 +919,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["コンドームが落ちている・・・"]
+              "parameters": ["A condom has fallen..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

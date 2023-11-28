@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "道具屋２Ｆ",
+  "displayName": "Tool Shop 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -173,95 +173,83 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここは滅多に人がこないから"]
+              "parameters": ["Since people rarely come here--"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いったい彼女は何を言っているんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こんな所に連れてきて"]
+              "parameters": [
+                "What on earth is she saying, bringing me to a\nplace like this, unimpressive-looking guy?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おっぱい・・・触っていいよ"]
+              "parameters": ["You can touch my breasts..."]
             },
             { "code": 213, "indent": 0, "parameters": [4, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
-            { "code": 401, "indent": 0, "parameters": ["え！？"] },
+            { "code": 401, "indent": 0, "parameters": ["Huh?!"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おっぱいを触っていいって言ったのか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何がどうなっているんだ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・僕はきっとまだ寝ぼけていて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["夢を見ているのかもしれない"]
+              "parameters": [
+                "What on earth is she saying, telling me it's okay\nto touch her breasts? What's going on?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive face guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうしようもない奴だ"]
+              "parameters": ["...Maybe I'm still half asleep and dreaming."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["でも、それはそれとして・・・"]
+              "parameters": ["He's a hopeless guy, but leaving that aside..."]
             },
             { "code": 213, "indent": 0, "parameters": [3, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["触らないの？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["You're not going to touch them?"]
+            },
             { "code": 356, "indent": 0, "parameters": ["HALF_MOVE_ENABLE"] },
             {
               "code": 205,
@@ -300,23 +288,24 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unsociable-looking guy】"]
             },
-            { "code": 401, "indent": 0, "parameters": ["えっと・・・では"] },
-            { "code": 401, "indent": 0, "parameters": ["触りますねっ・・・"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Um... then I'll touch them, okay?"]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
-            { "code": 401, "indent": 0, "parameters": ["僕はおそるおそる"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["彼女のおっぱいに手を伸ばした"]
+              "parameters": ["I timidly reached out for her breasts...and"]
             },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・そして"] },
             {
               "code": 231,
               "indent": 0,
@@ -331,8 +320,8 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["んっ・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Mm..."] },
             {
               "code": 231,
               "indent": 0,
@@ -344,41 +333,38 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["ご、ごめんっ！"] },
-            { "code": 401, "indent": 0, "parameters": ["痛かった？"] },
-            { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そういうわけじゃ・・・ないです"]
+              "parameters": ["【Unimpressive face guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ちょっとびっくりしただけ"]
+              "parameters": ["S-Sorry! Did that hurt?"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・続けて"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "It's not like that... I was just a little\nsurprised."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Go on."] },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unsociable-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["僕は咄嗟に離してしまった手を"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう一度おっぱいへと伸ばす"]
+              "parameters": [
+                "I quickly pulled back my hand, but then reached\nout to her breasts again."
+              ]
             },
             {
               "code": 231,
@@ -406,404 +392,302 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Haa...ngh...haa..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁ・・・んっ・・・はぁ・・・"]
+              "parameters": ["【Unimpressive-looking guy】"]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "It's truly like a dream. I touched a girl's\nbreasts for the first time in my life."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive face guy】"]
             },
-            { "code": 401, "indent": 0, "parameters": ["まさに夢のようだ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["人生で初めて女の子のおっぱいを触った"]
+              "parameters": [
+                "And it's the breasts of a girl I've had a crush on\nfor so long."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unsociable-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それもずっと片思いをしていた"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["女の子のおっぱいだ"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["彼女は身体にコンプレックスがあるようだけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["僕は全然そんなことないって思う"]
+              "parameters": [
+                "She seems to have a complex about her body, but I\ndon't think that at all."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["どうかな？"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["胸を触るとか初めてで"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["よくわからなくて・・・ごめん"]
+              "parameters": [
+                "I wonder... It's my first time touching breasts,\nso I'm not really sure... sorry"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ・・・私も、わからないから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["気にしなくて・・・いい"]
+              "parameters": [
+                "Ngh... I don't know either, so don't worry about\nit... it's okay."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive face guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["彼女もよくわからないということは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルとそういうことが無い"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ということだろうか？"]
+              "parameters": [
+                "Does that mean she doesn't have any experience\nwith Aeru either?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もしそうだったらと思うと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["優越感が身体を満たす"]
+              "parameters": [
+                "Just thinking about that gives me a sense of\nsuperiority filling my body."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ・・・はぁ・・・はぁ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう少しやさしく出来る？"]
+              "parameters": ["Ah...hah...hah, can you be a little gentler?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["自然と力がこもってしまったようだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["僕は何をやっているんだ"]
+              "parameters": [
+                "It seems like I involuntarily put too much\nstrength into it. What am I doing?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive face guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そもそもここにいない奴のことなんて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["考えたって仕方ないんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・彼女の事だけを考えよう"]
+              "parameters": [
+                "There's no point in thinking about someone who\nisn't even here... I should just focus on her."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ごめんっ・・・痛かったよね"]
+              "parameters": [
+                "I'm sorry... it must have hurt. I'll be more\ngentle, I'm sorry."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["優しくする、ごめん"] },
             { "code": 213, "indent": 0, "parameters": [3, 4, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いいよ・・・そう・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["んっ\\i[249]・・・ん\\i[249]"]
+              "parameters": ["It's okay... like that... mmm... ah..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["僕は段々コツをつかみ始めていた"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["村の人たちの中には彼女の表情がわかり辛い"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["なんて言う人もいるが、そんなことはない"]
+              "parameters": ["I was gradually starting to get the hang of it."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unsociable-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["僕はいつも彼女を見ているから"]
+              "parameters": [
+                "Some of the villagers say that it's hard to\nunderstand her expression, but that's not true."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["彼女の表情が、花びらが舞うように"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ひらひらと変わっているのを知っている"]
+              "parameters": [
+                "I'm always watching her, so I know that her\nexpression changes fluttering like flower petals."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はっ・・・\\i[249]んっ・・・\\i[249]んん\\i[249]"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["はぁ・・・\\i[249]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["・・・だけど"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今、彼女がしている表情は見たことが無かった"]
+              "parameters": ["Hah... *moan* *moan* Haa..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["上気した肌は服の上からでも"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しっとりと手に感じることが出来るし"]
+              "parameters": [
+                "...But I've never seen the expression she's making\nright now."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["たえまなく漏らす息には熱が含まれ"]
+              "parameters": [
+                "Even from above the clothes, I can feel the\nmoistness of her flushed skin."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【Unimpressive face guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["頬は朱にそまっている"]
+              "parameters": [
+                "The breath he constantly leaks contains heat, and\nhis cheeks are dyed crimson."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["マーガレットちゃん気持ちい？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["僕の手で気持ち良くなってくれている？"]
+              "parameters": [
+                "Margaret, does it feel good? Are you feeling good\nwith my hands?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [3, 4, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はいっ\\i[249]んっ\\i[249]・・・はぁ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["気持ちいい・・・です・・・\\i[249]"]
+              "parameters": ["Yes... haa... it feels good..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unsociable-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["僕は今までの人生で一番幸福を感じていた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["気を抜くと自分本位に彼女を"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["めちゃくちゃにしたいって思ってしまう"]
+              "parameters": [
+                "I've never felt happier in my life, and when I let\nmy guard down, I find myself wanting to selfishly\nmess her up."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけどそれじゃだめだから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["優しく彼女に気持ちよくなってほしいって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["慎重に胸を揉んでいく"]
+              "parameters": [
+                "But that's not enough, so I carefully massage her\nchest, wanting her to feel good gently."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だめっ\\i[249]・・・ん\\i[249]"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["あっ・・・\\i[249]"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["No... ngh... ah..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["彼女は感じやすいのだろうか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["半ば僕にもたれかかる様にして"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["荒い息を繰り返している・・・そして"]
+              "parameters": [
+                "She's so sensitive, is she leaning on me halfway\nand repeating rough breaths... and"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ん\\i[249]・・・いやっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["わたし・・・っ\\i[249]\\i[249]\\i[249]"]
+              "parameters": ["Nn... no... I...uhh..."]
             },
             { "code": 235, "indent": 0, "parameters": [2] },
             { "code": 213, "indent": 0, "parameters": [4, 1, false] },
@@ -811,37 +695,33 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive face guy】"]
             },
-            { "code": 401, "indent": 0, "parameters": ["えっ！？"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["マーガレットちゃんどうしたのっ！？"]
+              "parameters": ["Huh!? Margaret-chan, what's wrong!?"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["びくびくと痙攣したかと思うと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そのまま完全に彼女は倒れてしまった"]
+              "parameters": [
+                "Just as I thought she was convulsing, she\ncompletely collapsed."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁ・・・\\i[249]はぁ・・・\\i[249]"]
+              "parameters": ["Haa... \\i[249] haa... \\i[249]"]
             },
             { "code": 246, "indent": 0, "parameters": [10] },
             { "code": 242, "indent": 0, "parameters": [10] },
@@ -849,59 +729,45 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["その後、しばらくして目を覚ました彼女は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["先ほどまでの事を覚えていないようだった"]
+              "parameters": [
+                "After a while, when she woke up, it seemed like\nshe didn't remember what had just happened."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unsociable-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんな彼女の反応を見て"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["先ほどまでの事が本当は夢だったんじゃないかって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["少しだけ思ってしまう・・・だけど"]
+              "parameters": [
+                "Watching her reaction, I couldn't help but wonder\nif what happened just now was actually a dream...\nbut"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["僕の耳元にかすかに残る吐息の熱が"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["夢じゃなかったと、教えてくれている気がした"]
+              "parameters": [
+                "The faint warmth of her breath lingering by my ear\nmade me feel like it wasn't a dream, telling me\nso."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 211, "indent": 0, "parameters": [1] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 201, "indent": 0, "parameters": [0, 47, 9, 13, 2, 0] },

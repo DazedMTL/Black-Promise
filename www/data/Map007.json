@@ -11,7 +11,7 @@
   },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "リラの家",
+  "displayName": "Lira's house",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -164,13 +164,14 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あらアイルいつもリラと仲良くしてくれて"]
+              "parameters": [
+                "Oh Aeru, thank you for always getting along with\nLira."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["ありがとうね"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -214,27 +215,29 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あらアイルいつもリラと仲良くしてくれて"]
+              "parameters": [
+                "Aeru, thank you for always getting along with\nLira."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["ありがとうね"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラもあまり迷惑かけちゃだめよ？"]
+              "parameters": [
+                "Aeru, make sure not to cause Lira too much\ntrouble, okay?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["大丈夫だよー！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私だってちゃんと出来るんだからっ"]
+              "parameters": ["It's okay! I can do it properly too, you know!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -279,38 +282,42 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルちょっといいかしら？"]
+              "parameters": ["Aeru, can I have a moment?"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["最近リラが元気ないみたいなんだけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ないか身に覚えとかある？"]
+              "parameters": [
+                "It seems like Lira hasn't been feeling well\nlately. Do you have any idea why?"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["聞いてみます", "いつもと変わらない"], 1, 0, 2, 0]
+              "parameters": [
+                ["I'll ask around", "Nothing out of the ordinary"],
+                1,
+                0,
+                2,
+                0
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "聞いてみます"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラの母】"] },
-            { "code": 401, "indent": 1, "parameters": ["悪いわね"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["きっとアイルになら話せると思うの"]
+              "parameters": [
+                "It's bad, isn't it? I'm sure Aeru can talk to her."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             {
@@ -319,12 +326,13 @@
               "parameters": [1, "いつもと変わらない"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラの母】"] },
-            { "code": 401, "indent": 1, "parameters": ["そう？"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["アイルが言うなら間違いないわね"]
+              "parameters": [
+                "Is that so? If Aeru says it, then there's no\nmistake."
+              ]
             },
             { "code": 121, "indent": 1, "parameters": [146, 146, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -372,13 +380,14 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あらアイルいつもリラと仲良くしてくれて"]
+              "parameters": [
+                "Aeru, thank you for always getting along with\nLira."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["ありがとうね"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -422,35 +431,25 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
+            { "code": 401, "indent": 0, "parameters": ["Oh, Aeru, welcome."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あら、アイルいらっしゃい"]
+              "parameters": [
+                "Lately, that big, strong guy from the\nneighborhood... he and Lira are often together,\nyou know."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["最近何だか近所のお兄さん、ほら体格のいい・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["彼とリラがよく一緒にいるのよね"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["二人お付き合いでも始めたのかしら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["って、こんなことアイルにいう事じゃないわね"]
+              "parameters": [
+                "I shouldn't be telling Aeru things like 'I wonder\nif they've started dating'."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -495,27 +494,29 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あらアイルいつもリラと仲良くしてくれて"]
+              "parameters": [
+                "Oh Aeru, thank you for always getting along with\nLira."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["ありがとうね"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラもあまり迷惑かけちゃだめよ？"]
+              "parameters": [
+                "Aeru, you must not cause Lira too much trouble,\nokay?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["大丈夫だよー！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私だってちゃんと出来るんだからっ"]
+              "parameters": ["It's okay! I can do it properly too, you know!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -561,25 +562,22 @@
           "list": [
             { "code": 111, "indent": 0, "parameters": [0, 288, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["リラの事をお願いね・・・私は信じてるから・・・"]
+              "parameters": ["Please take care of Lira... I believe in you..."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["魔物の住処で一人だなんて・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["様子を見に行ってあげてねアイル"]
+              "parameters": [
+                "Being alone in the dwelling of demons... Please go\nand check on her, Aeru."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -774,7 +772,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["食べ物が並んでいる"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["The food is lined up"]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -827,7 +829,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["お日様の匂いがする"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["It smells like the sun."]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -883,7 +889,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["にんじんはいらないな。。。"]
+              "parameters": ["I don't need carrots..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1089,32 +1095,32 @@
               "parameters": [1, "hiro1", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["あっ"] },
-            { "code": 401, "indent": 0, "parameters": ["アイルおはよー！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Ah, good morning Aeru!"]
+            },
             { "code": 111, "indent": 0, "parameters": [0, 117, 0] },
             { "code": 121, "indent": 1, "parameters": [205, 205, 0] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・あのね"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["最近何だか妙な視線を感じるんだ"]
+              "parameters": [
+                "...You know, I've been feeling some strange\nglances lately."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin1 2", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["その・・・なんだかエッチなやつ"]
+              "parameters": [
+                "Um... It's just my imagination that someone's been\ngiving me lewd looks, right? Sorry! Forget I said\nanything!"
+              ]
             },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["って私の気のせいだよね！"]
-            },
-            { "code": 401, "indent": 1, "parameters": ["ごめん！忘れてっ！"] },
             { "code": 213, "indent": 1, "parameters": [0, 11, false] },
             { "code": 121, "indent": 1, "parameters": [143, 143, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1123,7 +1129,11 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["何してるの？", "奥さんって感じだね", "なんでもない"],
+                [
+                  "What are you doing?",
+                  "Feels like a wife, huh?",
+                  "It's nothing"
+                ],
                 2,
                 0,
                 2,
@@ -1132,25 +1142,33 @@
             },
             { "code": 402, "indent": 0, "parameters": [0, "何してるの？"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["朝食の片づけだよ"] },
-            { "code": 401, "indent": 1, "parameters": ["いつもやってるんだ"] },
-            { "code": 101, "indent": 1, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["アイルもちゃんと綺麗にしてる？"]
+              "parameters": [
+                "It's time to clean up after breakfast. I always do\nit."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["hiroin1", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Is Aeru cleaning up properly too?"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["そっと目を逸らす"] },
-            { "code": 101, "indent": 1, "parameters": ["hiroin1", 2, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["ですよねー"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["今度また掃除しに行くね"]
+              "parameters": ["Gently avert one's eyes"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["hiroin1", 2, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["That's right, I'll go clean up again next time."]
             },
             { "code": 121, "indent": 1, "parameters": [93, 93, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1160,28 +1178,40 @@
               "parameters": [1, "奥さんって感じだね"]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["えっ！？"] },
-            { "code": 401, "indent": 1, "parameters": ["もーなにそれ　"] },
-            { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["お嫁さんとかまだ"] },
-            { "code": 401, "indent": 1, "parameters": ["考えたことないよ"] },
-            { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["それは私だって"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ちょっとぐらい憧れたりするけど"]
+              "parameters": ["Huh!? W-What's that?"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "I haven't thought about things like getting\nmarried yet."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "I mean, even I have a little bit of longing for\nthat."
+              ]
             },
             { "code": 121, "indent": 1, "parameters": [93, 93, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "なんでもない"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["そう？"] },
-            { "code": 401, "indent": 1, "parameters": ["じゃあまたね"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Is that so? Well then, see you later."]
+            },
             { "code": 121, "indent": 1, "parameters": [93, 93, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -1229,12 +1259,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["探索行くときは"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ちゃんと声かけてね！"]
+              "parameters": ["Make sure to let me know when you go exploring!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1684,49 +1713,40 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【体格のいいお兄さん】"]
+              "parameters": ["【Big brother with a good physique】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラの作る飯はうめぇな！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺の嫁に来てほしいぐらいだぜ"]
+              "parameters": [
+                "Lira's cooking is delicious! It's so good that I\nwant her to become my wife."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【体格のいいお兄さん】"]
+              "parameters": ["【Well-built big brother】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルお前はどう思う？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["って冗談だよそんな顔すんなって"]
+              "parameters": [
+                "Aeru, what do you think? I'm just kidding, don't\nmake that face."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【体格のいいお兄さん】"]
+              "parameters": ["【Well-built big brother】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もう一息でリラを俺の物にしてやれる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お前がボーっとしてるからだぜアイル"]
+              "parameters": [
+                "It's because you, Aeru, are spacing out, that I\ncan almost make Lira mine."
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1775,9 +1795,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【体格のいいお兄さん】"]
+              "parameters": ["【Well-built big brother】"]
             },
-            { "code": 401, "indent": 0, "parameters": ["飯がススムぜ！"] },
+            { "code": 401, "indent": 0, "parameters": ["I'm starving!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1951,42 +1971,32 @@
           "list": [
             { "code": 121, "indent": 0, "parameters": [392, 392, 1] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["あ、アイル来たんだ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["なんかお兄さんがご飯食べたいって"]
+              "parameters": [
+                "Oh, Aeru is here. It seems like onii-san wants to\neat something."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["最近いつも一緒にいる印象がある"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何かあったのか尋ねた"]
+              "parameters": [
+                "I asked if there was something that gave me the\nimpression that we've been together a lot lately.\nWas there something going on?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [14, 11, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["えっと、大したことじゃないんだけどね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お兄さんのお手伝いしてるんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私にしか出来ない事みたいで・・・"]
+              "parameters": [
+                "Well, it's not a big deal, but I'm helping onii-\nsan with something that only I can do..."
+              ]
             },
             {
               "code": 205,
@@ -2010,34 +2020,28 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【体格のいいお兄さん】"]
+              "parameters": ["【Well-built big brother】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おいおい大したことないって言い方は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ないんじゃないのか？"]
+              "parameters": [
+                "Well, saying it's not a big deal like that isn't\nthe right way to put it, isn't it?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [13, 4, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【体格のいいお兄さん】"]
+              "parameters": ["【Well-built big brother】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラのお陰で俺の身体は元気なんだぜ？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何だったらほら、触ってみろよ"]
+              "parameters": [
+                "Thanks to Lira, my body is in good shape, you\nknow? If you want, go ahead and touch it."
+              ]
             },
             {
               "code": 205,
@@ -2058,44 +2062,35 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルの前ではやめてって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["後でまた手伝うから、それでいい？"]
+              "parameters": [
+                "I'll stop in front of Aeru and help you again\nlater, is that okay?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【体格のいいお兄さん】"]
+              "parameters": ["【Well-built big brother】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんなこと言われたらますます元気になっちまうよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["後でなんてケチケチしないで今からしようぜ？な？"]
+              "parameters": [
+                "If you say something like that, I'll become even\nmore energetic. Don't be stingy about doing it\nlater, let's do it now, okay?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それ以上言うと本気で怒るから・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ごめんね、アイル。また探索に行くときに声かけて"]
+              "parameters": [
+                "If you say anything more, I'll seriously get\nangry... I'm sorry, Aeru. Call out to me when we\ngo exploring again."
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 213, "indent": 0, "parameters": [-1, 7, false] },
@@ -2143,12 +2138,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["怒っても仕方がない"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私に出来ることをやらないと・・・"]
+              "parameters": [
+                "There's no point in getting angry, I have to do\nwhat I can..."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2457,44 +2453,38 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あらアイル、いらっしゃい"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そう言えば最近リラの調子が良さそうなのよ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["きっと、アイルが何かしてくれたんでしょ？"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["ありがとうね"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "私としてはリラをお嫁さんにしてほしいぐらいなんだけど"
+                "Oh Aeru, welcome. By the way, it seems like Lira\nhas been doing well lately."
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あまりちょっかいかけてもだめよね"]
+              "parameters": ["I'm sure Aeru did something for her, thank you."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Personally, I wish I could make Lira my daughter-\nin-law, but I shouldn't meddle too much."
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [4, 3, 0] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["ちょっとお母さん！"] },
-            { "code": 401, "indent": 1, "parameters": ["何言ってるのっ"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Mom, what are you saying?!"]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -2541,11 +2531,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これからも仲良くしてあげてね"]
+              "parameters": ["Please continue to get along well from now on"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2590,23 +2580,22 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まさかあの二人が付き合うだなんてね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リラが幸せならそれでいいんだけど・・・"]
+              "parameters": [
+                "I never thought those two would end up together,\nbut if it makes Lira happy, then that's fine..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラの母】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これからもリラと仲良くしてあげてね"]
+              "parameters": [
+                "Please continue to get along well with Lira from\nnow on."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2666,37 +2655,29 @@
               "parameters": [1, "hiro1", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["あっ"] },
-            { "code": 401, "indent": 0, "parameters": ["アイルおはよー！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Ah, good morning Aeru!"]
+            },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この前はありがとうね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルってやっぱりカッコいいなって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["改めて思っちゃった・・・えへへ"]
+              "parameters": [
+                "Thank you for the other day, Aeru. I couldn't help\nbut think again that you're really cool...ehehe"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これからは無理しないで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちゃんとアイルに相談するね"]
+              "parameters": [
+                "From now on, let's not push ourselves and consult\nwith Aeru properly, okay?"
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -2743,12 +2724,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["探索行くときは"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ちゃんと声かけてね！"]
+              "parameters": ["When you go exploring, make sure to let me know!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

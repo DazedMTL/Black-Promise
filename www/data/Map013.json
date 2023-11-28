@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "ライトの家",
+  "displayName": "Light's house",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -462,7 +462,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトの好きなお酒が並んでいる"]
+              "parameters": ["Light's favorite drinks are lined up"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -519,12 +519,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["大きなピアノが置いてある"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトのピアノは穏やかでとても好きだ"]
+              "parameters": [
+                "Light's piano, with a large piano placed there, is\ncalm and very much liked."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

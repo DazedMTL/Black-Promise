@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "村長の家",
+  "displayName": "Village Chief's House",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -383,7 +383,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・帰る前に村長に薬草を渡そう"]
+              "parameters": [
+                "...Before returning, let's give the village chief\nthe medicinal herbs."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -711,12 +713,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            { "code": 401, "indent": 0, "parameters": ["無事で何よりじゃ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日はゆっくり休むといい"]
+              "parameters": [
+                "Thank goodness you're safe. You should take it\neasy and rest today."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -761,35 +764,34 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            { "code": 401, "indent": 0, "parameters": ["どうしたアイル？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
+            { "code": 401, "indent": 0, "parameters": ["What's wrong, Aeru?"] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アザミはどうしたのかと？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ああ、少し前に起きてライトの様子みておるよ"]
+              "parameters": [
+                "What's wrong, Azami? Ah, I woke up a little while\nago and checked on Light's condition."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["朝よりも大分と顔色も良かったのでな"]
+              "parameters": [
+                "He looked much better than this morning, didn't\nhe?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["二人について何か知っていますか", "（やめておこう"],
+                ["Do you know anything about the two of them?", "(Let's stop)"],
                 1,
                 0,
                 2,
@@ -803,41 +805,31 @@
             },
             { "code": 213, "indent": 1, "parameters": [5, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Village Chief】"] },
+            { "code": 401, "indent": 1, "parameters": ["...I don't know"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["・・・・・・知らんな"]
+              "parameters": [
+                "Even if something happened, they have been close\nsince old times, so..."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ただ二人は昔から仲がよかったからのう"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["たとえ何かあったとしても"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["わしがどうこう言うことでもなかろう"]
+              "parameters": ["It's not like I have anything to say about it."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["・・・たしかにその通りだ"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["口をはさむ権利なんて一つもない"]
+              "parameters": [
+                "...That's right, I don't have the right to\ninterrupt."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "（やめておこう"] },
@@ -845,9 +837,8 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["自分のバカげた妄想だと"]
+              "parameters": ["I shook my head at my foolish delusions."]
             },
-            { "code": 401, "indent": 1, "parameters": ["頭を振った"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -863,44 +854,35 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["村長に取ってきた薬草を渡した"]
+              "parameters": [
+                "I handed the village chief the medicinal herbs I\nbrought."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [0, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おおぉ！すまないのう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["これはありがたく頂くとしよう"]
+              "parameters": ["Oh! I apologize. I gratefully accept this."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この薬草は後でわしのほうから渡しておこう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルはもう休みなさい"]
+              "parameters": [
+                "I will give this medicinal herb to him later.\nAeru, you should rest now."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何から何までありがとうな"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["頼りにしておるぞアイル"]
+              "parameters": [
+                "Thank you for everything, Aeru. I'm counting on\nyou."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [74, 74, 0] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -947,11 +929,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日はゆっくり休むといい"]
+              "parameters": ["You should take it easy and rest today."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

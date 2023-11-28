@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "リラの部屋",
+  "displayName": "Lira's room",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -163,12 +163,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["わっ！こらっ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["勝手に人の本棚見ないでよー！"]
+              "parameters": [
+                "Eek! Hey! Don't look at people's bookshelves\nwithout permission!"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -216,7 +217,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["恋愛小説が並んでいる"]
+              "parameters": ["Love novels are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -264,7 +265,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["恋愛小説が並んでいる"]
+              "parameters": ["Love novels are lined up"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -309,12 +310,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["わっ！こらっ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["勝手に人の本棚見ないでよー！"]
+              "parameters": [
+                "Eek! Hey! Don't look at people's bookshelves\nwithout permission!"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -362,7 +364,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["恋愛小説が並んでいる"]
+              "parameters": ["Love novels are lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -407,12 +409,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["わっ！こらっ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["勝手に人の本棚見ないでよー！"]
+              "parameters": [
+                "Eek! Hey! Don't look at people's bookshelves\nwithout permission!"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -466,12 +469,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ちょっと。。。"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今何するつもりだったの・・・"]
+              "parameters": ["Hey... What were you planning to do just now?"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -516,7 +518,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["リラの匂いがする"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I can smell Lira's scent."]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -560,7 +566,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["リラの匂いがする"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I can smell Lira's scent"]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -604,12 +614,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ちょっと。。。"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今何するつもりだったの・・・"]
+              "parameters": ["Hey... What were you planning to do just now?"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -657,7 +666,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラの匂いはしない"]
+              "parameters": ["I can't smell Lira's scent"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -705,7 +714,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラの匂いはしない"]
+              "parameters": ["I can't smell Lira's scent."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -750,12 +759,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ちょっと。。。"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今何するつもりだったの・・・"]
+              "parameters": ["Hey... What were you planning to do just now?"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -812,21 +820,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["以前プレゼントしたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大切にしているみたいでうれしい"]
+              "parameters": [
+                "It seems like they are taking good care of the\nstuffed animal I gave them before, and that makes\nme happy."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今でもたまに一緒に寝てるんだよ？"]
+              "parameters": ["Do they still sleep with it sometimes? Ehehe"]
             },
-            { "code": 401, "indent": 0, "parameters": ["えへへ"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -873,12 +877,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["以前プレゼントしたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大切にしているみたいでうれしい"]
+              "parameters": [
+                "It seems like they are taking good care of the\nstuffed animal I gave them before, and that makes\nme happy."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -926,12 +927,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["以前プレゼントしたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大切にしているみたいでうれしい"]
+              "parameters": [
+                "I'm glad to see that you're taking good care of\nthe stuffed animal I gave you before."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -979,21 +977,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["以前プレゼントしたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大切にしているみたいでうれしい"]
+              "parameters": [
+                "It seems like they are taking good care of the\nstuffed animal I gave them before, and that makes\nme happy."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今でもたまに一緒に寝てるんだよ？"]
+              "parameters": ["Do they still sleep with it sometimes? Ehehe"]
             },
-            { "code": 401, "indent": 0, "parameters": ["えへへ"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1040,12 +1034,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["以前プレゼントしたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うっすらとほこりを被っている"]
+              "parameters": [
+                "The stuffed animal I gave you before is lightly\ncovered in dust."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1093,12 +1084,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["以前プレゼントしたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うっすらとほこりを被っている"]
+              "parameters": [
+                "The stuffed animal I gave you before is lightly\ncovered in dust."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1146,21 +1134,17 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["以前プレゼントしたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大切にしているみたいでうれしい"]
+              "parameters": [
+                "I'm glad that you seem to be taking good care of\nthe stuffed animal I gave you before."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今でもたまに一緒に寝てるんだよ？"]
+              "parameters": ["Do you still sleep with it sometimes? Ehehe"]
             },
-            { "code": 401, "indent": 0, "parameters": ["えへへ"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1213,12 +1197,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイルどうしたの？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["折角来たんだしお話でもしよっか！"]
+              "parameters": [
+                "Aeru, what's wrong? Since you came all this way,\nhow about we have a little chat?"
+              ]
             },
             {
               "code": 231,
@@ -1230,10 +1215,10 @@
               "indent": 0,
               "parameters": [
                 [
-                  "リラってかわいいよな",
-                  "ライトの事どう思う？",
-                  "おっぱい触らせて！",
-                  "やっぱり何でもない"
+                  "Lira is cute, isn't she?",
+                  "What do you think of Light?",
+                  "Let me touch your boobs!",
+                  "It's nothing after all"
                 ],
                 3,
                 0,
@@ -1248,26 +1233,24 @@
             },
             { "code": 111, "indent": 1, "parameters": [0, 255, 0] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 2, "parameters": ["もう、だめだよ"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["そんなからかうようなこと言っちゃ！"]
+              "parameters": [
+                "Geez, that's enough. Don't say things that tease\nme like that!"
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["きゅ、急にどうしたの？"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["別に嬉しくないわけじゃないけどっ"]
+              "parameters": [
+                "Wh-What's all of a sudden? It's not like I'm not\nhappy or anything, but..."
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -1279,42 +1262,38 @@
             },
             { "code": 111, "indent": 1, "parameters": [0, 255, 0] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 2, "parameters": ["ライトのこと！？"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["え・・・うん・・・普通だけど"]
+              "parameters": ["Light's matter? Uh... yeah... it's normal, but--"]
             },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["大丈夫心配しないで！"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["ライトのことはちゃんと私が見てるから！"]
+              "parameters": [
+                "Don't worry, I've got Light's back covered, so\nthere's no need to worry!"
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 2, "parameters": ["ライトのこと？"] },
-            { "code": 401, "indent": 2, "parameters": ["今更どうしたの？"] },
-            { "code": 101, "indent": 2, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["私たち幼馴染なんだし"]
+              "parameters": ["Light's matter? What's all of a sudden?"]
             },
+            { "code": 101, "indent": 2, "parameters": ["hiroin1", 6, 0, 2] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["アイルと同じぐらい大好きだよ！"]
+              "parameters": [
+                "We've been childhood friends, so I love him just\nas much as Aeru!"
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -1327,47 +1306,33 @@
             },
             { "code": 111, "indent": 1, "parameters": [0, 255, 0] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 2, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["ちょっとそれ本気で言ってるの！？"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["そんなおっぱいだなんてだめだよ・・・"]
+              "parameters": [
+                "Are you seriously saying that? It's not good to\ntalk about boobs like that..."
+              ]
             },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\}あれ・・・でも、おっぱいよりも"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["おまんこの方がエッチなのかな・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["それなのに私・・・・・・"]
+              "parameters": [
+                "Huh... But, is the pussy more erotic than boobs...\neven so, I..."
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 2, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["ちょっとそれ本気で言ってるの！？"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["さすがに触らせるわけないじゃん。。。"]
+              "parameters": [
+                "Are you seriously saying that? It's not like I'm\ngoing to let you touch me, you know..."
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -1379,12 +1344,11 @@
               "parameters": [3, "やっぱり何でもない"]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["もー！何それ？"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["じゃあおやすみなさい"]
+              "parameters": ["Mo-! What's that? Well then, good night."]
             },
             { "code": 121, "indent": 1, "parameters": [1, 1, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1434,13 +1398,14 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あんまり夜更かししちゃだめだよ？"]
+              "parameters": [
+                "You shouldn't stay up too late, okay? Good night."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["おやすみなさい"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1524,12 +1489,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイルどうしたの？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["折角来たんだしお話でもしよっか！"]
+              "parameters": [
+                "Aeru, what's wrong? Since you came all this way,\nhow about we have a little chat?"
+              ]
             },
             {
               "code": 231,
@@ -1541,10 +1507,10 @@
               "indent": 0,
               "parameters": [
                 [
-                  "リラってかわいいよな",
-                  "ライトの事どう思う？",
-                  "おっぱい触らせて！",
-                  "やっぱり何でもない"
+                  "Lira is cute, right?",
+                  "What do you think of Light?",
+                  "Let me touch your boobs!",
+                  "Never mind, it's nothing"
                 ],
                 3,
                 0,
@@ -1559,26 +1525,24 @@
             },
             { "code": 111, "indent": 1, "parameters": [0, 255, 0] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 2, "parameters": ["もう、だめだよ"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["そんなからかうようなこと言っちゃ！"]
+              "parameters": [
+                "Geez, that's enough! Don't say things that tease\nme like that!"
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["きゅ、急にどうしたの？"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["別に嬉しくないわけじゃないけどっ"]
+              "parameters": [
+                "Wh-What's all of a sudden? It's not like I'm not\nhappy or anything, but..."
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -1590,42 +1554,38 @@
             },
             { "code": 111, "indent": 1, "parameters": [0, 255, 0] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 2, "parameters": ["ライトのこと！？"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["え・・・うん・・・普通だけど"]
+              "parameters": ["Light's matter? Uh... yeah... it's normal, but--"]
             },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["大丈夫心配しないで！"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["ライトのことはちゃんと私が見てるから！"]
+              "parameters": [
+                "Don't worry, it's okay! I'm keeping an eye on\nLight, so there's no need to be concerned!"
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 2, "parameters": ["ライトのこと？"] },
-            { "code": 401, "indent": 2, "parameters": ["今更どうしたの？"] },
-            { "code": 101, "indent": 2, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["私たち幼馴染なんだし"]
+              "parameters": ["Light's matter? What's all of a sudden?"]
             },
+            { "code": 101, "indent": 2, "parameters": ["hiroin1", 6, 0, 2] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["アイルと同じぐらい大好きだよ！"]
+              "parameters": [
+                "We've been childhood friends, so I love you just\nas much as I love Aeru!"
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -1638,47 +1598,33 @@
             },
             { "code": 111, "indent": 1, "parameters": [0, 255, 0] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 2, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["ちょっとそれ本気で言ってるの！？"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["そんなおっぱいだなんてだめだよ・・・"]
+              "parameters": [
+                "Are you seriously saying that? It's no good to\ntalk about boobs like that..."
+              ]
             },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\}あれ・・・でも、おっぱいよりも"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["おまんこの方がエッチなのかな・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["それなのに私・・・・・・"]
+              "parameters": [
+                "Huh... But, is the pussy sexier than boobs... Even\nso, I..."
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 2, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["ちょっとそれ本気で言ってるの！？"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["さすがに触らせるわけないじゃん。。。"]
+              "parameters": [
+                "Are you seriously saying that? There's no way I'd\nlet you touch me, of course..."
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -1690,12 +1636,11 @@
               "parameters": [3, "やっぱり何でもない"]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["もー！何それ？"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["じゃあおやすみなさい"]
+              "parameters": ["Mo-! What's that? Well then, good night."]
             },
             { "code": 121, "indent": 1, "parameters": [1, 1, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1745,13 +1690,14 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あんまり夜更かししちゃだめだよ？"]
+              "parameters": [
+                "You shouldn't stay up too late, okay? Good night."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["おやすみなさい"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1795,12 +1741,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイルどうしたの？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["折角来たんだしお話でもしよっか！"]
+              "parameters": [
+                "Aeru, what's wrong? Since you came all this way,\nhow about we have a chat?"
+              ]
             },
             {
               "code": 231,
@@ -1812,10 +1759,10 @@
               "indent": 0,
               "parameters": [
                 [
-                  "リラってかわいいよな",
-                  "ライトの事どう思う？",
-                  "おっぱい触らせて！",
-                  "やっぱり何でもない"
+                  "Lira is cute, isn't she?",
+                  "What do you think of Light?",
+                  "Let me touch your boobs!",
+                  "It's nothing after all"
                 ],
                 3,
                 0,
@@ -1830,26 +1777,24 @@
             },
             { "code": 111, "indent": 1, "parameters": [0, 255, 0] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 2, "parameters": ["もう、だめだよ"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["そんなからかうようなこと言っちゃ！"]
+              "parameters": [
+                "Geez, that's enough. Don't say things that tease\nme like that!"
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["きゅ、急にどうしたの？"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["別に嬉しくないわけじゃないけどっ"]
+              "parameters": [
+                "W-What's with the sudden change? It's not like I'm\nnot happy or anything, but..."
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -1861,42 +1806,38 @@
             },
             { "code": 111, "indent": 1, "parameters": [0, 255, 0] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 2, "parameters": ["ライトのこと！？"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["え・・・うん・・・普通だけど"]
+              "parameters": ["Light's matter? Uh... yeah... he's just normal."]
             },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["大丈夫心配しないで！"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["ライトのことはちゃんと私が見てるから！"]
+              "parameters": [
+                "Don't worry, I'm keeping an eye on Light, so\neverything will be fine!"
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 2, "parameters": ["ライトのこと？"] },
-            { "code": 401, "indent": 2, "parameters": ["今更どうしたの？"] },
-            { "code": 101, "indent": 2, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["私たち幼馴染なんだし"]
+              "parameters": ["Light's matter? What's the sudden change now?"]
             },
+            { "code": 101, "indent": 2, "parameters": ["hiroin1", 6, 0, 2] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["アイルと同じぐらい大好きだよ！"]
+              "parameters": [
+                "We've been childhood friends, so I love you just\nas much as I love Aeru!"
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -1909,47 +1850,33 @@
             },
             { "code": 111, "indent": 1, "parameters": [0, 255, 0] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 2, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["ちょっとそれ本気で言ってるの！？"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["そんなおっぱいだなんてだめだよ・・・"]
+              "parameters": [
+                "Are you seriously saying that? It's not okay to\ntalk about my breasts like that..."
+              ]
             },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["\\}あれ・・・でも、おっぱいよりも"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["おまんこの方がエッチなのかな・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["それなのに私・・・・・・"]
+              "parameters": [
+                "Huh... but is the pussy more erotic than\nbreasts... even so, I..."
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 2, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["ちょっとそれ本気で言ってるの！？"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["さすがに触らせるわけないじゃん。。。"]
+              "parameters": [
+                "Are you seriously saying that? There's no way I'd\nlet you touch me, right...?"
+              ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -1961,12 +1888,11 @@
               "parameters": [3, "やっぱり何でもない"]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["もー！何それ？"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["じゃあおやすみなさい"]
+              "parameters": ["Mo-! What's that? Well then, good night."]
             },
             { "code": 121, "indent": 1, "parameters": [1, 1, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2016,13 +1942,14 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あんまり夜更かししちゃだめだよ？"]
+              "parameters": [
+                "You shouldn't stay up too late, okay? Good night."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["おやすみなさい"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2198,24 +2125,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトがあげたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["とても大切にされている"]
+              "parameters": [
+                "The stuffed animal that Light gave is being very\ncherished."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あの時は楽しかったなぁ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["二人ともありがとね！"]
+              "parameters": ["We had so much fun back then. Thank you both!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2263,12 +2182,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトがあげたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["とても大切にされている"]
+              "parameters": [
+                "The stuffed animal that Light gave is being very\ncherished."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2316,12 +2232,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトがあげたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["とても大切にされている"]
+              "parameters": [
+                "The stuffed animal that Light gave is being very\ncherished."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2369,24 +2282,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトがあげたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["とても大切にされている"]
+              "parameters": [
+                "The stuffed animal that Light gave is being very\ncherished."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あの時は楽しかったなぁ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["二人ともありがとね！"]
+              "parameters": ["It was fun back then, thank you both!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2434,12 +2339,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトがあげたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うっすらとほこりを被っている"]
+              "parameters": [
+                "The stuffed animal that Light gave is lightly\ncovered in dust."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2487,24 +2389,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトがあげたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["とても大切にされている"]
+              "parameters": [
+                "The stuffed animal that Light gave is being very\ncherished."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あの時は楽しかったなぁ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["二人ともありがとね！"]
+              "parameters": ["That time was fun, thank you both!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2656,7 +2550,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2711,7 +2605,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2766,7 +2660,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

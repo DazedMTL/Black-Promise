@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "村長の家２Ｆ",
+  "displayName": "Village Chief's House 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -141,7 +141,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -599,49 +599,45 @@
             { "code": 117, "indent": 0, "parameters": [2] },
             { "code": 117, "indent": 0, "parameters": [3] },
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["今日はありがとう"] },
-            { "code": 401, "indent": 0, "parameters": ["助かったわ"] },
-            { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["いえいえ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["気にしないでくださいっ"]
+              "parameters": ["Thank you for today, you really helped me."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["No, no! Please don't worry about it."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトも早くよくなってね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アザミさんに甘えすぎちゃだめだよ"]
+              "parameters": [
+                "Light, make sure to get better soon. You shouldn't\nrely too much on Azami-san."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["ははっうん"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["良くなったらリラ達も含めて"]
+              "parameters": [
+                "Haha, when I get better, I'll make sure to thank\neveryone, including Lira."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["何かお礼をするよ"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["わかった！期待してる！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["じゃあそろそろ帰りますね"]
+              "parameters": [
+                "Got it! I'm looking forward to it! Well then, I'll\nbe heading home soon."
+              ]
             },
             {
               "code": 250,
@@ -658,9 +654,9 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             {
               "code": 231,
               "indent": 0,
@@ -680,41 +676,31 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ん・・・ちゅ・・・\\i[249]"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
+            { "code": 401, "indent": 0, "parameters": ["Mm...chu...\\i[249]"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["はぁ・・・\\i[249]"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふっ・・・んっ\\i[249]"]
+              "parameters": ["*sigh*... \\i[249] *pant*... *moan* \\i[249]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日も私は彼のおちんちんの熱さを感じている"]
+              "parameters": ["Today, I can feel the heat of his dick again."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ちゅ・・・\\i[249]ちゅっ\\i[249]"]
+              "parameters": ["*kiss*...\\i[249]*kiss*...*ngh*\\i[249]"]
             },
-            { "code": 401, "indent": 0, "parameters": ["んっ\\i[249]"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["くっ・・・アザミさん・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Kuh... Azami-san..."] },
             { "code": 235, "indent": 0, "parameters": [1] },
             {
               "code": 231,
@@ -729,154 +715,123 @@
               "parameters": [1, "sabu 1 2", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・\\i[249]"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ちゅっ\\i[249]・・・ちゅ\\i[249]"]
+              "parameters": ["...\\i[249]chu\\i[249]...chu\\i[249]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["昨日を含めて彼は何回果てただろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["最初の頃こそ回数を数えていたが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もうそんな気も起きない"]
+              "parameters": [
+                "Including yesterday, how many times has he cum? At\nfirst, I used to count the number of times, but\nnow I don't even feel like doing that anymore."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そもそも回数なんて関係ない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["彼のおちんちんは萎えることを知らない"]
+              "parameters": [
+                "His dick doesn't know how to go limp, so the\nnumber of times doesn't matter at all."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁ・・・はぁ・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ありがとうございます"]
+              "parameters": ["*pant*... *pant*... Thank you."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日はこのあたりで大丈夫です"]
+              "parameters": ["I'm okay around here today."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["彼はそう笑うけれど"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私はそれが嘘だと知っている"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・ちゅ\\i[249]"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["本当に・・・もういいの？"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["彼のおちんちんに口付けをして"]
+              "parameters": [
+                "He may be smiling like that, but I know it's a\nlie."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["やさしく問いかける"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["...chu\\i[249] Are you really... done already?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I gently kiss his penis and ask softly"]
+            },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["っ・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["*pant*..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["朝、彼の様子を見てすぐに気が付いた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・一睡もせずにずっと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["自分で慰めていたのだと"]
+              "parameters": [
+                "In the morning, I noticed his condition right\naway... He had been comforting himself without\neven a wink of sleep."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["本当は苦しいんだよね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まだ・・・足りないんだよね？"]
+              "parameters": [
+                "The truth is, it's still painful... It's not\nenough, right?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ん・・・\\i[249]ちゅ・・・\\i[249]"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
+            { "code": 401, "indent": 0, "parameters": ["Mm... *kiss*..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["わざとやさしく"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ゆっくりとおちんちんを刺激してあげる"]
+              "parameters": [
+                "I deliberately and gently stimulate his penis\nslowly."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["びくびくと胸の中で跳ねるそれが"]
+              "parameters": [
+                "The fact that it was jumping in my chest with\nexcitement was the best proof of all."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["何よりの証拠だった"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・でも・・・このままじゃ本当にっ"]
+              "parameters": ["...But... at this rate, it's really--"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんな彼を見て私はそっと立ち上げる"]
+              "parameters": ["I quietly stand up, watching him like that."]
             },
             { "code": 246, "indent": 0, "parameters": [1] },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["アザミさん？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Azami-san?"] },
             {
               "code": 250,
               "indent": 0,
@@ -888,39 +843,37 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そしてゆっくりとスカートをたくし上げた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・きっとそこは愛液でべとべとになっている"]
+              "parameters": [
+                "And slowly lifted up the skirt... Surely, it's\nsticky with love juices there."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["っ・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Tch..."] },
             { "code": 101, "indent": 0, "parameters": ["onees", 1, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・私もね"] },
-            { "code": 401, "indent": 0, "parameters": ["そうだったの"] },
-            { "code": 101, "indent": 0, "parameters": ["onees", 1, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あの後ずっと・・・一人でしてたの"]
+              "parameters": ["...I was the same way too."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["onees", 1, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["After that, I've been doing it alone..."]
             },
             { "code": 101, "indent": 0, "parameters": ["onees", 2, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["だからね"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["心配しないでいいんだよ？"]
+              "parameters": ["So, you don't have to worry, okay?"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": ["\\{アザミさん！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Azami-san!"] },
             { "code": 221, "indent": 0, "parameters": [] },
             {
               "code": 250,
@@ -942,75 +895,59 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["俺っ・・・俺！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Me...me!"] },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・ちゅ\\i[249]・・・はぁっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["んっ\\i[249]ちゅっ・・・\\i[249]"]
+              "parameters": ["...chu--haa--n--chu..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ\\i[249]んっ\\i[249]"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["・・・ちゅ\\i[249]"] },
-            { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["名前を強く呼ばれたと思ったら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう彼の腕の中にいた"]
+              "parameters": ["Nn...chu--haa--n--chu..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["今回は唇だけでなく"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["彼の手が私の体を這いまわっている"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["胸はぐにぐにと形を変え"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あそこからはぐちゅぐちゅと湿った音が漏れている"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぁ・・・あっ・・・\\i[249]"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ふふっ・・・\\i[249]気持ちいよ・・・ライト君\\i[249]"
+                "I thought I was being called out to strongly, but\nI was already in his arms."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "This time, not only his lips, but also his hands\nwere crawling over my body."
+              ]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "My breasts were being gently squeezed and changing\nshape, and from there, a wet sound was leaking out\nwith a squelching noise."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Haa... Ah... *giggle* It feels good... Light-kun."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             {
               "code": 231,
               "indent": 0,
@@ -1025,53 +962,38 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["アザミさん・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Azami-san..."] },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お互い求めているものは同じだった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いつの間にか私はベッドに横になり"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["彼が覆いかぶさっている"]
+              "parameters": [
+                "Unintentionally, I found myself lying on the bed\nwith him covering me. We both wanted the same\nthing."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["本当は今すぐにでも犯したいのだろうに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そうせずに気遣ってくれることがうれしい"]
+              "parameters": [
+                "I'm glad that he cares enough not to violate me\nright away, even though he probably wants to."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["日常ではありえない状況で"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いつもの彼を感じられた気がして"]
+              "parameters": [
+                "I felt like I could sense the usual him in a\nsituation that would never happen in everyday\nlife."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["うん・・・いいよ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いっぱい気持ち良くなろう"]
+              "parameters": ["Yes... It's okay, let's both feel really good."]
             },
             {
               "code": 224,
@@ -1092,90 +1014,67 @@
               "parameters": [2, "sabu 2 2", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["んっ！・・・・・・はぁ・・・はぁ"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
+            { "code": 401, "indent": 0, "parameters": ["Ngh!... Haa... Haa"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アザミさん・・・大丈夫ですか？"]
+              "parameters": ["Azami-san, are you okay?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["はぁ・・・はぁ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・うん・・・思っていたよりは、平気"]
+              "parameters": [
+                "Haa... Haa... Un... I'm okay, more than I thought."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["嘘だった・・・熱した薪が"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["身体の中に入れらたかのように錯覚する"]
+              "parameters": [
+                "It was a lie... It felt like a heated log had been\ninserted into my body, creating an illusion."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ただ身体は辛かったが気持ちの面"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["初めての行為としてはあっけなかった"]
+              "parameters": [
+                "Although my body was in pain, the emotional aspect\nof the first experience was not fleeting."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いつか自分も経験するのだろうと思っていたことが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["たまたま今日だったんだというだけ"]
+              "parameters": [
+                "I just happened to realize that what I had thought\nI would experience someday was actually today."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["小さい村だから歳の近い異性なんて数えるほどで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["きっとそのうちの誰かと・・・とは思っていた"]
+              "parameters": [
+                "Because it's a small village, I thought that there\nwould be someone of the opposite sex close to my\nage, and that eventually... someone from among\nthem."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もしも、少しだけ違ったら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今朝も来てくれていたアイル君とだってことも"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あったのかもしれない・・・"]
+              "parameters": [
+                "If things had been just a little different, it\nmight have been Aeru-kun who came to see me this\nmorning..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["アザミさん・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Azami-san..."] },
             { "code": 121, "indent": 0, "parameters": [53, 53, 0] },
             {
               "code": 245,
@@ -1196,130 +1095,87 @@
               "parameters": [1, "sabu 2 2", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
+            { "code": 401, "indent": 0, "parameters": ["Ngh!... Haa... Haa"] },
+            { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ\\i[249]あっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぁっ\\i[249]はぁっ\\i[249]"]
+              "parameters": [
+                "It seems like he was moving slowly and hesitantly."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["彼がゆっくりと動き出す"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["少しぼーとしてしまっていたらしい"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["たしかにこんな状態でじっとしていては"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["我慢できなくなってしまう"]
+              "parameters": [
+                "Certainly, staying still in this state makes it\nunbearable."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ\\i[249]気持ちいよ\\i[249]ライト君っ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["好きなように動いていいからっ・・・あっ\\i[249]"]
+              "parameters": [
+                "Ngh!... It feels good, Light-kun. You can move as\nyou like... Ah!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私の中におちんちんが突き立てられる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["きっと加減しようとはしているのだろうけど"]
+              "parameters": [
+                "A dick is being thrust into me, surely trying to\nbe gentle, but..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["私の体を犯すソレは"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あまりにも暴力的だった"]
+              "parameters": ["The one violating my body was too violent."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はっ\\i[249]はっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あっ\\i[249]はぁっ・・・\\i[249]"]
+              "parameters": ["Haa... Haa... Ahh... Haa..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ\\i[249]・・・はぁ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はっ\\i[249]はっ\\i[249]"]
+              "parameters": ["Ngh!... Haa... Haa... Haa..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ただそれも最初の内だけで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あんなにも熱かったおちんちんと同じぐらいに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私の身体が火照っているのがわかる"]
+              "parameters": [
+                "But even at first, I could feel my body burning as\nhot as the dick that was so hot."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私と彼が混ざり合うような感覚"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["言いようもない幸福感が身体を駆け巡る"]
+              "parameters": [
+                "A feeling of happiness that cannot be described,\nas if our bodies were mixing together, runs\nthrough me."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はっ\\i[249]はっ\\i[249]あっ\\i[249]"]
+              "parameters": ["Haa... Haa... Ahh..."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["っ・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["T..."] },
             { "code": 121, "indent": 0, "parameters": [53, 53, 1] },
             { "code": 117, "indent": 0, "parameters": [5] },
             { "code": 235, "indent": 0, "parameters": [2] },
@@ -1329,57 +1185,49 @@
               "parameters": [1, "sabu 2 5", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ───\\i[249]\\i[249]\\i[249]"]
+              "parameters": ["Ngh───\\i[249]\\i[249]\\i[249]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ああ・・・私のお腹の中にライト君の"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["精子がびゅっびゅって出て・・・"]
+              "parameters": [
+                "Ah... Light-kun's semen is spurting inside my\nbelly..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["身体の一番奥・・・"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["大切な場所を自分のモノにしようってしてる"]
+              "parameters": [
+                "The deepest part of my body... trying to make it\ntheir own special place."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Haa... Haa..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁっ・・・はぁっ・・・"]
+              "parameters": [
+                "While breathing heavily, he intends to press and\ngrind his dick against me, pushing until the very\nlast drop is released inside me."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["荒い息を吐きながら、さらにおちんちんを押し付ける"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ぐりぐりと最後の一滴まで私に注ぐつもりなのだ"]
+              "parameters": [
+                "I entrusted myself to that sensation and felt him\nfor a while."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その感覚に身をゆだね"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["暫く彼を感じてた"] },
-            { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["───・・・そして"] },
+            { "code": 401, "indent": 0, "parameters": ["───And"] },
             {
               "code": 224,
               "indent": 0,
@@ -1387,86 +1235,66 @@
             },
             { "code": 121, "indent": 0, "parameters": [53, 53, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ\\i[249]はぁっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["んっん──・・・\\i[249]"]
+              "parameters": ["Ahh... Haa... Nnn──..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["再び行為が再開された"]
+              "parameters": ["The act resumed once again."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["彼の精液と私の愛液が混ざり合い"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ぐちゅぐちゅと卑猥な音を立てている"]
+              "parameters": [
+                "His semen and my love juices are mixing together,\nmaking a lewd squelching sound."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["彼はもう言葉一つしゃべらず"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ただただおちんちんを私に突き立てる"]
+              "parameters": [
+                "He didn't speak a single word anymore, just\nthrusting his dick into me."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はじめからわかっていた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["彼と行為をすることがどういうことなのか"]
+              "parameters": [
+                "What does it mean to engage in the act with\nsomeone you've known from the beginning?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["きっと私はこのまま何度も犯されるのだろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["めちゃくちゃにされてしまうのだろう"]
+              "parameters": [
+                "Surely, I will be violated like this countless\ntimes, and I will be completely messed up."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ただそう思うとどこか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["身体の奥がうずく私がいた・・・"]
+              "parameters": [
+                "Just thinking that, somewhere deep inside my body,\nI felt a twinge..."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [6] },
             { "code": 246, "indent": 0, "parameters": [3] },
             { "code": 242, "indent": 0, "parameters": [3] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             {
               "code": 205,
               "indent": 0,

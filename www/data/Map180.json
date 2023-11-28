@@ -239,16 +239,13 @@
             { "code": 211, "indent": 0, "parameters": [0] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お父さん今度はまたラルーラ村に向かうの！？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["僕ずっと楽しみにしていたんだ！"]
+              "parameters": [
+                "Dad, are we heading to Lal-La Village again? I've\nbeen looking forward to it!"
+              ]
             },
             {
               "code": 205,
@@ -332,28 +329,22 @@
               "parameters": [{ "code": 3, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お母さん】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふふっ・・・好きな女の子がいるんでしょ？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私も是非ご挨拶しなきゃね"]
+              "parameters": [
+                "Hehe... You have a crush, don't you? I must\ndefinitely go and say hello."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【お父さん】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Dad】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まったく、そうならそうと早く言ってくれれば"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私だって融通したものを・・・"]
+              "parameters": [
+                "Honestly, if that's the case, you should have told\nme sooner so I could have made arrangements too..."
+              ]
             },
             {
               "code": 245,
@@ -367,20 +358,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL別に誰が悪かったとか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そういうわけではない"]
+              "parameters": [
+                "\\CLIt's not like anyone was at fault or anything like\nthat."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CLただ、運が悪かった"]
+              "parameters": ["\\CLIt's just that I had bad luck, that's all."]
             },
-            { "code": 401, "indent": 0, "parameters": ["それだけの事"] },
             { "code": 222, "indent": 0, "parameters": [] },
             {
               "code": 223,
@@ -389,15 +376,11 @@
             },
             { "code": 213, "indent": 0, "parameters": [5, 7, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・ん・・・ぐ・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Nn...gu..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             {
               "code": 205,
               "indent": 0,
@@ -439,12 +422,8 @@
             },
             { "code": 213, "indent": 0, "parameters": [5, 2, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・なんだろう、これ・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["...What is this..."] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 236, "indent": 0, "parameters": ["none", 5, 1, true] },
             {
@@ -497,17 +476,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CLあの時、僕の命は助かったけれど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["記憶と大切な人を失った"]
+              "parameters": [
+                "\\CLAt that time, I was saved, but I lost my memories\nand the important person."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\CL・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["\\CL..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\CL・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["\\CL..."] },
             { "code": 222, "indent": 0, "parameters": [] },
             {
               "code": 205,
@@ -604,8 +580,8 @@
             },
             { "code": 213, "indent": 0, "parameters": [19, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            { "code": 401, "indent": 0, "parameters": ["これは・・・！？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
+            { "code": 401, "indent": 0, "parameters": ["This is...!?"] },
             {
               "code": 205,
               "indent": 0,
@@ -699,24 +675,16 @@
               "parameters": [{ "code": 4, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            { "code": 401, "indent": 0, "parameters": ["ライト無事かっ！？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
+            { "code": 401, "indent": 0, "parameters": ["Is Light safe!?"] },
             { "code": 213, "indent": 0, "parameters": [5, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・らい・・・と・・・？"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Rai...to...?"] },
             { "code": 213, "indent": 0, "parameters": [19, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・すまない・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
+            { "code": 401, "indent": 0, "parameters": ["...I'm sorry..."] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 181, 21, 10, 0, 0] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },

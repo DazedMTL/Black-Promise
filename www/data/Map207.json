@@ -11,7 +11,7 @@
   },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "村長の家",
+  "displayName": "Village Chief's House",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -448,67 +448,48 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            { "code": 401, "indent": 0, "parameters": ["本当にありがとう"] },
-            { "code": 401, "indent": 0, "parameters": ["ご苦労様"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Thank you very much for your hard work."]
+            },
             { "code": 111, "indent": 0, "parameters": [0, 639, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["それと今更の話になるのじゃが"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["村の言い伝えについて調べてみた"]
+              "parameters": [
+                "And speaking of old news, I've been looking into\nthe village's folklore."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["するとどうやら遠い昔に"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["その時代の村長が遺跡の魔物に"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["思い人を取られたらしくてな"]
+              "parameters": [
+                "It seems that a long time ago, the village chief\nof that era was taken by the monsters in the\nruins."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["何か悪魔の呪いに違いない"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["・・・というのが呪いの話らしい"]
+              "parameters": [
+                "It seems that it's a story about a curse, likely\ncaused by some demon's curse..."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["クロに話を聞いてみると"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["両親は大変仲が良かったそうだし"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["きっとただの嫉妬だったのだろうな・・・"]
+              "parameters": [
+                "When I asked Kuro, it seems that both of his\nparents got along very well, so it was probably\njust jealousy..."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },

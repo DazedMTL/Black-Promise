@@ -171,16 +171,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["さぁて、ここの遺跡には"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どんなお宝ちゃんが眠っているのかな"]
+              "parameters": [
+                "I wonder what kind of treasures are sleeping in\nthis ruins."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -226,37 +223,29 @@
           "list": [
             { "code": 213, "indent": 0, "parameters": [0, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あの結界の先に行けたのか"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["すごいな・・・"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["教えてくれてありがとな！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺も探索してみることにするよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何かあったら情報交換をしようぜ"]
+              "parameters": [
+                "You managed to go beyond that barrier, amazing..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
-            { "code": 401, "indent": 0, "parameters": ["それじゃ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺はさっそく行かせてもらうよ"]
+              "parameters": [
+                "Thanks for telling me! I'll also try exploring.\nLet's exchange information if anything happens."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Well then! I'll go right away."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             {
@@ -403,7 +392,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まだ暖炉を使うような季節ではない"]
+              "parameters": ["It's not the season to use the fireplace yet."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -955,72 +944,67 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ガラの悪い男】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Bad man】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この村本当に何もねぇな"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["来るんじゃなかったぜ"]
+              "parameters": [
+                "There really is nothing in this village, I\nshouldn't have come."
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [4, 3, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ガラの悪い男】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Bad guy】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["なんだお前・・・へへっ"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ここの宿はそういうサービスもやってるのか？"]
+              "parameters": [
+                "What's this...hehe, does this inn also provide\nthat kind of service?"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 3, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["何言ってるの！"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・もう行こう"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["What are you saying! ...Let's go already"]
+            },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 111, "indent": 0, "parameters": [4, 4, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ガラの悪い男】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["なんだお前・・・へへっ"]
+              "parameters": ["【Bad-tempered man】"]
             },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ここの宿はそういうサービスもやってるのか？"]
+              "parameters": [
+                "What the hell are you...heh, does this inn also\nprovide that kind of service?"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 1, "parameters": ["..."] },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 111, "indent": 0, "parameters": [4, 5, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ガラの悪い男】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Bad guy】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["なんだお前・・・へへっ"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ここの宿はそういうサービスもやってるのか？"]
+              "parameters": [
+                "What the hell are you...heh, does this inn also\nprovide that kind of service?"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 2, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 1, "parameters": ["サイテー・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 1, "parameters": ["Disgusting..."] },
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -1067,8 +1051,8 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ガラの悪い男】"] },
-            { "code": 401, "indent": 0, "parameters": ["へへっ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Bad guy】"] },
+            { "code": 401, "indent": 0, "parameters": ["Heheh"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1112,8 +1096,8 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ガラの悪い男】"] },
-            { "code": 401, "indent": 0, "parameters": ["へへっ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Bad man】"] },
+            { "code": 401, "indent": 0, "parameters": ["Heheh"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1249,7 +1233,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["コンドームが落ちている・・・"]
+              "parameters": ["A condom has fallen..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1713,323 +1697,225 @@
             },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ\\i[249]んっ\\i[249]んっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちゅ\\i[249]・・・はぁ・・・\\i[249]あっ\\i[249]"]
+              "parameters": ["Ahh... *kiss*... Haa... Ahh..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はっ・・・はっ・・・くぅ・・・"]
+              "parameters": ["Haa... haa... *pant*"]
             },
             { "code": 117, "indent": 0, "parameters": [5] },
             { "code": 101, "indent": 0, "parameters": ["", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ～～～\\i[249]\\i[249]\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・ぁ\\i[249]・・・はぁ・・・\\i[249]"]
+              "parameters": [
+                "Nn~... \\i[249]\\i[249]\\i[249]... Ah... \\i[249]...\nHaa... \\i[249]"
+              ]
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["宿屋の一室に卑猥な音が響き渡る"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["村に戻った私たちはひたすら行為に明け暮れていた"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["他にもやらなければいけない事は沢山ある"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それなのに、体調が悪いと嘘をついて"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["快楽に溺れていた"] },
-            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こんな自分がいるだなんて相貌もつかなかった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だけど、今はもう知ってしまった"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["教え込まれてしまったのだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["身体の隅々、身も心もこの気持ちよさを忘れられない"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["抵抗を感じたのは精々最初の数回で"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["コンドームが無くなる頃には"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私からおちんちんを咥え込んでいた"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・ふぅ"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["マーガレットちゃんよかったの？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["さっきお友達が来てたみたいだけど"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["んっ\\i[249]それはっ・・・うん・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私は体調がわるいのっ\\i[249]だからっ\\i[249]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
-            { "code": 401, "indent": 0, "parameters": ["そっか、そうだね"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["じゃあこのまま続けてあげる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["マーガレットちゃんがもっと良くなるように"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["彼の言う通り先ほどアイルが部屋を訪ねてきた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だけど、私は部屋から出なかった"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["友人を助ける事よりも"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["目先の快楽を優先した"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だけど、それはある意味で"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルの事を信頼した結果だった"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["探索は段々と過酷さを増し"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["実際私は二人の足を引っ張る事になってしまった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そうして、出会ってしまった"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私の弱さを包み込んで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["求めてくれる存在は何よりも心地よくて"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルが悪いわけではない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ただ、私が弱かっただけなのだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう少し頑張れたら何かが違ったかもしれない"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あっ\\i[249]んっ\\i[249]んっ\\i[249]"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "気持ちいぃ\\i[249]もっとっ\\i[249]もっとしてっ\\i[249]"
+                "We returned to the village where obscene sounds\nechoed in the inn's room, and we spent our days\nand nights devoted to nothing but the act."
               ]
             },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まったく、本当にいつのまにか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["立派な女になっちゃったね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だけど、そういうほうが俺好みっ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう、手放す気なんてないからな"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["絶対孕ませて俺の赤ちゃん産ませてやる！"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はいっ\\i[249]赤ちゃんっ\\i[249]産むっ\\i[249]"]
-            },
+            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "あっ\\i[249]んっ\\i[249]んっ───\\i[249]\\i[249]\\i[249]"
+                "Even though there are many other things I should\nbe doing, I lied about feeling unwell and indulged\nin pleasure."
               ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I never thought I had such a side to myself, but\nnow I know."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I've been taught, and now every corner of my body\nand mind can't forget this pleasure."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I felt resistance at first, but by the time the\ncondoms ran out, I was eagerly taking the dick\ninto my mouth."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "...Phew, Margaret, are you okay? Your friend was\nhere earlier, right?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 7, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Nn... That's... um... I'm not feeling well, so..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I see, I understand. Then, I'll continue like this\nto help Margaret-chan get better."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "He's right, Aeru came to visit the room earlier,\nbut I didn't leave the room."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I prioritized immediate pleasure over helping my\nfriend."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "However, in a way, it was the result of trusting\nAeru."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "As the exploration became more and more\nchallenging, I ended up becoming a burden to the\ntwo of them. And that's how we met."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The presence that embraces and seeks my weakness\nis more comforting than anything else."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "It's not Aeru's fault, it's just that I was weak.\nIf I had tried a little harder, maybe something\nwould have been different."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 7, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Ahh, it feels so good... more, more..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Geez, you've really become a splendid woman before\nI knew it, but that's the kind I like."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I have no intention of letting you go, so I'll\ndefinitely impregnate you and make you have my\nbaby!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 7, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Yes, I'm going to have a baby...ahh───"]
             },
             { "code": 117, "indent": 0, "parameters": [5] },
             { "code": 121, "indent": 0, "parameters": [509, 509, 1] },
             { "code": 251, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ・・・\\i[249]ん\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["精液いっぱい\\i[249]膣で出てる\\i[249]"]
+              "parameters": [
+                "Ah... there's so much semen coming out in my\npussy..."
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 246, "indent": 0, "parameters": [5] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私は間違っているのかも知れない"]
+              "parameters": [
+                "I may be wrong, but I believe the peace of mind I\nfeel now is genuine."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど、今の心の安らぎは本物だと思うから"]
+              "parameters": [
+                "I entrusted my exhausted body and exchanged a slow\nkiss."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["脱力した身体を預け"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ゆっくりと口付けを交わした"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
-            { "code": 101, "indent": 0, "parameters": ["", 7, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 211, "indent": 0, "parameters": [1] },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 201, "indent": 0, "parameters": [0, 47, 14, 13, 2, 0] },

@@ -523,7 +523,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライト宛の手紙が書かれている"]
+              "parameters": ["There is a letter addressed to Light."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -580,12 +580,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ぬいぐるみの胸の所に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトと小さく名前が書いてある"]
+              "parameters": [
+                "There's a small name written on the stuffed\nanimal's chest, near the heart, it says 'Light'."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

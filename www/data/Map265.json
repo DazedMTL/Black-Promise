@@ -238,22 +238,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -361,7 +357,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この先に行く用事はない"]
+              "parameters": ["There's no need to go any further."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -473,36 +469,22 @@
               "parameters": [1, "hiro1 oku ED", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ\\i[249]んっ\\i[249]んっ\\i[249]あっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "気持ちいよぉ\\i[249]好きっ\\i[249]すきぃ\\i[249]\\i[249]\\i[249]"
-              ]
+              "parameters": ["Ahh, it feels so good, I love it so much."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ふんっ！ふんっ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
+            { "code": 401, "indent": 0, "parameters": ["Hm! Hm!"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "あぁっ\\i[249]気持ちよすぎてっ\\i[249]声抑えられないっ\\i[249]"
-              ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": [
-                "アイル起きちゃうよっ\\i[249]んっ\\i[249]あっ\\i[249]あっ\\i[249]"
+                "Ahh, it feels so good, I can't hold back my voice,\nAeru will wake up, ah, ah."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -510,30 +492,22 @@
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 246, "indent": 0, "parameters": [5] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["翌朝早めに村へと戻った"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リラにもう少し居ればいいのにって言われたが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["用事があるからと無理に帰る"]
+              "parameters": [
+                "The next morning, Lira, who returned to the\nvillage early, was told that it would be nice if\nshe stayed a little longer, but she had things to\ndo, so she forced herself to go back."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もうここに来ることはないだろう・・・"]
+              "parameters": ["I probably won't come here again..."]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
@@ -604,11 +578,10 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["物音で目が覚める"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何の音だろうか・・・"]
+              "parameters": ["I wake up to a sound, I wonder what it is..."]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1946,20 +1919,16 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["あっ！アイル"] },
-            { "code": 401, "indent": 0, "parameters": ["来てくれたんだ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Ah! Aeru came."] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今の所困ってることはないよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おくすけさんもおくた君もとってもやさしいよ！"]
+              "parameters": [
+                "Right now, I don't have anything to worry about.\nOkusuke-san and Okuta-kun are both very kind!"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2004,20 +1973,20 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["あっ・・・アイル"] },
-            { "code": 401, "indent": 0, "parameters": ["いらっしゃい！"] },
-            { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["えっ！？な、何かあったのかって"]
+              "parameters": ["Ah... Aeru, welcome!"]
             },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["別に何にもないよ・・・"]
+              "parameters": [
+                "Huh!? W-What, did something happen? N-No, it's\nnothing..."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2111,7 +2080,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["眠っているようだ"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["It seems like they are sleeping"]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2460,7 +2433,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2517,7 +2490,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2574,7 +2547,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

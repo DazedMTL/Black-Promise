@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "村長の家２Ｆ",
+  "displayName": "Village Chief's House 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -292,7 +292,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["暗くて中の様子はよくわからない"]
+              "parameters": ["It's dark and I can't really see inside."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -356,7 +356,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

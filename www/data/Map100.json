@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "ライトの部屋",
+  "displayName": "Light's room",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -174,7 +174,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -529,39 +529,33 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["壁に小さな隙間が空いているようだ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["しかし"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["暗くて中の様子を見ることは出来ない"]
+              "parameters": ["It seems there is a small gap in the wall."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ぐちゅっぐちゅっぐちゅっ・・・"]
+              "parameters": ["However, it's dark and I can't see inside."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["*Squelch, squelch, squelch...*"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ほら・・・我慢しないで・・・"]
+              "parameters": ["Look... don't hold back..."]
             },
             { "code": 117, "indent": 0, "parameters": [4] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ただ僅かにぐちゅぐちゅと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["湿った音が聞こえてくる"]
+              "parameters": ["I can hear a slightly squishy and moist sound."]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -610,14 +604,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ぐちゅっぐちゅっぐちゅっ・・・"]
+              "parameters": ["*squish squish squish...*"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【??】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["くっ・・・はぁ・・・はっ・・・"]
+              "parameters": ["*pant* ...haa...ha..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -665,50 +659,35 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["壁に小さな隙間が空いているようだ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["しかし"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["暗くて中の様子を見ることは出来ない"]
+              "parameters": ["It seems there is a small gap in the wall."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ぐちゅっぐちゅっぐちゅっ・・・"]
+              "parameters": ["However, it's dark and I can't see inside."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["*Squelch, squelch, squelch...*"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ\\i[249]・・・ちょっと・・・ぁ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私がっ\\i[249]・・・ひぅ\\i[249]・・・"]
+              "parameters": ["*Nngh...wait...ah, I...hnngh..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちゅ・・・じゅるる・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["*Chu...jyururu...*"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ただ僅かにぐちゅぐちゅと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["湿った音が聞こえてくる"]
+              "parameters": ["I can hear a slightly squelchy and moist sound."]
             },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -757,14 +736,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ぐちゅっぐちゅっぐちゅっ・・・"]
+              "parameters": ["*squish squish squish...*"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【??】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ\\i[249]んっ\\i[249]・・・あっ\\i[249]"]
+              "parameters": ["*squish squish squish...*uhn uhn...ahh"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "ライトの部屋",
+  "displayName": "Light's room",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -298,16 +298,13 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトは隠しているようだったけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["やっぱり今日も辛そうだった"]
+              "parameters": [
+                "It seemed like Light was hiding it, but he still\nlooked troubled today."
+              ]
             },
             {
               "code": 250,
@@ -317,36 +314,31 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["しっかりと話して"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["探索に行かないように説得しよう"]
+              "parameters": [
+                "Let's talk to him properly and persuade him not to\ngo on the exploration."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["たしかにライトがいなくちゃ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうしてもアイルに負担がかかってしまう"]
+              "parameters": [
+                "Certainly, if Light isn't here, it will be a\nburden on Aeru no matter what."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけどみんなで協力すれば大丈夫なはず"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトが苦しむ必要なんてない"]
+              "parameters": [
+                "But if everyone cooperates, it should be okay.\nThere's no need for Light to suffer."
+              ]
             },
             {
               "code": 223,
@@ -355,11 +347,11 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["よかった・・・起きててくれて"]
+              "parameters": ["thank goodness... you're awake"]
             },
             {
               "code": 205,
@@ -407,15 +399,11 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぁ・・・はぁ・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["*panting* *panting*"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・ライト？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Light?"] },
             {
               "code": 232,
               "indent": 0,
@@ -443,8 +431,8 @@
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
             { "code": 213, "indent": 0, "parameters": [4, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             {
               "code": 231,
               "indent": 0,
@@ -463,63 +451,53 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["部屋の中ではライトが自慰をしていた"]
+              "parameters": ["Inside the room, Light was masturbating."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["くっ・・・ん・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["*panting* *panting*"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["男の人の自慰なんて初めて見たから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["少し面食らってしまう"]
+              "parameters": [
+                "It's a bit surprising to see a man masturbating\nfor the first time."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・だけど"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["不思議と目が逸らせなかった"]
+              "parameters": ["...But for some reason, I couldn't look away."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトはきっとこんなところ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["誰にも見られたくないのだろう"]
+              "parameters": [
+                "I'm sure Light wouldn't want anyone to see him in\nthis state."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["こんなに弱々しくて"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["情けない姿なんて・・・・・・"]
+              "parameters": [
+                "To see such a weak and pitiful figure like this..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぁっ・・・はぁっ・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["*panting* *panting*"] },
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
             { "code": 235, "indent": 0, "parameters": [3] },
             {
@@ -528,48 +506,38 @@
               "parameters": [4, "sin 2", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それは異常な光景だった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だけど、だからこそわかってしまった"]
+              "parameters": [
+                "It was an unusual sight, but that's why I\nunderstood."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトは何か隠し事をしているんだって"]
+              "parameters": ["I think Light is hiding something."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それは私たちには勿論"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もしかしたらアイルにだって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["言えないことなのかも知れない"]
+              "parameters": [
+                "Of course, it might be something that we can't\ntell anyone, including Aeru."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・それによって"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["周りに迷惑がかかるだとか"]
+              "parameters": [
+                "...And it would cause trouble for those around us."
+              ]
             },
             {
               "code": 245,
@@ -584,31 +552,23 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["*panting* *panting*"] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["くっ、はっ、はっ・・・"]
+              "parameters": ["Meanwhile, Light is masturbating like a madman."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトはその間も狂ったように"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["自慰をしている"] },
-            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一体何がここまでさせるのだろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["きっと普通じゃあり得ないこと・・・"]
+              "parameters": [
+                "What on earth could have led to this? Surely, it's\nsomething out of the ordinary..."
+              ]
             },
             { "code": 246, "indent": 0, "parameters": [3] },
             { "code": 235, "indent": 0, "parameters": [4] },
@@ -666,56 +626,40 @@
             },
             { "code": 213, "indent": 0, "parameters": [4, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトはついに達した"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おちんちんからは精液が溢れ出している"]
+              "parameters": [
+                "Light's semen is overflowing from his finally\nreached penis."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おちんちんを扱いていた手はベトベトで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["受け止められなかった精液が床に広がっている"]
+              "parameters": [
+                "The hand that was handling the penis couldn't\ncatch the semen, and it's spread all over the\nfloor, sticky and unmanageable."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぁっ・・・はぁ・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["*panting* *panting*"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけどライトは依然辛い顔をしたままだ"]
+              "parameters": ["But Light still has a pained expression... and"]
             },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・そして"] },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["べとべとになった手を使い"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そのまま自慰を再開する"]
+              "parameters": ["Using the sticky hand, he resumes masturbating."]
             },
             {
               "code": 245,
@@ -730,59 +674,55 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あまりにも異常な光景"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["日常ではありえない現象"]
+              "parameters": [
+                "This is an extremely abnormal scene, something\nthat is not normal in everyday life."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・もしかしたら呪いとか"]
+              "parameters": ["...Perhaps it's a curse or something."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["探索に同行するのは"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この現象が関係しているのかも"]
+              "parameters": [
+                "Perhaps this phenomenon is related to the\nexploration."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 246, "indent": 0, "parameters": [6] },
             { "code": 242, "indent": 0, "parameters": [6] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["私はそっと踵を返す"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・思っていたよりも深刻なのかも知れない"]
+              "parameters": [
+                "I quietly turn on my heel... It may be more\nserious than I thought."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトとは改めて話す必要がある"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一人で苦しむだなんて私は許さない"]
+              "parameters": [
+                "I won't forgive myself for struggling alone with\nthe need to talk to Light again."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 117, "indent": 0, "parameters": [3] },
             { "code": 121, "indent": 0, "parameters": [202, 202, 1] },
             { "code": 211, "indent": 0, "parameters": [1] },
@@ -954,7 +894,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

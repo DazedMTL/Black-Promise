@@ -319,250 +319,197 @@
             },
             { "code": 211, "indent": 0, "parameters": [0] },
             { "code": 101, "indent": 0, "parameters": ["kurotilyan", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["な、流れで村まで来てしまったが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["本当にいいのだろうか？"]
+              "parameters": [
+                "I-I ended up coming to the village by chance, is\nit really okay?"
+              ]
             },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 213, "indent": 0, "parameters": [1, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["問題ないよ、今まで話した人たちは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["好意的に迎え入れてくれただろ？"]
+              "parameters": [
+                "It's not a problem. Everyone we've talked to so\nfar has welcomed us warmly, right?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 7, false] },
             { "code": 101, "indent": 0, "parameters": ["kurotilyan", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
-            { "code": 401, "indent": 0, "parameters": ["まぁ、そうなのだが"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["我はほら・・・悪魔だし・・・"]
+              "parameters": ["Well, that's true, but you see... I'm a demon..."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それこそ、ここの村の人は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["妖精と暮らしてたりもするし問題ないよ"]
+              "parameters": [
+                "That's right, the people in this village live with\nfairies, so it's not a problem."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["kurotilyan", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
-            { "code": 401, "indent": 0, "parameters": ["むむむ・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
+            { "code": 401, "indent": 0, "parameters": ["Hmm..."] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["遺跡でのやり取りの後"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうにかこうにかクロちゃんを"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["村に連れて来る事に成功した"]
+              "parameters": [
+                "After the exchange at the ruins, we somehow\nmanaged to bring Kuro-chan to the village."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["本人はあまり乗り気でないみたいだけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["僕が手を引いてあげるとそのまま"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["トテトテと後ろをついてきてくれた"]
+              "parameters": [
+                "Although he doesn't seem very enthusiastic about\nit, when I took his hand, he followed along behind\nme obediently."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["少し強引だっただろうか・・・"]
+              "parameters": ["Was I a little forceful..."]
             },
             { "code": 213, "indent": 0, "parameters": [1, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["ごめん、クロちゃん"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I'm sorry, Kuro-chan"]
+            },
             { "code": 213, "indent": 0, "parameters": [2, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["僕が少しでもクロちゃんと一緒に居たくて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それで無理を言っちゃって"]
+              "parameters": [
+                "I just wanted to be with Kuro-chan even a little\nbit, so I ended up pushing it."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今からでも遺跡に帰ってくれても・・・"]
+              "parameters": ["Even if you were to return to the ruins now..."]
             },
             { "code": 213, "indent": 0, "parameters": [2, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["kurotilyan", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 213, "indent": 0, "parameters": [1, 2, true] },
             { "code": 101, "indent": 0, "parameters": ["kurotilyan", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・我だって同じだ"]
+              "parameters": [
+                "...I don't want to imagine being away from Light."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトと離れているだなんて"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["想像したくもない"] },
             { "code": 101, "indent": 0, "parameters": ["kurotilyan", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトがそう思ってくれているのが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["本当にうれしい・・・えへへ"]
+              "parameters": [
+                "I'm really happy that Light thinks that way...\nehehe"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 213, "indent": 0, "parameters": [2, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["kurotilyan", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうかしたのか・・・ライト？"]
+              "parameters": ["Is something wrong... Light?"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["危ない・・・可愛すぎて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["意識が持っていかれるところだった"]
+              "parameters": [
+                "It's dangerous... I was almost completely\ncaptivated by how cute you are."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それと、呪いはもう解けたはずなのに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["なぜ、こんなにも胸が苦しいんだ？"]
+              "parameters": [
+                "Also, even though the curse should have been\nlifted, why does my chest feel so tight like this?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["気を抜くとクロちゃんを"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今にでも押し倒してしまいそうだ"]
+              "parameters": [
+                "If I let my guard down, I feel like I might end up\npushing Kuro-chan down at any moment."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 8, true] },
             { "code": 213, "indent": 0, "parameters": [2, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["kurotilyan", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["くっくっく・・・さてはライト"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["貴様興奮しているな？"]
+              "parameters": [
+                "Hehehe... Looks like you're getting excited,\nLight?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["kurotilyan", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["大方呪いは解かれたはずなのに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["なぜなんだ・・・とでも思っているのだろう"]
+              "parameters": [
+                "Even though the curse should have been lifted, why\ndoes my chest feel so tight like this... I wonder\nif that's what you're thinking."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [1, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["くっ・・・正解だ・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そもそも呪いって何だったんだ？"]
+              "parameters": [
+                "Kuh... You're right... What was the curse in the\nfirst place?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["kurotilyan", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふむ、教えてやってもいいが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それよりもライトの身体を優先するとしよう"]
+              "parameters": [
+                "Hmmm, I could tell you, but let's prioritize\nLight's body over that for now."
+              ]
             },
             {
               "code": 205,
@@ -592,75 +539,58 @@
               "parameters": [{ "code": 2, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["kurotilyan", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["正直我も待ちくたびれた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何度寂しい夜を過ごしたことか・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その責任しっかり果たしてもらうからな？"]
+              "parameters": [
+                "To be honest, I've also grown tired of waiting.\nHow many lonely nights have I spent... Make sure\nto take responsibility for that, okay?"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そう言ってクロちゃんが僕の手を取る"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["余裕そうな顔をして手は小さく震えていた"]
+              "parameters": [
+                "Saying that, Kuro-chan had a calm expression as if\nshe had the leisure to take my hand, but her hand\nwas trembling slightly."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["うん・・・ごめん"] },
-            { "code": 401, "indent": 0, "parameters": ["ありがとう"] },
-            { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お礼を言われる筋合いはないがな"]
+              "parameters": ["Yeah... I'm sorry, thank you"]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ほら、さっさとするがいい"]
+              "parameters": [
+                "You don't have to thank me, but come on, hurry up\nand do it."
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [8] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["気が付くとクロちゃんはパっと手を放し"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["服をポンポン脱いでいく・・・色気が無い・・・"]
+              "parameters": [
+                "Before I knew it, Kuro-chan suddenly let go of my\nhand and started taking off her clothes... She's\nso unsexy..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何を惚けた顔をしているんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトも早く服を脱ぐがいい"]
+              "parameters": [
+                "What are you spacing out for, Light? Hurry up and\ntake off your clothes."
+              ]
             },
             {
               "code": 250,
@@ -670,130 +600,92 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["一足先に準備を終えたクロちゃんが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["僕のベッドで横になる"]
+              "parameters": [
+                "Kuro-chan, who finished preparing ahead of time,\nlies down on my bed."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そのままゴロゴロしたり"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クンクンと臭いを嗅いだりしている"]
+              "parameters": [
+                "She's just lying there, rolling around and\nsniffing the scent."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["スンスンっ・・・これは・・・ふむ・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ほぉ・・・なるほど・・・クンクンっ"]
+              "parameters": [
+                "*sniff sniff*... This is... hmm... oh... I see...\n*sniff sniff*"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おかしい、折角二人で過ごす"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["初めての夜なのに"] },
-            { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["くっくっく、浮かない顔をしているなライト？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まぁ、我は百戦錬磨だからな"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今更エッチぐらいで動揺したりしない"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その言葉を聞いて少しだけ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["胸がドキリとする、それはそうだろう"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["人間と悪魔なんて生きてる時間が違うのだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クロちゃんの初めての相手が自分だなんて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そんなの夢見る方がおかしい"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だけど、他の誰かと経験があったとしても"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["僕が一番だってそう思ってもらいたい"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ふぅ・・・っと息を大きく吐くと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クロちゃんに覆いかぶさる"]
+              "parameters": [
+                "It's strange, even though it's our first night\nspending time together."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["その気になったようだな"]
+              "parameters": [
+                "Hehe, you're not looking too happy, Light? Well,\nI'm a seasoned veteran, so I won't be shaken by\nsomething as trivial as sex at this point."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いいだろう、好きにやってみるがいい"]
+              "parameters": [
+                "Hearing those words made my heart skip a beat, I\nsuppose that's only natural."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Humans and demons have different lifespans, so\nit's strange to dream that I'm Kuro-chan's first\npartner."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "But even if she had experience with someone else,\nI want her to think that I'm the best."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I take a deep breath and cover Kuro-chan."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "It seems like you're in the mood. Fine, do as you\nplease."
+              ]
             },
             {
               "code": 241,
@@ -821,197 +713,149 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・そんなにジッと見ないでもよくないか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いや、別にライトが見たいならいいのだが"]
+              "parameters": [
+                "...Do you have to stare at me like that? Well, if\nLight wants to see, it's fine."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["綺麗だ・・・クロちゃん"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今まで出会ったどんなものよりも愛おしい"]
+              "parameters": [
+                "Beautiful... Kuro-chan, you are more precious to\nme than anything I've ever encountered before."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そ、そんなっ・・・ん・・・ちゅ・・・はぁ・・・"]
+              "parameters": ["Th-there... mmm... *kiss* ...hah..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["たまらずキスをしてしまった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["これだけで心が満たされるのを感じる"]
+              "parameters": [
+                "Just by not being able to resist and kissing, I\nfeel my heart being fulfilled."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ん・・・んっ・・・・・・はぁ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・これがキス・・・"]
+              "parameters": ["Nn... Nn... Haa... This is a kiss..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["なんだかおかしな呟きを聞いたような・・・"]
+              "parameters": ["I feel like I heard a strange murmur..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・クロちゃん"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もしかしてキス初めてなの？"]
+              "parameters": [
+                "...Kuro-chan, is this your first kiss by any\nchance?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ばっ・・・馬鹿者！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんなわけないだろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["我が何年生きてると思っているのだ"]
+              "parameters": [
+                "Idiot! There's no way that could be true. How many\nyears do you think I've been alive?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["キスなんて１００回過ぎたあたりで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["数えるのをやめたぞ・・・"]
+              "parameters": [
+                "I stopped counting kisses around the 100th time..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["やっぱりそうなのか"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど、僕のキスでも嫌がってる感じではないから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["及第点といったところなのだろう"]
+              "parameters": [
+                "I guess that's how it is, but it seems like you're\nnot resisting my kiss, so I suppose that's a\npassing grade."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ん・・・ちゅ・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まったく、キスばっかり・・・ん・・・"]
+              "parameters": [
+                "Nn... chu... Jeez, it's always just kisses...\nNn..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["僕はキスをするのが好きなのかも"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["相手がクロちゃんだからかも知れないが"]
+              "parameters": [
+                "I might like kissing, maybe because the other\nperson is Kuro-chan."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そのまま欲望のままに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クロちゃんの唇を貪り続ける"]
+              "parameters": [
+                "I continue to greedily devour Kuro-chan's lips as\nmy desires dictate."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["最初は触れ合うだけだったキスが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["次第に激しさを増し、お互いに舌を絡ませ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["唾液が唇の淵から零れ落ちた"]
+              "parameters": [
+                "What started as just touching gradually\nintensified into a passionate kiss, with our\ntongues entwined and saliva spilling from the\ncorners of our lips."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁ・・・キス・・・しゅごぃ\\i[249]"]
+              "parameters": ["Haa... a kiss... amazing\\i[249]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["気が付くとクロちゃんが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何だかふにゃふにゃになっている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・そんな姿もかわいい"]
+              "parameters": [
+                "Before I knew it, Kuro-chan had become all soft\nand squishy... that kind of appearance is cute\ntoo."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど、いつまでも眺めているわけにもいかない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["さすがに僕も我慢の限界を迎えようとしていた"]
+              "parameters": [
+                "But, I can't just keep staring forever. Even I was\nreaching my limit of patience."
+              ]
             },
             {
               "code": 231,
@@ -1020,85 +864,61 @@
             },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
-            { "code": 401, "indent": 0, "parameters": ["はへぇ・・・ッ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["な、なんだそれは！！"]
+              "parameters": ["Huh...! W-What is that!!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふにゃふにゃしていたクロちゃんが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おちんちんを見た瞬間ビクっと身体を震わせる"]
+              "parameters": [
+                "The moment Kuro-chan, who was all soft and\nsquishy, saw the dick, her body trembled."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["え・・・何っておちんちんだけど・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どこかおかしいかな？"]
+              "parameters": [
+                "Eh... what's with the dick... is something wrong?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["っへ！？・・・いや、だって・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そんな大きすぎるだろ・・・ふぇ・・・"]
+              "parameters": ["Huh!?... No, but... it's just too big... huh..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何やらぶつぶつ言っているが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう挿入したくて仕方がない"]
+              "parameters": [
+                "She's muttering something, but I can't help but\nwant to insert it already."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クロちゃんのおマンコも気が付けば"]
+              "parameters": [
+                "Kuro-chan's pussy seems to be soaking wet, so it\nlooks like she's ready."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ぐっしょりと水気を帯びているので"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["準備は大丈夫そうだ"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["僕はおちんちんをおマンコに合わせ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ゆっくりと挿入していった"]
+              "parameters": ["I slowly inserted my dick into her pussy."]
             },
             {
               "code": 231,
@@ -1114,109 +934,86 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ひぐぅ・・・うぅ・・・"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["痛い・・・"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クロちゃんの声を聴き"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["改めておマンコを見ると"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["僅かに血が流れている"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["クロちゃんさっき"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["百戦錬磨だって・・・"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["う・・・妄想の中では完璧だったんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトがいなくなってから"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["すぐに寂しくなって"] },
-            { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何度もエッチな妄想をしていた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今ではすっかり我がリードしていたのだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・妄想の中でだけど・・・"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぁ・・・まったく・・・"]
+              "parameters": ["Higuu... ugh... it hurts..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何だか肩の力が抜けてしまった"]
+              "parameters": [
+                "I listened to Kuro-chan's voice and looked at her\npussy again, and noticed a little blood flowing."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まぁ、挿入してしまったものは仕方がない"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["これは煽るだけ煽った"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["クロちゃんが悪い"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クロちゃんのせいだからね・・・"]
+              "parameters": [
+                "Kuro-chan, you said you were experienced\nearlier..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・へ？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それって・・・どういう・・・・・・ッ！"]
+              "parameters": [
+                "Ugh... I felt perfect in my delusions, but I got\nlonely right after Light was gone."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Now, I've completely taken control after\nrepeatedly having lewd fantasies... but only in my\nimagination..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["*sigh*... honestly..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Somehow, I feel like all the tension has been\nreleased. Well, once it's been inserted, there's\nno helping it."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "This is all Kuro-chan's fault for teasing me so\nmuch."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["It's all Kuro-chan's fault..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["...Huh? What do you mean by that...?!"]
             },
             {
               "code": 245,
@@ -1238,112 +1035,79 @@
             },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ\\i[249]んっ\\i[249]んっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトっ\\i[249]待つのだっ\\i[249]"]
+              "parameters": ["Ahh, Light, I'm waiting for you."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["少し狭いクロちゃんの膣を"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["体重をかけるようにして強引に突き上げる"]
+              "parameters": [
+                "I forcefully thrust upwards, putting my weight on\nKuro-chan's tight pussy."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クロちゃんの事が大好きで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["愛おしいと思えば思うほど"]
+              "parameters": [
+                "The more I think about how much I love and cherish\nKuro-chan"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["自分のモノにしてしまいたい衝動に襲われる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["勝手な考えだと分かっていても止められそうにない"]
+              "parameters": [
+                "Even though I know it's a selfish thought to be\noverwhelmed by the desire to make you mine, I\ncan't seem to stop it."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あぁぁっ\\i[249]こんな\\i[249]すごぃ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["激しすぎるっ\\i[249]んっ\\i[249]んっ\\i[249]"]
+              "parameters": ["Ahhh, this is so intense... nghh... nghh..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はっ・・・はっ・・・はっ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["好きだよっ・・・クロちゃんっ"]
+              "parameters": ["Hah... hah... I love you, Kuro-chan."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うぅっ\\i[249]あぁ\\i[249]我もっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["我もライトのことぉ\\i[249]すきぃ\\i[249]"]
+              "parameters": [
+                "Ugh... ahh... I... I also... I also love Light..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そう言ってクロちゃんは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おマンコをぎゅうぎゅう締め付けてくる"]
+              "parameters": [
+                "Saying that, Kuro-chan tightens her pussy firmly."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それが何だか受け入れられているようで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うれしくて、興奮が最高潮に達してしまう"]
+              "parameters": [
+                "It makes me happy to feel like that's being\naccepted, and it's reaching the peak of\nexcitement."
+              ]
             },
             {
               "code": 245,
@@ -1367,85 +1131,55 @@
             { "code": 121, "indent": 0, "parameters": [1, 1, 1] },
             { "code": 251, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ああぁぁっ───\\i[249]\\i[249]\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["すごひぃ・・・\\i[249]いっぱい出てる\\i[249]"]
+              "parameters": ["Ahhh... it's amazing... so much is coming out..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁ・・・\\i[249]はぁ・・・\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["凄かったな・・・ライト・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["しかし、これで我たちは・・・"]
+              "parameters": [
+                "Haa... haa... That was amazing, Light... But, with\nthis, we..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・クロちゃん、"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何だか落ち着いているところ悪いけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まだまだ満足してないからね？"]
+              "parameters": [
+                "...Kuro-chan, I'm sorry for disturbing your calm\ndemeanor, but I'm not satisfied yet, okay?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・へ？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だって、もう射精したいじゃないか・・・"]
+              "parameters": ["...Huh? But, I want to cum already, you know..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["僕が一回で終わるわけがないだろ？"]
+              "parameters": [
+                "There's no way I'd finish in just one go, right?\nNow, let's continue, my beloved Kuro-chan."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["さぁ、僕の大好きなクロちゃん"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["続きしようね"] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ちょ、ちょっと待ってくれ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["少し休憩してから・・・あっ・・・\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そんなっ\\i[249]んっ\\i[249]ひゃう\\i[249]"]
+              "parameters": [
+                "W-Wait a moment, let's take a short break... ah...\nit's like that... nghh..."
+              ]
             },
             { "code": 230, "indent": 0, "parameters": [120] },
             { "code": 121, "indent": 0, "parameters": [684, 684, 0] },
@@ -1458,132 +1192,91 @@
             { "code": 117, "indent": 0, "parameters": [5] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あっ\\i[249]んっ\\i[249]んっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こわれるっ\\i[249]もう我こわれちゃうっ\\i[249]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あれからどれだけ行為を続けているだろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["膣に何回も注いで、それから飽きずに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["身体という身体に精液をぶっかけた"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう、クロちゃんの身体で"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["僕の精液が触れていない場所はないだろう"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["クロちゃんは壊れたりしないよっ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["これからもずっと僕と一緒にいるんだ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "いるっ\\i[249]一緒がいいっ\\i[249]ずっとっ\\i[249]"
+                "Ahh, I'm going to break... I'm already going to\nbreak..."
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["好きなのっ\\i[249]ライトの事が大好きっ\\i[249]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ありがとう・・・クロちゃん"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう絶対に放さないから・・・"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うんっ\\i[249]約束っ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ずっとずっと\\i[249]一緒にいよっ\\i[249]"]
-            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "んっ\\i[249]ちゅっ\\i[249]はぁ\\i[249]ちゅ\\i[249]"
+                "I wonder how long we've been continuing the act\nsince then, pouring into her pussy many times, and\nthen not getting tired of ejaculating onto her\nbody, body."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "There's probably no place left on Kuro-chan's body\nwhere my semen hasn't touched already."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Kuro-chan won't break, she'll always be with me\nfrom now on."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I want to be with you... forever... I love you,\nLight..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Thank you... Kuro-chan, I will never let you go\nagain..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 4, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Mm, *promise* I'll always, always be with you,\n*kiss* *sigh* *kiss*"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["僕たちはそれからも行為を続けた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["失ってしまった時間を取り戻すように"]
+              "parameters": [
+                "We continued the act from then on, as if to make\nup for the lost time."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もう大切な人を忘れてしまわないように"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何度だってキスをした"]
+              "parameters": [
+                "I kissed her many times, so that I wouldn't forget\nmy precious person again."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 246, "indent": 0, "parameters": [5] },
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 121, "indent": 0, "parameters": [684, 684, 1] },
@@ -1816,7 +1509,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

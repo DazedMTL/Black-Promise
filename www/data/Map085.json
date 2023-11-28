@@ -6,7 +6,7 @@
   "bgm": { "name": "Town3", "pan": 0, "pitch": 100, "volume": 65 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "北の森　川辺",
+  "displayName": "Northern Forest Riverside",
   "encounterList": [
     { "regionSet": [], "troopId": 1, "weight": 5 },
     { "regionSet": [], "troopId": 2, "weight": 5 },
@@ -295,22 +295,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -417,15 +413,15 @@
             { "code": 111, "indent": 0, "parameters": [4, 3, 0] },
             { "code": 111, "indent": 1, "parameters": [1, 36, 0, 0, 0] },
             { "code": 101, "indent": 2, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["今日も落ち着いて探索していこう"]
+              "parameters": ["Let's calmly continue our exploration today."]
             },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 2, "parameters": ["張り切って行こう！"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 2, "parameters": ["Let's go all out!"] },
             { "code": 122, "indent": 2, "parameters": [36, 36, 2, 0, 5] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -482,15 +478,19 @@
             { "code": 111, "indent": 0, "parameters": [4, 4, 0] },
             { "code": 111, "indent": 1, "parameters": [1, 37, 0, 0, 0] },
             { "code": 101, "indent": 2, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["今日も落ち着いて探索していこう"]
+              "parameters": ["Let's calmly continue our exploration today."]
             },
             { "code": 101, "indent": 2, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 2, "parameters": ["気を付けて進もうね"] },
+            { "code": 401, "indent": 2, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["Let's proceed carefully, okay?"]
+            },
             { "code": 122, "indent": 2, "parameters": [37, 37, 2, 0, 5] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -547,18 +547,18 @@
             { "code": 111, "indent": 0, "parameters": [4, 5, 0] },
             { "code": 111, "indent": 1, "parameters": [1, 38, 0, 0, 0] },
             { "code": 101, "indent": 2, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["今日も落ち着いて探索していこう"]
+              "parameters": ["Let's calmly continue our exploration today."]
             },
             { "code": 101, "indent": 2, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["さぁ！手がかりを見つけるよ！"]
+              "parameters": ["Now! Let's find some clues!"]
             },
             { "code": 122, "indent": 2, "parameters": [38, 38, 2, 0, 5] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -620,31 +620,23 @@
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["ライトの調子が少し悪そうだ"]
+              "parameters": ["Light seems a little off."]
             },
             { "code": 101, "indent": 3, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 3, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 3, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["え・・・あぁ、ごめん"]
-            },
-            {
-              "code": 401,
-              "indent": 3,
-              "parameters": ["少しボーっとしてしまった"]
+              "parameters": ["Eh... Ah, sorry, I spaced out for a moment."]
             },
             { "code": 101, "indent": 3, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 3, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 3, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 3,
-              "parameters": ["今朝がた変な夢を見たんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 3,
-              "parameters": ["心配かけてすまないね、もう大丈夫だ"]
+              "parameters": [
+                "This morning, I had a strange dream. I'm sorry for\nworrying you, but I'm fine now."
+              ]
             },
             { "code": 122, "indent": 3, "parameters": [39, 39, 2, 0, 5] },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -653,17 +645,19 @@
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 111, "indent": 1, "parameters": [1, 39, 0, 0, 0] },
             { "code": 101, "indent": 2, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 2, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 2, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["今日も落ち着いて探索していこう"]
+              "parameters": ["Let's calmly continue our exploration today too."]
             },
             { "code": 101, "indent": 2, "parameters": ["", 6, 1, 2] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["より一層気を引き締めて歩き出した"]
+              "parameters": [
+                "I tightened my focus and started walking even more\ncarefully."
+              ]
             },
             { "code": 122, "indent": 2, "parameters": [39, 39, 2, 0, 5] },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -900,16 +894,16 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【North Forest 1】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【北の森１】に移動します"]
+              "parameters": ["Move to North Forest 1?"]
             },
-            { "code": 401, "indent": 0, "parameters": ["よろしいですか？"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["いくぜ！", "いや、行かないが"], 1, 0, 2, 0]
+              "parameters": [["Let's go!", "No, I won't go"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "いくぜ！"] },
             {
@@ -967,16 +961,16 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【North Forest 1】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【北の森１】に移動します"]
+              "parameters": ["Move to North Forest 1?"]
             },
-            { "code": 401, "indent": 0, "parameters": ["よろしいですか？"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["いくぜ！", "いや、行かないが"], 1, 0, 2, 0]
+              "parameters": [["Let's go!", "No, I won't go"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "いくぜ！"] },
             {
@@ -1034,16 +1028,16 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【North Forest 1】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【北の森１】に移動します"]
+              "parameters": ["Move to North Forest 1?"]
             },
-            { "code": 401, "indent": 0, "parameters": ["よろしいですか？"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["いくぜ！", "いや、行かないが"], 1, 0, 2, 0]
+              "parameters": [["Let's go!", "No, I won't go"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "いくぜ！"] },
             {
@@ -1101,16 +1095,16 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【North Forest 1】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【北の森１】に移動します"]
+              "parameters": ["Move to North Forest 1?"]
             },
-            { "code": 401, "indent": 0, "parameters": ["よろしいですか？"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["いくぜ！", "いや、行かないが"], 1, 0, 2, 0]
+              "parameters": [["Let's go!", "No, I won't go"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "いくぜ！"] },
             {
@@ -1239,12 +1233,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここで一夜を過ごしますか"]
+              "parameters": ["Will you spend the night here?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["休んでいくよ！", "まだ頑張るよ！"], 1, 0, 2, 0]
+              "parameters": [
+                ["I'm going to rest!", "I'll keep doing my best!"],
+                1,
+                0,
+                2,
+                0
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "休んでいくよ！"] },
             { "code": 111, "indent": 1, "parameters": [4, 3, 0] },
@@ -1345,12 +1345,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここで一夜を過ごしますか"]
+              "parameters": ["Will you spend the night here?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["休んでいくよ！", "まだ頑張るよ！"], 1, 0, 2, 0]
+              "parameters": [
+                ["I'll rest here!", "I'll keep doing my best!"],
+                1,
+                0,
+                2,
+                0
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "休んでいくよ！"] },
             { "code": 121, "indent": 1, "parameters": [226, 226, 0] },
@@ -1941,12 +1947,12 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["セーブしますか？"] },
+            { "code": 401, "indent": 0, "parameters": ["Will you save?"] },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["セーブしておく", "いらないよ！", "心の準備が・・・"],
+                ["Save it", "No need!", "Are you ready in your heart?"],
                 2,
                 0,
                 2,
@@ -2010,18 +2016,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["心の準備は大丈夫ですか？"]
+              "parameters": ["Are you ready in your heart?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [
-                ["完璧！", "あ、いえ、まだちょっと・・・"],
-                1,
-                0,
-                2,
-                0
-              ]
+              "parameters": [["Perfect!", "No, not yet"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "完璧！"] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
@@ -2231,12 +2231,12 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["セーブしますか？"] },
+            { "code": 401, "indent": 0, "parameters": ["Will you save?"] },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["セーブしておく", "いらないよ！", "心の準備が・・・"],
+                ["Save it", "No need!", "Are you ready in your heart?"],
                 2,
                 0,
                 2,
@@ -2300,18 +2300,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["心の準備は大丈夫ですか？"]
+              "parameters": ["Are you ready in your heart?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [
-                ["完璧！", "あ、いえ、まだちょっと・・・"],
-                1,
-                0,
-                2,
-                0
-              ]
+              "parameters": [["Perfect!", "No, not yet"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "完璧！"] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
@@ -2521,12 +2515,12 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["セーブしますか？"] },
+            { "code": 401, "indent": 0, "parameters": ["Will you save?"] },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["セーブしておく", "いらないよ！", "心の準備が・・・"],
+                ["Save it", "No need!", "Are you ready"],
                 2,
                 0,
                 2,
@@ -2590,18 +2584,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["心の準備は大丈夫ですか？"]
+              "parameters": ["Are you ready in your heart?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [
-                ["完璧！", "あ、いえ、まだちょっと・・・"],
-                1,
-                0,
-                2,
-                0
-              ]
+              "parameters": [["Perfect!", "No, not yet"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "完璧！"] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
@@ -2873,25 +2861,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["左にある光を調べる事で"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それぞれのヒロインの純愛イベントが発生します"]
+              "parameters": [
+                "Examining the light on the left will trigger each\nheroine's pure love event."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["イベント内での選択肢は"]
+              "parameters": [
+                "The choices within the event will also affect the\nending, so choose carefully."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["エンディングにも関係するので"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["慎重に選びましょう"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2938,7 +2919,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何か文字が書かれている"]
+              "parameters": ["There is something written."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

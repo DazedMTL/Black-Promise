@@ -548,12 +548,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["壁には亀裂が入っている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何年も放置されているようだ"]
+              "parameters": [
+                "There seems to be cracks in the wall, as if it has\nbeen left alone for many years."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1557,49 +1554,41 @@
               "parameters": [1, "kuroko y", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここまで来たという事は覚悟は出来ているんだな？"]
+              "parameters": [
+                "You've come this far, so you must be prepared,\nright?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんな事は今更言う必要もない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["親友を救うためにここまで来たのだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何としても貴様を倒して呪いを解く！"]
+              "parameters": [
+                "There's no need to say such things now. I've come\nthis far to save my best friend. I will defeat you\nat all costs and lift the curse!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・ふん・・・口だけなら何とでも言える"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["人間はいつだってそうだ"]
+              "parameters": [
+                "...Hmph... People who can say anything with just\ntheir mouths are always like that."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["先刻伝えたように"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["貴様らには死よりも辛い報いを受けてもらうぞ！"]
+              "parameters": [
+                "As I mentioned earlier, you will receive a\npunishment more painful than death!"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -1669,29 +1658,21 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まるで太刀打ちできない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こんな相手に勝つことが出来るのだろうか"]
+              "parameters": [
+                "Can I really win against an opponent like this,\nwhom I can't even compete with?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふん・・・弱すぎるな"]
+              "parameters": ["Hmph... Too weak, not even worth killing time."]
             },
-            { "code": 401, "indent": 0, "parameters": ["暇つぶしにもならん"] },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・殺すか・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Kill..."] },
             {
               "code": 205,
               "indent": 0,
@@ -1738,28 +1719,28 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["やめてっ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルは殺させない！"]
+              "parameters": ["Stop! I won't let you kill Aeru!"]
             },
             { "code": 213, "indent": 0, "parameters": [14, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・ほう？"] },
-            { "code": 401, "indent": 0, "parameters": ["こいつは・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["...Oh? This one is..."]
+            },
             { "code": 111, "indent": 0, "parameters": [1, 65, 0, 3, 0] },
             { "code": 213, "indent": 1, "parameters": [14, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "なるほど・・・この男はお前の思い人であったか・・・"
-              ]
+              "parameters": ["I see... So this man was your beloved..."]
             },
             {
               "code": 205,
@@ -1795,115 +1776,106 @@
               "parameters": [{ "code": 4, "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["リラだけじゃない俺だっている"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["これ以上親友には手を出させないよ"]
+              "parameters": [
+                "It's not just Lira, I'm here too. I won't let you\nlay a hand on my best friend anymore."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ライト・・・お前もか・・・"]
+              "parameters": ["You too, huh, Light..."]
             },
             { "code": 213, "indent": 1, "parameters": [14, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・はぁ"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
+            { "code": 401, "indent": 1, "parameters": ["...*sigh*"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["いい友人を持ったなライト"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["お前は今を幸せに生きているのだな"]
+              "parameters": [
+                "You have a good friend. You are living happily\nnow."
+              ]
             },
             { "code": 213, "indent": 1, "parameters": [14, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["それは喜ぶべき事・・・か・・・"]
+              "parameters": ["Is that... something to be happy about..."]
             },
             { "code": 213, "indent": 1, "parameters": [9, 2, true] },
             { "code": 212, "indent": 1, "parameters": [9, 52, true] },
             { "code": 213, "indent": 1, "parameters": [9, 1, false] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・気が変わった"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["お前たちの言う呪いとやらは解いてやった"]
+              "parameters": [
+                "...I've changed my mind. I'll lift the curse you\nwere talking about."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["これで行き場のない衝動に"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["襲われることもなくなるだろう"]
+              "parameters": [
+                "With this, you won't be attacked by aimless\nimpulses anymore."
+              ]
             },
             { "code": 213, "indent": 1, "parameters": [9, 8, false] },
             { "code": 101, "indent": 1, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 1, "parameters": ["お前はどうして"] },
+            { "code": 401, "indent": 1, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["この呪いで俺を・・・"]
+              "parameters": ["Why did you... curse me with this curse?"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["・・・そうだな・・・それは・・・"]
+              "parameters": ["...I see... So that's..."]
             },
             { "code": 213, "indent": 1, "parameters": [14, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 1, "parameters": ["いや、よそう"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["これはもう過ぎ去った話だ"]
+              "parameters": [
+                "No, let's stop. This is already a thing of the\npast."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["騒ぎ立ててすまなかった"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["もう、我がお前たちの前に姿を現す事はないだろう"]
+              "parameters": [
+                "I'm sorry for causing a commotion. I won't appear\nbefore you again."
+              ]
             },
             { "code": 242, "indent": 1, "parameters": [8] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["精々短い時の中を幸せに過ごすのだな！"]
+              "parameters": [
+                "Spend your time in happiness, even if it's short!"
+              ]
             },
             { "code": 212, "indent": 1, "parameters": [-1, 117, false] },
             { "code": 212, "indent": 1, "parameters": [9, 117, false] },
@@ -1922,34 +1894,25 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["悪魔の言葉と共に白い柱が身を包み"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["視界が塗りつぶされていく"]
+              "parameters": [
+                "Along with the demon's words, a white pillar\nenvelops the body and the field of vision is being\npainted over."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["完全に見えなくなるその時に"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["悪魔の目に浮かんでいたのは涙だっただろうか"]
+              "parameters": [
+                "At the moment when everything completely\ndisappears from view, was it tears that appeared\nin the demon's eyes?"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ハッキリと捉えようと目を凝らした頃には"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["視界は白に染まっていた"]
+              "parameters": [
+                "When I tried to focus my eyes clearly, the field\nof vision had already been dyed white."
+              ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             {
@@ -1993,21 +1956,18 @@
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 213, "indent": 1, "parameters": [14, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["見えるぞ、お前の中にある揺れる思いが"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["・・・いいことを思いついた"]
+              "parameters": [
+                "I can see it, the wavering emotions inside you...\nI've come up with a good idea."
+              ]
             },
             { "code": 212, "indent": 1, "parameters": [9, 102, true] },
             { "code": 101, "indent": 1, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 1, "parameters": ["ぐ・・・あぁ・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 1, "parameters": ["Guh... Ah..."] },
             { "code": 213, "indent": 1, "parameters": [4, 1, false] },
             {
               "code": 205,
@@ -2028,8 +1988,8 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["ライトっ！？"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 1, "parameters": ["Light!"] },
             {
               "code": 205,
               "indent": 1,
@@ -2049,50 +2009,42 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["お前たちに希望を与えてやろう"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ライトの衝動を抑えることが出来たなら"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["呪いを解いてやってもいい"]
+              "parameters": [
+                "If I can suppress Light's impulse and give hope to\nyou all, then I might as well lift the curse."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["もし、抑えることが出来なければ"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["全員まとめて殺してしまうとしよう"]
+              "parameters": [
+                "If I can't suppress it, then I'll just kill\neveryone together."
+              ]
             },
             { "code": 213, "indent": 1, "parameters": [4, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・約束してね"] },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 1, "parameters": ["ああ、いいとも"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["我は約束を破ったりはしない"]
+              "parameters": ["...Promise me, okay?"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Ah, I won't break a promise, you know."]
             },
             { "code": 213, "indent": 1, "parameters": [4, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・わかった"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 1, "parameters": ["...Understood"] },
             {
               "code": 205,
               "indent": 1,
@@ -2112,16 +2064,16 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["二人とも私が助けてあげるからね"]
+              "parameters": ["I'll help both of you, okay?"]
             },
             { "code": 242, "indent": 1, "parameters": [8] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["..."] },
             {
               "code": 250,
               "indent": 1,
@@ -2130,23 +2082,24 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["薄れゆく意識の中"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ライトとリラの足音が遠ざかる"]
+              "parameters": [
+                "In the fading consciousness, the footsteps of\nLight and Lira grow distant."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["どうか、二人とも無事でいてくれ・・・・・・"]
+              "parameters": ["Please, both of you, stay safe..."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["..."] },
             { "code": 117, "indent": 1, "parameters": [3] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["..."] },
             {
               "code": 205,
               "indent": 1,
@@ -2351,49 +2304,41 @@
               "parameters": [1, "kuroko y", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここまで来たという事は覚悟は出来ているんだな？"]
+              "parameters": [
+                "You've come this far, so you must be prepared,\nright?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんな事は今更言う必要もない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["親友を救うためにここまで来たのだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何としても貴様を倒して呪いを解く！"]
+              "parameters": [
+                "There's no need to say such things now. I've come\nthis far to save my best friend. I will defeat you\nat all costs and lift the curse!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・ふん・・・口だけなら何とでも言える"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["人間はいつだってそうだ"]
+              "parameters": [
+                "...Hmph... People who can say anything with just\ntheir mouths are always like that."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["先刻伝えたように"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["貴様らには死よりも辛い報いを受けてもらうぞ！"]
+              "parameters": [
+                "As I mentioned earlier, you will receive a\npunishment more painful than death!"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -2463,29 +2408,23 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まるで太刀打ちできない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こんな相手に勝つことが出来るのだろうか"]
+              "parameters": [
+                "Can I really win against an opponent like this,\nwho I can't even compete with?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふん・・・弱すぎるな"]
+              "parameters": [
+                "Hmph... You're too weak, not even worth killing\ntime with."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["暇つぶしにもならん"] },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・殺すか・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Kill..."] },
             {
               "code": 205,
               "indent": 0,
@@ -2532,24 +2471,24 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・させない"] },
-            { "code": 401, "indent": 0, "parameters": ["アイルは私が守る"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I will protect Aeru and not let that happen."]
+            },
             { "code": 213, "indent": 0, "parameters": [14, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・ほう？"] },
-            { "code": 401, "indent": 0, "parameters": ["こいつは・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Oh? This one..."] },
             { "code": 111, "indent": 0, "parameters": [1, 66, 0, 3, 0] },
             { "code": 213, "indent": 1, "parameters": [14, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "なるほど・・・この男はお前の思い人であったか・・・"
-              ]
+              "parameters": ["I see... So this man was your beloved..."]
             },
             {
               "code": 205,
@@ -2585,115 +2524,100 @@
               "parameters": [{ "code": 4, "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["マーガレットだけじゃない俺だっている"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["これ以上親友には手を出させないよ"]
+              "parameters": [
+                "It's not just Margaret, I'm here too. I won't let\nyou lay a hand on my best friend anymore."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
+            { "code": 401, "indent": 1, "parameters": ["You too, huh..."] },
+            { "code": 213, "indent": 1, "parameters": [14, 8, true] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
+            { "code": 401, "indent": 1, "parameters": ["...*sigh*"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ライト・・・お前もか・・・"]
+              "parameters": [
+                "You have a good friend, Light. You are living\nhappily now."
+              ]
             },
             { "code": 213, "indent": 1, "parameters": [14, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・はぁ"] },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["いい友人を持ったなライト"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["お前は今を幸せに生きているのだな"]
-            },
-            { "code": 213, "indent": 1, "parameters": [14, 8, true] },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["それは喜ぶべき事・・・か・・・"]
+              "parameters": ["Is that something to be happy about...?"]
             },
             { "code": 213, "indent": 1, "parameters": [9, 2, true] },
             { "code": 212, "indent": 1, "parameters": [9, 52, true] },
             { "code": 213, "indent": 1, "parameters": [9, 1, false] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・気が変わった"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["お前たちの言う呪いとやらは解いてやった"]
+              "parameters": [
+                "...I've decided to lift the curse you all were\ntalking about."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["これで行き場のない衝動に"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["襲われることもなくなるだろう"]
+              "parameters": [
+                "With this, you won't be attacked by uncontrollable\nimpulses anymore."
+              ]
             },
             { "code": 213, "indent": 1, "parameters": [9, 8, false] },
             { "code": 101, "indent": 1, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 1, "parameters": ["お前はどうして"] },
+            { "code": 401, "indent": 1, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["この呪いで俺を・・・"]
+              "parameters": ["Why did you... with this curse on me..."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["・・・そうだな・・・それは・・・"]
+              "parameters": ["...I see... That's..."]
             },
             { "code": 213, "indent": 1, "parameters": [14, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 1, "parameters": ["いや、よそう"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["これはもう過ぎ去った話だ"]
+              "parameters": ["No, let's leave this in the past."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["騒ぎ立ててすまなかった"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["もう、我がお前たちの前に姿を現す事はないだろう"]
+              "parameters": [
+                "I'm sorry for causing a commotion. I won't appear\nbefore you all anymore."
+              ]
             },
             { "code": 242, "indent": 1, "parameters": [8] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["精々短い時の中を幸せに過ごすのだな！"]
+              "parameters": [
+                "Spend your time in happiness, even if it's short!"
+              ]
             },
             { "code": 212, "indent": 1, "parameters": [-1, 117, false] },
             { "code": 212, "indent": 1, "parameters": [9, 117, false] },
@@ -2712,34 +2636,25 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["悪魔の言葉と共に白い柱が身を包み"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["視界が塗りつぶされていく"]
+              "parameters": [
+                "Along with the demon's words, a white pillar\nenvelops me and my vision is being painted over."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["完全に見えなくなるその時に"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["悪魔の目に浮かんでいたのは涙だっただろうか"]
+              "parameters": [
+                "At the moment when I completely lost sight, was it\ntears that appeared in the demon's eyes?"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ハッキリと捉えようと目を凝らした頃には"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["視界は白に染まっていた"]
+              "parameters": [
+                "When I tried to focus my eyes clearly, my field of\nvision was already dyed in white."
+              ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             {
@@ -2783,21 +2698,18 @@
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 213, "indent": 1, "parameters": [14, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["見えるぞ、お前の中にある揺れる思いが"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["・・・いいことを思いついた"]
+              "parameters": [
+                "I can see it, the wavering emotions within you...\nI've come up with a good idea."
+              ]
             },
             { "code": 212, "indent": 1, "parameters": [9, 102, true] },
             { "code": 101, "indent": 1, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 1, "parameters": ["ぐ・・・あぁ・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 1, "parameters": ["Guh... Ah..."] },
             { "code": 213, "indent": 1, "parameters": [4, 1, false] },
             {
               "code": 205,
@@ -2818,8 +2730,8 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 1, "parameters": ["ライトっ！？"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 1, "parameters": ["Light!"] },
             {
               "code": 205,
               "indent": 1,
@@ -2839,49 +2751,38 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["お前たちに希望を与えてやろう"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ライトの衝動を抑えることが出来たなら"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["呪いを解いてやってもいい"]
+              "parameters": [
+                "If I can suppress Light's impulse to give hope to\nall of you, then I might consider lifting the\ncurse."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["もし、抑えることが出来なければ"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["全員まとめて殺してしまうとしよう"]
+              "parameters": [
+                "If I can't suppress it, then I'll just kill\neveryone together."
+              ]
             },
             { "code": 213, "indent": 1, "parameters": [4, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・嘘じゃない？"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 1, "parameters": ["...Is it not a lie?"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ああ、我は約束を破ったりはしない"]
+              "parameters": ["Ah, I won't break the promise."]
             },
             { "code": 213, "indent": 1, "parameters": [4, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・そう"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 1, "parameters": ["...I see"] },
             {
               "code": 205,
               "indent": 1,
@@ -2901,12 +2802,16 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 1, "parameters": ["後は私に任せて"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Leave the rest to me."]
+            },
             { "code": 242, "indent": 1, "parameters": [8] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["..."] },
             {
               "code": 250,
               "indent": 1,
@@ -2915,23 +2820,24 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["薄れゆく意識の中"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ライトとマーガレットの足音が遠ざかる"]
+              "parameters": [
+                "In the fading consciousness, the footsteps of\nLight and Margaret grow distant."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["どうか、二人とも無事でいてくれ・・・・・・"]
+              "parameters": ["Please, may both of you be safe..."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["..."] },
             { "code": 117, "indent": 1, "parameters": [3] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["..."] },
             {
               "code": 205,
               "indent": 1,
@@ -3136,49 +3042,41 @@
               "parameters": [1, "kuroko y", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここまで来たという事は覚悟は出来ているんだな？"]
+              "parameters": [
+                "You've come this far, so I assume you're prepared,\nright?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんな事は今更言う必要もない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["親友を救うためにここまで来たのだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何としても貴様を倒して呪いを解く！"]
+              "parameters": [
+                "There's no need to say such things now. I've come\nthis far to save my best friend. I will defeat you\nat all costs and lift the curse!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・ふん・・・口だけなら何とでも言える"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["人間はいつだってそうだ"]
+              "parameters": [
+                "...Hmph... People who can say anything with just\ntheir mouths are always like that."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["先刻伝えたように"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["貴様らには死よりも辛い報いを受けてもらうぞ！"]
+              "parameters": [
+                "As I mentioned earlier, you will receive a\npunishment more painful than death!"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -3248,29 +3146,23 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まるで太刀打ちできない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こんな相手に勝つことが出来るのだろうか"]
+              "parameters": [
+                "Can I really win against an opponent like this,\nwho I can't even compete with?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふん・・・弱すぎるな"]
+              "parameters": [
+                "Hmph... You're too weak, not even worth killing\ntime with."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["暇つぶしにもならん"] },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・殺すか・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Kill..."] },
             {
               "code": 205,
               "indent": 0,
@@ -3317,32 +3209,28 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これ以上アイルの事は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["傷つけさせたりしない！"]
+              "parameters": ["I won't let you hurt Aeru any further!"]
             },
             { "code": 213, "indent": 0, "parameters": [14, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・ほう？"] },
-            { "code": 401, "indent": 0, "parameters": ["こいつは・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["...Oh? This one is..."]
+            },
             { "code": 111, "indent": 0, "parameters": [1, 67, 0, 3, 0] },
             { "code": 213, "indent": 1, "parameters": [14, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "なるほど・・・この男はお前の思い人であったか・・・"
-              ]
+              "parameters": ["I see... So this man was your beloved..."]
             },
             {
               "code": 205,
@@ -3378,115 +3266,100 @@
               "parameters": [{ "code": 4, "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ミールだけじゃない俺だっている"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["これ以上親友には手を出させないよ"]
+              "parameters": [
+                "It's not just Miiru, I'm here too. I won't let you\nlay a hand on my best friend anymore."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
+            { "code": 401, "indent": 1, "parameters": ["You too, huh..."] },
+            { "code": 213, "indent": 1, "parameters": [14, 8, true] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
+            { "code": 401, "indent": 1, "parameters": ["...*sigh*"] },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ライト・・・お前もか・・・"]
+              "parameters": [
+                "You have a good friend, Light. You are living\nhappily now."
+              ]
             },
             { "code": 213, "indent": 1, "parameters": [14, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・はぁ"] },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["いい友人を持ったなライト"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["お前は今を幸せに生きているのだな"]
-            },
-            { "code": 213, "indent": 1, "parameters": [14, 8, true] },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["それは喜ぶべき事・・・か・・・"]
+              "parameters": ["Is that something to be happy about...?"]
             },
             { "code": 213, "indent": 1, "parameters": [9, 2, true] },
             { "code": 212, "indent": 1, "parameters": [9, 52, true] },
             { "code": 213, "indent": 1, "parameters": [9, 1, false] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・気が変わった"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["お前たちの言う呪いとやらは解いてやった"]
+              "parameters": [
+                "...I've decided to lift the curse you all were\ntalking about."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["これで行き場のない衝動に"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["襲われることもなくなるだろう"]
+              "parameters": [
+                "With this, you won't be attacked by uncontrollable\nimpulses anymore."
+              ]
             },
             { "code": 213, "indent": 1, "parameters": [9, 8, false] },
             { "code": 101, "indent": 1, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 1, "parameters": ["お前はどうして"] },
+            { "code": 401, "indent": 1, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["この呪いで俺を・・・"]
+              "parameters": ["Why did you... with this curse on me..."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["・・・そうだな・・・それは・・・"]
+              "parameters": ["...I see... That is..."]
             },
             { "code": 213, "indent": 1, "parameters": [14, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 1, "parameters": ["いや、よそう"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["これはもう過ぎ去った話だ"]
+              "parameters": [
+                "No, let's stop. This is already a thing of the\npast."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["騒ぎ立ててすまなかった"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["もう、我がお前たちの前に姿を現す事はないだろう"]
+              "parameters": [
+                "I'm sorry for causing a commotion. I won't show\nmyself in front of you all anymore."
+              ]
             },
             { "code": 242, "indent": 1, "parameters": [8] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["精々短い時の中を幸せに過ごすのだな！"]
+              "parameters": ["Spend your short time as happily as possible!"]
             },
             { "code": 212, "indent": 1, "parameters": [-1, 117, false] },
             { "code": 212, "indent": 1, "parameters": [9, 117, false] },
@@ -3505,34 +3378,25 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["悪魔の言葉と共に白い柱が身を包み"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["視界が塗りつぶされていく"]
+              "parameters": [
+                "Along with the demon's words, a white pillar\nenvelops me and my field of vision is being\npainted over."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["完全に見えなくなるその時に"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["悪魔の目に浮かんでいたのは涙だっただろうか"]
+              "parameters": [
+                "At the moment when I completely lost sight, was it\ntears that appeared in the demon's eyes?"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ハッキリと捉えようと目を凝らした頃には"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["視界は白に染まっていた"]
+              "parameters": [
+                "When I tried to focus my eyes clearly, my field of\nvision was already dyed in white."
+              ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             {
@@ -3576,21 +3440,18 @@
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 213, "indent": 1, "parameters": [14, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["見えるぞ、お前の中にある揺れる思いが"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["・・・いいことを思いついた"]
+              "parameters": [
+                "I can see it, the wavering emotions inside you...\nI've come up with a good idea."
+              ]
             },
             { "code": 212, "indent": 1, "parameters": [9, 102, true] },
             { "code": 101, "indent": 1, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 1, "parameters": ["ぐ・・・あぁ・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 1, "parameters": ["Guh... Ah..."] },
             { "code": 213, "indent": 1, "parameters": [4, 1, false] },
             {
               "code": 205,
@@ -3611,8 +3472,8 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 1, "parameters": ["ライトっ！？"] },
+            { "code": 401, "indent": 1, "parameters": ["【Miiru】"] },
+            { "code": 401, "indent": 1, "parameters": ["Light!?"] },
             {
               "code": 205,
               "indent": 1,
@@ -3632,50 +3493,42 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["お前たちに希望を与えてやろう"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ライトの衝動を抑えることが出来たなら"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["呪いを解いてやってもいい"]
+              "parameters": [
+                "If I can suppress Light's impulse and give hope to\nyou all, then I might as well lift the curse."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["もし、抑えることが出来なければ"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["全員まとめて殺してしまうとしよう"]
+              "parameters": [
+                "If I can't suppress it, then I'll just kill\neveryone together."
+              ]
             },
             { "code": 213, "indent": 1, "parameters": [4, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 1, "parameters": ["本当でしょうね？"] },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 1, "parameters": ["ああ、もちろん"] },
+            { "code": 401, "indent": 1, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["我は約束を破ったりはしない"]
+              "parameters": ["Is that really true?"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【???】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Ah, of course I won't break the promise."]
             },
             { "code": 213, "indent": 1, "parameters": [4, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["【Miiru】"] },
+            { "code": 401, "indent": 1, "parameters": ["..."] },
             {
               "code": 205,
               "indent": 1,
@@ -3695,17 +3548,16 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["あたしに出来る事なら"]
+              "parameters": ["I'll do anything I can."]
             },
-            { "code": 401, "indent": 1, "parameters": ["何だってやる"] },
             { "code": 242, "indent": 1, "parameters": [8] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["..."] },
             {
               "code": 250,
               "indent": 1,
@@ -3714,23 +3566,24 @@
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["薄れゆく意識の中"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ライトとミールの気配が遠ざかる"]
+              "parameters": [
+                "In the fading consciousness, the presence of Light\nand Miiru drifts away."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["どうか、二人とも無事でいてくれ・・・・・・"]
+              "parameters": ["Please, I hope both of you are safe..."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["..."] },
             { "code": 117, "indent": 1, "parameters": [3] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["..."] },
             {
               "code": 205,
               "indent": 1,
@@ -3935,49 +3788,41 @@
               "parameters": [1, "kuroko y", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここまで来たという事は覚悟は出来ているんだな？"]
+              "parameters": [
+                "You've come this far, so you must be prepared,\nright?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんな事は今更言う必要もない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["親友を救うためにここまで来たのだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何としても貴様を倒して呪いを解く！"]
+              "parameters": [
+                "There's no need to say such things now. I've come\nthis far to save my best friend. I will defeat you\nat all costs and lift the curse!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・ふん・・・口だけなら何とでも言える"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["人間はいつだってそうだ"]
+              "parameters": [
+                "...Hmph... People who can say anything with just\ntheir mouths are always like that."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["先刻伝えたように"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["貴様らには死よりも辛い報いを受けてもらうぞ！"]
+              "parameters": [
+                "As I mentioned earlier, you will receive a\npunishment more painful than death!"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -4047,29 +3892,23 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まるで太刀打ちできない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こんな相手に勝つことが出来るのだろうか"]
+              "parameters": [
+                "Can I really win against an opponent like this,\nwho I can't even compete with?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふん・・・弱すぎるな"]
+              "parameters": [
+                "Hmph... You're too weak, not even worth killing\ntime."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["暇つぶしにもならん"] },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・殺すか・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Kill..."] },
             {
               "code": 205,
               "indent": 0,
@@ -4116,30 +3955,29 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["やめてっ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルは殺させない！"]
+              "parameters": ["Stop! I won't let you kill Aeru!"]
             },
             { "code": 213, "indent": 0, "parameters": [14, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・ほう？"] },
-            { "code": 401, "indent": 0, "parameters": ["こいつは・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["...Oh? This one is..."]
+            },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["なるほど・・・この男はお前にとって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大切な存在なのだな・・・"]
+              "parameters": [
+                "I see... This man is an important existence to\nyou, isn't he..."
+              ]
             },
             {
               "code": 205,
@@ -4175,124 +4013,117 @@
               "parameters": [{ "code": 4, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラだけじゃない俺だっている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["これ以上親友には手を出させないよ"]
+              "parameters": [
+                "It's not just Lira, I'm here too. I won't let you\nlay a hand on my best friend anymore."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ありがとうライト！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["二人ならきっと大丈夫！"]
+              "parameters": [
+                "Thank you, Light! I'm sure we'll be fine together!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [14, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前たち・・・そうか・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトにはもう寄り添う相手がいるのだな"]
+              "parameters": [
+                "You guys... I see... So Light already has someone\nto be close to, huh?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・はぁ"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["...*sigh*"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["良い人々と出会い"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前は今を幸せに生きているのだな"]
+              "parameters": [
+                "You have met good people and are now living\nhappily, haven't you?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それは喜ぶべき事・・・か・・・"]
+              "parameters": ["Is that something to be happy about...?"]
             },
             { "code": 213, "indent": 0, "parameters": [9, 2, true] },
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 212, "indent": 0, "parameters": [9, 52, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・気が変わった"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前たちの言う呪いとやらは解いてやった"]
+              "parameters": [
+                "...I've decided to lift the curse you were talking\nabout."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これで行き場のない衝動に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["襲われることもなくなるだろう"]
+              "parameters": [
+                "With this, you won't be attacked by aimless\nimpulses anymore."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["お前はどうして"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この呪いで俺を・・・"]
+              "parameters": ["Why did you... curse me with this curse?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・そうだな・・・それは・・・"]
+              "parameters": ["...I see... That is..."]
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["いや、よそう"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これはもう過ぎ去った話だ"]
+              "parameters": [
+                "No, let's stop. This is already a thing of the\npast."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["騒ぎ立ててすまなかった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう、我がお前たちの前に姿を現す事はないだろう"]
+              "parameters": [
+                "I'm sorry for causing a commotion. I won't appear\nbefore you all anymore."
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [8] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["精々短い時の中を幸せに過ごすのだな！"]
+              "parameters": [
+                "Spend your time in happiness, even if it's short!"
+              ]
             },
             { "code": 212, "indent": 0, "parameters": [-1, 117, false] },
             { "code": 212, "indent": 0, "parameters": [9, 117, false] },
@@ -4311,34 +4142,25 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["悪魔の言葉と共に白い柱が身を包み"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["視界が塗りつぶされていく"]
+              "parameters": [
+                "Along with the devil's words, a white pillar\nenvelops the figure and the field of vision is\npainted over."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["完全に見えなくなるその時に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["悪魔の目に浮かんでいたのは涙だっただろうか"]
+              "parameters": [
+                "At the moment when everything completely\ndisappeared from view, was it tears that appeared\nin the eyes of the devil?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ハッキリと捉えようと目を凝らした頃には"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["視界は白に染まっていた"]
+              "parameters": [
+                "When I tried to focus my eyes clearly, the field\nof vision had already been dyed white."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             {
@@ -4551,49 +4373,41 @@
               "parameters": [1, "kuroko y", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここまで来たという事は覚悟は出来ているんだな？"]
+              "parameters": [
+                "You've come this far, so I assume you're prepared,\nright?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんな事は今更言う必要もない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["親友を救うためにここまで来たのだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何としても貴様を倒して呪いを解く！"]
+              "parameters": [
+                "There's no need to say such things now. I've come\nthis far to save my best friend. I will defeat you\nat all costs and lift the curse!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・ふん・・・口だけなら何とでも言える"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["人間はいつだってそうだ"]
+              "parameters": [
+                "...Hmph... People who can say anything with just\ntheir mouths are always like that."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["先刻伝えたように"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["貴様らには死よりも辛い報いを受けてもらうぞ！"]
+              "parameters": [
+                "As I mentioned earlier, you will receive a\npunishment more painful than death!"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -4663,29 +4477,23 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まるで太刀打ちできない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こんな相手に勝つことが出来るのだろうか"]
+              "parameters": [
+                "Can I really win against an opponent like this,\nwho I can't even compete with?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふん・・・弱すぎるな"]
+              "parameters": [
+                "Hmph... You're too weak, not even worth killing\ntime."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["暇つぶしにもならん"] },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・殺すか・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Should I kill..."] },
             {
               "code": 205,
               "indent": 0,
@@ -4732,26 +4540,31 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・させない"] },
-            { "code": 401, "indent": 0, "parameters": ["アイルは私が守る"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I will protect Aeru from not letting that happen."
+              ]
+            },
             { "code": 213, "indent": 0, "parameters": [14, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・ほう？"] },
-            { "code": 401, "indent": 0, "parameters": ["こいつは・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["...Oh? This one is..."]
+            },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["なるほど・・・この男はお前にとって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大切な存在なのだな・・・"]
+              "parameters": [
+                "I see... This man is an important existence to\nyou, isn't he..."
+              ]
             },
             {
               "code": 205,
@@ -4787,120 +4600,115 @@
               "parameters": [{ "code": 4, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["マーガレットだけじゃない俺だっている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["これ以上親友には手を出させないよ"]
+              "parameters": [
+                "It's not just Margaret, I'm here too. I won't let\nyou lay a hand on my best friend anymore."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["さすがライト"] },
-            { "code": 401, "indent": 0, "parameters": ["これで百人力"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "As expected of Light, this is like the strength of\na hundred men."
+              ]
+            },
             { "code": 213, "indent": 0, "parameters": [14, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前たち・・・そうか・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトにはもう寄り添う相手がいるのだな"]
+              "parameters": [
+                "You guys... I see... Light already has someone to\nlean on, huh?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・はぁ"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["...*sigh*"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["良い人々と出会い"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前は今を幸せに生きているのだな"]
+              "parameters": [
+                "You have met good people and are now living\nhappily."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それは喜ぶべき事・・・か・・・"]
+              "parameters": ["Is that something to be happy about...?"]
             },
             { "code": 213, "indent": 0, "parameters": [9, 2, true] },
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 212, "indent": 0, "parameters": [9, 52, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・気が変わった"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前たちの言う呪いとやらは解いてやった"]
+              "parameters": [
+                "...I've decided to lift the curse you all were\ntalking about."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これで行き場のない衝動に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["襲われることもなくなるだろう"]
+              "parameters": [
+                "With this, you won't be attacked by aimless\nimpulses anymore."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["お前はどうして"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この呪いで俺を・・・"]
+              "parameters": ["Why did you... curse me like this?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・そうだな・・・それは・・・"]
+              "parameters": ["...I see... That is..."]
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["いや、よそう"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これはもう過ぎ去った話だ"]
+              "parameters": ["No, let's leave this in the past."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["騒ぎ立ててすまなかった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう、我がお前たちの前に姿を現す事はないだろう"]
+              "parameters": [
+                "I'm sorry for causing a commotion. I won't show\nmyself in front of you all anymore."
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [8] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["精々短い時の中を幸せに過ごすのだな！"]
+              "parameters": [
+                "Spend your time in happiness, even if it's short!"
+              ]
             },
             { "code": 212, "indent": 0, "parameters": [-1, 117, false] },
             { "code": 212, "indent": 0, "parameters": [9, 117, false] },
@@ -4919,34 +4727,25 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["悪魔の言葉と共に白い柱が身を包み"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["視界が塗りつぶされていく"]
+              "parameters": [
+                "Along with the devil's words, a white pillar\nenvelops the body and the field of vision is\npainted over."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["完全に見えなくなるその時に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["悪魔の目に浮かんでいたのは涙だっただろうか"]
+              "parameters": [
+                "At the moment when everything became completely\ninvisible, was it tears that appeared in the eyes\nof the devil?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ハッキリと捉えようと目を凝らした頃には"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["視界は白に染まっていた"]
+              "parameters": [
+                "When I tried to focus my eyes clearly, the field\nof vision had already been dyed white."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             {
@@ -5159,49 +4958,41 @@
               "parameters": [1, "kuroko y", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここまで来たという事は覚悟は出来ているんだな？"]
+              "parameters": [
+                "You've come this far, so you must be prepared,\nright?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんな事は今更言う必要もない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["親友を救うためにここまで来たのだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何としても貴様を倒して呪いを解く！"]
+              "parameters": [
+                "There's no need to say such things now. I've come\nthis far to save my best friend. I will defeat you\nat all costs and lift the curse!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・ふん・・・口だけなら何とでも言える"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["人間はいつだってそうだ"]
+              "parameters": [
+                "...Hmph... People who can say anything with just\ntheir mouths are always like that."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["先刻伝えたように"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["貴様らには死よりも辛い報いを受けてもらうぞ！"]
+              "parameters": [
+                "As I mentioned earlier, you will receive a\npunishment more painful than death!"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -5271,29 +5062,23 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まるで太刀打ちできない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こんな相手に勝つことが出来るのだろうか"]
+              "parameters": [
+                "Can I really win against an opponent like this,\nwho I can't even compete with?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふん・・・弱すぎるな"]
+              "parameters": [
+                "Hmph... You're too weak, not even worth killing\ntime with."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["暇つぶしにもならん"] },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・殺すか・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Kill you..."] },
             {
               "code": 205,
               "indent": 0,
@@ -5340,34 +5125,29 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これ以上アイルの事は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["傷つけさせたりしない！"]
+              "parameters": ["I won't let you hurt Aeru any further!"]
             },
             { "code": 213, "indent": 0, "parameters": [14, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・ほう？"] },
-            { "code": 401, "indent": 0, "parameters": ["こいつは・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["...Oh? This one is..."]
+            },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["なるほど・・・この男はお前にとって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大切な存在なのだな・・・"]
+              "parameters": [
+                "I see... This man is an important existence to\nyou, isn't he..."
+              ]
             },
             {
               "code": 205,
@@ -5403,124 +5183,113 @@
               "parameters": [{ "code": 4, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラだけじゃない俺だっている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["これ以上親友には手を出させないよ"]
+              "parameters": [
+                "It's not just Lira, I'm here too. I won't let you\nlay a hand on my best friend anymore."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・ライトっ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["二人でアイルを助けるよ！"]
+              "parameters": ["...Light! Let's save Aeru together!"]
             },
             { "code": 213, "indent": 0, "parameters": [14, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前たち・・・そうか・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトにはもう寄り添う相手がいるのだな"]
+              "parameters": [
+                "You all... I see... So Light already has someone\nto be close to, huh?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・はぁ"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["...*sigh*"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["良い人々と出会い"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前は今を幸せに生きているのだな"]
+              "parameters": [
+                "You have met good people and are now living\nhappily, haven't you?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それは喜ぶべき事・・・か・・・"]
+              "parameters": ["Is that something to be happy about...?"]
             },
             { "code": 213, "indent": 0, "parameters": [9, 2, true] },
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 212, "indent": 0, "parameters": [9, 52, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・気が変わった"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前たちの言う呪いとやらは解いてやった"]
+              "parameters": [
+                "...I've decided to lift the curse you all were\ntalking about."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これで行き場のない衝動に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["襲われることもなくなるだろう"]
+              "parameters": [
+                "With this, you won't be attacked by aimless\nimpulses anymore."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["お前はどうして"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この呪いで俺を・・・"]
+              "parameters": ["Why did you... with this curse on me..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・そうだな・・・それは・・・"]
+              "parameters": ["...I see... That is..."]
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["いや、よそう"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これはもう過ぎ去った話だ"]
+              "parameters": ["No, let's stop. That's all in the past now."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["騒ぎ立ててすまなかった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう、我がお前たちの前に姿を現す事はないだろう"]
+              "parameters": [
+                "I'm sorry for causing a commotion. I won't appear\nbefore you all anymore."
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [8] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["精々短い時の中を幸せに過ごすのだな！"]
+              "parameters": [
+                "Spend your time in happiness, even if it's short!"
+              ]
             },
             { "code": 212, "indent": 0, "parameters": [-1, 117, false] },
             { "code": 212, "indent": 0, "parameters": [9, 117, false] },
@@ -5539,34 +5308,25 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["悪魔の言葉と共に白い柱が身を包み"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["視界が塗りつぶされていく"]
+              "parameters": [
+                "Along with the demon's words, a white pillar\nenvelops me and my field of vision is being\npainted over."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["完全に見えなくなるその時に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["悪魔の目に浮かんでいたのは涙だっただろうか"]
+              "parameters": [
+                "At the moment when everything completely\ndisappeared from view, was it tears that appeared\nin the demon's eyes?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ハッキリと捉えようと目を凝らした頃には"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["視界は白に染まっていた"]
+              "parameters": [
+                "When I tried to focus my eyes clearly, my field of\nvision was dyed in white."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             {
@@ -5875,118 +5635,90 @@
               "parameters": [1, "kuroko y", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前たち・・・ここまで来てしまったか・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うぐ・・・頭痛い・・・"]
+              "parameters": [
+                "You guys... have come this far, huh... ugh... my\nhead hurts..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [11, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["見てライト！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何だか悪魔が弱ってるよ！"]
+              "parameters": [
+                "Look, Light! It seems like the demon is weakening!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・たしかに"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["チャンスかも知れないね"]
+              "parameters": ["...This might indeed be a chance"]
             },
             { "code": 213, "indent": 0, "parameters": [12, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・たぶん"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトの力に恐れをなしてる"]
+              "parameters": [
+                "...It seems like she's afraid of Light's power,\njudging by the way she looks like a girl."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["見た感じ女の子だし"] },
             { "code": 213, "indent": 0, "parameters": [13, 3, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まぁ、見るだけでも雰囲気で"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この人のおちんちんすごそうって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["分かっちゃうのかもね！"]
+              "parameters": [
+                "Well, just by looking at him, you can feel the\natmosphere and tell that his dick is amazing!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["くそ・・・好き勝手いいおって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うぅ、しかしショックだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こんなのあんまりじゃないか"]
+              "parameters": [
+                "Damn it... acting so freely, ugh, but it's\nshocking, isn't it too much?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトがそんな男だったなんて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["我の見る目が無かったという事か？"]
+              "parameters": [
+                "So, Light turned out to be that kind of man. I\nguess I have no eye for people after all?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・はぁ、なんだか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["待っていた我が馬鹿みたい、疲れちゃった"]
+              "parameters": [
+                "...Sigh, it's like I've been waiting foolishly,\nI'm tired."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 2, true] },
             { "code": 213, "indent": 0, "parameters": [10, 1, false] },
             { "code": 212, "indent": 0, "parameters": [10, 52, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前たちの言う呪いは解いてあげたから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう帰ってくれないか？"]
+              "parameters": [
+                "I've lifted the curse you were talking about, so\nwon't you go home now?"
+              ]
             },
             {
               "code": 205,
@@ -6082,54 +5814,44 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトの身体を光が包んだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["これで本当に呪いは解かれたのだろうか？"]
+              "parameters": [
+                "Did Light's body being enveloped in light truly\nlift the curse?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・うん"] },
-            { "code": 401, "indent": 0, "parameters": ["身体がすごく軽い"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こんな気持ちは久しぶりだ"]
+              "parameters": [
+                "...Yeah, my body feels really light. It's been a\nwhile since I've felt like this."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["よかったね！ライトっ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あれ・・・でも・・・呪いが解けたら・・・"]
+              "parameters": [
+                "Thank goodness! Light, but... once the curse is\nlifted..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おちんちんはどうなるんだろう・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もしも、あれが呪いのせいだとしたら・・・"]
+              "parameters": [
+                "I wonder what will happen to his dick... If that\nis indeed because of the curse..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["それってすごく"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もったいないんだけど・・・"]
+              "parameters": ["That's really a shame..."]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 2, false] },
             { "code": 213, "indent": 0, "parameters": [11, 8, false] },
@@ -6137,21 +5859,13 @@
             { "code": 213, "indent": 0, "parameters": [13, 8, true] },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ほら・・・もう要件は済んだだろう？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["我はもう眠りにつくから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["さっさと帰ってくれないか"]
+              "parameters": [
+                "Hey... the business is already done, right? I'm\ngoing to sleep soon, so hurry up and go home."
+              ]
             },
             { "code": 212, "indent": 0, "parameters": [-1, 117, false] },
             { "code": 212, "indent": 0, "parameters": [10, 117, false] },
@@ -6170,64 +5884,58 @@
               "parameters": [1, 0, 0, 0, 100, 30, 100, 100, 1, 0, 60, true]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["悪魔がそう言うと"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["全員の身体を光の柱が包み込む"]
+              "parameters": [
+                "The demon said that and a pillar of light\nenveloped everyone's bodies."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["光に包まれて完全に見えなくなるその時に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["悪魔の目に浮かんでいたのは涙だっただろうか"]
+              "parameters": [
+                "When completely enveloped in light and becoming\ncompletely invisible, was it tears that appeared\nin the demon's eyes at that moment?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ハッキリと捉えようと目を凝らした頃には"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["視界は白に染まっていた"]
+              "parameters": [
+                "When I tried to focus my eyes clearly, the field\nof vision was already dyed in white."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["気が付くと俺たちは"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["慣れ親しんだ村へと帰ってきていた"]
+              "parameters": [
+                "Before I knew it, we had returned to the familiar\nvillage."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["先ほどまでの事がどこが"]
+              "parameters": [
+                "It feels like the events just now were like a\ndream."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["夢のような気がする"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど、ライトの周りに集まる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["彼女達の笑顔が夢でなかったのだと証明していた"]
+              "parameters": [
+                "However, the smiles of the girls gathering around\nLight proved that it wasn't a dream."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 117, "indent": 0, "parameters": [3] },
             { "code": 121, "indent": 0, "parameters": [635, 635, 1] },
@@ -6366,49 +6074,41 @@
               "parameters": [1, "kuroko y", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここまで来たという事は覚悟は出来ているんだな？"]
+              "parameters": [
+                "You've come this far, so you must be prepared,\nright?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんな事は今更言う必要もない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["親友を救うためにここまで来たのだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何としても貴様を倒して呪いを解く！"]
+              "parameters": [
+                "There's no need to say such things now. I've come\nthis far to save my best friend. I will defeat you\nat all costs and lift the curse!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・ふん・・・口だけなら何とでも言える"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["人間はいつだってそうだ"]
+              "parameters": [
+                "...Hmph... People who can say anything with just\ntheir mouths are always like that."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["先刻伝えたように"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["貴様らには死よりも辛い報いを受けてもらうぞ！"]
+              "parameters": [
+                "As I mentioned earlier, you will receive a\npunishment more painful than death!"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -6478,29 +6178,23 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まるで太刀打ちできない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こんな相手に勝つことが出来るのだろうか"]
+              "parameters": [
+                "Can I really win against an opponent like this,\nwho I can't even compete with?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふん・・・弱すぎるな"]
+              "parameters": [
+                "Hmph... You're too weak, not even worth killing\ntime."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["暇つぶしにもならん"] },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・殺すか・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Kill..."] },
             {
               "code": 205,
               "indent": 0,
@@ -6547,136 +6241,126 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルは殺させない！"]
+              "parameters": [
+                "I won't let Aeru be killed! I'll be the one to\nface him!"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["俺が相手だ！"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["我の前に立つか・・・命は惜しくないのか？"]
+              "parameters": [
+                "Are you willing to stand before me... without\ntreasuring your life?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [14, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["死ぬのは怖いに決まっている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だが・・・それでも・・・！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["親友を見捨てるなんて選択を俺は選ばない！"]
+              "parameters": [
+                "I'm definitely scared of dying, but... even so...!\nI won't choose to abandon my best friend!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["なるほど・・・この男はお前にとって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大切な存在なのだな・・・"]
+              "parameters": [
+                "I see... This man is an important existence to\nyou, isn't he..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・はぁ"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["...*sigh*"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["良い人々と出会い"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前は今を幸せに生きているのだな"]
+              "parameters": [
+                "You are living happily now, having met good\npeople."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それは喜ぶべき事・・・か・・・"]
+              "parameters": ["Is that... something to be happy about..."]
             },
             { "code": 213, "indent": 0, "parameters": [9, 2, true] },
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 212, "indent": 0, "parameters": [9, 52, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・気が変わった"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前たちの言う呪いとやらは解いてやった"]
+              "parameters": [
+                "...I've decided to lift the curse or whatever you\ncall it that you were talking about."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これで行き場のない衝動に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["襲われることもなくなるだろう"]
+              "parameters": [
+                "With this, you won't be attacked by aimless\nimpulses anymore."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["お前はどうして"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この呪いで俺を・・・"]
+              "parameters": ["Why did you... curse me with this..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・そうだな・・・それは・・・"]
+              "parameters": ["...I see... that is..."]
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["いや、よそう"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これはもう過ぎ去った話だ"]
+              "parameters": [
+                "No, let's leave this. It's already a thing of the\npast."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["騒ぎ立ててすまなかった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう、我がお前たちの前に姿を現す事はないだろう"]
+              "parameters": [
+                "I'm sorry for causing a commotion. I won't appear\nbefore you all anymore."
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [8] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["精々短い時の中を幸せに過ごすのだな！"]
+              "parameters": [
+                "Spend your time in happiness, even if it's short!"
+              ]
             },
             { "code": 212, "indent": 0, "parameters": [-1, 117, false] },
             { "code": 212, "indent": 0, "parameters": [9, 117, false] },
@@ -6694,34 +6378,25 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["悪魔の言葉と共に白い柱が身を包み"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["視界が塗りつぶされていく"]
+              "parameters": [
+                "Along with the devil's words, a white pillar\nenvelops the body and the field of vision is being\npainted over."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["完全に見えなくなるその時に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["悪魔の目に浮かんでいたのは涙だっただろうか"]
+              "parameters": [
+                "At the moment when everything completely\ndisappears from view, was it tears that appeared\nin the eyes of the devil?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ハッキリと捉えようと目を凝らした頃には"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["視界は白に染まっていた"]
+              "parameters": [
+                "When I tried to focus my eyes clearly, the field\nof vision had already been dyed white."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [3] },
@@ -6886,81 +6561,69 @@
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["...You've come..."] },
+            { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・・・・来たか・・・"]
+              "parameters": ["...You've kept me waiting."]
             },
-            { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・またせたね"] },
             { "code": 213, "indent": 0, "parameters": [14, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いや、先刻話したではないか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それほど時間は・・・"]
+              "parameters": [
+                "??? No, we spoke just a while ago. It hasn't been\nthat long..."
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [8] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["本当にまたせてしまった・・・クロちゃん"]
+              "parameters": ["I've really kept you waiting, Kuro-chan"]
             },
             { "code": 213, "indent": 0, "parameters": [14, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライト・・・どうして・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
+            { "code": 401, "indent": 0, "parameters": ["Kuro...why..."] },
             { "code": 213, "indent": 0, "parameters": [17, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["やっと思い出したんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["君との出会いや重ねた日々を"]
+              "parameters": [
+                "I finally remembered our meeting and the days we\nspent together."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・だからね"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["話したいことが沢山あるんだ"]
+              "parameters": [
+                "...So, there are a lot of things I want to talk\nabout."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["今までのこと"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それからこれからのこと"]
+              "parameters": [
+                "Everything up until now, and everything from now\non."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そ・・・そんな・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
+            { "code": 401, "indent": 0, "parameters": ["Th...that..."] },
             {
               "code": 241,
               "indent": 0,
@@ -6970,87 +6633,68 @@
             },
             { "code": 213, "indent": 0, "parameters": [14, 5, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんな言葉信用できるものか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["我が今までどんな気持ちでっ！"]
+              "parameters": [
+                "Can I really trust those words after all the\nfeelings I've had until now?!"
+              ]
             },
             { "code": 212, "indent": 0, "parameters": [7, 76, false] },
             { "code": 230, "indent": 0, "parameters": [1] },
             { "code": 212, "indent": 0, "parameters": [8, 76, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前たちは我を倒すために"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["此処まで来たのだろう！？"]
+              "parameters": ["Did you all come here just to defeat me?!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["我に言いたいことがあるのなら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["力尽くで聞かせてみるのだな！"]
+              "parameters": [
+                "If you have something to say to me, then try to\nmake me listen with all your might!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [17, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["待ってくれ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["僕は君と戦いたくない！"]
+              "parameters": ["Wait! I don't want to fight you!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
-            { "code": 401, "indent": 0, "parameters": ["知るかバカ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["その生意気な口をお前の命ごと消し去ってくれる！"]
+              "parameters": [
+                "Who cares, idiot! I'll wipe away that cheeky mouth\nof yours along with your life!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・アイルすまない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["彼女は僕に任せてくれないか"]
+              "parameters": ["...Aeru, I'm sorry. Won't you leave her to me?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["口を挟むだけ野暮というモノだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺の事はいいからしっかり話してこい！"]
+              "parameters": [
+                "Just butting in is so uncouth. Forget about me and\ntalk properly!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["ありがとう、アイル!"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Thank you, Aeru!"] },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 301, "indent": 0, "parameters": [0, 28, false, false] },
             { "code": 242, "indent": 0, "parameters": [1] },
@@ -7139,99 +6783,86 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・・・・うぅ・・・ぐすっ・・・えぐっ・・・"]
+              "parameters": ["...Ugh... *sob*... *cough*..."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ごめん・・・本当にごめんね"]
+              "parameters": ["I'm sorry... I'm really sorry, Kuro-chan..."]
             },
-            { "code": 401, "indent": 0, "parameters": ["クロちゃん・・・"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["我は待つのはもう嫌だって"]
+              "parameters": ["I said I'm tired of waiting."]
             },
-            { "code": 401, "indent": 0, "parameters": ["そう言ったのに"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトは約束を破ったんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だから、嫌い・・・きらいだぁ・・・"]
+              "parameters": [
+                "Light broke the promise, so I hate... I really\nhate him..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これからはずっと傍にいる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["君が僕の事を嫌いだとしても"]
+              "parameters": [
+                "Even if you hate me for being by your side from\nnow on"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["本当に許せないというなら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["僕の事を殺してしまっても構わない"]
+              "parameters": [
+                "If you truly can't forgive me, then I don't mind\nif you kill me."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それでクロちゃんの心が晴れるなら"]
+              "parameters": ["If that will clear Kuro-chan's heart--"]
             },
             { "code": 213, "indent": 0, "parameters": [14, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・出来る訳がない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だって、我はずっとライトの事が大好きだから"]
+              "parameters": [
+                "...There's no way I can do that, because I've\nalways loved Light."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ありがとう、僕も大好きだよ"]
+              "parameters": ["Thank you, I love you too."]
             },
             { "code": 213, "indent": 0, "parameters": [14, 4, true] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・よかった"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["二人とも本当に幸せそうだ"]
+              "parameters": [
+                "...thank goodness, both of them look truly happy."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 242, "indent": 0, "parameters": [10] },
@@ -7239,40 +6870,30 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それから、クロは俺たちと一緒に村へと向かった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["迷惑を掛けてごめんなさいって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["皆にペコペコ謝っていた"]
+              "parameters": [
+                "After that, Kuro apologized profusely to everyone\nfor causing trouble and then headed to the village\nwith us."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺にも本当にごめんって"]
+              "parameters": [
+                "He apologized to me profusely as well, and deep\ndown, he might be a good kid."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何度も謝られた、根はいい子なのかも知れない"]
+              "parameters": [
+                "That's true, after all, she's the girl my best\nfriend loved."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["それもそうだろう"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だって、親友が愛した女の子なのだから"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 121, "indent": 0, "parameters": [634, 634, 1] },
             { "code": 201, "indent": 0, "parameters": [0, 185, 10, 3, 2, 0] },
             { "code": 0, "indent": 0, "parameters": [] }

@@ -602,7 +602,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1126,30 +1126,24 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["誰かの声が聞こえたような気がしたが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それと同時に酷い眠気が身体を襲う"]
+              "parameters": [
+                "I felt like I heard someone's voice, but at the\nsame time, a terrible drowsiness attacked my body."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こんな所で眠っている場合じゃないのに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["早く二人の所へ行かなければ・・・"]
+              "parameters": [
+                "I shouldn't be sleeping in a place like this. I\nneed to hurry and go to the two of them..."
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 246, "indent": 0, "parameters": [5] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 121, "indent": 0, "parameters": [589, 589, 0] },
@@ -1158,12 +1152,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ヒロイン視点を見ますか？"]
+              "parameters": ["Do you want to see the heroine's point of view?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["見るぜ！", "・・・見なくていい"], 1, 0, 2, 0]
+              "parameters": [["Let's see!", "No need to see"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "見るぜ！"] },
             { "code": 201, "indent": 1, "parameters": [0, 172, 27, 24, 0, 0] },
@@ -1271,7 +1265,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1368,7 +1362,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1425,7 +1419,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1541,7 +1535,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1598,7 +1592,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1655,7 +1649,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1712,7 +1706,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1769,7 +1763,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["There is something white spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1826,7 +1820,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1883,7 +1877,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1937,21 +1931,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あ・・・えっと・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この先から私たちは来たんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何もなかったから先に進もう！"]
+              "parameters": [
+                "Um... well... we came from ahead and there was\nnothing, so let's move on!"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1996,13 +1982,14 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ん・・・この先は行き止まり"]
+              "parameters": [
+                "Hmm... There's no point in going any further if\nit's a dead end."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["行っても意味ないよ"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2046,16 +2033,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっー！こっちは行かない方がいいよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何だかよくない気配がするっ！"]
+              "parameters": [
+                "Ah-! It's better not to go this way, it feels like\nsomething bad is there!"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2112,7 +2096,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2160,7 +2144,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2217,7 +2201,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2265,7 +2249,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2322,7 +2306,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2419,7 +2403,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2516,7 +2500,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2564,7 +2548,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2621,7 +2605,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2669,7 +2653,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2726,7 +2710,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2783,7 +2767,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3319,14 +3303,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["先ほどの行為の跡が残っている"]
+              "parameters": ["Traces of the previous act remain."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["帰ったら続きしようね\\i[249]"]
+              "parameters": ["Let's continue when we get back, okay? \\i[249]"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3374,15 +3358,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["先ほどの行為の跡が残っている"]
+              "parameters": ["The traces of the previous act remain."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・ん"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これからはいっぱいしよ"]
+              "parameters": ["...From now on, let's do it a lot."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3430,11 +3413,11 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["先ほどの行為の跡が残っている"]
+              "parameters": ["There are traces of the previous act remaining."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・恥ずかしいっ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Embarrassing."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,

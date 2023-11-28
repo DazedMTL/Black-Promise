@@ -11,7 +11,7 @@
   },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "ミールの家２Ｆ",
+  "displayName": "Miiru's House 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -216,7 +216,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["小さなティーカップが並んでいる"]
+              "parameters": ["Small teacups are lined up"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -270,11 +270,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["凄く大きなベッドだ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ミールには必要なさそうな気もする"]
+              "parameters": [
+                "It's a really big bed. It doesn't seem like Miiru\nneeds it."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -331,7 +332,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["不格好なぬいぐるみが置かれている"]
+              "parameters": ["There is an unattractive stuffed animal placed."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

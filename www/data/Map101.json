@@ -1614,18 +1614,20 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["ふぅー！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日も何とかなったね！"]
+              "parameters": ["Phew-! We managed to get through today too!"]
             },
             { "code": 213, "indent": 0, "parameters": [8, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["ん・・・そうだね"] },
-            { "code": 401, "indent": 0, "parameters": ["うん、いいことだ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hmm... Yeah, that's right. It's a good thing."]
+            },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
             {
               "code": 205,
@@ -1646,12 +1648,13 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["ライトどうしたの？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もしかして具合が悪いとか・・・"]
+              "parameters": [
+                "Light, what's wrong? Are you feeling unwell by any\nchance..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [8, 11, false] },
             {
@@ -1673,20 +1676,24 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["え！？いやそんな"] },
-            { "code": 401, "indent": 0, "parameters": ["全然大丈夫だよ！"] },
-            { "code": 101, "indent": 0, "parameters": ["hiroin3", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・そう？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それならいいけど・・・"]
+              "parameters": ["Huh!? No, I'm totally fine!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin3", 2, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "...Is that so? Well, if that's the case, then it's\nfine."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 2, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["あやしい・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            { "code": 401, "indent": 0, "parameters": ["Suspicious..."] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 246, "indent": 0, "parameters": [3] },
             { "code": 201, "indent": 0, "parameters": [0, 102, 2, 5, 0, 0] },
@@ -2026,23 +2033,20 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["道具屋さんには隣の扉から入ろっ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日は遊びに来たわけじゃなくて"]
+              "parameters": [
+                "I'm going to enter from the next door to the tool\nshop. I didn't come here to play today."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["商品を買うために来たからね！"]
+              "parameters": ["I came to buy some items, you know!"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2088,11 +2092,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["すぐ隣の扉から入ろっ"]
+              "parameters": ["Enter through the door right next to us."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

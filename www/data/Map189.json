@@ -11,7 +11,7 @@
   },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "ライトの家",
+  "displayName": "Light's house",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -576,7 +576,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトの好きなお酒が並んでいる"]
+              "parameters": ["Light's favorite drinks are lined up"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -633,12 +633,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["大きなピアノが置いてある"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトのピアノは穏やかでとても好きだ"]
+              "parameters": [
+                "Light's piano with a large piano placed on it is\ncalm and very pleasant"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -697,32 +694,36 @@
               "parameters": [1, "hiro2 ni", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイルおはよう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ちょっとライトに用事があったの"]
+              "parameters": [
+                "Aeru, good morning. I have something to do with\nLight for a moment."
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["ふーん", "どんな用事？"], 1, 0, 2, 0]
+              "parameters": [["Oh, I see", "What's the matter?"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "ふーん"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 1, "parameters": ["アイル拗ねてるの？"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["・・・今度エッチしようね"]
+              "parameters": ["Is Aeru sulking? ...Let's have sex next time."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "どんな用事？"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 1, "parameters": ["ん・・・内緒・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Mm... It's a secret..."]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -774,36 +775,31 @@
               "parameters": [1, "hiro2 ni", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["来てくれてありがとうアイル"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["最近今まで以上に外出できなくて"]
+              "parameters": [
+                "Thank you for coming, Aeru. Lately, I haven't been\nable to go out more than before."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["きっとお腹の子供も喜ぶ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もうすぐ産まれる予定だからアイルも来てね"]
+              "parameters": [
+                "I'm sure the baby in my belly will be happy too.\nIt's almost time for it to be born, so Aeru,\nplease come."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そういうマーガレットの表情は"]
+              "parameters": [
+                "Margaret's expression looked very mature in that\nway."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["凄く大人びて見えた"] },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -849,8 +845,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["長居しても悪いから"] },
-            { "code": 401, "indent": 0, "parameters": ["他の所へ行こう"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "It's not good to stay too long, so let's go\nsomewhere else."
+              ]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -997,41 +998,36 @@
               "parameters": [1, "hiro1 ni", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あ・・・アイルおはよう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["えっと、ライトが最近忙しそうだから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["家事のお手伝いしてあげてるんだ"]
+              "parameters": [
+                "Ah... Aeru, good morning. Um, I've been helping\nwith the housework lately because Light seems\nbusy."
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["そうなんだ", "エッチしようよ"], 1, 0, 2, 0]
+              "parameters": [["Is that so?", "Let's have sex"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "そうなんだ"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["うん・・・また後でね"]
+              "parameters": ["Yeah... See you later."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "エッチしようよ"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["まったくもう"] },
-            { "code": 401, "indent": 1, "parameters": ["また今度ね"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Jeez, see you next time."]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -1083,35 +1079,30 @@
               "parameters": [1, "hiro1 ni", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["おはようアイル"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["えへへ、お腹もすっかり大きくなっちゃった"]
+              "parameters": [
+                "Good morning Aeru, ehehe, my belly has gotten\nreally big."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["えへへ、アイルおじさんですよ～"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["早く会いたいですね～"]
+              "parameters": [
+                "Ehehe, Aeru-ojisan, I can't wait to see you soon~"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラはお腹の子供に話しかけている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["すっかりお母さんなんだな・・・"]
+              "parameters": [
+                "Lira is talking to her belly, she's really become\na mother..."
+              ]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -1161,7 +1152,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["家事の邪魔はしないようにしよう"]
+              "parameters": [
+                "Let's make sure not to get in the way of the\nhousework."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1260,13 +1253,19 @@
               "parameters": [1, "hiro1 ni", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ねぇねぇ！"] },
-            { "code": 401, "indent": 0, "parameters": ["早く続きしようよ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hey, hey! Let's continue quickly!"]
+            },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["あ・・・おはよ"] },
-            { "code": 401, "indent": 0, "parameters": ["アイル"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Ah...good morning, Aeru"]
+            },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1315,7 +1314,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらの事は気にかけてないようだ"]
+              "parameters": [
+                "It seems like they're not paying attention to this\nmatter."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1414,15 +1415,15 @@
               "parameters": [1, "hiro2 ni", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・まだ全然足りない"]
+              "parameters": ["...It's still not nearly enough"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["どうかしたの？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["What's wrong?"] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1471,7 +1472,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらの事は気にかけてないようだ"]
+              "parameters": [
+                "It seems like they're not paying attention to this\nmatter."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1570,16 +1573,20 @@
               "parameters": [1, "hiro3", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["ライトー！"] },
-            { "code": 401, "indent": 0, "parameters": ["観念しなさい！"] },
-            { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["おはよう、アイル"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今忙しいからまた今度ね！"]
+              "parameters": ["Light-! Accept your fate!"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Good morning, Aeru. I'm busy right now, so let's\ntalk later!"
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -1629,7 +1636,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらの事は気にかけてないようだ"]
+              "parameters": [
+                "It seems like they're not paying attention to this\nmatter."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1724,23 +1733,18 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁ・・・いったいどうして"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こうなってしまったんだ・・・"]
+              "parameters": ["Haa... Why did it have to come to this..."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まぁ、責任はとらなきゃね・・・"]
+              "parameters": ["Well, I guess I have to take responsibility..."]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1789,7 +1793,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらに構っている余裕はなさそうだ"]
+              "parameters": [
+                "It doesn't seem like there's any room to pay\nattention to me here."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

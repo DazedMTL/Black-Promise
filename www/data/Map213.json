@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "自宅２Ｆ",
+  "displayName": "Second Floor of Home",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -163,7 +163,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["綺麗な花瓶が置いてある"]
+              "parameters": ["There is a beautiful vase placed."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -211,15 +211,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["綺麗な花瓶が置いてある"]
+              "parameters": ["There is a beautiful vase placed."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["触りますか？"] },
-            { "code": 401, "indent": 0, "parameters": ["（回想部屋）"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Will you touch it? (Flashback Room)"]
+            },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["はい", "いいえ"], 1, 0, 2, 0]
+              "parameters": [["Yes", "No"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "はい"] },
             { "code": 201, "indent": 1, "parameters": [0, 47, 2, 2, 2, 0] },

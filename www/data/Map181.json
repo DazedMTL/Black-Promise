@@ -1218,163 +1218,129 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CLそれから僕は村長に保護された"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
               "parameters": [
-                "だけど、全てを失った僕はただ何もせずに過ごしていた"
+                "\\CLAfter that, I was taken in by the village chief,\nbut having lost everything, I just spent my days\ndoing nothing."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CLそんな僕を変えるきっかけを作ったのは"]
+              "parameters": [
+                "\\CLHe was undoubtedly the one who created the\nopportunity to change someone like me."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["間違いなく彼だろう"] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アイル】"] },
-            { "code": 401, "indent": 0, "parameters": ["こんにちは！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺はアイルって言うんだ君は？"]
+              "parameters": ["Hello! I'm Aeru, what's your name?"]
             },
             { "code": 213, "indent": 0, "parameters": [11, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・・・・たぶん、ライト・・・"]
+              "parameters": ["...Probably, Light..."]
             },
             { "code": 213, "indent": 0, "parameters": [12, 2, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アイル】"] },
-            { "code": 401, "indent": 0, "parameters": ["たぶん？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["不思議な言い方をするね"]
+              "parameters": ["You have a strange way of speaking, don't you?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["僕は、ここに来る前の記憶が無いから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この名前だって村長さんが言っていただけで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["本当の名前かもわからないし"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["僕には何もないから"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["きっと一緒にいても意味ないよ"]
-            },
-            { "code": 213, "indent": 0, "parameters": [12, 8, true] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アイル】"] },
-            { "code": 401, "indent": 0, "parameters": ["君・・・ライトはさ"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["文字を読んだりは出来る？"]
-            },
-            { "code": 213, "indent": 0, "parameters": [11, 2, false] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うん、この前見せてもらった文字は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちゃんと理解できたよ"]
-            },
-            { "code": 213, "indent": 0, "parameters": [12, 3, false] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アイル】"] },
-            { "code": 401, "indent": 0, "parameters": ["そうなんだ！"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["じゃあ、俺が読んでみて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["面白かった本貸してあげるよ！"]
-            },
-            { "code": 213, "indent": 0, "parameters": [11, 8, false] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["え・・・いや・・・別に・・・"]
-            },
-            { "code": 213, "indent": 0, "parameters": [12, 4, false] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アイル】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それとさ、お花畑とか見たことある！？"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "白くてきれいな花がさ、沢山咲いている場所があるんだぁ！"
+                "I don't have any memories from before coming here,\nso even the name I was given by the village chief\nmight not be my real name."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["見たことないけど・・・だから・・・"]
+              "parameters": [
+                "I have nothing, so surely it's meaningless to be\nwith me."
+              ]
+            },
+            { "code": 213, "indent": 0, "parameters": [12, 8, true] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Can you... read letters, Light?"]
+            },
+            { "code": 213, "indent": 0, "parameters": [11, 2, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Yeah, I was able to understand the letters you\nshowed me the other day."
+              ]
+            },
+            { "code": 213, "indent": 0, "parameters": [12, 3, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Is that so! Then, I'll lend you an interesting\nbook for you to read!"
+              ]
+            },
+            { "code": 213, "indent": 0, "parameters": [11, 8, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Uh... no... it's nothing..."]
+            },
+            { "code": 213, "indent": 0, "parameters": [12, 4, false] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "By the way, have you ever seen a flower field?\nThere's a place where lots of beautiful white\nflowers bloom!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アイル】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もったいないなぁ・・・"]
+              "parameters": ["I've never seen it... so..."]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・よし！今から見に行こう！"]
+              "parameters": ["What a waste... Alright! Let's go see it now!"]
             },
             { "code": 213, "indent": 0, "parameters": [12, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アイル】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["その途中にも、景色が綺麗な丘だろ？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大きい魚が取れる川もあるし・・・あと・・・"]
+              "parameters": [
+                "On the way, there's a beautiful hill, right?\nThere's also a river where you can catch big\nfish... and also..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [11, 11, true] },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1382,91 +1348,64 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CLその日は結局日が暮れてるまで連れ回されて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["帰ってきたら村長さんに二人でいっぱい怒られた"]
+              "parameters": [
+                "\\CLIn the end, we were dragged around until the sun\nset, and when we returned, the village chief\nscolded us a lot."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CLアイルと経験することはどれも素敵だった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一つ思い出を重ねるごとに僕の心が豊かになる"]
+              "parameters": [
+                "\\CLEach experience with Aeru was wonderful, and with\neach memory we made, my heart became richer."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL記憶を失ってからの僕は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルとの思い出で出来ている"]
+              "parameters": [
+                "\\CLSince losing my memory, I have been made up of\nmemories with Aeru."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CLそれは前の僕と少し違うのかも知れない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["けれど、アイルやみんなと過ごせた日々は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["間違いなく幸せだった"]
+              "parameters": [
+                "\\CLIt may be a little different from the old me, but\nthe days I spent with Aeru and everyone were\ndefinitely happy."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\CL・・・・・・・・・・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["\\CL..."] },
             { "code": 242, "indent": 0, "parameters": [8] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL僕が救われた一方で"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今も一人泣いている女の子がいる"]
+              "parameters": [
+                "\\CLWhile I was saved, there is still a girl crying\nalone."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL救いたい、暗い所で閉じこもっていないで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["日の光を浴びて一緒に笑ってほしい"]
+              "parameters": [
+                "\\CLI want to save her. I want her to bask in the\nsunlight and laugh together, instead of shutting\nherself away in a dark place."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL・・・クロ・・・僕の大好きな女の子・・・"]
+              "parameters": ["\\CL...Kuro... my beloved girl..."]
             },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\CL・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["\\CL..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\CL・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["\\CL..."] },
             { "code": 211, "indent": 0, "parameters": [1] },
             { "code": 121, "indent": 0, "parameters": [615, 615, 0] },
             { "code": 201, "indent": 0, "parameters": [0, 168, 10, 8, 2, 0] },
@@ -2193,23 +2132,20 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["道具屋さんには隣の扉から入ろっ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日は遊びに来たわけじゃなくて"]
+              "parameters": [
+                "Enter from the door next to the tool shop. I\ndidn't come here to play today."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["商品を買うために来たからね！"]
+              "parameters": ["I came to buy some items, you know!"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2255,11 +2191,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["すぐ隣の扉から入ろっ"]
+              "parameters": ["Enter through the door right next to us."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

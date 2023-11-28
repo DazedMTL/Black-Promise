@@ -6,7 +6,7 @@
   "bgm": { "name": "CT_Nina", "pan": 0, "pitch": 100, "volume": 65 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "遺跡周辺　川辺",
+  "displayName": "Ruins Surrounding Riverside",
   "encounterList": [
     { "regionSet": [], "troopId": 1, "weight": 5 },
     { "regionSet": [], "troopId": 2, "weight": 5 },
@@ -294,22 +294,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -721,20 +717,20 @@
           "list": [
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この子はラルーラ村の・・・"]
+              "parameters": ["This child is from the Lal-La village..."]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["助ける", "良いことを思いつく", "放っておく"],
+                ["Help", "Come up with a good idea", "Leave it be"],
                 2,
                 0,
                 1,
@@ -744,12 +740,13 @@
             { "code": 402, "indent": 0, "parameters": [0, "助ける"] },
             { "code": 242, "indent": 1, "parameters": [4] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【冒険者】"] },
-            { "code": 401, "indent": 1, "parameters": ["はぁ、村まで送るか"] },
+            { "code": 401, "indent": 1, "parameters": ["【Adventurer】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["綺麗な子だからなこれぐらいサービスしとかないとね"]
+              "parameters": [
+                "Haa, I'll send her to the village. She's a\nbeautiful girl, so I should at least do this much\nas a service."
+              ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 121, "indent": 1, "parameters": [317, 317, 0] },
@@ -759,17 +756,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["戦闘後マーガレットを探したが見つけられなかった"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["しかし、村に戻ると救助してくれた人がいたらしく"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["体調にも特に異常はないらしい"]
+              "parameters": [
+                "After the battle, I searched for Margaret but\ncouldn't find her. However, when I returned to the\nvillage, it seems that someone had rescued her,\nand apparently there are no particular\nabnormalities in her condition."
+              ]
             },
             { "code": 117, "indent": 1, "parameters": [13] },
             { "code": 211, "indent": 1, "parameters": [1] },
@@ -788,16 +777,13 @@
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [4] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【冒険者】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Adventurer】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["・・・助けてあげるわけだし"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ちょっと楽しんじまおうかな・・・"]
+              "parameters": [
+                "Since I'm helping her, maybe I should have a\nlittle fun..."
+              ]
             },
             { "code": 213, "indent": 1, "parameters": [8, 4, true] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -810,7 +796,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["戦闘後マーガレットを探したが見つけられなかった"]
+              "parameters": [
+                "After the battle, I searched for Margaret but\ncouldn't find her."
+              ]
             },
             { "code": 201, "indent": 1, "parameters": [0, 4, 19, 2, 2, 0] },
             { "code": 211, "indent": 1, "parameters": [1] },
@@ -826,21 +814,13 @@
             { "code": 402, "indent": 0, "parameters": [2, "放っておく"] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【冒険者】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Adventurer】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["まぁ、助けてやる義理もないか・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["適当にその辺に寝かせておけば"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["そのうち目が覚めるだろ"]
+              "parameters": [
+                "Well, I don't really have an obligation to help...\nI'll just leave her lying around here and she'll\nprobably wake up eventually."
+              ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 121, "indent": 1, "parameters": [312, 312, 0] },
@@ -924,16 +904,11 @@
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 213, "indent": 1, "parameters": [9, 8, false] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ガラの悪い男】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Bad man】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ったく遺跡ったって何もありゃしねぇ"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["・・・なんだこいつは？"]
+              "parameters": ["There's nothing in these ruins... What's this?"]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             {
@@ -965,36 +940,36 @@
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ガラの悪い男】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["いいのが落ちてるじゃねぇか"]
+              "parameters": ["【Bad-tempered man】"]
             },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["・・・こいつがいればお頭も喜ぶぜ！"]
+              "parameters": [
+                "Look at this, there's something good here... With\nthis, the boss will be pleased!"
+              ]
             },
             { "code": 213, "indent": 1, "parameters": [9, 4, false] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ガラの悪い男】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Bad guy】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["それじゃ目が覚めても困るからな"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["薬を飲ませてさっさと連れていきますか"]
+              "parameters": [
+                "Well, I don't want her waking up and causing\ntrouble, so should I give her some medicine and\ntake her away quickly?"
+              ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["戦闘後マーガレットを探したが見つけられなかった"]
+              "parameters": [
+                "After the battle, I searched for Margaret but\ncouldn't find her."
+              ]
             },
             { "code": 121, "indent": 1, "parameters": [318, 318, 0] },
             { "code": 211, "indent": 1, "parameters": [1] },

@@ -6,7 +6,7 @@
   "bgm": { "name": "CT_Nina", "pan": 0, "pitch": 100, "volume": 65 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "ラリウス遺跡　",
+  "displayName": "Larius Ruins",
   "encounterList": [
     { "regionSet": [], "troopId": 15, "weight": 5 },
     { "regionSet": [], "troopId": 16, "weight": 5 },
@@ -317,16 +317,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["【北の森１】に移動します"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["よろしいですか？"] },
+            { "code": 401, "indent": 0, "parameters": ["【North Forest 1】"] },
+            { "code": 401, "indent": 0, "parameters": ["Are you sure?"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["いくぜ！", "いや、行かないが"], 1, 0, 2, 0]
+              "parameters": [["Let's go!", "No, I'm not going"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "いくぜ！"] },
             {
@@ -384,16 +380,16 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【North Forest 1】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【北の森１】に移動します"]
+              "parameters": ["Move to North Forest 1?"]
             },
-            { "code": 401, "indent": 0, "parameters": ["よろしいですか？"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["いくぜ！", "いや、行かないが"], 1, 0, 2, 0]
+              "parameters": [["Let's go!", "No, I won't go"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "いくぜ！"] },
             {
@@ -451,16 +447,16 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【North Forest 1】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【北の森１】に移動します"]
+              "parameters": ["Move to North Forest 1?"]
             },
-            { "code": 401, "indent": 0, "parameters": ["よろしいですか？"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["いくぜ！", "いや、行かないが"], 1, 0, 2, 0]
+              "parameters": [["Let's go!", "No, I won't go"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "いくぜ！"] },
             {
@@ -518,16 +514,16 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【North Forest 1】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【北の森１】に移動します"]
+              "parameters": ["Move to North Forest 1?"]
             },
-            { "code": 401, "indent": 0, "parameters": ["よろしいですか？"] },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["いくぜ！", "いや、行かないが"], 1, 0, 2, 0]
+              "parameters": [["Let's go!", "No, I won't go"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "いくぜ！"] },
             {
@@ -736,24 +732,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["目の前に建物が見える"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうやらラリウス遺跡の最奥に到着したようだ"]
+              "parameters": [
+                "It seems we have arrived at the deepest part of\nthe Larius Ruins, as a building is visible in\nfront of us."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうにかここまで辿り着いたね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["後は悪魔を見つけて呪いを解いてもらうだけだ"]
+              "parameters": [
+                "We've somehow managed to make it this far. Now all\nthat's left is to find the demon and have them\nlift the curse."
+              ]
             },
             {
               "code": 205,
@@ -862,11 +852,11 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["よくぞ此処まで来たな・・・人間よ・・・"]
+              "parameters": ["Well done for making it this far... humans..."]
             },
             { "code": 212, "indent": 0, "parameters": [7, 102, false] },
             { "code": 121, "indent": 0, "parameters": [567, 567, 0] },
@@ -882,122 +872,92 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["禍々しいオーラを纏った何者かが現れる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["恐らく探していた悪魔で間違いないだろう"]
+              "parameters": [
+                "Someone clad in a sinister aura has appeared. It's\nprobably the demon we've been looking for, without\na doubt."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・怯んでいるわけにもいかない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトの呪いを解くようにと呼びかける"]
+              "parameters": [
+                "I call out to Light, urging him to lift the curse\nwithout showing any fear."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["呪い・・・か・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["モノの本質も見抜けない愚かな生き物だ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お前もそう思うだろう・・・ライトよ"]
+              "parameters": [
+                "You foolish creatures who can't even see the true\nnature of the curse... I'm sure you think the\nsame, Light."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [6, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["生憎と俺にもさっぱりだよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この呪いのせいで沢山の人に迷惑をかけた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何としても解いてもらう"]
+              "parameters": [
+                "Unfortunately, I'm completely clueless about this\ncurse, and it has caused a lot of trouble for many\npeople. I must find a way to lift it no matter\nwhat."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そうか・・・やはり、そうなのだな・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["時の流れは全てを変えてしまう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["形あるモノもそうでないモノも"]
+              "parameters": [
+                "I see... indeed, that's how it is... the passage\nof time changes everything, whether it's something\nwith a form or something without."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前も例外ではなかった・・・それだけの事・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["人間に期待した我が愚かだった・・・"]
+              "parameters": [
+                "You were no exception... that's all... It was\nfoolish of me to expect anything from humans..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [6, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前は何を言っているんだ・・・？"]
+              "parameters": ["What are you talking about...?"]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・ふんっ"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["最早交わす言葉などありはしない"]
+              "parameters": [
+                "...Hmph, there are no words to exchange at this\nearly stage."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["せめてもの情けだ"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここで引き返すならよし"]
+              "parameters": [
+                "It's the least I can do to show mercy. If you turn\nback here, then so be it."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もしも、再び我の前に現れたなら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その時は死よりも恐ろしい報いを与えてやろう"]
+              "parameters": [
+                "If you dare to appear before me again, I will\nbestow a punishment more terrifying than death\nupon you."
+              ]
             },
             {
               "code": 232,
@@ -1064,73 +1024,58 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・恐らく、先ほどの奴が"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["村の言い伝えにあった悪魔・・・"]
+              "parameters": [
+                "...Probably, the one from earlier is the demon\nmentioned in the village legend..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["少し様子がおかしかったね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何だか奇妙な事を言っていたよ"]
+              "parameters": [
+                "Something seemed a little off. She was saying\nsomething strange."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど、ここまで来て引くわけにもいかない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何としてもライトの呪いを解こう"]
+              "parameters": [
+                "However, I can't just back down after coming this\nfar. I must find a way to lift Light's curse no\nmatter what."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["当たり前だよっ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どんな困難があっても"]
+              "parameters": [
+                "Of course! No matter what difficulties there are,\nI will definitely help you."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["絶対に助けてあげる"] },
             { "code": 242, "indent": 0, "parameters": [4] },
             { "code": 213, "indent": 0, "parameters": [6, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ありがとう、二人とも・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺は本当にいい友人を持った"]
+              "parameters": [
+                "Thank you, both of you... I truly have good\nfriends"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["悪魔を倒して何としてもライトの呪いを解こうと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["気持ちを新たにした・・・"]
+              "parameters": [
+                "I renewed my determination to defeat the demon and\nlift Light's curse no matter what..."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [566, 566, 1] },
@@ -1211,24 +1156,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["目の前に建物が見える"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうやらラリウス遺跡の最奥に到着したようだ"]
+              "parameters": [
+                "It seems we have arrived at the deepest part of\nthe Larius Ruins, as a building is visible in\nfront of us."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうにかここまで辿り着いたね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["後は悪魔を見つけて呪いを解いてもらうだけだ"]
+              "parameters": [
+                "We somehow managed to make it this far. Now all\nthat's left is to find the demon and have them\nlift the curse."
+              ]
             },
             {
               "code": 205,
@@ -1337,11 +1276,11 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["よくぞ此処まで来たな・・・人間よ・・・"]
+              "parameters": ["Well done for making it this far...humans..."]
             },
             { "code": 212, "indent": 0, "parameters": [7, 102, false] },
             { "code": 121, "indent": 0, "parameters": [567, 567, 0] },
@@ -1357,122 +1296,92 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["禍々しいオーラを纏った何者かが現れる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["恐らく探していた悪魔で間違いないだろう"]
+              "parameters": [
+                "Someone clad in a sinister aura appears. It's\nprobably the demon we've been looking for, without\na doubt."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・怯んでいるわけにもいかない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトの呪いを解くようにと呼びかける"]
+              "parameters": [
+                "I call out to Light, urging him to lift the curse\nwithout showing any signs of fear."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["呪い・・・か・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["モノの本質も見抜けない愚かな生き物だ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お前もそう思うだろう・・・ライトよ"]
+              "parameters": [
+                "You...humans who can't even see the essence of the\ncurse...you must think you're foolish as well,\nLight."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [6, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["生憎と俺にもさっぱりだよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この呪いのせいで沢山の人に迷惑をかけた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何としても解いてもらう"]
+              "parameters": [
+                "Unfortunately, I have no idea about this curse. It\nhas caused a lot of trouble for many people, and I\nmust find a way to lift it."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そうか・・・やはり、そうなのだな・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["時の流れは全てを変えてしまう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["形あるモノもそうでないモノも"]
+              "parameters": [
+                "I see...indeed, that's how it is...the passage of\ntime changes everything, both the things that have\na form and those that do not."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前も例外ではなかった・・・それだけの事・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["人間に期待した我が愚かだった・・・"]
+              "parameters": [
+                "You were no exception... that's all... it was\nfoolish of me to expect anything from humans..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [6, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前は何を言っているんだ・・・？"]
+              "parameters": ["What are you talking about...?"]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・ふんっ"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["最早交わす言葉などありはしない"]
+              "parameters": [
+                "...Hmph, there are no words to exchange at this\nearly stage."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["せめてもの情けだ"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここで引き返すならよし"]
+              "parameters": [
+                "At least it's a small mercy. If you were to turn\nback here, then so be it."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もしも、再び我の前に現れたなら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その時は死よりも恐ろしい報いを与えてやろう"]
+              "parameters": [
+                "If you were to appear before me again, I would\nbestow a punishment more terrifying than death\nupon you."
+              ]
             },
             {
               "code": 232,
@@ -1539,68 +1448,56 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・恐らく、先ほどの奴が"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["村の言い伝えにあった悪魔・・・"]
+              "parameters": [
+                "...Probably, the one from earlier is the demon\nmentioned in the village's folklore..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["死よりも恐ろしい報い・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あまり気持ちのいい感じがしない"]
+              "parameters": [
+                "A punishment more terrifying than death... doesn't\nfeel very pleasant."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど、ここまで来て引くわけにもいかない"]
+              "parameters": [
+                "However, I can't just back down after coming this\nfar. I must find a way to lift Light's curse no\nmatter what."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何としてもライトの呪いを解こう"]
+              "parameters": ["That's right, I'll stick with it until the end."]
             },
-            { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["それはそう"] },
-            { "code": 401, "indent": 0, "parameters": ["最後まで付き合う"] },
             { "code": 242, "indent": 0, "parameters": [4] },
             { "code": 213, "indent": 0, "parameters": [6, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ありがとう、二人とも・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺は本当にいい友人を持った"]
+              "parameters": [
+                "Thank you, both of you... I truly have good\nfriends"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["悪魔を倒して何としてもライトの呪いを解こうと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["気持ちを新たにした・・・"]
+              "parameters": [
+                "I renewed my determination to defeat the demon and\nlift Light's curse no matter what..."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [566, 566, 1] },
@@ -1681,24 +1578,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["目の前に建物が見える"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうやらラリウス遺跡の最奥に到着したようだ"]
+              "parameters": [
+                "It seems we have arrived at the deepest part of\nthe Larius Ruins, as a building is visible in\nfront of us."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうにかここまで辿り着いたね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["後は悪魔を見つけて呪いを解いてもらうだけだ"]
+              "parameters": [
+                "Somehow we've managed to make it this far. Now all\nthat's left is to find the demon and have them\nlift the curse."
+              ]
             },
             {
               "code": 205,
@@ -1807,11 +1698,11 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["よくぞ此処まで来たな・・・人間よ・・・"]
+              "parameters": ["Well done for making it this far... humans..."]
             },
             { "code": 212, "indent": 0, "parameters": [7, 102, false] },
             { "code": 121, "indent": 0, "parameters": [567, 567, 0] },
@@ -1827,122 +1718,92 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["禍々しいオーラを纏った何者かが現れる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["恐らく探していた悪魔で間違いないだろう"]
+              "parameters": [
+                "Someone clad in a sinister aura appears. It's\nprobably the demon we've been looking for, without\na doubt."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・怯んでいるわけにもいかない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトの呪いを解くようにと呼びかける"]
+              "parameters": [
+                "I call out to Light, urging him to lift the curse\nwithout showing any fear."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["呪い・・・か・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["モノの本質も見抜けない愚かな生き物だ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お前もそう思うだろう・・・ライトよ"]
+              "parameters": [
+                "You foolish creatures who can't even see the\nessence of the curse... I'm sure you think the\nsame, Light."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [6, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["生憎と俺にもさっぱりだよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この呪いのせいで沢山の人に迷惑をかけた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何としても解いてもらう"]
+              "parameters": [
+                "Unfortunately, I'm completely clueless about this\ncurse, which has caused a lot of trouble for many\npeople. I must find a way to lift it no matter\nwhat."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そうか・・・やはり、そうなのだな・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["時の流れは全てを変えてしまう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["形あるモノもそうでないモノも"]
+              "parameters": [
+                "I see... indeed, that's how it is... the passage\nof time changes everything, whether it's something\nwith a form or not."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前も例外ではなかった・・・それだけの事・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["人間に期待した我が愚かだった・・・"]
+              "parameters": [
+                "You were no exception... that's all... It was\nfoolish of me to expect anything from humans..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [6, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前は何を言っているんだ・・・？"]
+              "parameters": ["What are you talking about...?"]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・ふんっ"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["最早交わす言葉などありはしない"]
+              "parameters": [
+                "...Hmph, there are no words to exchange at this\nearly stage."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["せめてもの情けだ"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここで引き返すならよし"]
+              "parameters": [
+                "It's the least I can do to show mercy. If you turn\nback here, then so be it."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もしも、再び我の前に現れたなら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その時は死よりも恐ろしい報いを与えてやろう"]
+              "parameters": [
+                "If you dare to appear before me again, I will give\nyou a punishment more terrifying than death."
+              ]
             },
             {
               "code": 232,
@@ -2009,72 +1870,56 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・恐らく、先ほどの奴が"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["村の言い伝えにあった悪魔・・・"]
+              "parameters": [
+                "...Probably, the one from earlier is the demon\nmentioned in the village's folklore..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["恐れられている通りだね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["見るからに悪者って感じ"]
+              "parameters": [
+                "Just as feared, he looks like a villain at first\nsight."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど、ここまで来て引くわけにもいかない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何としてもライトの呪いを解こう"]
+              "parameters": [
+                "However, I can't just back down after coming this\nfar. I must find a way to lift Light's curse no\nmatter what."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["そうだよね"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルならやれるって信じてるよ！"]
+              "parameters": ["That's right, I believe that Aeru can do it!"]
             },
             { "code": 242, "indent": 0, "parameters": [4] },
             { "code": 213, "indent": 0, "parameters": [6, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ありがとう、二人とも・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺は本当にいい友人を持った"]
+              "parameters": [
+                "Thank you, both of you... I truly have good\nfriends"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["悪魔を倒して何としてもライトの呪いを解こうと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["気持ちを新たにした・・・"]
+              "parameters": [
+                "I renewed my determination to defeat the demon and\nlift Light's curse no matter what..."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [566, 566, 1] },
@@ -2226,24 +2071,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["目の前に建物が見える"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうやらラリウス遺跡の最奥に到着したようだ"]
+              "parameters": [
+                "It seems we have arrived at the deepest part of\nthe Larius Ruins, as a building is visible in\nfront of us."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうにかここまで辿り着いたね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["後は悪魔を見つけて呪いを解いてもらうだけだ"]
+              "parameters": [
+                "Somehow we've managed to make it this far. Now all\nthat's left is to find the demon and have them\nlift the curse."
+              ]
             },
             {
               "code": 205,
@@ -2352,11 +2191,11 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["よくぞ此処まで来たな・・・人間よ・・・"]
+              "parameters": ["Well done for making it this far... humans..."]
             },
             { "code": 212, "indent": 0, "parameters": [7, 102, false] },
             { "code": 121, "indent": 0, "parameters": [567, 567, 0] },
@@ -2371,122 +2210,90 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["禍々しいオーラを纏った何者かが現れる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["恐らく探していた悪魔で間違いないだろう"]
+              "parameters": [
+                "Someone clad in a sinister aura appears. It's\nprobably the demon we've been looking for, without\na doubt."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・怯んでいるわけにもいかない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトの呪いを解くようにと呼びかける"]
+              "parameters": [
+                "...I call out to Light, urging him to lift the\ncurse without showing any fear."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["呪い・・・か・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["モノの本質も見抜けない愚かな生き物だ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お前もそう思うだろう・・・ライトよ"]
+              "parameters": [
+                "Curse... You foolish creatures who can't even see\nthe essence of things, do you also think that\nway... Light."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [6, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["生憎と俺にもさっぱりだよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この呪いのせいで沢山の人に迷惑をかけた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何としても解いてもらう"]
+              "parameters": [
+                "Unfortunately, I have no idea about this curse,\nbut it has caused a lot of trouble for many\npeople. I must find a way to lift it."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そうか・・・やはり、そうなのだな・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["時の流れは全てを変えてしまう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["形あるモノもそうでないモノも"]
+              "parameters": [
+                "I see... indeed, that's how it is... the flow of\ntime changes everything, whether it be something\nwith a form or something without."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前も例外ではなかった・・・それだけの事・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["人間に期待した我が愚かだった・・・"]
+              "parameters": [
+                "You were no exception... That's all... It was\nfoolish of me to expect anything from humans..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [6, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前は何を言っているんだ・・・？"]
+              "parameters": ["What are you talking about...?"]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・ふんっ"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["最早交わす言葉などありはしない"]
+              "parameters": [
+                "...Hmph, there are no words to exchange at this\nearly stage."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["せめてもの情けだ"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここで引き返すならよし"]
+              "parameters": ["It would be a small mercy to turn back here."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もしも、再び我の前に現れたなら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その時は死よりも恐ろしい報いを与えてやろう"]
+              "parameters": [
+                "If you were to appear before me again, I would\nbestow a punishment more terrifying than death\nupon you."
+              ]
             },
             {
               "code": 232,
@@ -2553,68 +2360,56 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・恐らく、先ほどの奴が"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["村の言い伝えにあった悪魔・・・"]
+              "parameters": [
+                "...Probably, the one from earlier is the demon\nmentioned in the village's folklore..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["間違いなく強力な相手だ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["苦戦は覚悟しなくちゃいけないね"]
+              "parameters": [
+                "Without a doubt, we must be prepared for a tough\nbattle against a formidable opponent."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど、ここまで来て引くわけにもいかない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何としてもライトの呪いを解く"]
+              "parameters": [
+                "However, we can't just back down after coming this\nfar. We must find a way to lift Light's curse no\nmatter what."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [6, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイルがそう言うと"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺も何だか大丈夫だって思えるよ"]
+              "parameters": [
+                "When Aeru says that, it somehow makes me feel like\neverything will be okay too."
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [4] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["ありがとう・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺は本当にいい友人を持った"]
+              "parameters": ["Thank you... I truly have a good friend."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["悪魔を倒して何としてもライトの呪いを解こうと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["気持ちを新たにした・・・"]
+              "parameters": [
+                "I renewed my determination to defeat the demon and\nlift Light's curse no matter what..."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [566, 566, 1] },
@@ -2695,24 +2490,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["目の前に建物が見える"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうやらラリウス遺跡の最奥に到着したようだ"]
+              "parameters": [
+                "It seems we have arrived at the deepest part of\nthe Larius Ruins, as a building is visible in\nfront of us."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうにかここまで辿り着いたね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["後は悪魔を見つけて呪いを解いてもらうだけだ"]
+              "parameters": [
+                "We've somehow managed to make it this far. Now all\nthat's left is to find the demon and have them\nlift the curse."
+              ]
             },
             {
               "code": 205,
@@ -2821,11 +2610,11 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["よくぞ此処まで来たな・・・人間よ・・・"]
+              "parameters": ["Well done for making it this far... humans..."]
             },
             { "code": 212, "indent": 0, "parameters": [7, 102, false] },
             { "code": 121, "indent": 0, "parameters": [567, 567, 0] },
@@ -2840,47 +2629,38 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["禍々しいオーラを纏った何者かが現れる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["恐らく探していた悪魔で間違いないだろう"]
+              "parameters": [
+                "Someone clad in a sinister aura appears. It's\nprobably the demon we've been looking for, without\na doubt."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・怯んでいるわけにもいかない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトの呪いを解くようにと呼びかける"]
+              "parameters": [
+                "I call out to Light, urging him to lift the curse\nwithout showing any signs of fear."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["呪い・・・か・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["モノの本質も見抜けない愚かな生き物だ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お前もそう思うだろう・・・ライトよ"]
+              "parameters": [
+                "You... are foolish creatures who cannot even see\nthe essence of the curse... I'm sure you think so\ntoo, Light."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [6, 7, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・ぐっ・・・その声・・・"]
+              "parameters": [
+                "...Guh... That voice... I've heard it somewhere..."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["どこかで・・・"] },
             {
               "code": 205,
               "indent": 0,
@@ -2912,12 +2692,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトは急に頭を抱え"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その場にうずくまってしまう"]
+              "parameters": [
+                "Light suddenly holds his head and crouches down on\nthe spot."
+              ]
             },
             {
               "code": 205,
@@ -2941,72 +2718,56 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["悪魔が何かしたのだろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトを支えながら相手を見据える"]
+              "parameters": [
+                "While supporting Light, who seems to have been\naffected by the demon, I face the opponent."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・ふんっ"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんな顔で見るんじゃない"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["我は何もしておらん"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうせ覚えてもいないくせに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そのような露骨な態度、癇に障る"]
+              "parameters": [
+                "...Hmph, don't look at me with that face. I\nhaven't done anything."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あの二つを見ても反応を示さないのだ"]
+              "parameters": [
+                "Even though you probably don't remember, such an\nobvious attitude is irritating."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今の状況も予想できるというもの・・・"]
+              "parameters": [
+                "Not showing any reaction even after seeing those\ntwo, I can predict the current situation..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [6, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["あの二つ・・・？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ブレスレットとネックレスのことか・・・？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あれは・・・そう・・・何か・・・"]
+              "parameters": [
+                "Those two...? Are you talking about the bracelet\nand necklace...? That's... right... something..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["大切な物で・・・だけど・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それが無かったから・・・俺の・・・・・・ッ"]
+              "parameters": [
+                "With something important... but... because it\nwasn't there... mine..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             {
@@ -3031,75 +2792,48 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトがより一層苦しみ始める"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この症状はライトが村に来てすぐの頃"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["頻繁に起きていた症状に似ていた"]
+              "parameters": [
+                "Light's increasing suffering resembled the\nsymptoms that occurred frequently when he first\ncame to the village."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["時間が経つにつれて頻度が下がり"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["最近では滅多に見なくなったのに・・・"]
+              "parameters": [
+                "As time passed, the frequency decreased and it's\nbecome rare to see it recently..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・体調が優れないのか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まさか我のせい・・・いや、そんなはずは・・・"]
+              "parameters": [
+                "...Are you feeling unwell? It couldn't possibly be\nmy fault... No, it can't be..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・ふんっ"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんな状態で我に挑めるはずがあるまい"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["村に帰って英気を養うのだな"]
+              "parameters": [
+                "Hmph, you shouldn't challenge me in that state.\nReturn to the village and regain your spirits."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁ・・・はぁ・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["待て、お前は・・・誰なんだ"]
+              "parameters": ["Haa... haa... Wait, who are you...?"]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・さらばだ"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Farewell."] },
             {
               "code": 232,
               "indent": 0,
@@ -3174,115 +2908,78 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["すまない、俺のせいで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["悪魔を取り逃がしてしまった"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そんなこと気にすることじゃない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それよりもライトの体調は大丈夫だろうか"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ああ、今はだいぶ落ち着いたよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["さっきのあれはひどかった・・・"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトのこの症状について村長からは"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "記憶障害だと聞いている、今の状況と関りがあるのだろうか"
+                "I'm sorry, it's my fault that the demon got away."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You shouldn't worry about that. More importantly,\nis Light's condition okay?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Ah, it's calmed down quite a bit now. That thing\nearlier was terrible..."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I heard from the village chief that Light's\ncondition is related to memory impairment. Could\nit be related to the current situation?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [6, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺も分からない・・・だけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["悪魔の声・・・、二つのアクセサリー"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その事が頭に引っかかるんだ"]
+              "parameters": [
+                "I don't know either... but the demon's voice...\nand those two accessories, it's bothering me."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あと少しで何か思い出せそうなんだけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・すまない、アイル"]
+              "parameters": [
+                "I feel like I'm about to remember something...\nSorry, Aeru."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["謝る事ではないと笑いかける"]
+              "parameters": [
+                "If I can lift the curse with a smile and return to\npeaceful days, my health will improve. There's no\nneed to apologize."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["That's right..."] },
+            { "code": 242, "indent": 0, "parameters": [4] },
+            { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "呪いを解いて平穏な日々に戻れれば体調も良くなるだろう"
+                "But, I can't help but feel that there's something\nrelated to my past..."
               ]
-            },
-            { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そう・・・だね・・・"]
-            },
-            { "code": 242, "indent": 0, "parameters": [4] },
-            { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だけど、どうしても引っかかってしまう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何か俺の過去と関りがあるのだろうか・・・"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [566, 566, 1] },
@@ -3365,24 +3062,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["目の前に建物が見える"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうやらラリウス遺跡の最奥に到着したようだ"]
+              "parameters": [
+                "It seems we have arrived at the deepest part of\nthe Larius Ruins, as a building is visible in\nfront of us."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうにかここまで辿り着いたね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["後は悪魔を見つけて呪いを解いてもらうだけだ"]
+              "parameters": [
+                "We've somehow managed to make it this far. Now all\nthat's left is to find the demon and have them\nlift the curse."
+              ]
             },
             {
               "code": 241,
@@ -3392,11 +3083,11 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["よくぞ此処まで来たな・・・人間よ・・・"]
+              "parameters": ["Well done for making it this far... humans..."]
             },
             { "code": 212, "indent": 0, "parameters": [7, 102, false] },
             { "code": 121, "indent": 0, "parameters": [567, 567, 0] },
@@ -3411,109 +3102,85 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["禍々しいオーラを纏った何者かが現れる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["恐らく探していた悪魔で間違いないだろう"]
+              "parameters": [
+                "Someone clad in a sinister aura appears. It's\nprobably the demon we've been looking for, without\na doubt."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [11, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["貴方がライトに呪いを与えた悪魔ね！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ありがと・・・許せないっ！"]
+              "parameters": [
+                "You're the demon who cursed Light! Thank you... I\nwon't forgive you!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["えぇ・・・なんかいっぱいいる・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それに・・・これは・・・"]
+              "parameters": ["Oh... there are so many of you... and this is..."]
             },
             { "code": 213, "indent": 0, "parameters": [12, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトのおちんちんをあんなに素敵・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["恐ろしいモノに変えた・・・正に悪魔・・・"]
+              "parameters": [
+                "You turned Light's dick into such a lovely...\nterrifying thing... Truly demonic..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [13, 11, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そうだよ！あんなに濃厚な精液出させて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["本当に最高・・・最低なんだからっ！"]
+              "parameters": [
+                "That's right! Making him release such thick cum is\nreally the best... and the worst!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 6, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まったく・・・君たち・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まぁ、そういう事だから呪いは解いてもらう！"]
+              "parameters": [
+                "Good grief... you all... Well, that's why I need\nyou to lift the curse!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まさかライトがこんなチャラい男になるなんて・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うぅ・・・頭痛くなってきた・・・"]
+              "parameters": [
+                "I can't believe Light turned into such a\nplayboy... Ugh... it's giving me a headache..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["よくわからないが悪魔は怯んでいるようだ！"]
+              "parameters": [
+                "I'm not sure, but it seems like the demon is\nflinching!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・今日のところは見逃してやろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["次会う時は容赦しないぞ・・・さらばだ！"]
+              "parameters": [
+                "...I'll let you off the hook for today. But I\nwon't go easy on you next time we meet...\nFarewell!"
+              ]
             },
             {
               "code": 232,
@@ -3637,73 +3304,53 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・恐らく、先ほどの奴が"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["村の言い伝えにあった悪魔・・・"]
+              "parameters": [
+                "...Probably, that guy from earlier is the demon\nmentioned in the village legend..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [11, 4, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["えへへ・・・すごいね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["悪魔が逃げていったよ、さすがライトっ！"]
+              "parameters": [
+                "Ehehe... Wow, the demon ran away. As expected of\nLight!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [12, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["やっぱりライトは大きいからかな"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どっしりと構えていてかっこよかった"]
+              "parameters": [
+                "I wonder if it's because Light is big, he stands\nso solidly and looks cool."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [13, 3, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライト素敵だったよ！アイルも見てたっ！？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何だか憧れちゃうよねっ！"]
+              "parameters": [
+                "Light was amazing! Aeru was watching too! It's\nkind of admirable, isn't it?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 7, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ありがとう、みんな・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この調子で呪いを解いてしまおう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その後は何かお礼をさせてくれ"]
+              "parameters": [
+                "Thank you, everyone... Let's continue to lift the\ncurse, and then I'll find a way to thank you all."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [11, 4, false] },
             { "code": 213, "indent": 0, "parameters": [12, 4, false] },
@@ -5041,22 +4688,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }

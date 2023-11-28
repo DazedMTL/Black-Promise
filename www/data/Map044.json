@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "村長の家２Ｆ",
+  "displayName": "Village Chief's House 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -384,14 +384,17 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["お疲れさま"] },
-            { "code": 401, "indent": 0, "parameters": ["今日もありがとう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Good work, thank you for today as well."]
+            },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["世間話をする", "エッチしようよ", "なんでもない"],
+                ["Make small talk", "Let's have sex", "It's nothing"],
                 2,
                 0,
                 2,
@@ -400,57 +403,50 @@
             },
             { "code": 402, "indent": 0, "parameters": [0, "世間話をする"] },
             { "code": 101, "indent": 1, "parameters": ["onees", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アザミ"] },
-            { "code": 401, "indent": 1, "parameters": ["いいけど"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["あまり遅くならない程度にね"]
+              "parameters": ["Azami, it's fine, just don't stay out too late."]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["他愛もない話をして過ごした"]
+              "parameters": ["We spent time chatting about trivial things."]
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["onees", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アザミ"] },
-            { "code": 401, "indent": 1, "parameters": ["ふふ・・・あら"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ちょっと話過ぎちゃった"]
+              "parameters": [
+                "Azami||| || Hehe...oh my, I may have talked a bit\ntoo much."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["onees", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アザミ"] },
-            { "code": 401, "indent": 1, "parameters": ["またいつでも来てね"] },
-            { "code": 401, "indent": 1, "parameters": ["おやすみなさい"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Azami, feel free to come by anytime. Good night."]
+            },
             { "code": 121, "indent": 1, "parameters": [90, 90, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "エッチしようよ"] },
             { "code": 101, "indent": 1, "parameters": ["onees", 2, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アザミ"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・ふふっ"] },
-            { "code": 401, "indent": 1, "parameters": ["してみる？"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Azami... Shall I try to giggle?"]
+            },
             { "code": 213, "indent": 1, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 1, "parameters": ["onees", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["アザミ"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["なんて、さすがに冗談"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["そんなこと言ってるとみんなに"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["嫌われちゃうから気を付けたほうがいいよ？"]
+              "parameters": [
+                "Azami, you should be careful not to joke about\nthings like that, or everyone will end up\ndisliking you."
+              ]
             },
             { "code": 121, "indent": 1, "parameters": [90, 90, 0] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -500,9 +496,14 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
-            { "code": 401, "indent": 0, "parameters": ["おやすみなさい"] },
-            { "code": 401, "indent": 0, "parameters": ["明日もよろしくね"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Good night, please take care of me tomorrow as\nwell."
+              ]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -558,7 +559,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["壁に小さな隙間が空いているようだ"]
+              "parameters": ["It seems there is a small gap in the wall."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -802,7 +803,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["コンドームが落ちている・・・"]
+              "parameters": ["A condom has fallen..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -859,7 +860,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["コンドームが落ちている・・・"]
+              "parameters": ["The condom has fallen..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -916,7 +917,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -973,7 +974,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1030,7 +1031,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

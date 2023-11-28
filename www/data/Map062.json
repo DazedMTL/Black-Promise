@@ -11,7 +11,7 @@
   },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "ラルーラ村",
+  "displayName": "Rarura Village",
   "encounterList": [],
   "encounterStep": 30,
   "height": 30,
@@ -1231,25 +1231,22 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive face guy】"]
             },
-            { "code": 401, "indent": 0, "parameters": ["はぁ・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["*sigh*"] },
             { "code": 213, "indent": 0, "parameters": [4, 7, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unsociable-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この前の立ち眩みはびっくりしたな"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あんなのはじめてだったよ・・・ついてない・・・"]
+              "parameters": [
+                "I was surprised by the dizziness I had the other\nday, it was the first time... I'm unlucky..."
+              ]
             },
             {
               "code": 250,
@@ -1282,14 +1279,13 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive face guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ！お、おはよう！"]
+              "parameters": ["Ah! G-Good morning, Margaret-chan!"]
             },
-            { "code": 401, "indent": 0, "parameters": ["マーガレットちゃん！"] },
             {
               "code": 205,
               "indent": 0,
@@ -1310,35 +1306,29 @@
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・おはようございます"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Good morning"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["このお兄さん今日もいる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・毎日私に挨拶して楽しいのかな"]
+              "parameters": [
+                "This older brother is here again today... I wonder\nif it's fun for him to greet me every day."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
-            { "code": 401, "indent": 0, "parameters": ["よし！やったぞ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日もマーガレットちゃんに挨拶できた！"]
+              "parameters": [
+                "Alright! I did it, I was able to greet Margaret-\nchan today too!"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
             {
@@ -1350,50 +1340,40 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あー！マーガレットちゃんの慎ましやかな"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おっぱい今日もかわいいなぁ！"]
+              "parameters": [
+                "Ah! Margaret-chan's modest breasts are cute again\ntoday!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Dull-faced guy】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぁ・・・眺めるだけもいいんだけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一度でいいから触ってみたいな・・・"]
+              "parameters": [
+                "*sigh*... Just looking is nice, but I'd like to\ntouch them at least once..."
+              ]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 242, "indent": 0, "parameters": [4] },
             { "code": 213, "indent": 0, "parameters": [10, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もう用事はなさそうですかね"]
+              "parameters": ["Do you not have any more business to attend to?"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それじゃあ私はこれで・・・・・・"]
+              "parameters": ["Well then, I'll be going now..."]
             },
             {
               "code": 241,
@@ -1404,8 +1384,8 @@
             },
             { "code": 212, "indent": 0, "parameters": [10, 60, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["んっ・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Nn..."] },
             { "code": 213, "indent": 0, "parameters": [4, 1, false] },
             {
               "code": 205,
@@ -1444,81 +1424,76 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["えっ！？どうしたの！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["マーガレットちゃん大丈夫？"]
+              "parameters": ["Huh!? What's wrong! Margaret-chan, are you okay?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 6, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["マーガレットちゃんのおっぱいかわいいな"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一度でいいから触ってみたいな・・・"]
+              "parameters": [
+                "Margaret-chan's breasts are cute, I'd like to\ntouch them at least once..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 6, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["なに・・・これ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["誰かの気持ちが私に・・・"]
+              "parameters": [
+                "What... are these feelings from someone directed\nat me..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
-            { "code": 401, "indent": 0, "parameters": ["マーガレットちゃん？"] },
+            { "code": 401, "indent": 0, "parameters": ["Margaret-chan?"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・お兄さん"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こっちに来てください"]
+              "parameters": ["...Onii-san, please come over here."]
             },
             { "code": 213, "indent": 0, "parameters": [4, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unsociable-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["え？・・・それってどういう・・・"]
+              "parameters": ["Huh?... What do you mean by that..."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["いいから"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Never mind."] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unsociable-looking guy】"]
             },
-            { "code": 401, "indent": 0, "parameters": ["なにっ！？"] },
-            { "code": 401, "indent": 0, "parameters": ["どうしたのっ"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["What!? What's wrong?"]
+            },
             {
               "code": 250,
               "indent": 0,
@@ -2257,23 +2232,20 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["道具屋さんには隣の扉から入ろっ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日は遊びに来たわけじゃなくて"]
+              "parameters": [
+                "Enter from the next door to the tool shop. I\ndidn't come here to play today."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["商品を買うために来たからね！"]
+              "parameters": ["I came to buy some items, you know!"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2319,11 +2291,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["すぐ隣の扉から入ろっ"]
+              "parameters": ["Enter through the door right next to us."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

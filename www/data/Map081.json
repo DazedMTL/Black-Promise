@@ -6,7 +6,7 @@
   "bgm": { "name": "Town3", "pan": 0, "pitch": 100, "volume": 65 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "北の森　川辺",
+  "displayName": "Northern Forest Riverside",
   "encounterList": [
     { "regionSet": [], "troopId": 1, "weight": 5 },
     { "regionSet": [], "troopId": 2, "weight": 5 },
@@ -294,22 +294,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -429,16 +425,13 @@
             { "code": 121, "indent": 0, "parameters": [211, 211, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["辺りが暗くなってきたね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どこか野宿できるところがあればいいんだけど"]
+              "parameters": [
+                "It's getting dark around here. It would be nice if\nthere's somewhere we can camp out."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
@@ -464,16 +457,13 @@
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [4, 9, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こっちの方にスペースがあるみたい"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちょっと見てみようよ！"]
+              "parameters": [
+                "It looks like there's some space over here. Let's\ntake a look!"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [211, 211, 1] },
@@ -481,22 +471,19 @@
             { "code": 201, "indent": 0, "parameters": [0, 81, 11, 16, 4, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・うん、いい感じだね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["早速準備しちゃおうか"]
+              "parameters": [
+                "...Yeah, it feels good. Let's get ready right\naway."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 3, false] },
             { "code": 242, "indent": 0, "parameters": [3] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["おー！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Oh!"] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [212, 212, 1] },
             { "code": 121, "indent": 0, "parameters": [213, 213, 0] },
@@ -504,7 +491,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["３人で手分けして準備に取り組んだ"]
+              "parameters": [
+                "The three of us divided the tasks and worked on\nthe preparations."
+              ]
             },
             { "code": 201, "indent": 0, "parameters": [0, 83, 10, 15, 4, 0] },
             { "code": 121, "indent": 0, "parameters": [214, 214, 0] },
@@ -567,16 +556,13 @@
             { "code": 121, "indent": 0, "parameters": [211, 211, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["辺りが暗くなってきたね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どこか野宿できるところがあればいいんだけど"]
+              "parameters": [
+                "It's getting dark around here. It would be nice if\nthere's a place to camp out somewhere."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
@@ -601,34 +587,32 @@
             },
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["なるべく川辺の方がいい"]
+              "parameters": [
+                "Let's try to find a place by the river if\npossible."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["ちょっと見てみる"] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [211, 211, 1] },
             { "code": 121, "indent": 0, "parameters": [212, 212, 0] },
             { "code": 201, "indent": 0, "parameters": [0, 81, 11, 16, 4, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・うん、いい感じだね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["早速準備しちゃおうか"]
+              "parameters": [
+                "...Yeah, it feels good. Let's get ready right\naway."
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [3] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["うん"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Yeah"] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [212, 212, 1] },
             { "code": 121, "indent": 0, "parameters": [213, 213, 0] },
@@ -636,7 +620,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["３人で手分けして準備に取り組んだ"]
+              "parameters": [
+                "The three of us divided the tasks and worked on\nthe preparations."
+              ]
             },
             { "code": 201, "indent": 0, "parameters": [0, 83, 10, 15, 4, 0] },
             { "code": 121, "indent": 0, "parameters": [214, 214, 0] },
@@ -699,16 +685,13 @@
             { "code": 121, "indent": 0, "parameters": [211, 211, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["辺りが暗くなってきたね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どこか野宿できるところがあればいいんだけど"]
+              "parameters": [
+                "It's getting dark around here. It would be nice if\nthere's somewhere we can camp for the night."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
@@ -734,16 +717,13 @@
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [4, 3, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こういうのは当てずっぽうで行った方が"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["当たったりするものよ！・・・たぶん"]
+              "parameters": [
+                "It's better to go with a hunch in situations like\nthis! ...probably"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [211, 211, 1] },
@@ -751,25 +731,22 @@
             { "code": 201, "indent": 0, "parameters": [0, 81, 11, 16, 4, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・うん、いい感じだね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["早速準備しちゃおうか"]
+              "parameters": [
+                "...Yeah, it feels good. Let's get ready right\naway."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 3, false] },
             { "code": 242, "indent": 0, "parameters": [3] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私は応援する係をするね！"]
+              "parameters": ["I'll be in charge of cheering you on!"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [212, 212, 1] },
@@ -778,7 +755,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["３人で手分けして準備に取り組んだ"]
+              "parameters": [
+                "The three of us divided the tasks and worked on\nthe preparations."
+              ]
             },
             { "code": 201, "indent": 0, "parameters": [0, 83, 10, 15, 4, 0] },
             { "code": 121, "indent": 0, "parameters": [214, 214, 0] },
@@ -841,16 +820,13 @@
             { "code": 121, "indent": 0, "parameters": [211, 211, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["辺りが暗くなってきたね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どこか野宿できるところがあればいいんだけど"]
+              "parameters": [
+                "It's getting dark around here. It would be nice if\nthere's a place to camp out somewhere."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
@@ -876,11 +852,11 @@
             { "code": 230, "indent": 0, "parameters": [30] },
             { "code": 213, "indent": 0, "parameters": [4, 9, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もうちょっと奥の方も見てみようか"]
+              "parameters": ["Let's try looking a little further ahead."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [211, 211, 1] },
@@ -888,13 +864,14 @@
             { "code": 201, "indent": 0, "parameters": [0, 81, 11, 16, 4, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・うん、いい感じだね"]
+              "parameters": [
+                "...Yeah, it feels good. Let's get ready right\naway."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["早速準備しちゃおう"] },
             { "code": 242, "indent": 0, "parameters": [3] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [212, 212, 1] },
@@ -903,7 +880,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["２人で手分けして準備に取り組んだ"]
+              "parameters": [
+                "The two of us divided the tasks and worked on the\npreparations."
+              ]
             },
             { "code": 201, "indent": 0, "parameters": [0, 83, 10, 15, 4, 0] },
             { "code": 121, "indent": 0, "parameters": [214, 214, 0] },

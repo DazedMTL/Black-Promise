@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "Night", "pan": 0, "pitch": 100, "volume": 30 },
   "disableDashing": false,
-  "displayName": "ラルーラ村",
+  "displayName": "Rarura Village",
   "encounterList": [],
   "encounterStep": 30,
   "height": 30,
@@ -873,11 +873,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["子供の頃ライトと"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["背比べをした跡が木に刻まれている"]
+              "parameters": [
+                "There are marks on the tree from when I compared\nheights with Light when we were kids."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -941,7 +942,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1005,7 +1006,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1234,7 +1235,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タル！"] },
+            { "code": 401, "indent": 0, "parameters": ["Tarr!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1380,7 +1381,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["たるぅ！"] },
+            { "code": 401, "indent": 0, "parameters": ["Taru!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1433,7 +1434,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["たーる！"] },
+            { "code": 401, "indent": 0, "parameters": ["Taa-ru!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1486,7 +1487,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["タル！！"] },
+            { "code": 401, "indent": 0, "parameters": ["Tarr!!"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1635,7 +1636,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ようこそラルーラ村へ"]
+              "parameters": ["Welcome to Ral-La Village"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1699,7 +1700,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1836,16 +1837,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["この先ラリウス遺跡"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["危ないので近づかないでください"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["　　　　　　　　　　　　　　　　　　村長"]
+              "parameters": [
+                "Please do not approach the dangerous Larius ruins\nahead, Village Chief."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1902,7 +1899,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2151,7 +2148,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2254,11 +2251,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["夜に探索に行くのは"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["危ないのでやめておこう"]
+              "parameters": [
+                "It's dangerous to go exploring at night, so let's\nnot do it."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2396,8 +2394,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["白い何かが"] },
-            { "code": 401, "indent": 0, "parameters": ["地面に広がっている"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "There is something white spread out on the ground."
+              ]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,

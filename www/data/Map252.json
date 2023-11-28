@@ -173,7 +173,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -330,7 +330,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -390,7 +390,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -458,12 +458,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ある日の夜、マーガレットに会いに行くと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["部屋の中から物音が聞こえる"]
+              "parameters": [
+                "One night, when I went to see Margaret, I heard a\nnoise coming from inside the room."
+              ]
             },
             {
               "code": 223,
@@ -553,12 +550,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうやらドアの鍵が開いているようだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["中の様子が気になりそっと隙間を開けて覗き込む"]
+              "parameters": [
+                "It seems like the door is unlocked. I became\ncurious about what's inside, so I quietly opened a\ncrack and peeked in."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 230, "indent": 0, "parameters": [60] },
@@ -584,174 +578,121 @@
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [5] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Ahh...hn..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ\\i[249]はぁっ\\i[249]んっ\\i[249]"]
+              "parameters": ["Come on, move your hips more."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ほら、もっと腰動かして"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だめぇ\\i[249]パパのおちんちん気持ちよすぎて\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["力がはいらないのっ\\i[249]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["目の前では激しい行為が行われていた"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["それもそのはずだ"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["呪いの騒動が終わったと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["また聞きで二人が付き合っているのだと知った"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その時はあまり実感が湧かなかったが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["二人がいつも一緒にいる姿を見ていたら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["なるほどそういうモノかと思っていた"]
+              "parameters": [
+                "No, Papa's dick feels too good, I can't hold back\nmy strength."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "それでもどこか認めていない気持ちがあったのかも知れない"
+                "There was an intense act taking place right in\nfront of me, and it's no wonder."
               ]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["マーガレットのお腹が日に日に大きくなり"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どんどん大人っぽくなっていく姿を見ても"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど今、本当の意味で"]
+              "parameters": [
+                "I heard that the two of them are dating after the\ncommotion of the curse had ended."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["マーガレットがどこか遠くへ行ってしまったのだと理解した"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
-            { "code": 401, "indent": 0, "parameters": ["まったく仕方ないね"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それじゃ、激しくいくからな"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ひゃぁぁ\\i[249]いやぁ\\i[249]気持ちよすぎるよぉ\\i[249]"
+                "At that time, I didn't really feel it, but as I\nwatched the two of them always being together, I\nthought, I see, so that's how it is."
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ\\i[249]あっ\\i[249]あっ\\i[249]んっ\\i[249]"]
+              "parameters": [
+                "However, there may have been a part of me that\nstill didn't fully accept it, as I watched\nMargaret's belly grow bigger day by day and her\nfigure becoming more and more mature."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "However, now I truly understand that Margaret has\ngone somewhere far away."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Well, there's no helping it. I'll go hard then."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Hyaah... it feels so good... ahh... ahh... ahh...\nngh..."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [684, 684, 1] },
             { "code": 117, "indent": 0, "parameters": [5] },
             { "code": 242, "indent": 0, "parameters": [8] },
             { "code": 246, "indent": 0, "parameters": [8] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁ・・・ぁ\\i[249]\\i[249]\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ドクドクって\\i[249]おちんちんよろこんでる\\i[249]"]
+              "parameters": ["Haa... It's throbbing and enjoying the dick."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど、まだ満足はしてない"]
+              "parameters": ["But, I'm not satisfied yet. I'll continue."]
             },
-            { "code": 401, "indent": 0, "parameters": ["続けるよ"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うん・・・もっと\\i[249]"]
+              "parameters": ["Yes... more \\i[249]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["覗いていたドアをそっと閉じる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そしてゆっくりと元来た道を戻った"]
+              "parameters": [
+                "I quietly closed the door I had been peeping\nthrough, and slowly made my way back the way I\ncame."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["複雑な思いが無いと言えば嘘になる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だけど、マーガレットが選んだ道なら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["祝福してあげないといけない"]
+              "parameters": [
+                "It would be a lie to say that I have no\ncomplicated feelings, but if Margaret has chosen\nthis path, I must offer my blessings."
+              ]
             },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 117, "indent": 0, "parameters": [3] },
@@ -759,12 +700,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・おめでとう、マーガレット"]
+              "parameters": ["...Congratulations, Margaret"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 201, "indent": 0, "parameters": [0, 47, 26, 10, 2, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }

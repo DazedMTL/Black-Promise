@@ -11,7 +11,7 @@
   },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "民家",
+  "displayName": "Private house",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -222,12 +222,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【双子のお母さん】"] },
-            { "code": 401, "indent": 0, "parameters": ["本当にお疲れ様"] },
+            { "code": 401, "indent": 0, "parameters": ["【Twin Mother】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あの子達にもいい見本になるわ"]
+              "parameters": [
+                "You've really worked hard. You've become a good\nexample for those kids."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

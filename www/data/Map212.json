@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "自宅",
+  "displayName": "Home",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -226,17 +226,20 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日はもう休みますか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["（一日が経過します）"]
+              "parameters": [
+                "Are you taking the day off already? (One day has\npassed)"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["寝ようかな", "まだ起きてる"], 1, 0, 2, 0]
+              "parameters": [
+                ["Should I go to bed?", "Still awake?"],
+                1,
+                0,
+                2,
+                0
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "寝ようかな"] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -360,25 +363,37 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらでは男性器の名称を"]
+              "parameters": [
+                "Here, you can freely change the name of the male\ngenitalia."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["任意に変更できます"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["変更されますか？"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["現在の設定は「\\c[2]おちんちん\\c[0]」です"]
+              "parameters": [
+                "Will it be changed? The current setting is\n\\c[2]dick\\c[0]."
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["違うのにするよ！", "俺はおちんちん派だ"], 1, 0, 2, 1]
+              "parameters": [
+                ["Change it to something else!", "I prefer dicks"],
+                1,
+                0,
+                2,
+                1
+              ]
             },
             { "code": 402, "indent": 0, "parameters": [0, "違うのにするよ！"] },
             { "code": 303, "indent": 1, "parameters": [7, 10] },
             { "code": 0, "indent": 1, "parameters": [] },
-            { "code": 402, "indent": 0, "parameters": [1, "俺はおちんちん派だ"] },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [1, "俺はおちんちん派だ"]
+            },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -433,13 +448,17 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["今日も一日お疲れ様"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Good work today as well."]
+            },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["好きだよ", "ご飯美味しかった", "ベッドへ行こう"],
+                ["I love you", "The food was delicious", "Let's go to bed"],
                 1,
                 0,
                 2,
@@ -448,30 +467,31 @@
             },
             { "code": 402, "indent": 0, "parameters": [0, "好きだよ"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["うん・・・私も好きだよ\\i[249]"]
+              "parameters": ["Yeah... I like you too \\i[249]"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "ご飯美味しかった"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["お粗末様っ！"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["いっぱい食べてくれるから嬉しいな"]
+              "parameters": [
+                "Thank you for the meal! I'm happy that you eat a\nlot."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "ベッドへ行こう"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["もう・・・エッチなんだから"]
+              "parameters": ["Jeez... you're so naughty."]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             {
@@ -551,17 +571,21 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ん・・・お疲れさま・・・"]
+              "parameters": ["Nn...thank you for your hard work..."]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["オススメの本ある？", "抱きしめる", "ベッドへ行こう"],
+                [
+                  "Do you have any book recommendations?",
+                  "Hug",
+                  "Let's go to the bed"
+                ],
                 1,
                 0,
                 2,
@@ -574,41 +598,34 @@
               "parameters": [0, "オススメの本ある？"]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 3, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["最近は恋愛ものが熱い"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["情報を仕入れるのは大事"]
+              "parameters": [
+                "Lately, it's important to gather hot information\non romance stories."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "抱きしめる"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 4, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ひゃっ・・・・・・はぅ・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["もっと抱きしめて・・・"]
+              "parameters": ["Hyaa...hau...hold me tighter..."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "ベッドへ行こう"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["私もそのつもりだった"]
+              "parameters": [
+                "I was also planning to do that. I guess we get\nalong after all."
+              ]
             },
-            { "code": 401, "indent": 1, "parameters": ["やっぱり気が合う"] },
             { "code": 221, "indent": 1, "parameters": [] },
             {
               "code": 245,
@@ -687,18 +704,19 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・ご飯食べたて"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お風呂入った後は・・・どうするの？"]
+              "parameters": [
+                "...After eating and taking a bath, what do you\nwant to do?"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["ミールかな", "いただきます", "ベッドへ行く"],
+                ["Maybe Miiru?", "Let's eat", "Go to the bed"],
                 1,
                 0,
                 2,
@@ -707,42 +725,34 @@
             },
             { "code": 402, "indent": 0, "parameters": [0, "ミールかな"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["はぅ・・・えへへ・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["未だに素直なアイル慣れないな"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["・・・ドキドキして胸が苦しい"]
+              "parameters": [
+                "Hah... Ehehe... I'm still not used to Aeru being\nso honest... My heart races and it's hard to\nbreathe."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "いただきます"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 4, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["キャー！食べられるー！"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["まぁ、アイルなら・・・いいよ\\i[249]"]
+              "parameters": [
+                "Kyaa! I can be eaten! Well, if it's Aeru... that's\nfine \\i[249]"
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "ベッドへ行く"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 1, "parameters": ["う、うんっ！"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・そうだね！"] },
+            { "code": 401, "indent": 1, "parameters": ["【Miiru】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Y-Yes! ...That's right!"]
+            },
             { "code": 221, "indent": 1, "parameters": [] },
             {
               "code": 245,
@@ -835,19 +845,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらでは男性器のサイズを"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["任意で変更することが出来ます"]
+              "parameters": [
+                "Here, you can freely change the size of the male\ngenitalia."
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 379, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["現在のサイズは\\c[2]極小\\c[0]です"]
+              "parameters": ["The current size is \\c[2]extremely small\\c[0]."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
@@ -855,7 +862,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["現在のサイズは\\c[2]小さい\\c[0]です"]
+              "parameters": ["The current size is \\c[2]small\\c[0]."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -864,8 +871,8 @@
               "indent": 0,
               "parameters": [
                 [
-                  "俺のおちんちんは大きいぜ？（小さい",
-                  "俺のおちんちんは普通じゃない？(極小"
+                  "Is my dick big? (Small)",
+                  "Is my dick not normal? (Extremely small)"
                 ],
                 1,
                 0,

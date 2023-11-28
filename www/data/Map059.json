@@ -6,7 +6,7 @@
   "bgm": { "name": "Town3", "pan": 0, "pitch": 100, "volume": 65 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "三兄弟の住処",
+  "displayName": "Residence of the Three Brothers",
   "encounterList": [
     { "regionSet": [], "troopId": 1, "weight": 5 },
     { "regionSet": [], "troopId": 2, "weight": 5 },
@@ -238,22 +238,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -474,7 +470,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -807,43 +803,39 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["洞窟に入ると"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何者かの居住跡のようなものがある"]
+              "parameters": [
+                "When entering the cave, there seems to be signs of\nsomeone's residence."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["な、なんだかちょっと臭いね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一体何が住んでるんだろう？"]
+              "parameters": [
+                "I-It smells a little weird. I wonder what's living\nhere?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["物音が聞こえない所をみると"]
+              "parameters": [
+                "It seems like there's no one in the place where we\ncan't hear any sounds."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["今は居ないようだね"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["住処の主が帰ってくる前に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["さっさと離れた方がいいかもしれない"]
+              "parameters": [
+                "It might be better to leave quickly before the\nowner of this residence returns."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [116, 116, 0] },
@@ -904,39 +896,39 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["洞窟に入ると"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何者かの居住跡のようなものがある"]
+              "parameters": [
+                "When entering the cave, there seems to be signs of\nsomeone's residence."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・何だか雰囲気の悪い場所"]
+              "parameters": [
+                "...This place has a bad vibe. I don't like it\nhere."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["私はここ、嫌い"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["物音が聞こえない所をみると"]
+              "parameters": [
+                "It seems like there's no one here when looking at\nthe place where I can't hear any sounds."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["今は居ないようだね"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["住処の主が帰ってくる前に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["さっさと離れた方がいいかもしれない"]
+              "parameters": [
+                "It might be better to leave quickly before the\nowner of this residence returns."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [116, 116, 0] },
@@ -997,39 +989,39 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["洞窟に入ると"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何者かの居住跡のようなものがある"]
+              "parameters": [
+                "When entering the cave, there seems to be signs of\nsomeone's residence."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["空気が淀んでいるね"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["きっと魔物か何かが住み着いているんだよ"]
+              "parameters": [
+                "The air feels stagnant. There must be some\nmonsters or something living here."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["物音が聞こえない所をみると"]
+              "parameters": [
+                "It seems like there's no one in the place where we\ncan't hear any sounds."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["今は居ないようだね"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["住処の主が帰ってくる前に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["さっさと離れた方がいいかもしれない"]
+              "parameters": [
+                "It might be better to leave quickly before the\nowner of this residence returns."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [116, 116, 0] },
@@ -1090,38 +1082,38 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["洞窟に入ると"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何者かの居住跡のようなものがある"]
+              "parameters": [
+                "When entering the cave, there seems to be traces\nof someone's residence."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["酷い悪臭に重い空気"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あまりここに長居はしたくない"]
+              "parameters": [
+                "The heavy air is filled with a terrible stench, I\ndon't want to stay here for long."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["物音が聞こえない所をみると"]
+              "parameters": [
+                "It seems like there's no one in the place where I\ncan't hear any sounds."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["今は居ないようだね"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["住処の主が帰ってくる前に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["さっさと離れた方がいいかもしれない"]
+              "parameters": [
+                "It might be better to leave quickly before the\nowner of this residence returns."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [116, 116, 0] },
@@ -1448,40 +1440,28 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["結界が張られている"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これをどうにかしなければ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["中に入れそうにない・・・"]
+              "parameters": [
+                "It seems like I won't be able to get inside unless\nI do something about this barrier..."
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 488, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["結界の先から激しく何かがぶつかり合う音と"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["女性の声が聞こえてくる"]
+              "parameters": [
+                "From beyond the barrier, the sound of something\nviolently colliding and a woman's voice can be\nheard."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【？？】"] },
+            { "code": 401, "indent": 1, "parameters": ["【??】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["あっ\\i[249]あっ\\i[249]はっ\\i[249]んっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["凄いですっ\\i[249]ご主人さまぁ\\i[249]"]
+              "parameters": ["Ahh, it's amazing, Master!"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -1528,36 +1508,29 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくた】"] },
-            { "code": 401, "indent": 0, "parameters": ["はぇ～・・・っ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuta】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["や、やぁ！どうしたんだい？"]
+              "parameters": ["Huh...! W-What's wrong?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくた】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuta】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラさんに会いに来た？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["えっと、今はやめておいた方が・・・"]
+              "parameters": [
+                "Did you come to see Lira-san? Um, it might be\nbetter to stop for now..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくた】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuta】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おくすけの体調が悪化していてーそれでー"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うん、そういうことだから、また後の方がいいかな"]
+              "parameters": [
+                "Okusuke's condition has worsened, and, um, that's\nwhy... it might be better to come back later."
+              ]
             },
             {
               "code": 205,
@@ -1621,8 +1594,8 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくた】"] },
-            { "code": 401, "indent": 0, "parameters": ["はぇ～・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuta】"] },
+            { "code": 401, "indent": 0, "parameters": ["Huh..."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1951,11 +1924,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お前たちか・・・迷惑を掛けてすまない"]
+              "parameters": ["You guys... I'm sorry for causing trouble."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3149,20 +3122,16 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["あっ！アイル"] },
-            { "code": 401, "indent": 0, "parameters": ["来てくれたんだ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Ah! Aeru came."] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今の所困ってることはないよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おくすけさんもおくた君もとってもやさしいよ！"]
+              "parameters": [
+                "Right now, I don't have anything to worry about.\nOkusuke-san and Okuta-kun are both very kind!"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3207,20 +3176,20 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["あっ・・・アイル"] },
-            { "code": 401, "indent": 0, "parameters": ["いらっしゃい！"] },
-            { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["えっ！？な、何かあったのかって"]
+              "parameters": ["Ah... Aeru, welcome!"]
             },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["別に何にもないよ・・・"]
+              "parameters": [
+                "Huh!? W-What, did something happen? N-No, it's\nnothing..."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -3314,17 +3283,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくた】"] },
-            { "code": 401, "indent": 0, "parameters": ["この前はごめんね"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuta】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いきなり襲ったりして・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["これからはもっとまっとうに生活するよ"]
+              "parameters": [
+                "I'm sorry for suddenly attacking you the other\nday... From now on, I'll live a more proper life."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4077,7 +4042,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4134,7 +4099,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが壁から垂れている・・・"]
+              "parameters": ["Something white is dripping from the wall..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4191,7 +4156,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4248,7 +4213,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが壁から垂れている・・・"]
+              "parameters": ["Something white is dripping from the wall..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4305,7 +4270,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4362,7 +4327,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4419,7 +4384,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4476,7 +4441,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4533,7 +4498,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4590,7 +4555,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -4647,7 +4612,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

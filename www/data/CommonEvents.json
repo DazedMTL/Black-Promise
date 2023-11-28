@@ -8,12 +8,9 @@
       {
         "code": 401,
         "indent": 1,
-        "parameters": ["アイテムを使っても反応が無い"]
-      },
-      {
-        "code": 401,
-        "indent": 1,
-        "parameters": ["この場所では使えないようだ"]
+        "parameters": [
+          "It seems like the item cannot be used in this\nplace, as there is no response even when using it."
+        ]
       },
       { "code": 0, "indent": 1, "parameters": [] },
       { "code": 411, "indent": 0, "parameters": [] },
@@ -22,17 +19,20 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["村へ戻りますがよろしいですか？"]
-      },
-      {
-        "code": 401,
-        "indent": 2,
-        "parameters": ["（村に戻ると夜になります）"]
+        "parameters": [
+          "Do you want to return to the village? (Returning\nto the village will make it night)"
+        ]
       },
       {
         "code": 102,
         "indent": 2,
-        "parameters": [["もう帰るよ！", "もうちょっと頑張ろうかな"], 1, 0, 2, 0]
+        "parameters": [
+          ["Let's go home now!", "Should we keep pushing a little more?"],
+          1,
+          0,
+          2,
+          0
+        ]
       },
       { "code": 402, "indent": 2, "parameters": [0, "もう帰るよ！"] },
       { "code": 201, "indent": 3, "parameters": [0, 4, 19, 2, 2, 0] },
@@ -55,7 +55,7 @@
       {
         "code": 401,
         "indent": 2,
-        "parameters": ["ここで使っても意味がないな"]
+        "parameters": ["There's no point in using it here."]
       },
       { "code": 0, "indent": 2, "parameters": [] },
       { "code": 412, "indent": 1, "parameters": [] },
@@ -473,9 +473,9 @@
         "indent": 0,
         "parameters": [
           [
-            "ちょっと本気出すか（２倍",
-            "神の力を見せてやろう（４倍",
-            "普通が一番（通常"
+            "Shall I get serious for a bit? (Double)",
+            "Let me show you the power of a god (4x)",
+            "Normal is the best (usually)"
           ],
           2,
           0,
@@ -1276,17 +1276,18 @@
     "id": 42,
     "list": [
       { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-      { "code": 401, "indent": 0, "parameters": ["映し出された映像の中では"] },
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["小柄な女性が男に犯されている"]
+        "parameters": [
+          "In the projected image, a petite woman is being\nviolated by a man."
+        ]
       },
       { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["今晩はこれをオカズにしよう・・・・・・"]
+        "parameters": ["Let's use this as tonight's material..."]
       },
       { "code": 0, "indent": 0, "parameters": [] }
     ],
@@ -1298,30 +1299,28 @@
     "id": 43,
     "list": [
       { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-      { "code": 401, "indent": 0, "parameters": ["映し出された映像の中では"] },
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["小柄な女性が男に犯されている"]
+        "parameters": [
+          "In the projected image, a petite woman is being\nviolated by a man."
+        ]
       },
       { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-      { "code": 401, "indent": 0, "parameters": ["前回の物に比べてると"] },
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["女性は衰弱しているようだが"]
-      },
-      {
-        "code": 401,
-        "indent": 0,
-        "parameters": ["容赦なく行為が続けられている"]
+        "parameters": [
+          "Compared to the previous one, the woman in the\nprojected image seems to be weakened, but the act\ncontinues without mercy."
+        ]
       },
       { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-      { "code": 401, "indent": 0, "parameters": ["とてもエロいので"] },
       {
         "code": 401,
         "indent": 0,
-        "parameters": ["今日はこれをおかずにしよう"]
+        "parameters": [
+          "Since it's very erotic, let's make this the main\ndish for today."
+        ]
       },
       { "code": 0, "indent": 0, "parameters": [] }
     ],

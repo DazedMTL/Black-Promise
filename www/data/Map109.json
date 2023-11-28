@@ -6,7 +6,7 @@
   "bgm": { "name": "Theme2", "pan": 0, "pitch": 100, "volume": 65 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "妖精の国",
+  "displayName": "Fairyland",
   "encounterList": [
     { "regionSet": [], "troopId": 1, "weight": 5 },
     { "regionSet": [], "troopId": 2, "weight": 5 },
@@ -238,22 +238,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -358,16 +354,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【妖精さん】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Fairy-san】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["姫様はお綺麗になられたわっ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["きっと恋をされたのね・・・"]
+              "parameters": [
+                "The princess has surely become beautiful. She must\nhave fallen in love..."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -474,21 +467,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【妖精くん】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Fairy-kun】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["姫様が戻ってくれて本当によかった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["貴方達が助けてくれたんですよね？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ありがとうございました"]
+              "parameters": [
+                "I'm really glad that the princess has returned.\nYou all helped, didn't you? Thank you very much."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -542,16 +527,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【妖精】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Fairy】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["姫様を助けてくれたことには礼を言う"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だけど、人間と妖精とは距離を取るべきだ"]
+              "parameters": [
+                "I'll thank you for helping the princess, but\nhumans and fairies should keep their distance."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

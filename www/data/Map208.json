@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "村長の家２Ｆ",
+  "displayName": "Village Chief's House 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -384,13 +384,14 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["onees", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["みんなで呪いを解くことが出来たんだね"]
+              "parameters": [
+                "Congratulations, Aeru, for being able to lift the\ncurse with everyone."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["おめでとうアイル"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -434,21 +435,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["onees", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アザミ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Azami】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クロちゃんとこの前お話したけど面白いね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["会って一言目になんて言われたと思う？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["「これが・・・胸か・・・」だってよ"]
+              "parameters": [
+                "I talked to Kuro-chan the other day, and you know\nwhat he said to me when we met? So this is... your\nchest... he said."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -503,20 +496,20 @@
           "list": [
             { "code": 111, "indent": 0, "parameters": [6, -1, 4] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["普通の壁だ"] },
+            { "code": 401, "indent": 1, "parameters": ["It's a normal wall"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["壁に小さな隙間が空いているようだ"]
+              "parameters": ["It seems like there's a small gap in the wall."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ベットで寝ているライトが辛うじて見える"]
+              "parameters": ["I can barely see Light sleeping on the bed."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -567,14 +560,14 @@
           "list": [
             { "code": 111, "indent": 0, "parameters": [6, -1, 4] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["普通の壁だ"] },
+            { "code": 401, "indent": 1, "parameters": ["It's a normal wall"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["壁に小さな隙間が空いているようだ"]
+              "parameters": ["It seems like there's a small gap in the wall."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },

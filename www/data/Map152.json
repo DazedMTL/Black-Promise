@@ -408,22 +408,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1942,18 +1938,18 @@
             { "code": 211, "indent": 0, "parameters": [0] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくすけ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okusuke】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はっ！はっ！リラ好きだっ！"]
+              "parameters": ["Hah! Hah! I love Lira!"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あ・・・\\i[249]あぁ・・・\\i[249]"]
+              "parameters": ["Ah...\\i[249]ah...\\i[249]"]
             },
             { "code": 117, "indent": 0, "parameters": [5] },
             {
@@ -1963,167 +1959,114 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私の中に精子が注がれる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おくすけさんを受け入れると言ったあの日から"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ずっと行為は続いていた"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["途中何度も気を失って"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それでもおくすけさんは"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["私を求め続けている"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["乱暴に続けられるその行為は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["通常だったら痛いだけだ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だけど、今の私は痛みなどよりも"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["快楽と満足感を強く感じている"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["んっ\\i[249]ちゅ・・・\\i[249]はぁ\\i[249]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["んっ・・・じゅる・・・はぁっ"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["リラ好きだ・・・"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["なぜならこの行為は"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おくすけさんの愛情なのだと知っているから"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いつからかしきりに愛を呟いて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["身体を隅から隅まで貪りつくす"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そのあまりの苛烈さに、私の胸は強くときめき"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["身も心もとうの昔におくすけさんを受け入れている"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おくすけさんが行為をやめないのは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もしかしたら、私の膣がおちんちんを放さないせいかも"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["なんて錯覚してしまうほどに"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "あぁ\\i[249]・・・ん・・・\\i[249]気持ちいいよ\\i[249]"
+                "Since the day I said I would accept Okusuke-san\nejaculating inside me, the act has continued\nwithout interruption."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Even though I lost consciousness multiple times in\nthe middle, Okusuke-san still continues to seek\nme."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Normally, the act of being continued so roughly\nwould just be painful."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "But right now, I feel pleasure and satisfaction\nmuch stronger than any pain."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Nn...chu...haa..."] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はっ・・・はっ・・・リラっ"]
+              "parameters": ["Nn... slurp... haa... I love Lira..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["一層行為が激しくなる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["腰が打ち付けられるたびに身体が跳ねて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["精液の詰まった子宮がぐちゅぐちゅと音を立てた"]
+              "parameters": [
+                "Because I know that this act is Okusuke-san's way\nof showing affection."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私はぎゅっとおくすけさんを抱きしめて"]
+              "parameters": [
+                "Since when did he start whispering love and\ngreedily devouring every inch of my body?"
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["精一杯に迎え入れる準備をしてあげる"]
+              "parameters": [
+                "My heart and body have long since accepted\nOkusuke-san, despite the intense severity of it\nall."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Perhaps, I've even started to hallucinate that\nOkusuke-san doesn't stop the act because my pussy\nwon't let go of his dick."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Ah...n...it feels good."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okunii】"] },
+            { "code": 401, "indent": 0, "parameters": ["Haa...haa...Lira"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Every time the thrusts become more intense, my\nbody jumps and my womb, filled with semen, makes a\nsquelching sound."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I will embrace Okusuke-san tightly and prepare to\nwelcome him with all my might."
+              ]
             },
             {
               "code": 231,
@@ -2133,50 +2076,37 @@
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 117, "indent": 0, "parameters": [5] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["---Ahh...un, chu...let's do more..."]
+            },
+            { "code": 221, "indent": 0, "parameters": [] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "───あぁ\\i[249]\\i[249]\\i[249]・・・うん\\i[249]"
+                "It's too late to say that semen is overflowing.\nThe act will resume as it is."
               ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちゅ・・・\\i[249]もっとしようね・・・\\i[249]"]
-            },
-            { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["精液があふれ出しているのなんて今更だ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そのまま行為は再開される"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["きっと今の私たちは同じ思いで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["二人とも幸せに違いなかった"]
+              "parameters": [
+                "Surely, both of us were happy with the same\nfeelings just now."
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 246, "indent": 0, "parameters": [5] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 121, "indent": 0, "parameters": [323, 323, 1] },
             { "code": 117, "indent": 0, "parameters": [6] },
             { "code": 251, "indent": 0, "parameters": [] },

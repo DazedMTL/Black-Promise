@@ -11,7 +11,7 @@
   },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "リラの部屋",
+  "displayName": "Lira's room",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -166,7 +166,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["恋愛小説が並んでいる"]
+              "parameters": ["Love novels are lined up"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -220,7 +220,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["リラの匂いがする"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I can smell Lira's scent"]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -267,7 +271,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラの匂いはしない"]
+              "parameters": ["I can't smell Lira's scent"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -315,7 +319,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["リラの匂いはしない"]
+              "parameters": ["I can't smell Lira's scent."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -372,12 +376,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["以前プレゼントしたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大切にしているみたいでうれしい"]
+              "parameters": [
+                "I'm glad that you seem to be taking good care of\nthe stuffed animal I gave you before."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -425,12 +426,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["以前プレゼントしたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うっすらとほこりを被っている"]
+              "parameters": [
+                "The stuffed animal I gave you before is lightly\ncovered in dust."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -478,12 +476,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["以前プレゼントしたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うっすらとほこりを被っている"]
+              "parameters": [
+                "The stuffed animal I gave you before is lightly\ncovered in dust."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -540,12 +535,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトがあげたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["とても大切にされている"]
+              "parameters": [
+                "The stuffed animal that Light gave is being very\ncherished."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -593,12 +585,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["以前プレゼントしたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うっすらとほこりを被っている"]
+              "parameters": [
+                "The stuffed animal I gave you before is lightly\ncovered in dust."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -646,12 +635,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["以前プレゼントしたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うっすらとほこりを被っている"]
+              "parameters": [
+                "The stuffed animal I gave you before is lightly\ncovered in dust."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -793,21 +779,23 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["どうしたの？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私の部屋に用事でもあるの？"]
+              "parameters": [
+                "What's wrong? Do you have some business in my\nroom?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["準備はばっちりだから"]
+              "parameters": [
+                "I'm all set, so let's head out for the exploration\nquickly!"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["早く探索に行こ！"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -866,7 +854,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

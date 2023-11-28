@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "ライトの部屋",
+  "displayName": "Light's room",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -298,58 +298,38 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["本当はあたしが"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ここまでやる必要ないんだけど"]
+              "parameters": ["I really shouldn't have to go this far."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルの大切な人はあたしの大切な人"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もちろんライトもその一人"]
+              "parameters": [
+                "Aeru's important person is my important person,\nand of course, Light is one of them too."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["悪魔の呪いに罹ってるって話だけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もしかしたら妖精のあたしなら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["治す手がかりが掴めるかも"]
+              "parameters": [
+                "I heard that he's under a demon's curse, but maybe\nas a fairy, I can find a clue to cure him."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まぁ、今のところは何もわからないんだけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もし手がかりが掴めたらきっと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルもあたしのことを褒めてくれる"]
+              "parameters": [
+                "Well, I don't know anything for now, but if I can\nfind a clue, I'm sure Aeru will praise me."
+              ]
             },
             {
               "code": 223,
@@ -358,16 +338,13 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・ってまだ起きてるじゃん"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["寝てる間に調べちゃおうと思ったのに"]
+              "parameters": [
+                "...He's still awake. I wanted to investigate while\nhe was sleeping."
+              ]
             },
             {
               "code": 205,
@@ -415,16 +392,15 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["*panting* *panting*"] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁ・・・はぁ・・・"]
+              "parameters": ["...Light? You seem a little strange."]
             },
-            { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・ライト？"] },
-            { "code": 401, "indent": 0, "parameters": ["少し様子がおかしい"] },
             {
               "code": 232,
               "indent": 0,
@@ -452,9 +428,8 @@
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
             { "code": 213, "indent": 0, "parameters": [4, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・！？"] },
-            { "code": 401, "indent": 0, "parameters": ["えぇー！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            { "code": 401, "indent": 0, "parameters": ["...!? Eeh-!"] },
             {
               "code": 231,
               "indent": 0,
@@ -473,84 +448,56 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["自分の家だから"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["とやかく言うことじゃないんだけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトはおちんちんをしこしこしていた"]
+              "parameters": [
+                "It's not my place to say anything since it's his\nhouse, but Light was masturbating."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["くっ・・・ん・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["*panting* *panting*"] },
             { "code": 213, "indent": 0, "parameters": [4, 11, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おちんちんってこんなに大きなモノなの！？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["前にアイルのを覗いた時は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あんなに大きくなかったのに！"]
+              "parameters": [
+                "Is a dick really this big!? When I peeked at\nAeru's before, it wasn't that big!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["興奮するとこんなに大きくなるものなのかな"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルも本気を出すとこれぐらいに・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["───少し覚悟が必要なのかも"]
+              "parameters": [
+                "I wonder if it gets this big when he's excited.\nWhen Aeru gets serious, it might be this size... I\nmight need to prepare myself a little."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それにしてもあのライトがね・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いつもと違って何だか面白いかも"]
+              "parameters": [
+                "But you know, that Light... He's somehow different\nfrom usual, it's kind of interesting."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [4, 11, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・うわ・・・そんな・・・"]
+              "parameters": ["...Oh...no way...eek..."]
             },
-            { "code": 401, "indent": 0, "parameters": ["ひえぇ・・・"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぁっ・・・はぁっ・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["*panting* *panting*"] },
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
             {
               "code": 205,
@@ -577,57 +524,40 @@
             },
             { "code": 235, "indent": 0, "parameters": [3] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・少し可哀そうになってきた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトも乱暴に扱われるおちんちんも"]
+              "parameters": [
+                "...The way Light's dick is being roughly handled\nis starting to make me feel a little sorry for\nhim."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["周りの人にはあんなにやさしいのに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["自分でしこしこするときは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こんなだなんてちょっと変わってる"]
+              "parameters": [
+                "He's so kind to everyone around him, but when he's\ndoing it by himself, he's like this. It's a little\nstrange."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あ・・・もしかしたら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["最近おっぱいお姉さんのところにいたから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["性欲が溜まっていたのかもしれない"]
+              "parameters": [
+                "Ah... Maybe he's been around the busty older\nsister lately, so his sexual desire has been\nbuilding up."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 6, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あのおっぱいなら仕方ない気もするけど・・・"]
+              "parameters": [
+                "If it's those boobs, I guess it can't be helped..."
+              ]
             },
             {
               "code": 245,
@@ -642,36 +572,25 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["*panting* *panting*"] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["くっ、はっ、はっ・・・"]
+              "parameters": [
+                "It feels like the speed has increased even more...\nIt's definitely going to hurt, isn't it?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何だか一段と速度が上がっている気がする"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["・・・絶対痛いよね"] },
-            { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["本当に性欲だけなのかな"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["やっぱりライトがこんなになるなんて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おかしいのかも知れない・・・！？"]
+              "parameters": [
+                "Is it really just sexual desire after all? Maybe\nit's strange for Light to become like this...!?"
+              ]
             },
             { "code": 246, "indent": 0, "parameters": [3] },
             { "code": 235, "indent": 0, "parameters": [4] },
@@ -729,66 +648,44 @@
             },
             { "code": 213, "indent": 0, "parameters": [4, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["少し考え事をしていたら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["急におちんちんから大量の精液が飛び出した"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・すごい量"]
+              "parameters": [
+                "I was thinking about something for a bit, and then\nsuddenly a large amount of semen spurted out from\nhis dick... It's an incredible amount."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おちんちんの大きさでも思ったけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["精液の量もアイルの時よりも明らかに多い"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["これは・・・ライトがおかしいのかもしれない"]
+              "parameters": [
+                "The amount of semen is definitely larger than when\nit was Aeru, and I thought it was because of the\nsize of his dick, but... maybe Light is the one\nwho's strange."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぁっ・・・はぁ・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["*panting* *panting*"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何だかすごい光景を見てしまった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あまりにも強烈で少し呆然としてしまう"]
+              "parameters": [
+                "I saw quite a scene, and it was so intense that I\nwas left feeling a bit stunned."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["そんな中"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトは徐におちんちんに手を伸ばして"]
+              "parameters": [
+                "In the midst of that, Light slowly reached out for\nhis dick."
+              ]
             },
             {
               "code": 245,
@@ -803,73 +700,55 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うわ・・・まだ続けるんだ・・・"]
+              "parameters": ["Ugh... he's still going..."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["一定のリズムでおちんちんをしこしこして"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もう一度射精へと導こうとしている"]
+              "parameters": [
+                "He's trying to stroke his dick with a certain\nrhythm to lead himself to ejaculate again."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もはやあたしの理解の範疇を超えた行動に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ふらふらとライトの部屋を後にする"]
+              "parameters": [
+                "I leave Light's room feeling dizzy from actions\nthat have already exceeded my understanding."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 246, "indent": 0, "parameters": [6] },
             { "code": 242, "indent": 0, "parameters": [6] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まさかこんな濃厚な自慰を見ることになるなんて"]
+              "parameters": [
+                "I never thought I would witness such an intense\nmasturbation. The smell of semen was so strong\nthat I even felt like it reached me, creating a\nhallucination."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["精液の匂いがあたしにも届くんじゃないかと"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["錯覚するほどだった"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 6, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これからライトの家に来るときは気を付けよう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そう心に誓うのだった───"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・そういえばあたしは何をしに来たんだっけ"]
+              "parameters": [
+                "I made a vow to myself to be careful when coming\nto Light's house from now on... Come to think of\nit, what did I come here for again?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 117, "indent": 0, "parameters": [3] },
             { "code": 121, "indent": 0, "parameters": [202, 202, 1] },
             { "code": 211, "indent": 0, "parameters": [1] },
@@ -1041,7 +920,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "道具屋２Ｆ",
+  "displayName": "Tool Shop 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -214,8 +214,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["白い何かが"] },
-            { "code": 401, "indent": 0, "parameters": ["床に広がっている"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["There is something white spread out on the floor"]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -317,8 +320,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["白い何かが"] },
-            { "code": 401, "indent": 0, "parameters": ["床に広がっている"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "There is something white spread out on the floor."
+              ]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -371,8 +379,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["白い何かが"] },
-            { "code": 401, "indent": 0, "parameters": ["床に広がっている"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["There is something white spread on the floor"]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -425,8 +436,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["白い何かが"] },
-            { "code": 401, "indent": 0, "parameters": ["床に広がっている"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["There is something white spread out on the floor"]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,

@@ -11,7 +11,7 @@
   },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "ライトの家２Ｆ",
+  "displayName": "Light's House 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -167,7 +167,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -224,7 +224,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["机の上に綺麗な花が飾られている"]
+              "parameters": ["There is a beautiful flower arranged on the desk"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -385,7 +385,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -545,7 +545,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -593,7 +593,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -641,7 +641,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -695,16 +695,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["本当にありがとうアイル"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いつも君には助けられてばかりだね　"]
+              "parameters": [
+                "Thank you so much, Aeru. I always seem to be\nrelying on you."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -749,12 +746,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・ふぅ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あぁ、アイルどうかしたのかい？"]
+              "parameters": ["... *sigh* Aeru, is something the matter?"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -799,12 +795,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・ふぅ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あぁ、アイルどうかしたのかい？"]
+              "parameters": ["...*sigh* Ah, Aeru, is something the matter?"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -849,12 +844,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・ふぅ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あぁ、アイルどうかしたのかい？"]
+              "parameters": ["...*sigh* Ah, Aeru, is something the matter?"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -899,14 +893,14 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイルのお陰で"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今のリラとの関係があると思う"]
+              "parameters": [
+                "Thanks to Aeru, I really think our current\nrelationship with Lira exists. Thank you so much."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["本当にありがとう"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -950,14 +944,14 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイルのお陰で"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今のマーガレットとの関係があると思う"]
+              "parameters": [
+                "Thanks to Aeru, I think my current relationship\nwith Margaret exists. Thank you so much."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["本当にありがとう"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1001,16 +995,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルは早くミールと・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["まぁ、俺が言う事でもないか"]
+              "parameters": [
+                "Aeru, hurry up and... well, it's not for me to\nsay."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1055,25 +1046,23 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["呪いの件では本当に迷惑をかけたね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お陰様でクロちゃんと一緒にいることが出来る"]
+              "parameters": [
+                "I really caused a lot of trouble with the curse,\nbut thanks to that, I can be with Kuro-chan."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["僕は本当にいい友人を持った"]
+              "parameters": [
+                "I'm really grateful for having such a good friend,\nthank you Aeru"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["ありがとうアイル"] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1121,12 +1110,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["二人が何かを話している"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["邪魔しないようにしよう"]
+              "parameters": [
+                "Let's not disturb the two while they're talking\nabout something."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1225,34 +1211,31 @@
               "parameters": [1, "kuroko", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["kurotilyan", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルか・・・呪いの件では迷惑をかけた"]
+              "parameters": [
+                "Aeru... I'm truly sorry for causing trouble with\nthe curse incident."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["本当に申し訳ない"] },
             { "code": 101, "indent": 0, "parameters": ["kurotilyan", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["村の者たちは皆良くしてくれる"]
+              "parameters": [
+                "Maybe I should have just gone along without\nstubbornly refusing the kindness of the villagers\nfrom the beginning."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["意地を張らずに最初からこうすれば"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["良かったのかもな"] },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
                 [
-                  "ライトとは最近どう？",
-                  "声可愛いですね",
-                  "呪いって結局・・・"
+                  "How's Light been lately?",
+                  "Your voice is cute, isn't it?",
+                  "In the end, curses"
                 ],
                 1,
                 0,
@@ -1266,49 +1249,38 @@
               "parameters": [0, "ライトとは最近どう？"]
             },
             { "code": 101, "indent": 1, "parameters": ["kurotilyan", 4, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["む・・・そ、そうだな"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["順調だ・・・悪くはないだろう"]
+              "parameters": [
+                "Mm... Y-yes, that's right. It's going smoothly...\nNot bad, right?"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["kurotilyan", 4, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ただ、少々加減というものが・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["昨日だって我はやめてって言ったのに・・・"]
+              "parameters": ["However, I did say to stop a little yesterday..."]
             },
             { "code": 101, "indent": 1, "parameters": ["kurotilyan", 2, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["あ、あぁ、すまないっ！"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["なんでもないんだ忘れてくれ・・・"]
+              "parameters": [
+                "Ah, I-I'm sorry! It's nothing, just forget about\nit..."
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "声可愛いですね"] },
             { "code": 101, "indent": 1, "parameters": ["kurotilyan", 3, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["・・・・・・別に普通だと思う・・・"]
+              "parameters": ["...I think it's normal..."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             {
@@ -1317,112 +1289,72 @@
               "parameters": [2, "呪いって結局・・・"]
             },
             { "code": 101, "indent": 1, "parameters": ["kurotilyan", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【クロ】"] },
-            { "code": 401, "indent": 1, "parameters": ["ふむ・・・そうだな"] },
+            { "code": 401, "indent": 1, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["お前には教えてやるか"]
+              "parameters": ["Hm... I suppose I'll tell you."]
             },
             { "code": 101, "indent": 1, "parameters": ["kurotilyan", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["まぁ、と言っても別に"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["難しい話ではないのだ"]
+              "parameters": ["Well, it's not really a difficult story, though."]
             },
             { "code": 101, "indent": 1, "parameters": ["kurotilyan", 3, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【クロ】"] },
-            { "code": 401, "indent": 1, "parameters": ["そもそもなんで"] },
+            { "code": 401, "indent": 1, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["この村では呪いなどと言われているのやら"]
+              "parameters": [
+                "Why is this village even considered to be cursed\nin the first place?"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["kurotilyan", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["我はな\\c[2]恋心\\c[0]を操る事が出来るのだ"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["まぁ、操ると言っても好きなようにする"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["というわけではないのだがな"]
+              "parameters": [
+                "I can manipulate \\c[2]love\\c[0], well, not exactly\nmanipulate, but more like control it in my own\nway."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["kurotilyan", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["例を出すなら・・・そうだな"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["恋心と言っても色々あるだろう"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["容姿が好みだ、とか憧れだったり"]
+              "parameters": [
+                "If I were to give an example... well, there are\nvarious types of love, such as liking someone's\nappearance or having a crush."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["kurotilyan", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["そういう相手に抱く気持ちを"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["増幅させることが出来るのだ"]
+              "parameters": [
+                "I can amplify the feelings one holds for such a\nperson."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["kurotilyan", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ライトは記憶をなくしていたから"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["本来恋心を向けるはずだった相手がおらず"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["その感情を持て余してしまったのだろうな"]
+              "parameters": [
+                "Since Light had lost his memory, he didn't have\nanyone to direct his love towards as he should\nhave, and ended up being overwhelmed by those\nemotions."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["kurotilyan", 3, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【クロ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Kuro】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["まぁ、そんなところか・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["だから、本来は呪いなどではなくて"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["もっとピュアピュアな温かい物なのだぞ！"]
+              "parameters": [
+                "Well, that's about it... So, it's not really a\ncurse, but rather something more pure and warm!"
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -1474,12 +1406,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["二人が何かを話している"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["邪魔しないようにしよう"]
+              "parameters": ["Let's not disturb the two while they're talking."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1533,16 +1460,16 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ふぁ・・・おはようアイル"]
+              "parameters": ["Fua... Good morning, Aeru"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["どうしてここにいるの？", "おはよう"], 1, 0, 2, 0]
+              "parameters": [["Why are you here?", "Good morning"], 1, 0, 2, 0]
             },
             {
               "code": 402,
@@ -1550,25 +1477,22 @@
               "parameters": [0, "どうしてここにいるの？"]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["どうしてってそりゃ昨日・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["・・・あぁ・・・なんでもない！"]
+              "parameters": [
+                "Why? It's because of yesterday... Ah... It's\nnothing!"
+              ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "おはよう"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 3, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["うんっ！おはようアイル！"]
+              "parameters": ["Yeah! Good morning, Aeru!"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -1620,36 +1544,28 @@
               "parameters": [1, "hiro3", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["お、おはようアイル!"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日もかっこいいね！"]
+              "parameters": ["G-Good morning, Aeru! You look cool today too!"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["どこか一緒に行く？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まぁ、いつもみたいに断られるよね・・・"]
+              "parameters": [
+                "Do you want to go somewhere together? Well, you\nalways refuse like usual..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ミールがどういう気持ちなのか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["楊家に分からなくなってしまう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["話しているとあの日の光景がちらついて"]
+              "parameters": [
+                "I can't understand Miiru's feelings, and when I\ntalk about it, that scene from that day flashes in\nmy mind."
+              ]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -1699,12 +1615,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日は用事があるから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["と断って会話を切り上げた"]
+              "parameters": [
+                "He declined, saying he had something to do today,\nand cut the conversation short."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1801,7 +1714,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1858,7 +1771,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1915,7 +1828,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1972,7 +1885,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2029,7 +1942,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2086,7 +1999,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2143,7 +2056,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2200,7 +2113,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2257,7 +2170,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2314,7 +2227,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2371,7 +2284,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2428,7 +2341,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2485,7 +2398,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2542,7 +2455,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2599,7 +2512,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2656,7 +2569,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2713,7 +2626,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている・・・"]
+              "parameters": ["A white something is spreading..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

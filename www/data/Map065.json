@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "道具屋２Ｆ",
+  "displayName": "Tool Shop 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -215,18 +215,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
-            { "code": 401, "indent": 0, "parameters": ["じゃあ・・・今日も"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["気持ちよくしてあげるよ"]
+              "parameters": [
+                "Well then... I'll make you feel good today,\nMargaret-chan."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["マーガレットちゃん"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・はい"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Yes"] },
             {
               "code": 231,
               "indent": 0,
@@ -261,306 +261,238 @@
             { "code": 230, "indent": 0, "parameters": [120] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["朧げな意識の中で"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["微かに身体に違和感を覚える"]
+              "parameters": [
+                "Faintly feeling discomfort in my hazy\nconsciousness."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["誰かが私の胸を触っているのだ"]
+              "parameters": ["Someone is touching my chest."]
             },
             { "code": 213, "indent": 0, "parameters": [4, 4, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁ・・・はぁ・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["マーガレットちゃんかわいいよ"]
+              "parameters": ["Haa... haa... Margaret-chan, you're cute."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["聞いたことのある声な気はするが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["誰だったか思い出せない"]
+              "parameters": [
+                "I feel like I've heard that voice before, but I\ncan't remember who it was."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 5, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["マーガレットちゃんかわいいよ"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["・・・マーガレットちゃん"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・マーガレットちゃん好きだよ"]
+              "parameters": [
+                "Margaret-chan, you're cute... Margaret-chan... I\nlove you"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [3, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["この声だ"] },
-            { "code": 401, "indent": 0, "parameters": ["これを聞いていると"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["段々意識が朦朧としてきて"]
+              "parameters": [
+                "As I listen to this voice, my consciousness\nbecomes increasingly hazy."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私は深い海に沈められたように"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何もできなくなってしまう"]
+              "parameters": [
+                "I feel like I've been sunk into a deep sea and\ncan't do anything."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [4, 4, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Dull-faced guy】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぁ・・・はぁ・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["マーガレットちゃん・・・はぁはぁ"]
+              "parameters": ["Haa... haa... Margaret-chan... haa haa"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今回が初めてではないのだろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["記憶が無くても相手が手馴れているのがわかる"]
+              "parameters": [
+                "Even though I have no memory, it feels like this\nisn't the first time. I can tell that the other\nperson is experienced."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この相手はきっと私より"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私の胸について知っている・・・だって"]
+              "parameters": [
+                "This person surely knows more about my chest than\nI do... because"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Ah... *moan*"] },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あ・・・\\i[249]んっ・・・\\i[249]"]
+              "parameters": [
+                "I wasn't consciously trying to make a sound. I\ncan't do that right now."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["声を出そうって意識しているわけではなかった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["そんなこと今の私には出来ないのだから"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だからきっと、私の心ではなく"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["身体が反応してしまっているのだろう"]
+              "parameters": [
+                "That's why, surely, it's not my heart but my body\nthat's reacting."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 7, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ・・・\\i[249]んっ・・・\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぁはぁ・・・\\i[249]あっ\\i[249]"]
+              "parameters": ["Nn... *pant*... *pant*... *haa haa*... Ah..."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["気を抜くとその感覚に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["全てをゆだねそうになってしまう"]
+              "parameters": [
+                "If I let my guard down, it feels like I'll\nsurrender everything to that sensation."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それは思いのほかこの行為に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["嫌悪感を覚えていないせいだろう"]
+              "parameters": [
+                "It's probably because, unexpectedly, I don't feel\ndisgust towards this act."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["相手の触り方から"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私の事を大切にしたいって思いが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["伝わってくるようだから・・・"]
+              "parameters": [
+                "It feels like the other person's touch conveys a\ndesire to cherish me..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 5, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["マーガレットちゃんかわいい"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・今のマーガレットちゃん最高にエッチだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["マーガレットちゃんで抜いたらどんなに気持ちいいんだろう"]
+              "parameters": [
+                "Margaret-chan is cute... The current Margaret-chan\nis so naughty. I wonder how good it would feel to\nrelease with Margaret-chan."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["声がまた、私の中に響く"]
+              "parameters": ["The voice resonates within me again."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["それに応えるように"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["身体が、意識が反応してしまう"]
+              "parameters": ["In response, my body and consciousness react."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["自由の利かない私は"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["その衝動に流されるしかない"]
+              "parameters": [
+                "I, who have no freedom, can only be swept away by\nthat impulse."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [3, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["私で抜きたいの？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Do you want to release with me?"]
+            },
             { "code": 213, "indent": 0, "parameters": [4, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive face guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ・・・・・・うん"]
+              "parameters": ["Ah... Yeah, haha, that's amazing."]
             },
-            { "code": 401, "indent": 0, "parameters": ["ははっ、すごいね"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Dull-faced guy】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["マーガレットちゃんは僕の事"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["なんでもわかっちゃうんだね"]
+              "parameters": [
+                "Margaret-chan, you understand everything about me,\nhuh?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["何もわからない"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・だけどそんな思いとは関係なしに"]
+              "parameters": [
+                "I don't understand anything... but words are being\nwoven regardless of such feelings."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["言葉が紡がれていく"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いいよ・・・私を使って"]
+              "parameters": ["It's okay... How should I be used?"]
             },
-            { "code": 401, "indent": 0, "parameters": ["どうすればいい？"] },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unsociable-looking guy】"]
             },
-            { "code": 401, "indent": 0, "parameters": ["えっと、そのまま"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・・・・そのままでいいから"]
+              "parameters": ["Um, just like that... it's fine just as it is."]
             },
             {
               "code": 231,
@@ -576,94 +508,73 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["相手は一言だけ告げると"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ガチャガチャと物音を立て始めた"]
+              "parameters": [
+                "After saying just one word, the other person\nstarted making clattering noises."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["ごめん、お待たせ"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・えっと"] },
-            { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["少しすると相手は下半身を露出させていた"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そこには反りあがったおちんちんがある"]
+              "parameters": ["Sorry for the wait... um"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それを目の前に突き付けられ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["朦朧とした意識の中でも"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["オスの匂いが鼻につく"]
+              "parameters": [
+                "After a while, the other person exposed their\nlower body, and there was a erect dick."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まさかそれを入れるつもりなのだろうか"]
+              "parameters": [
+                "Even in my hazy consciousness, the scent of a male\nreaches my nose as it is thrust before me."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど、今の私にはそれを止めるすべはない"]
+              "parameters": [
+                "I wonder if you're planning to put that in, but\nthere's no way for me to stop it right now."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["その、マーガレットちゃんはただ"]
+              "parameters": [
+                "Margaret-chan, just watch quietly... I'm starting\nnow."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["見ててくれればいいから"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["・・・始めるね"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そう言うと相手は自分のおちんちんを"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おもむろに扱き出した"]
+              "parameters": [
+                "After saying that, the other person leisurely\nbrought out their own dick."
+              ]
             },
             {
               "code": 245,
@@ -678,90 +589,69 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["相手はどこか苦しそうな眼をしながら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私の事を見つめている"]
+              "parameters": [
+                "The other person is looking at me with somewhat\npained eyes."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私は何もしなくていいと言われたので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ただその光景を眺めていた"]
+              "parameters": [
+                "I was told that I didn't have to do anything, so I\njust watched the scene."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unsociable-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["マーガレットちゃんマーガレットちゃん"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["はぁっはあっ・・・"] },
-            { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["絶えず私の名前を呼んでいる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おちんちんからは何かが垂れているのだろうか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ぐちゅぐちゅとした音がいやらしい"]
+              "parameters": ["Margaret-chan, Margaret-chan, haa... haa..."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この相手はおちんちんをパンパンにして"]
+              "parameters": [
+                "Is something dripping from the dick that keeps\ncalling my name? The squishy sound is obscene."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["苦し気な表情を浮かべて"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["必死に私の事を呼ぶ"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["曖昧な意識の中で考える"]
+              "parameters": [
+                "This person is panting and wearing a pained\nexpression as they desperately call out to me,\ntheir dick throbbing."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["なんでなんだろう"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんなことを考えていると"]
+              "parameters": [
+                "I wonder why I'm thinking in this hazy\nconsciousness."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["相手の動きに変化がうまれていた"]
+              "parameters": [
+                "As I was thinking about that, the other person's\nmovements began to change."
+              ]
             },
             {
               "code": 245,
@@ -776,44 +666,33 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おちんちんを扱く早さが変化していく"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何事かと相手の顔を窺うと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・目が合った"]
+              "parameters": [
+                "As the speed of handling the dick began to change,\nI peeked at the other person's face... and our\neyes met."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["その顔は何だか泣くのを堪える"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["子供のようで視線を逸らすことが出来なかった"]
+              "parameters": [
+                "His face was somehow like that of a child trying\nto hold back tears, and I couldn't look away."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁっはっ・・・マーガレットちゃん！"]
+              "parameters": ["Haa... Margaret-chan!*"]
             },
             { "code": 117, "indent": 0, "parameters": [4] },
             {
@@ -824,164 +703,118 @@
             { "code": 235, "indent": 0, "parameters": [2] },
             { "code": 246, "indent": 0, "parameters": [3] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["一際大きく名前が呼ばれたかと思うと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おちんちんがビクビクと震え何かが飛び出した"]
+              "parameters": [
+                "Just as I thought my name was called out\nparticularly loudly, the dick started trembling\nand something squirted out."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["びゅっびゅっ！と音がしそうなほど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["勢いよく出たそれを私は受け止める"]
+              "parameters": [
+                "I catch what came out so forcefully that it seemed\nlike it would make a *byu byu* sound."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁ・・・はぁ・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ごめん、マーガレットちゃん服が・・・"]
+              "parameters": [
+                "Haa... haa... sorry, Margaret-chan, my clothes..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お気に入りの黒いワンピースが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["相手の精液で汚れている"]
+              "parameters": [
+                "My favorite black dress is stained with the other\nperson's semen."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["昔から背丈のあまり変わらない私は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["このワンピースと一緒にみんなと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["思い出を沢山重ねていた"]
+              "parameters": [
+                "I, who hasn't changed much in height since long\nago, have been creating many memories with\neveryone in this dress."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんな黒いワンピースには"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その白は余計に目立っていて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何だか心が酷くざわついた・・・だけど"]
+              "parameters": [
+                "That white stain stood out even more on my black\ndress, and it made my heart feel terribly\nrestless... but"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["マーガレットちゃんごめん"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・マーガレットちゃんかわいい"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["マーガレットちゃんを汚してやった・・・うれしい"]
+              "parameters": [
+                "Margaret-chan, I'm sorry... I dirtied the cute\nMargaret-chan... I'm happy"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [3, 4, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いえ、気にしないでください"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["嬉しいです・・・私も"]
+              "parameters": ["No, please don't worry. I'm happy too..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
-            { "code": 401, "indent": 0, "parameters": ["マーガレットちゃん・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["Margaret-chan..."] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["射精を終えて"] },
-            { "code": 401, "indent": 0, "parameters": ["治まったおちんちんが"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["元気を取り戻していく"]
+              "parameters": [
+                "After ejaculating, the calmed down dick is\nregaining its energy."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それを見て私は──・・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Seeing that, I..."] },
             { "code": 213, "indent": 0, "parameters": [3, 3, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["まだ使いますか？"] },
-            { "code": 401, "indent": 0, "parameters": [""] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["（まだ使いますか？）"]
+              "parameters": ["Are you still going to use it?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【冴えない顔のお兄さん】"]
+              "parameters": ["【Unimpressive-looking guy】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ありがとうマーガレットちゃん"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["最高だよ、好きだ、愛してる！"]
+              "parameters": [
+                "Thank you Margaret-chan, you're the best, I love\nyou, I adore you!"
+              ]
             },
             {
               "code": 245,
@@ -996,46 +829,40 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["そう言って"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["相手はまたおちんちんを扱き出した"]
+              "parameters": [
+                "Saying that, the other person started stroking the\ndick again."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私は意識が完全に飛んでしまうまで"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それをただ微笑みながら見つめていた"]
+              "parameters": [
+                "I just gazed at it with a smile until I completely\nlost consciousness."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["その時にはもう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["先ほど感じたざわつきなど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どこかに消えてなくなってしまっていた"]
+              "parameters": [
+                "By that time, the restlessness I felt earlier had\nalready disappeared somewhere."
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 246, "indent": 0, "parameters": [5] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 117, "indent": 0, "parameters": [3] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 117, "indent": 0, "parameters": [7] },
             { "code": 230, "indent": 0, "parameters": [120] },
             { "code": 211, "indent": 0, "parameters": [1] },

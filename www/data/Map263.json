@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 65 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "妖精の国　王子の家",
+  "displayName": "Fairy Kingdom Prince's House",
   "encounterList": [
     { "regionSet": [], "troopId": 1, "weight": 5 },
     { "regionSet": [], "troopId": 2, "weight": 5 },
@@ -238,22 +238,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -361,7 +357,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この先に行く用事はない"]
+              "parameters": ["There's no need to go any further."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -474,11 +470,12 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["物音で目が覚める"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何の音だろうか・・・"]
+              "parameters": [
+                "I wake up to the sound of something... I wonder\nwhat it is."
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -867,75 +864,51 @@
               "parameters": [1, "hiro3 ouzi 3-3", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ\\i[249]んっ\\i[249]んっ\\i[249]あっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["激しいっ\\i[249]待って\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルがいるのにっ\\i[249]こんなっ\\i[249]"]
+              "parameters": [
+                "Ahh, so intense... Wait, even though Aeru is here,\nwhy like this..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【レイ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Ray】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["聞かせてやればいい！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こんなエッチな奴だって教えてやろう！"]
+              "parameters": [
+                "Let me hear it! I'll teach you about this\nperverted guy!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いやぁ\\i[249]だめぇ\\i[249]恥ずかしぃ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あっ\\i[249]んっ\\i[249]んっ\\i[249]んっ\\i[249]"]
+              "parameters": ["Nooo, stop, it's embarrassing, ah, ngh, ngh, ngh"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 246, "indent": 0, "parameters": [5] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["翌朝、早い時間に村を出る"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ミールには引き留められたが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["とても長居できそうになかった"]
+              "parameters": [
+                "The next morning, Miiru, who was leaving the\nvillage early, was detained, but it didn't seem\nlike she could stay for very long."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もう来ることはないだろう・・・"]
+              "parameters": ["They probably won't come back anymore..."]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },

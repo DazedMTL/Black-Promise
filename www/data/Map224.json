@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "道具屋",
+  "displayName": "Tool Shop",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -535,16 +535,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["やぁ、いらっしゃい"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日は何が必要なんだい？"]
+              "parameters": ["Hey, welcome! What do you need today?"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -603,7 +598,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

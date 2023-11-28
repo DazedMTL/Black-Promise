@@ -11,7 +11,7 @@
   },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "村の外れ",
+  "displayName": "Village outskirts",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -357,30 +357,32 @@
             { "code": 121, "indent": 0, "parameters": [528, 528, 1] },
             { "code": 121, "indent": 0, "parameters": [529, 529, 0] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちょっと・・・やめてっ"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Hey... stop it."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【体格のいいお兄さん】"]
+              "parameters": ["【Well-built big brother】"]
             },
-            { "code": 401, "indent": 0, "parameters": ["なぁ、いいだろ？"] },
-            { "code": 401, "indent": 0, "parameters": ["もう我慢できねぇよ"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hey, isn't it fine? I can't hold back anymore."]
+            },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["そんなっ"] },
-            { "code": 401, "indent": 0, "parameters": ["約束が違うでしょ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["That's not the promise, right?"]
+            },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 213, "indent": 0, "parameters": [6, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["あっ、アイルっ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Ah, Aeru!"] },
             {
               "code": 205,
               "indent": 0,
@@ -436,39 +438,36 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【体格のいいお兄さん】"]
+              "parameters": ["【Well-built big brother】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["おぉ！アイルじゃねぇか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["リラとちょっと話してたんだがな"]
+              "parameters": [
+                "Oh! It's Aeru. I was just talking to Lira for a\nbit."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【体格のいいお兄さん】"]
+              "parameters": ["【Big brother with a good physique】"]
             },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こいつが約束を守ってくれねぇんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルの方からも言ってやってくれよ"]
+              "parameters": [
+                "This guy isn't keeping his promise. Aeru, can you\ntell him too?"
+              ]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["あまり困らせちゃだめだぞ？", "リラが嫌がってる"],
+                [
+                  "You shouldn't cause too much trouble, okay?",
+                  "Lira is reluctant"
+                ],
                 1,
                 0,
                 2,
@@ -484,17 +483,9 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["リラの事だからきっと"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["何か困らせるような事を言ったのだろう"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["嗜めるようにリラに声を掛ける"]
+              "parameters": [
+                "Since it's Lira, he probably said something to\nbother her. I call out to Lira as if to scold her."
+              ]
             },
             { "code": 117, "indent": 1, "parameters": [40] },
             {
@@ -519,23 +510,19 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["【体格のいいお兄さん】"]
+              "parameters": ["【Well-built big brother】"]
             },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ほら、アイルもこう言っているんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ちゃんと約束を守ってくれるんだろ？"]
+              "parameters": [
+                "See, even Aeru is saying the same thing. You'll\nkeep your promise, right?"
+              ]
             },
             { "code": 213, "indent": 1, "parameters": [6, 8, false] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1 2", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・うん"] },
-            { "code": 401, "indent": 1, "parameters": ["わかった"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 1, "parameters": ["...Yeah, I got it"] },
             { "code": 213, "indent": 1, "parameters": [7, 4, false] },
             {
               "code": 205,
@@ -559,43 +546,31 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["【体格のいいお兄さん】"]
-            },
-            { "code": 401, "indent": 1, "parameters": ["よし！決まったな"] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["悪いが俺たちはすることがあるからな"]
+              "parameters": ["【Well-built big brother】"]
             },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ほら、行くぞ・・・へへっ"]
+              "parameters": [
+                "Alright! It's settled. Sorry, but we've got\nsomething to do, so let's go... heheh"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin1 2", 1, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["仕方ないよね、私が言った事だもん"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ちゃんと責任を取らなきゃ"]
+              "parameters": [
+                "Well, I guess it can't be helped. I said it, so I\nhave to take responsibility."
+              ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["二人は連れだってどこかへ行ってしまった"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
               "parameters": [
-                "リラの顔が悲しそうに見えたのは気のせいだろうか・・・"
+                "I wonder if it's just my imagination that Lira's\nface looked so sad as the two of them went off\nsomewhere together."
               ]
             },
             { "code": 121, "indent": 1, "parameters": [529, 529, 1] },
@@ -603,72 +578,58 @@
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
-            {
-              "code": 402,
-              "indent": 0,
-              "parameters": [1, "リラが嫌がってる"]
-            },
+            { "code": 402, "indent": 0, "parameters": [1, "リラが嫌がってる"] },
             { "code": 117, "indent": 1, "parameters": [39] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["リラは明らかに嫌がっている"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["どういう状況なのか二人に尋ねた"]
+              "parameters": [
+                "I asked the two of them what was going on, as Lira\nclearly seemed to be upset."
+              ]
             },
             { "code": 213, "indent": 1, "parameters": [6, 8, false] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["あのね・・・今まで黙っていたけれど実は・・・"]
+              "parameters": [
+                "You know... I've been keeping quiet about this,\nbut actually..."
+              ]
             },
             { "code": 213, "indent": 1, "parameters": [7, 11, false] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["【体格のいいお兄さん】"]
+              "parameters": ["【Well-built big brother】"]
             },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["あっー！えっと、わりぃ何でもねぇぜ"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["はっはっは・・・なんか調子よくなってきた"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["リラも無理言って悪かったな！"]
+              "parameters": [
+                "Ah! Um, sorry, it's nothing, hahaha... I'm sorry\nfor making Lira feel uncomfortable by saying\nsomething weird while I was in high spirits!"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["【体格のいいお兄さん】"]
+              "parameters": ["【Big brother with a good physique】"]
             },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["アイルもそんな怖い顔するなって"]
+              "parameters": ["Aeru, I'm sorry for making you look so scared."]
             },
-            { "code": 401, "indent": 1, "parameters": ["俺が悪かったからよ"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["【体格のいいお兄さん】"]
+              "parameters": ["【Well-built big brother】"]
             },
-            { "code": 401, "indent": 1, "parameters": ["それじゃあな！"] },
+            { "code": 401, "indent": 1, "parameters": ["Well then, see you!"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 121, "indent": 1, "parameters": [526, 526, 0] },
             {
@@ -706,48 +667,46 @@
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["ありがとう、アイル"] },
-            { "code": 401, "indent": 1, "parameters": ["助けてくれて"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Thank you, Aeru, for helping me."]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "I joke that it's dangerous when Lira isn't around."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Yeah, it's true. It seems like I really can't\nmanage on my own without Aeru."
+              ]
+            },
+            { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Can I keep thinking that I want to be with you\nforever from now on...?"
+              ]
+            },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["リラは傍に居ないと"]
+              "parameters": [
+                "I nodded without hesitation, thinking it's only\nnatural."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["危なっかしいからなと冗談で言う"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["うん、本当にそう"] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["やっぱりアイルがいないとダメみたい"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["一人じゃうまくいかないね"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["これからも、ずっとにいたいな・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["そう思っててもいいかな？"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["当たり前だって"] },
-            { "code": 401, "indent": 1, "parameters": ["迷わず頷いた"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 121, "indent": 1, "parameters": [529, 529, 1] },
             {

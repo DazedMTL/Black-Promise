@@ -11,7 +11,7 @@
   },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "リラの部屋",
+  "displayName": "Lira's room",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -166,7 +166,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["恋愛小説が並んでいる"]
+              "parameters": ["Love novels are lined up"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -220,7 +220,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ベッドが湿っている"] },
+            { "code": 401, "indent": 0, "parameters": ["The bed is wet"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -276,12 +276,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["以前プレゼントしたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うっすらとほこりを被っている"]
+              "parameters": [
+                "The stuffed animal I gave you before is lightly\ncovered in dust."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -338,12 +335,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["以前プレゼントしたぬいぐるみだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うっすらとほこりを被っている"]
+              "parameters": [
+                "The stuffed animal I gave you before is lightly\ncovered in dust."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -597,25 +591,19 @@
               "parameters": [1, "hiro1 ni b", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1 2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あ・・・アイル・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うん、私は大丈夫だよ"]
+              "parameters": ["Ah...Aeru...yeah, I'm okay."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1 2", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["助けてくれて本当にありがとう"]
+              "parameters": ["Thank you so much for helping me..."]
             },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・・・・"] },
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

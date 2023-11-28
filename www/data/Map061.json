@@ -6,7 +6,7 @@
   "bgm": { "name": "Town3", "pan": 0, "pitch": 100, "volume": 65 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "北の森　３",
+  "displayName": "North Forest 3",
   "encounterList": [
     { "regionSet": [], "troopId": 1, "weight": 5 },
     { "regionSet": [], "troopId": 2, "weight": 5 },
@@ -969,22 +969,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1202,12 +1198,13 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・ん！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["見てアイル！あそこに何かあるよ！"]
+              "parameters": [
+                "...Huh! Look, Aeru! There's something over there!"
+              ]
             },
             {
               "code": 205,
@@ -1248,16 +1245,13 @@
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["本当だ・・なんだろうね？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちょっと見てみようか"]
+              "parameters": [
+                "It's true... I wonder what it is? Shall we take a\nlook?"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 61, 26, 15, 8, 0] },
@@ -1380,31 +1374,24 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何かが石板の中に埋め込まれているようだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["すこし警戒しながらもそれを手に取ってみる"]
+              "parameters": [
+                "It seems like something is embedded in the stone\nslab. Let's pick it up with a little caution."
+              ]
             },
             { "code": 126, "indent": 0, "parameters": [33, 0, 0, 1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うまく言葉に出来ないが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["強い力が流れ込んでくる感覚がある"]
+              "parameters": [
+                "I can't quite put it into words, but there's a\nstrong power flowing in."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイル"] },
-            { "code": 401, "indent": 0, "parameters": ["大丈夫かい？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Aeru, are you okay?"] },
             {
               "code": 205,
               "indent": 0,
@@ -1424,18 +1411,18 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["問題なさそうだ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["と、伝えようとして・・・"]
+              "parameters": [
+                "Light||| || It seems like there's no problem, so I\nwas about to tell you..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["突然"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒い靄がライトを包み込む"]
+              "parameters": ["Suddenly, a black haze envelops Light."]
             },
             { "code": 212, "indent": 0, "parameters": [9, 102, true] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
@@ -1460,8 +1447,8 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\{ライト大丈夫！？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Is Light okay?"] },
             { "code": 213, "indent": 0, "parameters": [9, 8, true] },
             {
               "code": 205,
@@ -1482,95 +1469,81 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・あれ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Huh"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["特に何ともなさそうかな？"]
+              "parameters": [
+                "Doesn't seem like there's anything in particular,\nhuh?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 11, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ほんとに！？"] },
-            { "code": 401, "indent": 0, "parameters": ["ほんとのほんと！？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・・・・はぁ、よかったぁ"]
+              "parameters": [
+                "Really!? Is it really true!? ...Phew, thank\ngoodness."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど、そのブレスレッドからは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何か力のようなものを感じるね"]
+              "parameters": [
+                "However, I can feel some kind of power from that\nbracelet."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["もしかしたら"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["呪いを解く手がかりになるかもしれない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一応持って帰ろうか？"]
+              "parameters": [
+                "Should we bring it back just in case it might be a\nclue to lift the curse?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あと、出来ればだけどそれは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルが持っていてくれないか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺だと少し不安なんだ・・・"]
+              "parameters": [
+                "Also, if possible, could Aeru hold onto it? I'm a\nlittle uneasy about it being with me..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["その意見に同意し"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒のブレスレットは預かることにした"]
+              "parameters": [
+                "I agreed with that opinion and decided to take\ncare of the black bracelet."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["何はともあれ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これで少しは前進って感じかな？"]
+              "parameters": [
+                "Anyway, I guess this means we've made a little\nprogress, right?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もうそろそろ日も傾きだすから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日はこのあたりで帰ろっか"]
+              "parameters": [
+                "The sun is starting to set soon, so should we head\nback around here for today?"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [109, 109, 1] },
@@ -1653,9 +1626,12 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・あそこ"] },
-            { "code": 401, "indent": 0, "parameters": ["何かある"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["...Is there something over there?"]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -1695,16 +1671,13 @@
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["本当だ・・なんだろうね？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちょっと見てみようか"]
+              "parameters": [
+                "It's true... I wonder what it is? Shall we take a\nlook?"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 61, 26, 15, 8, 0] },
@@ -1827,31 +1800,24 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何かが石板の中に埋め込まれているようだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["すこし警戒しながらもそれを手に取ってみる"]
+              "parameters": [
+                "It seems like something is embedded in the stone\ntablet. Let's take it with caution and see what it\nis."
+              ]
             },
             { "code": 126, "indent": 0, "parameters": [33, 0, 0, 1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うまく言葉に出来ないが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["強い力が流れ込んでくる感覚がある"]
+              "parameters": [
+                "I can't quite put it into words, but there's a\nstrong power flowing in."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイル"] },
-            { "code": 401, "indent": 0, "parameters": ["大丈夫かい？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Aeru, are you okay?"] },
             {
               "code": 205,
               "indent": 0,
@@ -1871,18 +1837,16 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["問題なさそうだ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["と、伝えようとして・・・"]
+              "parameters": ["As if there's no problem, I tried to convey..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["突然"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒い靄がライトを包み込む"]
+              "parameters": ["Suddenly, a black haze envelops Light."]
             },
             { "code": 212, "indent": 0, "parameters": [9, 102, true] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
@@ -1907,8 +1871,8 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・！？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["...!?"] },
             { "code": 213, "indent": 0, "parameters": [9, 8, true] },
             {
               "code": 205,
@@ -1929,87 +1893,78 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・あれ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Huh"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["特に何ともなさそうかな？"]
+              "parameters": ["It seems like there's no problem, huh?"]
             },
             { "code": 213, "indent": 0, "parameters": [10, 7, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["そうなの？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["大丈夫そうには見えなかったけど・・・"]
+              "parameters": [
+                "Is that so? It didn't look like everything was\nokay though..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["確かに普通のブレスレッドではなさそうだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何か力のようなものを感じるね"]
+              "parameters": [
+                "It's true... It doesn't seem like an ordinary\nbracelet. I can feel some sort of power."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["もしかしたら"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["呪いを解く手がかりになるかもしれない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一応持って帰ろうか？"]
+              "parameters": [
+                "Should we bring it back just in case it might be a\nclue to lift the curse?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あと、出来ればだけどそれは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルが持っていてくれないか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺だと少し不安なんだ・・・"]
+              "parameters": [
+                "Also, if possible, could Aeru hold onto it? I'm a\nlittle uneasy about having it myself..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["その意見に同意し"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒のブレスレットは預かることにした"]
+              "parameters": [
+                "I agreed with that opinion and decided to take\ncare of the black bracelet."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これ以上無理するのは"]
+              "parameters": [
+                "It's better to stop pushing yourself any further."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["やめたほうがいい"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["日も傾いて来たから"] },
-            { "code": 401, "indent": 0, "parameters": ["もう帰ろう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["The sun is starting to set, so let's head back."]
+            },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [109, 109, 1] },
             { "code": 121, "indent": 0, "parameters": [110, 110, 1] },
@@ -2091,12 +2046,11 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["ねぇねぇ！アイル！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あそこに何かあるよ！"]
+              "parameters": ["Hey hey! Aeru! There's something over there!"]
             },
             {
               "code": 205,
@@ -2137,16 +2091,13 @@
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["本当だ・・なんだろうね？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちょっと見てみようか"]
+              "parameters": [
+                "It's true.. I wonder what it is? Shall we take a\nlook?"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 61, 26, 15, 8, 0] },
@@ -2269,31 +2220,24 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何かが石板の中に埋め込まれているようだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["すこし警戒しながらもそれを手に取ってみる"]
+              "parameters": [
+                "It seems like something is embedded in the stone\nslab. Let's pick it up with a little caution."
+              ]
             },
             { "code": 126, "indent": 0, "parameters": [33, 0, 0, 1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うまく言葉に出来ないが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["強い力が流れ込んでくる感覚がある"]
+              "parameters": [
+                "I can't quite put it into words, but there's a\nstrong power flowing in."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイル"] },
-            { "code": 401, "indent": 0, "parameters": ["大丈夫かい？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Aeru, are you okay?"] },
             {
               "code": 205,
               "indent": 0,
@@ -2313,18 +2257,18 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["問題なさそうだ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["と、伝えようとして・・・"]
+              "parameters": [
+                "As if to convey that there seems to be no\nproblem..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["突然"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒い靄がライトを包み込む"]
+              "parameters": ["Suddenly, a black haze envelops Light."]
             },
             { "code": 212, "indent": 0, "parameters": [9, 102, true] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
@@ -2349,9 +2293,8 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["わぁ！"] },
-            { "code": 401, "indent": 0, "parameters": ["何よこれ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Wow! What is this!"] },
             { "code": 213, "indent": 0, "parameters": [9, 8, true] },
             {
               "code": 205,
@@ -2372,94 +2315,79 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・あれ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Huh"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["特に何ともなさそうかな？"]
+              "parameters": [
+                "It seems like there's no particular problem, huh?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["本当にー？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まぁ、ライトがそう言うならいいけど"]
+              "parameters": ["Really? Well, if Light says so, then it's fine."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど、そのブレスレッドからは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何か力のようなものを感じるね"]
+              "parameters": [
+                "However, I can feel some kind of power from that\nbracelet."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["もしかしたら"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["呪いを解く手がかりになるかもしれない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一応持って帰ろうか？"]
+              "parameters": [
+                "Maybe it could be a clue to lift the curse. Should\nwe bring it back just in case?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あと、出来ればだけどそれは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルが持っていてくれないか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺だと少し不安なんだ・・・"]
+              "parameters": [
+                "Also, if possible, could Aeru hold onto it? I'm a\nlittle uneasy about having it myself..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["その意見に同意し"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒のブレスレットは預かることにした"]
+              "parameters": [
+                "I agreed with that opinion and decided to take\ncare of the black bracelet."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私たちならざっとこんなものよね！"]
+              "parameters": [
+                "We can handle something like this! Let's keep\ngoing like this!"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["この調子で行こう！"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まぁ、今日は収穫もあったことだし"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一回村までもどろっか！"]
+              "parameters": [
+                "Well, we did have some gains today, so let's head\nback to the village for now!"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [109, 109, 1] },
@@ -2541,12 +2469,11 @@
             },
             { "code": 213, "indent": 0, "parameters": [9, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルあそこに何か見えないかい？"]
+              "parameters": ["...Aeru, can you see anything over there?"]
             },
             {
               "code": 205,
@@ -2571,12 +2498,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトが示した方を見ると"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何かが光って見えている"]
+              "parameters": [
+                "When I looked in the direction Light indicated, I\ncould see something shining."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 61, 26, 15, 8, 0] },
@@ -2699,31 +2623,24 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何かが石板の中に埋め込まれているようだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["すこし警戒しながらもそれを手に取ってみる"]
+              "parameters": [
+                "It seems like something is embedded in the stone\nslab. I cautiously pick it up, while being a\nlittle wary."
+              ]
             },
             { "code": 126, "indent": 0, "parameters": [33, 0, 0, 1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うまく言葉に出来ないが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["強い力が流れ込んでくる感覚がある"]
+              "parameters": [
+                "I can't quite put it into words, but there's a\nstrong power flowing into me."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイル"] },
-            { "code": 401, "indent": 0, "parameters": ["大丈夫かい？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Aeru, are you okay?"] },
             {
               "code": 205,
               "indent": 0,
@@ -2743,25 +2660,25 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["問題なさそうだ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["と、伝えようとして・・・"]
+              "parameters": [
+                "I was about to say that it seems like there's no\nproblem..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["突然"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒い靄がライトを包み込む"]
+              "parameters": ["Suddenly, a black haze envelops Light."]
             },
             { "code": 212, "indent": 0, "parameters": [9, 102, true] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・！？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["...!?"] },
             { "code": 213, "indent": 0, "parameters": [9, 8, true] },
             {
               "code": 205,
@@ -2782,97 +2699,79 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・あれ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Huh"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["特に何ともなさそうかな？"]
+              "parameters": [
+                "Doesn't seem like there's anything in particular,\nhuh?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["本当に大丈夫なのか"] },
-            { "code": 401, "indent": 0, "parameters": ["三度確認をする"] },
-            { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うん、ちょっとびっくりしちゃったけどね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・そのブレスレッドからは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何か力のようなものを感じる"]
+              "parameters": [
+                "I'll triple check to make sure everything is\nreally okay."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["もしかしたら"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["呪いを解く手がかりになるかもしれない"]
+              "parameters": [
+                "Yeah, I was a little surprised... but I feel some\nkind of power coming from that bracelet."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["一応持って帰ろうか？"]
+              "parameters": [
+                "Should we bring it back just in case it might be a\nclue to lift the curse?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あと、出来ればだけどそれは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルが持っていてくれないか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺だと少し不安なんだ・・・"]
+              "parameters": [
+                "Also, if possible, could Aeru hold onto it? I'm a\nlittle uneasy about having it myself..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["その意見に同意し"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒のブレスレットは預かることにした"]
+              "parameters": [
+                "I agreed with that opinion and decided to take\ncare of the black bracelet."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 4, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["先ほどの黒い靄のこともある"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日は大事を取って村に戻るよう提案する"]
+              "parameters": [
+                "Considering the black haze from earlier, I suggest\nwe play it safe and return to the village today."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そうだね、もう日も暮れそうだし"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日はこのあたりにしておこうか"]
+              "parameters": [
+                "Yeah, it's getting dark, so let's call it a day\naround here."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [109, 109, 1] },
@@ -3276,12 +3175,13 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・ん！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["見てアイル！あそこに何かあるよ！"]
+              "parameters": [
+                "...Huh! Look, Aeru! There's something over there!"
+              ]
             },
             {
               "code": 205,
@@ -3322,16 +3222,13 @@
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["本当だ・・なんだろうね？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちょっと見てみようか"]
+              "parameters": [
+                "It's true... I wonder what it is. Shall we take a\nlook?"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 61, 26, 15, 8, 0] },
@@ -3454,31 +3351,24 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何かが石板の中に埋め込まれているようだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["すこし警戒しながらもそれを手に取ってみる"]
+              "parameters": [
+                "It seems like something is embedded in the stone\nslab. I cautiously pick it up to take a look."
+              ]
             },
             { "code": 126, "indent": 0, "parameters": [33, 0, 0, 1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うまく言葉に出来ないが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["強い力が流れ込んでくる感覚がある"]
+              "parameters": [
+                "I can't quite put it into words, but I feel a\nstrong power flowing in."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイル"] },
-            { "code": 401, "indent": 0, "parameters": ["大丈夫かい？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Aeru, are you okay?"] },
             {
               "code": 205,
               "indent": 0,
@@ -3498,18 +3388,18 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["問題なさそうだ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["と、伝えようとして・・・"]
+              "parameters": [
+                "As if to convey that there doesn't seem to be a\nproblem..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["突然"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒い靄がライトを包み込む"]
+              "parameters": ["Suddenly, a black haze envelops Light."]
             },
             { "code": 212, "indent": 0, "parameters": [9, 102, true] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
@@ -3534,8 +3424,8 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\{ライト大丈夫！？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Aeru, are you okay?"] },
             { "code": 213, "indent": 0, "parameters": [9, 8, true] },
             {
               "code": 205,
@@ -3556,95 +3446,79 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・あれ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Huh"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["特に何ともなさそうかな？"]
+              "parameters": ["Doesn't seem to be anything in particular, huh?"]
             },
             { "code": 213, "indent": 0, "parameters": [10, 11, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ほんとに！？"] },
-            { "code": 401, "indent": 0, "parameters": ["ほんとのほんと！？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・・・・はぁ、よかったぁ"]
+              "parameters": [
+                "Really!? Is it really true!? ...Phew, thank\ngoodness."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど、そのブレスレッドからは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何か力のようなものを感じるね"]
+              "parameters": [
+                "But, I feel some kind of power from that bracelet."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["もしかしたら"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["呪いを解く手がかりになるかもしれない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一応持って帰ろうか？"]
+              "parameters": [
+                "Maybe it could be a clue to lift the curse. Should\nwe bring it back just in case?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あと、出来ればだけどそれは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルが持っていてくれないか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺だと少し不安なんだ・・・"]
+              "parameters": [
+                "Also, if possible, could Aeru hold onto it? I'm a\nlittle uneasy about having it myself..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["その意見に同意し"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒のブレスレットは預かることにした"]
+              "parameters": [
+                "I agreed with that opinion and decided to take\ncare of the black bracelet."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["何はともあれ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これで少しは前進って感じかな？"]
+              "parameters": [
+                "Anyway, I guess this is a little bit of progress,\nhuh?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もうそろそろ日も傾きだすから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日はこのあたりで帰ろっか"]
+              "parameters": [
+                "The sun is starting to set soon, so should we head\nback around here for today?"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [109, 109, 1] },
@@ -3727,9 +3601,12 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・あそこ"] },
-            { "code": 401, "indent": 0, "parameters": ["何かある"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["...Is there something over there?"]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -3769,16 +3646,13 @@
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["本当だ・・なんだろうね？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちょっと見てみようか"]
+              "parameters": [
+                "It's true... I wonder what it is? Shall we take a\nlook?"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 61, 26, 15, 8, 0] },
@@ -3901,31 +3775,24 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何かが石板の中に埋め込まれているようだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["すこし警戒しながらもそれを手に取ってみる"]
+              "parameters": [
+                "It seems like something is embedded in the stone\ntablet. Let's take it with caution and see what it\nis."
+              ]
             },
             { "code": 126, "indent": 0, "parameters": [33, 0, 0, 1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うまく言葉に出来ないが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["強い力が流れ込んでくる感覚がある"]
+              "parameters": [
+                "I can't quite put it into words, but there's a\nstrong power flowing in."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイル"] },
-            { "code": 401, "indent": 0, "parameters": ["大丈夫かい？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Aeru, are you okay?"] },
             {
               "code": 205,
               "indent": 0,
@@ -3945,18 +3812,18 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["問題なさそうだ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["と、伝えようとして・・・"]
+              "parameters": [
+                "Light||| || It seems like there's no problem, so I\nwas about to tell you..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["突然"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒い靄がライトを包み込む"]
+              "parameters": ["Suddenly, a black haze envelops Light."]
             },
             { "code": 212, "indent": 0, "parameters": [9, 102, true] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
@@ -3981,8 +3848,8 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・！？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["...!?"] },
             { "code": 213, "indent": 0, "parameters": [9, 8, true] },
             {
               "code": 205,
@@ -4003,87 +3870,80 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・あれ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Huh"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["特に何ともなさそうかな？"]
+              "parameters": [
+                "Doesn't seem like there's anything in particular,\nhuh?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 7, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["そうなの？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["大丈夫そうには見えなかったけど・・・"]
+              "parameters": [
+                "Is that so? It didn't seem like he was okay\nthough..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["確かに普通のブレスレッドではなさそうだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何か力のようなものを感じるね"]
+              "parameters": [
+                "It's true... It doesn't seem like an ordinary\nbracelet. I can feel some sort of power in it."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["もしかしたら"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["呪いを解く手がかりになるかもしれない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一応持って帰ろうか？"]
+              "parameters": [
+                "Should we bring it back just in case it might be a\nclue to lift the curse?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あと、出来ればだけどそれは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルが持っていてくれないか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺だと少し不安なんだ・・・"]
+              "parameters": [
+                "Also, if possible, could Aeru hold onto it? I'm a\nlittle uneasy about having it myself..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["その意見に同意し"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒のブレスレットは預かることにした"]
+              "parameters": [
+                "I agreed with that opinion and decided to take\ncare of the black bracelet."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これ以上無理するのは"]
+              "parameters": [
+                "It's better to stop pushing yourself any further."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["やめたほうがいい"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["日も傾いて来たから"] },
-            { "code": 401, "indent": 0, "parameters": ["もう帰ろう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["The sun is starting to set, so let's head back."]
+            },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [109, 109, 1] },
             { "code": 121, "indent": 0, "parameters": [110, 110, 1] },
@@ -4165,12 +4025,11 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["ねぇねぇ！アイル！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あそこに何かあるよ！"]
+              "parameters": ["Hey hey! Aeru! There's something over there!"]
             },
             {
               "code": 205,
@@ -4211,16 +4070,13 @@
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["本当だ・・なんだろうね？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちょっと見てみようか"]
+              "parameters": [
+                "It's true.. I wonder what it is? Shall we take a\nlook?"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 61, 26, 15, 8, 0] },
@@ -4343,31 +4199,24 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何かが石板の中に埋め込まれているようだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["すこし警戒しながらもそれを手に取ってみる"]
+              "parameters": [
+                "It seems like something is embedded in the stone\nslab. Let's pick it up with a little caution."
+              ]
             },
             { "code": 126, "indent": 0, "parameters": [33, 0, 0, 1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うまく言葉に出来ないが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["強い力が流れ込んでくる感覚がある"]
+              "parameters": [
+                "I can't quite put it into words, but there's a\nstrong power flowing in."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイル"] },
-            { "code": 401, "indent": 0, "parameters": ["大丈夫かい？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Aeru, are you okay?"] },
             {
               "code": 205,
               "indent": 0,
@@ -4387,18 +4236,18 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["問題なさそうだ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["と、伝えようとして・・・"]
+              "parameters": [
+                "As if to convey that there doesn't seem to be a\nproblem..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["突然"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒い靄がライトを包み込む"]
+              "parameters": ["Suddenly, a black haze envelops Light."]
             },
             { "code": 212, "indent": 0, "parameters": [9, 102, true] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
@@ -4423,9 +4272,8 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["わぁ！"] },
-            { "code": 401, "indent": 0, "parameters": ["何よこれ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Wow! What is this!"] },
             { "code": 213, "indent": 0, "parameters": [9, 8, true] },
             {
               "code": 205,
@@ -4446,94 +4294,77 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・あれ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Huh"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["特に何ともなさそうかな？"]
+              "parameters": ["Doesn't seem to be anything in particular, huh?"]
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["本当にー？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まぁ、ライトがそう言うならいいけど"]
+              "parameters": ["Really? Well, if Light says so, then it's fine."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど、そのブレスレッドからは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何か力のようなものを感じるね"]
+              "parameters": [
+                "But, I can feel some kind of power from that\nbracelet, you know?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["もしかしたら"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["呪いを解く手がかりになるかもしれない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一応持って帰ろうか？"]
+              "parameters": [
+                "Maybe it could be a clue to lift the curse. Should\nwe bring it back just in case?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あと、出来ればだけどそれは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルが持っていてくれないか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺だと少し不安なんだ・・・"]
+              "parameters": [
+                "Also, if possible, could Aeru hold onto it? I'm a\nlittle uneasy about having it myself..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["その意見に同意し"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒のブレスレットは預かることにした"]
+              "parameters": [
+                "I agreed with that opinion and decided to take\ncare of the black bracelet."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私たちならざっとこんなものよね！"]
+              "parameters": [
+                "If it's us, this should be a piece of cake! Let's\nkeep going like this!"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["この調子で行こう！"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まぁ、今日は収穫もあったことだし"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一回村までもどろっか！"]
+              "parameters": [
+                "Well, we did have some gains today, so let's head\nback to the village for now!"
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [109, 109, 1] },
@@ -4615,12 +4446,11 @@
             },
             { "code": 213, "indent": 0, "parameters": [9, 1, true] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルあそこに何か見えないかい？"]
+              "parameters": ["...Aeru, can't you see anything over there?"]
             },
             {
               "code": 205,
@@ -4645,12 +4475,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトが示した方を見ると"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何かが光って見えている"]
+              "parameters": [
+                "When I look in the direction Light indicated, I\ncan see something shining."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 201, "indent": 0, "parameters": [0, 61, 26, 15, 8, 0] },
@@ -4773,31 +4600,24 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何かが石板の中に埋め込まれているようだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["すこし警戒しながらもそれを手に取ってみる"]
+              "parameters": [
+                "It seems like something is embedded in the stone\nslab. I cautiously pick it up, keeping a little\nbit of vigilance."
+              ]
             },
             { "code": 126, "indent": 0, "parameters": [33, 0, 0, 1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うまく言葉に出来ないが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["強い力が流れ込んでくる感覚がある"]
+              "parameters": [
+                "I can't quite put it into words, but there's a\nstrong power flowing in."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイル"] },
-            { "code": 401, "indent": 0, "parameters": ["大丈夫かい？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Aeru, are you okay?"] },
             {
               "code": 205,
               "indent": 0,
@@ -4817,25 +4637,25 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["問題なさそうだ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["と、伝えようとして・・・"]
+              "parameters": [
+                "I was about to say that there doesn't seem to be a\nproblem..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["突然"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒い靄がライトを包み込む"]
+              "parameters": ["Suddenly, a black haze envelops Light."]
             },
             { "code": 212, "indent": 0, "parameters": [9, 102, true] },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             { "code": 213, "indent": 0, "parameters": [9, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・！？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["...!?"] },
             { "code": 213, "indent": 0, "parameters": [9, 8, true] },
             {
               "code": 205,
@@ -4856,97 +4676,77 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・あれ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Huh"] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["特に何ともなさそうかな？"]
+              "parameters": [
+                "Doesn't seem like there's anything in particular,\nhuh?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["本当に大丈夫なのか"] },
-            { "code": 401, "indent": 0, "parameters": ["三度確認をする"] },
-            { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うん、ちょっとびっくりしちゃったけどね"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・そのブレスレッドからは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何か力のようなものを感じる"]
+              "parameters": ["I'll confirm three times if it's really okay."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["もしかしたら"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["呪いを解く手がかりになるかもしれない"]
+              "parameters": [
+                "Yeah, I was a little surprised, but... I feel some\nkind of power coming from that bracelet."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["一応持って帰ろうか？"]
+              "parameters": [
+                "Should we bring it back just in case it might be a\nclue to lift the curse?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あと、出来ればだけどそれは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルが持っていてくれないか？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺だと少し不安なんだ・・・"]
+              "parameters": [
+                "Also, if possible, could Aeru hold onto it? I'm a\nlittle uneasy about it being with me..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["その意見に同意し"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["黒のブレスレットは預かることにした"]
+              "parameters": [
+                "I agreed with that opinion and decided to take\ncare of the black bracelet."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 4, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["先ほどの黒い靄のこともある"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日は大事を取って村に戻るよう提案する"]
+              "parameters": [
+                "Considering the recent black haze incident, I\nsuggest we play it safe and return to the village\ntoday."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そうだね、もう日も暮れそうだし"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日はこのあたりにしておこうか"]
+              "parameters": [
+                "Yeah, it's getting dark, so let's call it a day\naround here."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [109, 109, 1] },

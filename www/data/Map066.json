@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "民家２Ｆ",
+  "displayName": "Private House 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -99,56 +99,58 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["薄い扉から"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["微かに音が漏れてくる"]
+              "parameters": ["Faint sounds leak from the thin door."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["はぁっはっ・・・"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・ちゃん"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["*Sigh*...chan"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ぬちゃぬちゃぬちゃぬちゃ"]
+              "parameters": [
+                "Squish squish squish squish, splash splash splash"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["ぐちゅぐちゅぐちゅ"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・はい・・・いいですよ"]
+              "parameters": ["...Yes...it's okay, please bring it out"]
             },
-            { "code": 401, "indent": 0, "parameters": ["出してください"] },
             { "code": 242, "indent": 0, "parameters": [1] },
             { "code": 117, "indent": 0, "parameters": [4] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["*Haa... haa...*"] },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁ・・・はぁ・・・"]
+              "parameters": ["...Looks like you're still energetic, huh?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・まだ"] },
-            { "code": 401, "indent": 0, "parameters": ["元気みたいですね？"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["うん・・・続けるよ"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Yeah... I'll continue."]
+            },
             { "code": 244, "indent": 0, "parameters": [] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ぬちゃぬちゃぬちゃぬちゃ"]
+              "parameters": [
+                "*Squish squish squish squish, splash splash\nsplash*"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["ぐちゅぐちゅぐちゅ"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -197,20 +199,18 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・・・・ちゃんかわいいよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぁっ・・・はっ・・・"]
+              "parameters": ["...Chan is so cute, haa... haa..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["ぬちゃぬちゃぬちゃ"] },
-            { "code": 401, "indent": 0, "parameters": ["ぐちゅぐちゅ・・・"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["*murmur murmur, squish squish...*"]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -259,39 +259,30 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["薄い扉から"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["微かに音が漏れてくる"]
+              "parameters": ["Faint sounds leak from the thin door."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["じゅる・・・じゅ・・・ぁ"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["ちゅ・・・ん・・・"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うっ・・・すごく気持ちいよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["なんてエッチなんだ・・・"]
+              "parameters": ["*Faint sounds leak from the thin door.*"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あむ・・・ちゅ・・・ん・・・"]
+              "parameters": [
+                "Ugh... It feels so good, what a lewd thing to\ndo..."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
+            { "code": 401, "indent": 0, "parameters": ["Ah...chu...n..."] },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -341,16 +332,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっん・・・じゅるる・・・ちゅ・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぁ・・・ちゅっ、んっ・・・"]
+              "parameters": ["Nnn... slurp... chu... *sigh*... chu, nnn..."]
             },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -401,55 +387,44 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["薄い扉から"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["微かに音が漏れてくる"]
+              "parameters": ["Faint sounds leak from the thin door."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それでさ、ひっくり返っちゃって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["僕は慌てちゃったんだ"]
+              "parameters": [
+                "And then, I accidentally flipped over and got\nflustered."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
-            { "code": 401, "indent": 0, "parameters": ["ふふっ、不器用"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["でも、そういうこともある"]
+              "parameters": [
+                "Hehe, even if I'm clumsy, those things happen\nsometimes."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["でもさ、練習していたら"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どんどんうまくなって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今度食べさせてあげるよ"]
+              "parameters": [
+                "But you know, if I keep practicing, I'll get\nbetter and better, and next time I'll let you\ntaste it."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【？？？】"] },
+            { "code": 401, "indent": 0, "parameters": ["【???】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はい、期待しています"]
+              "parameters": ["Yes, I'm looking forward to it."]
             },
             { "code": 123, "indent": 0, "parameters": ["C", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -503,7 +478,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["部屋の中から楽しそうな話声が聞こえる"]
+              "parameters": [
+                "I can hear cheerful voices coming from inside the\nroom."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

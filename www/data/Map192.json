@@ -11,7 +11,7 @@
   },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "宿屋",
+  "displayName": "Inn",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -136,9 +136,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【宿屋のおじさん】"] },
-            { "code": 401, "indent": 0, "parameters": ["こんにちはアイル"] },
-            { "code": 401, "indent": 0, "parameters": ["今日も元気そうだな"] },
+            { "code": 401, "indent": 0, "parameters": ["【Innkeeper】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Hello Aeru, you seem energetic today as well."]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -191,16 +194,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【学者】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Scholar】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まさか解決するだなんて貴方はすごいですね！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私も見習わなくてはいけません"]
+              "parameters": [
+                "I can't believe you managed to solve it. You're\namazing! I need to learn from you too."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

@@ -6,7 +6,7 @@
   "bgm": { "name": "CT_Nina", "pan": 0, "pitch": 100, "volume": 65 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "遺跡周辺　奥地",
+  "displayName": "Ruins Surroundings Deep Area",
   "encounterList": [
     { "regionSet": [], "troopId": 1, "weight": 5 },
     { "regionSet": [], "troopId": 2, "weight": 5 },
@@ -294,22 +294,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -746,46 +742,37 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["アイルのばか・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            { "code": 401, "indent": 0, "parameters": ["Aeru's idiot..."] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [310, 310, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アイル】"] },
-            { "code": 401, "indent": 0, "parameters": ["ごめん、ミール"] },
+            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["酷いことを言っちゃって"]
+              "parameters": ["I'm sorry, Miiru. I said something terrible."]
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 213, "indent": 0, "parameters": [6, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 2, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルどうして・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            { "code": 401, "indent": 0, "parameters": ["Why, Aeru..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アイル】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今までずっと黙っていたけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ミールの事が好きなんだ"]
+              "parameters": [
+                "I've been silent all this time, but I like Miiru."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["そうなんだ・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            { "code": 401, "indent": 0, "parameters": ["Is that so..."] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": [""] },
-            { "code": 401, "indent": 0, "parameters": ["\\{えぇー！！！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            { "code": 401, "indent": 0, "parameters": ["Eeh-!!!"] },
             {
               "code": 205,
               "indent": 0,
@@ -826,26 +813,31 @@
               "parameters": [{ "code": 3, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アイル】"] },
-            { "code": 401, "indent": 0, "parameters": ["誰にも渡したくない"] },
+            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ミールだけいれば他には何もいらない"]
+              "parameters": [
+                "As long as I have Miiru, who I don't want to give\nto anyone else, I don't need anything else."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アイル】"] },
-            { "code": 401, "indent": 0, "parameters": ["二人で幸せになろう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Let's be happy together."]
+            },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["で、でも・・・そんなっ・・・"]
+              "parameters": ["B-but... something like that..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アイル】"] },
-            { "code": 401, "indent": 0, "parameters": ["ミール・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
+            { "code": 401, "indent": 0, "parameters": ["Miiru..."] },
             { "code": 356, "indent": 0, "parameters": ["HALF_MOVE_ENABLE"] },
             {
               "code": 205,
@@ -875,57 +867,45 @@
               "parameters": [{ "code": 3, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ！？・・・ちゅ・・・はぁ・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイル・・・んっ・・・"]
+              "parameters": ["Ngh!? ...Chu...hah...Aeru...ngh..."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何だろう・・・頭の奥がピリピリする・・・"]
+              "parameters": [
+                "What's this feeling... It's tingling in the back\nof my head..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あたし・・・今・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルとキスしてるんだ・・・うれしい・・・"]
+              "parameters": ["I... am kissing Aeru right now... I'm happy..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【アイル】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ミール・・・一緒にいてくれ"]
+              "parameters": ["Miiru... Please stay with me..."]
             },
-            { "code": 401, "indent": 0, "parameters": ["お願いだ・・・"] },
             { "code": 213, "indent": 0, "parameters": [6, 8, true] },
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うん、あたしもずっと一緒がいい"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["二人で幸せになろ・・・アイル・・・"]
+              "parameters": [
+                "Yeah, I want us to always be together and be\nhappy...Aeru..."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 356, "indent": 0, "parameters": ["HALF_MOVE_DISABLE"] },

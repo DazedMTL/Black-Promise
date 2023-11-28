@@ -166,7 +166,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["恋愛小説が並んでいる"]
+              "parameters": ["Love novels are lined up"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -220,7 +220,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["リラの匂いがする"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I can smell Lira's scent"]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -459,21 +463,23 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["どうしたの？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["私の部屋に用事でもあるの？"]
+              "parameters": [
+                "What's wrong? Do you have some business in my\nroom?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["準備はばっちりだから"]
+              "parameters": [
+                "I'm all set, so let's head out for the exploration\nquickly!"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["早く探索に行こ！"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -532,7 +538,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -737,40 +743,36 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL彼と私の間にもう一人増えたのは"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["何時からだろうか"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\CL最初の頃は何も話さなかったその少年は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["彼の後をただついて歩いているだけの印象だった"]
+              "parameters": [
+                "\\CLWhen did another person come between him and me?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL「今日確か誕生日だったよねリラ"]
+              "parameters": [
+                "\\CLAt first, that boy who didn't say anything gave\nthe impression of just following behind him."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これ俺とライトからだからよかったら貰ってくれよ」"]
+              "parameters": [
+                "\\CLToday was definitely your birthday, right Lira?\nThis is from me and Light, so if you're okay with\nit, please accept it."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [4, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["わぁ！ありがとう！おっきなぬいぐるみだぁ"]
+              "parameters": [
+                "Wow! Thank you! It's a big stuffed animal, I'm so\nhappy..."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["うれしいなぁ・・・"] },
             {
               "code": 205,
               "indent": 0,
@@ -830,39 +832,36 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これ・・・どうぞ・・・"]
+              "parameters": ["Here...please take this..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CLその日貰ったプレゼントは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今まであまり接点がなかったせいもあって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["凄く驚いたのを覚えている"]
+              "parameters": [
+                "\\CLI remember being really surprised by the present I\nreceived that day, partly because I hadn't had\nmuch contact with them until then."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL二人からぬいぐるみを貰った私はその時・・・"]
+              "parameters": [
+                "\\CLAt that time, I received a stuffed animal from the\ntwo of them..."
+              ]
             },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["二つとも大切にしようと思った", "少年の贈り物が印象深かった"],
+                [
+                  "I thought I should cherish both of them",
+                  "The boy's gift left a deep impression"
+                ],
                 1,
                 0,
                 2,
@@ -913,41 +912,34 @@
             },
             { "code": 213, "indent": 1, "parameters": [4, 4, false] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["二人ともありがとう！"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["とってもうれしいよ！"]
+              "parameters": ["Thank you both so much! I'm really happy!"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CLこの時からより一層一緒にいる事が増え"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["今では二人とも私の大切な人だ"]
+              "parameters": [
+                "\\CLFrom that time on, we spent even more time\ntogether, and now both of them are very important\nto me."
+              ]
             },
             { "code": 242, "indent": 1, "parameters": [5] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": ["\\CL私は改めて"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["二人のために頑張ろうって思えた・・・"]
+              "parameters": [
+                "\\CLI felt motivated once again to do my best for the\ntwo of them..."
+              ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": ["\\CL・・・・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["\\CL..."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": ["\\CL・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["\\CL..."] },
             { "code": 223, "indent": 1, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 211, "indent": 1, "parameters": [1] },
             { "code": 201, "indent": 1, "parameters": [0, 126, 15, 23, 2, 0] },
@@ -963,45 +955,30 @@
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 213, "indent": 1, "parameters": [4, 11, false] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["えっと・・・ありがとう・・・"]
-            },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 1, "parameters": ["Um...thank you..."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CL私はこの時からどこか"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ライトに惹かれていたんだと思う"]
+              "parameters": [
+                "\\CLI think I was somehow drawn to Light from that\ntime."
+              ]
             },
             { "code": 242, "indent": 1, "parameters": [5] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CLどこか陰のある人"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ライトのために自分は何が出来るだろう"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["心のどこかでそんな思いが芽生えていた"]
+              "parameters": [
+                "\\CLI wonder what I can do for Light, a person with a\nsomewhat dark side. Somewhere in my heart, such\nthoughts began to sprout."
+              ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": ["\\CL・・・・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["\\CL..."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": ["\\CL・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["\\CL..."] },
             { "code": 223, "indent": 1, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 211, "indent": 1, "parameters": [1] },
             { "code": 201, "indent": 1, "parameters": [0, 126, 15, 23, 2, 0] },

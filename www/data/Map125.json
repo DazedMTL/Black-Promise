@@ -6,7 +6,7 @@
   "bgm": { "name": "CT_Nina", "pan": 0, "pitch": 100, "volume": 65 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "遺跡周辺　２",
+  "displayName": "Ruins Surroundings 2",
   "encounterList": [
     { "regionSet": [], "troopId": 15, "weight": 5 },
     { "regionSet": [], "troopId": 16, "weight": 5 },
@@ -533,22 +533,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1659,27 +1655,15 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・ライト大丈夫？"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["...Is Light okay?"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["以前見つけた石板と同じような物があり"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["またそこにあったアイテムを手に取ってみると"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトに黒い霧のようなものが現れる"]
+              "parameters": [
+                "I found something similar to the stone tablet I\nfound before, and when I picked up the item there,\na black mist-like substance appeared around Light."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             {
@@ -1701,53 +1685,36 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["うん、大丈夫そうだ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何だか見た目は派手だけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["特別身体に異常はなさそうだよ"]
+              "parameters": [
+                "Yeah, it looks flashy, but it doesn't seem to have\nany special abnormalities in my body."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これが何かの手がかりに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["なっていればいいけど"]
+              "parameters": ["I hope this becomes some kind of clue."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そのことを祈るしかないね"]
+              "parameters": ["We can only pray for that."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["前回大丈夫だったからと言って"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今回もそうとは限らない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大事を取って一旦村まで帰ることになった"]
+              "parameters": [
+                "Just because it was okay last time doesn't mean it\nwill be this time. We decided to play it safe and\nreturn to the village for now."
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [13] },
             {
@@ -1843,23 +1810,15 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["以前見つけた石板と同じような物があり"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["またそこにあったアイテムを手に取ってみると"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトに黒い霧のようなものが現れる"]
+              "parameters": [
+                "Margaret||| || There was something similar to the\nstone tablet I found before, and when I picked up\nthe item there, a black mist-like substance\nappeared around Light."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             {
@@ -1881,46 +1840,38 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["うん、大丈夫そうだ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何だか見た目は派手だけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["特別身体に異常はなさそうだよ"]
+              "parameters": [
+                "Yeah, it looks flashy, but it doesn't seem like\nthere's anything particularly abnormal with his\nbody."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["本当に？"] },
-            { "code": 401, "indent": 0, "parameters": ["嘘ついてない？"] },
-            { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何かあったらすぐに相談する"]
+              "parameters": ["Really? You're not lying, are you?"]
             },
-            { "code": 401, "indent": 0, "parameters": ["それでいいだろ？"] },
+            { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "If anything happens, it's fine to consult with me\nright away, isn't it?"
+              ]
+            },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["前回大丈夫だったからと言って"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今回もそうとは限らない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大事を取って一旦村まで帰ることになった"]
+              "parameters": [
+                "Just because it was okay last time doesn't mean it\nwill be this time. Taking precautions, we've\ndecided to return to the village for now."
+              ]
             },
             {
               "code": 223,
@@ -2016,27 +1967,19 @@
               "parameters": [{ "code": 18, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・なんだか不思議な感じがする"]
+              "parameters": ["...It feels kind of strange."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["以前見つけた石板と同じような物があり"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["またそこにあったアイテムを手に取ってみると"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトに黒い霧のようなものが現れる"]
+              "parameters": [
+                "I found something similar to the stone tablet I\nfound before, and when I picked up the item there,\na black mist-like thing appeared around Light."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             {
@@ -2058,50 +2001,40 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["うん、大丈夫そうだ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何だか見た目は派手だけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["特別身体に異常はなさそうだよ"]
+              "parameters": [
+                "Yeah, it looks flashy, but it seems like there's\nnothing particularly abnormal about my body."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["何なんだろうねこれ"] },
-            { "code": 401, "indent": 0, "parameters": ["誰が置いたんだろう"] },
-            { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["正直まったくわからないよ"]
+              "parameters": [
+                "I wonder what this is. I wonder who left it here."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["でも色々やってみるしかないね"]
+              "parameters": [
+                "Honestly, I have no idea at all, but I guess I'll\nhave to try various things."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["前回大丈夫だったからと言って"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今回もそうとは限らない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大事を取って一旦村まで帰ることになった"]
+              "parameters": [
+                "Just because it was okay last time doesn't mean it\nwill be this time. Taking precautions, we decided\nto return to the village for now."
+              ]
             },
             {
               "code": 223,
@@ -2178,76 +2111,52 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["おっと、おでましだ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["Oh, there you are."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["以前見つけた石板と同じような物があり"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["またそこにあったアイテムを手に取ってみると"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ライトに黒い霧のようなものが現れる"]
+              "parameters": [
+                "I found something similar to the stone tablet I\nfound before, and when I picked up the item there,\na black mist-like thing appeared around Light."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["うん、大丈夫そうだ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何だか見た目は派手だけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["特別身体に異常はなさそうだよ"]
+              "parameters": [
+                "Yeah, it looks flashy, but it seems like there's\nnothing particularly abnormal about my body."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["見た目が相当不気味なので"]
+              "parameters": [
+                "The appearance is quite eerie, so I'm really\nworried if everything is truly okay."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["本当に大丈夫なのか"] },
-            { "code": 401, "indent": 0, "parameters": ["不安になってしまう"] },
             { "code": 213, "indent": 0, "parameters": [-1, 7, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["心配しなくて大丈夫だよ"]
+              "parameters": [
+                "Don't worry, everything will be fine. Even if\nsomething happens, Aeru is here, so don't worry!\nHaha, just kidding!"
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何かあってもアイルがいるからね"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["ははっ冗談だって！"] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["前回大丈夫だったからと言って"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今回もそうとは限らない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大事を取って一旦村まで帰ることになった"]
+              "parameters": [
+                "Just because it was okay last time doesn't mean it\nwill be this time. Taking precautions, we decided\nto return to the village for now."
+              ]
             },
             { "code": 117, "indent": 0, "parameters": [13] },
             { "code": 111, "indent": 0, "parameters": [0, 240, 0] },

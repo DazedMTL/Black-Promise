@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "道具屋",
+  "displayName": "Tool Shop",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -358,39 +358,26 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["やぁ、いらっしゃい"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日は何が必要なんだい？"]
+              "parameters": ["Hey, welcome! What do you need today?"]
             },
             { "code": 117, "indent": 0, "parameters": [10] },
             { "code": 111, "indent": 0, "parameters": [0, 312, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["娘をよろしく頼む・・・"]
+              "parameters": ["Take care of my daughter for me..."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            { "code": 401, "indent": 1, "parameters": ["またいつでもおいで"] },
+            { "code": 401, "indent": 1, "parameters": ["【Tool shop owner】"] },
+            { "code": 401, "indent": 1, "parameters": ["Come by anytime"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -436,110 +423,66 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["やぁ、いらっしゃい"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日は何が必要なんだい？"]
+              "parameters": ["Hey, welcome! What do you need today?"]
             },
             { "code": 117, "indent": 0, "parameters": [11] },
             { "code": 111, "indent": 0, "parameters": [8, 21] },
             { "code": 213, "indent": 1, "parameters": [0, 1, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["おっ！アイルもコンドームを買うのか"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["二人とも隅に置けないね"]
+              "parameters": [
+                "Oh! Aeru, are you buying condoms too? You two\ncan't be left alone in the corner."
+              ]
             },
             { "code": 213, "indent": 1, "parameters": [-1, 2, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["前までこの商品は取り扱ってなかったんだけど"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["頼まれたから入荷しておいたんだよ"]
+              "parameters": [
+                "We didn't used to carry this product, but I\nordered it because someone requested it."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["誰にってそりゃライトにだよ"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["最近彼女でも出来たのか？"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["そのあたりはアイルの方が詳しいだろう"]
+              "parameters": [
+                "Who asked for that? Was it Light? Did he recently\nget a girlfriend or something? Aeru would know\nmore about that."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            { "code": 401, "indent": 1, "parameters": ["まぁ、なんだ"] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["二人とも羽目を外し過ぎるなよ？"]
+              "parameters": ["Well, both of you, don't go too wild, okay?"]
             },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 111, "indent": 1, "parameters": [0, 312, 0] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 2, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["娘をよろしく頼む・・・"]
+              "parameters": ["Take care of my daughter..."]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 411, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 2, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 2,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            { "code": 401, "indent": 2, "parameters": ["またいつでもおいで"] },
+            { "code": 401, "indent": 2, "parameters": ["【Tool shop owner】"] },
+            { "code": 401, "indent": 2, "parameters": ["Come by anytime."] },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -587,39 +530,26 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["やぁ、いらっしゃい"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日は何が必要なんだい？"]
+              "parameters": ["Hey, welcome! What do you need today?"]
             },
             { "code": 117, "indent": 0, "parameters": [10] },
             { "code": 111, "indent": 0, "parameters": [0, 312, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["娘をよろしく頼む・・・"]
+              "parameters": ["Please take care of my daughter..."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 411, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            { "code": 401, "indent": 1, "parameters": ["またいつでもおいで"] },
+            { "code": 401, "indent": 1, "parameters": ["【Tool shop owner】"] },
+            { "code": 401, "indent": 1, "parameters": ["Come by anytime"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -665,16 +595,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["やぁ、いらっしゃい"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日は何が必要なんだい？"]
+              "parameters": ["Hey, welcome! What do you need today?"]
             },
             { "code": 117, "indent": 0, "parameters": [10] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -720,47 +645,30 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["やぁ、いらっしゃい"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日は何が必要なんだい？"]
+              "parameters": ["Hey, welcome! What do you need today?"]
             },
             { "code": 117, "indent": 0, "parameters": [10] },
             { "code": 111, "indent": 0, "parameters": [1, 62, 0, 0, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["まったく、あいつはコンドームを買いに来ないが"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ちゃんと避妊はしているのか・・・"]
+              "parameters": [
+                "Geez, that guy never comes to buy condoms. I\nwonder if he's practicing safe sex..."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 1, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["【道具屋のおじさん】"]
+              "parameters": ["Ah, no, it's nothing. Forget about it."]
             },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["あぁ、いや、なんでもないんだ"]
-            },
-            { "code": 401, "indent": 1, "parameters": ["忘れてくれ"] },
             { "code": 213, "indent": 1, "parameters": [-1, 2, false] },
             { "code": 122, "indent": 1, "parameters": [62, 62, 2, 0, 5] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -820,12 +728,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この先はマーガレットの家に通じている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日は会いに行くのはやめておこう"]
+              "parameters": [
+                "Let's not go visit Margaret's house today, as it\nleads to this way."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1105,64 +1010,42 @@
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
+              "parameters": [
+                "...How's it going, Aeru? Have you found the girl?"
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・・・・どうだアイル"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["娘は見つかったか？"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["残念ながらまだ見つかっていない"]
+              "parameters": ["Unfortunately, she still hasn't been found."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["そうか・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
+            { "code": 401, "indent": 0, "parameters": ["I see..."] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["前渡した記録結晶はどうだった？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それの新しいのが手に入ってな"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["よかったら持って行ってくれ"]
+              "parameters": [
+                "How was the crystal I gave you before? If you\nhaven't obtained a new one, please bring it to me."
+              ]
             },
             { "code": 126, "indent": 0, "parameters": [24, 0, 0, 1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["よろしく頼んだぞ"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["お前だけが頼りなんだ・・・"]
+              "parameters": [
+                "I'm counting on you. You're the only one I can\nrely on..."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 222, "indent": 0, "parameters": [] },
@@ -1262,7 +1145,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["白い何かが広がっている"]
+              "parameters": ["A white something is spreading."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1325,81 +1208,55 @@
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
+              "parameters": ["Ah...Aeru...have you found my daughter?"]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あぁ・・アイル・・・"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["娘は見つかったか？"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["残念ながらまだ見つかっていない"]
+              "parameters": ["Unfortunately, she still hasn't been found."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["そうか・・・頼む"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どうにか見つけてくれこの通りだ・・・"]
+              "parameters": [
+                "I see...please, somehow find her as soon as\npossible..."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["そうだ、これをやる"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だから何としても娘を見つけてほしい"]
+              "parameters": [
+                "I'll do this, so please find my daughter by any\nmeans necessary."
+              ]
             },
             { "code": 126, "indent": 0, "parameters": [22, 0, 0, 1] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何かの足しにしてくれ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["王都で人気の品らしくてな"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日来た商人の一押しらしい"]
+              "parameters": [
+                "It seems to be a popular item in the capital, so\nplease consider it as an addition. It's apparently\nthe top recommendation of a merchant who came\ntoday."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Tool shop owner】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["【道具屋のおじさん】"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["それはタダでやる"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だから娘を頼む・・・"]
+              "parameters": [
+                "I'll do it for free, so please rely on me for my\ndaughter..."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 222, "indent": 0, "parameters": [] },

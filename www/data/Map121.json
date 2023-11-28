@@ -408,22 +408,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -531,7 +527,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["中に入るのはやめておこう・・・"]
+              "parameters": ["Let's not go inside..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1431,12 +1427,8 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["んっ・・・\\i[249]あっ・・・\\i[249]"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            { "code": 401, "indent": 0, "parameters": ["Nn... *Ah...*"] },
             {
               "code": 241,
               "indent": 0,
@@ -1453,203 +1445,153 @@
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["儀式の名のもとに"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["必要なとき以外は外に出ず"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["部屋に籠って行為を重ねている"]
+              "parameters": [
+                "I stay in my room and repeat the act, only going\nout when necessary for the sake of the ritual."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そういえばアイルと初めて出会った頃も"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こうして部屋に籠っていたっけ・・・"]
+              "parameters": [
+                "Come to think of it, I was holed up in my room\nlike this when I first met Aeru too..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・んっ\\i[249]・・・ちゅ\\i[249]・・・"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["ごめんって・・・"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こうして行為を重ねて気付いた事がある"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["レイは結構嫉妬深いのだ"]
+              "parameters": ["...Nn\\i[249]...chu\\i[249]...I'm sorry..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あたしがアイルの事を考えていると"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それを察知して何かしらのアプローチを掛けてくる"]
+              "parameters": [
+                "Through repeating the act like this, I've realized\nthat Lira is quite jealous."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・そんなにわかりやすいのかな・・・"]
+              "parameters": [
+                "When I'm thinking about Aeru, she senses it and\napproaches me in some way."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["...Is it really that obvious..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっじゅる\\i[249]・・・ん\\i[249]・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["安心して、こうやってキスするのはレイだけだから"]
+              "parameters": [
+                "*Nn...* *Ah...* Don't worry, it's only Light who\nkisses me like this."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そう、あたしがどんなに思っていても"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["アイルと交わることはもうないのだ"]
+              "parameters": [
+                "Yes, no matter how much I think about it, I will\nno longer be intimate with Aeru."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["早く割り切らなきゃ・・・"]
+              "parameters": ["I need to quickly come to terms with this..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【レイ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Ray】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ん・・・別にそういうわけでは・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ただ、ただ何となくな"]
+              "parameters": [
+                "Nn... It's not like that... I just, I just\nsomehow..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["最初こそ乱暴に扱われたけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今ではレイも色々加減を覚えたらしい"]
+              "parameters": [
+                "At first, I was treated roughly, but now it seems\nRay has learned to adjust in various ways."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まぁ、あたしの身体はすっかり"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["レイのおちんちんの形を覚えちゃってるから"]
+              "parameters": [
+                "Well, my body has completely memorized the shape\nof Ray's dick."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今更どんなに乱暴に扱われようと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["全部気持ち良くなってしまうとは思うけど"]
+              "parameters": [
+                "Even if I were to be treated roughly now, I think\nI would still feel good about it."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["えへへ\\i[249]気持ちいいね・・・\\i[249]"]
+              "parameters": ["Ehehe, it feels good..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["お世辞ではなく本心だった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["きっと身体の相性がいいのだろう"]
+              "parameters": [
+                "It's not flattery, but the truth. Surely, our\nbodies are just compatible."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["レイとの行為はとても気持ちがいい"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ピースがハマるような"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["これが本来の姿という感じがする"]
+              "parameters": [
+                "The act with Ray feels so good, it's like our\nbodies naturally fit together, as if this is the\ntrue form."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だから、きっと・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あたしたち間違っていなかったんだよね"]
+              "parameters": [
+                "That's why, surely... we weren't mistaken, right?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【レイ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ミール・・・んっ・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Ray】"] },
+            { "code": 401, "indent": 0, "parameters": ["Miiru... Nn..."] },
             { "code": 121, "indent": 0, "parameters": [349, 349, 1] },
             { "code": 251, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [350, 350, 0] },
@@ -1666,253 +1608,187 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["キスをしながらレイがリズミカルに"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["腰を打ち付ける"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ちゅ\\i[249]じゅ・・・\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ふふっ、単純なんだから・・・興奮してるの？"]
+              "parameters": [
+                "While kissing, Ray rhythmically thrusts his hips."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【レイ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そなこと、最初からわかっているだろ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私はずっと君に惹かれている"]
+              "parameters": [
+                "Chuu... fufu, you're so simple... are you getting\nexcited?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【レイ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Ray】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何度行為を重ねても飽きる気がしない"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["興奮しっぱなしだ"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["レイは言葉を素直に伝えてくれる"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["これは美徳だと思う"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["聞いていると空いてしまった穴が"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["少しずつ塞がっていく気がする"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["失ってしまったモノの代わりに"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["新しい何かがそこへ満ちていく"]
+              "parameters": [
+                "You know that, right? I've always been drawn to\nyou."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Ray】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そういう素直なところ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["好きだよレイ・・・ひゃん\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["もー、すぐにがっつくんだから・・・"]
+              "parameters": [
+                "No matter how many times we engage in the act, I\nnever get tired of it. I'm constantly excited."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["レイはあたしの薄い胸へ顔を埋め"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おっぱいに舌を這わせる"]
+              "parameters": [
+                "I think it's a virtue that Ray honestly conveys\nhis feelings."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何がそんなに楽しいのだろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["丹念におっぱいを弄り倒す"]
+              "parameters": [
+                "When I listen, it feels like the empty hole inside\nme is gradually being filled."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ただ、その行為は嫌いじゃない"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["レイが乳首に軽く歯を立てたときなどは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あまりの刺激に声を上げたりもした"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["段々あたしもその気になってきて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["レイもこの感じだともうそろそろイキそうだ"]
+              "parameters": [
+                "Something new is filling the void left by what\nI've lost."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["んっ\\i[249]レイっ・・・イキそうなのっ？"]
+              "parameters": [
+                "I like that honest side of you, Ray...\nHyaa\\i[249], you're so quick to get excited..."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あたしもだよ、ねぇっ一緒にっ\\i[249]"]
+              "parameters": [
+                "Ray buries his face in my small chest and lets his\ntongue wander over my breasts."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I wonder what's so enjoyable about carefully\nplaying with my breasts like that."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "However, when Ray, who doesn't dislike that act,\nlightly nibbled on my nipples, I couldn't help but\nlet out a voice due to the intense stimulation."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Gradually, I'm starting to feel the same way, and\nit seems like Ray is about to come soon with this\nfeeling."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Nngh... Ray, are you about to come? I am too, hey,\nlet's do it together."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [350, 350, 1] },
             { "code": 251, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [351, 351, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【レイ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はっはっ・・・ミール・・・！"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Rei】"] },
+            { "code": 401, "indent": 0, "parameters": ["Haha... Miiru...!"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あたしの言葉を合図にしたように"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["レイがおちんちんを思い切り膣へと突き入れる"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["んっ\\i[249]んっ\\i[249]はっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["これぇ好きっ\\i[249]もっとしてっ\\i[249]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["レイはあたしの腰をがっしりと掴むと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["腰を浮かせて勢いを強めていく"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おちんちんが一番奥を叩くた度に"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["悲鳴に近い喘ぎ声が口から発せられる"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["射精前のこの時間は間違いなく"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あたしはレイの事だけを考えていた"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【レイ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ミールっ！イクよ！また一番奥で出すからっ！"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["うん\\i[249]うん\\i[249]きてっ\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おマンコ\\i[249]もっと気持ちいいしてっ\\i[249]"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "んっ\\i[249]気持ちいぃ\\i[249]あぁっイクっイッちゃう！！"
+                "Just as if he took my words as a signal, Ray\nthrusts his dick deeply into my pussy."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Nngh... I like this... do it more."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Ray firmly grabs my waist and lifts it, increasing\nthe momentum."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Every time Ray's dick hits the deepest part, a\ngasp that's close to a scream comes out of my\nmouth."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Before ejaculation, I was definitely only thinking\nabout Ray during this time."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Ray】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Miiru! I'm coming! I'll release it deep inside\nagain!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Yes, yes, it's coming... it feels so good... I'm\ngoing to cum!!"
               ]
             },
             {
@@ -1937,80 +1813,65 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁ・・・\\i[249]出てる・・・\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["びゅーびゅーっていっぱい\\i[249]"]
+              "parameters": [
+                "Haa... it's coming out... it's gushing out so\nmuch..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【レイ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Ray】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はぁ・・・はぁ・・・私もすごい気持ちよかった"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["・・・それじゃあ続けるね？"]
+              "parameters": [
+                "Haa... haa... I also felt really good... Shall we\ncontinue then?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そう言いながらレイはあたしの顔を覗き込む"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["最終決定はこちらに譲ってくれるようだ"]
+              "parameters": [
+                "While saying that, Ray seems to leave the final\ndecision to me as he peeks into my face."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["だけど、答えは決まっていた"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あたしはレイに微笑みを返し"]
+              "parameters": [
+                "But the answer was already decided, so I smiled\nback at Ray."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うん\\i[249]いっぱい気持ちよくしてね\\i[249]"]
+              "parameters": ["Yes, please make me feel really good."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [349, 349, 0] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そうしてゆっくりと行為が再開される"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["甘い匂いはもうしない・・・"]
+              "parameters": [
+                "And so, the slow act resumes, the sweet scent no\nlonger lingering..."
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 246, "indent": 0, "parameters": [5] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 117, "indent": 0, "parameters": [6] },
             { "code": 121, "indent": 0, "parameters": [349, 349, 1] },
             { "code": 251, "indent": 0, "parameters": [] },

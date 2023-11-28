@@ -11,7 +11,7 @@
   },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "村長の家",
+  "displayName": "Village Chief's House",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -146,25 +146,18 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["選択肢によってはゲームオーバーや"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ヒロインが酷い目に遭うことがあります"]
+              "parameters": [
+                "Depending on the choices, the game over or heroine\nmay suffer a terrible fate."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そういったイベントの前には"]
+              "parameters": [
+                "Before such events, there will be a confirmation\nto save, so please make use of it."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["セーブをするかの確認が入りますので"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["ご活用ください"] },
             {
               "code": 250,
               "indent": 0,
@@ -173,12 +166,12 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["セーブしますか？"] },
+            { "code": 401, "indent": 0, "parameters": ["Will you save?"] },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["セーブしておく", "いらないよ！", "心の準備が・・・"],
+                ["Save it", "No need!", "Are you ready?"],
                 2,
                 0,
                 2,
@@ -242,18 +235,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["心の準備は大丈夫ですか？"]
+              "parameters": ["Are you ready in your heart?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [
-                ["完璧！", "あ、いえ、まだちょっと・・・"],
-                1,
-                0,
-                2,
-                0
-              ]
+              "parameters": [["Perfect!", "No, not yet"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "完璧！"] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
@@ -350,137 +337,116 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["村長ー"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["何だか話があるって聞いたんだけど？"]
+              "parameters": [
+                "Village Chief - I heard there's something you\nwanted to talk about?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            { "code": 401, "indent": 0, "parameters": ["うむうむ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ちょっと気になることがあっての"]
+              "parameters": ["Yes, yes, I have something on my mind."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["二人ともライトの様子はどうじゃった？"]
+              "parameters": [
+                "How are both of you doing? As for Light, how is\nhe?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["倒れたと聞いて心配したが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["特別具合が悪そうには見えなかったことを伝えた"]
+              "parameters": [
+                "I heard that you collapsed and was worried, but I\nconveyed that you didn't seem to be in any special\nbad condition."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ちょっと疲れがでちゃったのかな？"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ぐらいにしか思わなかったんだけど"]
+              "parameters": [
+                "I wonder if you just got a little tired? I didn't\nthink much of it beyond that."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [5, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            { "code": 401, "indent": 0, "parameters": ["うむうむ"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["実はちとまずいことになっているのじゃ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["わしも二人が来る前にライトの様子を見たんじゃが"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "左腕の所に\\c[2]黒い模様\\c[0]が浮かび上がっておった"
+                "Hmm, hmm, actually, things have become a bit\ntroublesome."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["これは村に伝わる呪いの症状と"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["同じなのじゃ"] },
-            { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["そっそんなぁ！"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それって大丈夫なんですか！？"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["すまない詳しいことは知らんのじゃ"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["ただ・・・"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その呪いを受けた者は"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\c[2]悪魔の如き力\\c[0]と\\c[2]最高の幸福\\c[0]を手にすると言われている"
+                "Before the two of you arrived, I checked on\nLight's condition, and there was a \\c[2]black\npattern\\c[0] floating around his left arm."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Is this the same symptom as the curse that has\nbeen passed down in the village?"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I-Is that so! Is he going to be okay with that!?"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["I'm sorry, I don't know the details..."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "It is said that those who receive the curse will\ngain \\c[2]power akin to that of a demon\\c[0] and\n\\c[2]supreme happiness\\c[0]."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [6, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・悪魔の力はともかく"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["最高の幸福が訪れるなんて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["良いことなんじゃないですか？"]
+              "parameters": [
+                "...Leaving aside the power of a demon, isn't it a\ngood thing to have the ultimate happiness come\nyour way?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            { "code": 401, "indent": 0, "parameters": ["それはわからん"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ただきっと良いことばかりではないのだろう"]
+              "parameters": [
+                "I don't know for sure, but it's probably not all\ngood things."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [6, 11, false] },
             {
@@ -502,55 +468,46 @@
               "parameters": [{ "code": 17, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["そうだよね・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["どうしようライト大丈夫かな？"]
+              "parameters": [
+                "That's right... What should we do? I wonder if\nLight is okay?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["慌てるリラを見てこちらまで不安になってくる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だけど親友に不幸が降りかかるのを"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["黙って見ていられない"]
+              "parameters": [
+                "Seeing the flustered Lira, I can't help but feel\nanxious myself, but I can't just stand by and\nwatch misfortune befall my best friend."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["村長にその呪いを解く方法はないのか尋ねた"]
+              "parameters": [
+                "I asked the village chief if there was a way to\nlift the curse."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            { "code": 401, "indent": 0, "parameters": ["すまんのう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["重ねて言うがわしも詳しくはわからんのじゃ"]
+              "parameters": ["I'm sorry, I don't know the details..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・何かあるとすればやはり"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\c[2]ラリウス遺跡\\c[0]じゃろう"]
+              "parameters": [
+                "...If there's anything, it would probably be the\n\\c[2]Larius Ruins\\c[0]."
+              ]
             },
             {
               "code": 205,
@@ -572,168 +529,115 @@
             },
             { "code": 213, "indent": 0, "parameters": [6, 7, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ラリウス遺跡って・・・・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["The Larius Ruins..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この村の北、深い森の中にある遺跡"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それがラリウス遺跡だ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["中には無数の魔物がいるとされており"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["子供はおろか大人たちでさえ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["遺跡には近寄らないことになっている"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["遺跡の最奥には凶悪な悪魔がいるという"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今回の呪いはその悪魔が関係しているのかもしれん"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "わかると思うがそこを目指すのはとても危険なことじゃ"
+                "North of this village, deep within the forest,\nlies the ruins. That is the Larius Ruins."
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトのためとは言えそれは・・・"]
+              "parameters": [
+                "It is said that there are countless demons inside,\nand not only children but even adults are\nforbidden to approach the ruins."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "This curse may be related to the wicked demons\nsaid to reside at the deepest part of the ruins."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I understand that you want to aim for that place,\nbut it's very dangerous to do so, even if it's for\nLight's sake..."
+              ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["行きます", "・・・・・・"], 1, 0, 1, 0]
+              "parameters": [["Let's go", "・・・・・・"], 1, 0, 1, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "行きます"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["考えるまでもなかった"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["危険だろうがなんだろうが"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["自分に出来ることをしたい"]
+              "parameters": [
+                "I want to do what I can, whether it's dangerous or\nnot, without even thinking about it."
+              ]
             },
             { "code": 213, "indent": 1, "parameters": [6, 1, false] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["アイル・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["私も一緒に行きます！"]
+              "parameters": ["Aeru... I'll go with you too!"]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["私に何が出来るかわからないけど"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["二人の事を黙って見ているなんてできません！"]
+              "parameters": [
+                "I don't know what I can do, but I can't just stand\nby and watch the two of you in silence!"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・そうか"] },
+            { "code": 401, "indent": 1, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ライトはいい友人をもったようじゃな"]
+              "parameters": ["...I see, it seems Light has a good friend."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["わしも出来る限り力を貸そう"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["これは少ないが選別じゃ"]
+              "parameters": [
+                "I will also lend my strength as much as I can.\nThis is not much, but it's a selection."
+              ]
             },
             { "code": 125, "indent": 1, "parameters": [0, 0, 1000] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["村で買えるものは少ないかもしれないが"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["色々融通してくれるはずじゃ"]
+              "parameters": [
+                "There may not be much available in the village,\nbut I should be able to be flexible with various\nthings."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["こんなに沢山ありがとう！"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["遺跡に向かう前にマーガレットの所で"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["何か買っていこうよ！"]
+              "parameters": [
+                "Thank you so much for all of this! Before heading\nto the ruins, let's buy something from Margaret's\nplace!"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\c[2]道具屋\\c[0]で準備をしてから"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\c[2]ラリウス遺跡\\c[0]に向かおう"]
+              "parameters": [
+                "Let's prepare at the \\c[2]item shop\\c[0] and then\nhead to the \\c[2]Larius Ruins\\c[0]."
+              ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 121, "indent": 1, "parameters": [14, 14, 0] },
@@ -754,37 +658,29 @@
             { "code": 402, "indent": 0, "parameters": [1, "・・・・・・"] },
             { "code": 242, "indent": 1, "parameters": [5] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["・・・死にに行くようなもの"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["お前の事を悪く言うやつはおらんじゃろう"]
+              "parameters": [
+                "...No one would speak ill of you for going to die."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["とっさに行きますとは言えなかった"]
+              "parameters": [
+                "Even though it's for the sake of a dear friend, I\ncan't just go without hesitation. Scary things are\nstill scary."
+              ]
             },
-            { "code": 401, "indent": 1, "parameters": ["親友のためとはいえ"] },
-            { "code": 401, "indent": 1, "parameters": ["怖いものは怖い"] },
             { "code": 213, "indent": 1, "parameters": [6, 5, false] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 3, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["・・・・・・アイルの馬鹿！"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["私はそれでも助けるから！"]
+              "parameters": ["...Aeru's an idiot! But I'll still help him!"]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             {
@@ -798,64 +694,52 @@
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 213, "indent": 1, "parameters": [5, 8, false] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["・・・後のことはわしに任せてほしい"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["村の者で誰か助けられるやつがおるかもしれん"]
+              "parameters": [
+                "...Leave the rest to me. There may be someone in\nthe village who can help."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["わしはお前の事を悪いとは思わん"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["そう考えすぎるんじゃないぞ・・・"]
+              "parameters": [
+                "I don't think poorly of you, so don't overthink\nit..."
+              ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["程なくして"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["村で様々な事件が起こるが"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["その全てで見ていることしか出来なかった"]
+              "parameters": [
+                "Before long, various incidents occurred in the\nvillage, but I could only watch over all of them."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ただただ悔しいと後悔する日々だけが"]
+              "parameters": [
+                "Only the days of regret and frustration pass by\nmercilessly"
+              ]
             },
-            { "code": 401, "indent": 1, "parameters": ["無情に過ぎ去り"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ふと目を向ければ大切な親友と"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["幸せそうに笑うあいつの姿が見えた"]
+              "parameters": [
+                "When I suddenly looked up, I saw that dear friend\nhappily smiling."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["..."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["..."] },
             { "code": 353, "indent": 1, "parameters": [] },
             { "code": 354, "indent": 1, "parameters": [] },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1185,30 +1069,30 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 3, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アザミさんが村長に声かけてねって"]
+              "parameters": [
+                "Azami-san said she wanted to talk to the village\nchief!"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["言っていたでしょ！"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 2, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["もーアイルはそうやって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["大事なことすぐに忘れちゃうんだから"]
+              "parameters": [
+                "Aeru always forgets important things like that so\neasily."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["外に出る前に村長の所へ行こう"]
+              "parameters": [
+                "Let's go see the village chief before we head\noutside."
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1257,7 +1141,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["外に出る前に村長の所へ行こう"]
+              "parameters": [
+                "Let's go to the village chief's place before\nheading outside."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1470,24 +1356,22 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["わしの方でも引き続き調べてみよう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["くれぐれも気を付けるのじゃぞ"]
+              "parameters": [
+                "I will continue to investigate on my end, so\nplease be very careful."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["気にしないで村長！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["友達のためだもん苦じゃないよ"]
+              "parameters": [
+                "Don't worry, Village Chief! It's not a problem for\nthe sake of my friends."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1532,9 +1416,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            { "code": 401, "indent": 0, "parameters": ["おはよう"] },
-            { "code": 401, "indent": 0, "parameters": ["気を付けるんじゃぞ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Good morning, be careful now."]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1618,9 +1505,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            { "code": 401, "indent": 0, "parameters": ["おはよう"] },
-            { "code": 401, "indent": 0, "parameters": ["気を付けるんじゃぞ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Good morning, be careful now."]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1667,36 +1557,34 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["先ほどライトから受け取った"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["野宿セットのお礼を伝えた"]
+              "parameters": [
+                "I conveyed my thanks for the camping set I\nreceived from Light earlier."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            { "code": 401, "indent": 0, "parameters": ["ああ、その件か"] },
-            { "code": 401, "indent": 0, "parameters": ["気にしないでくれ"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["呪いの事を調べておるが"]
+              "parameters": ["Ah, please don't worry about that matter."]
             },
-            { "code": 401, "indent": 0, "parameters": ["解決には程遠い"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["少しでも力になれればと思っての"]
+              "parameters": [
+                "I am investigating the curse, but the solution is\nfar off."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["使い古しで悪いが是非使ってやってくれ"]
+              "parameters": [
+                "I'm sorry for the worn-out condition, but please\nuse it if it can be of any help."
+              ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1742,11 +1630,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["ライトの事を頼むぞ、アイル"]
+              "parameters": [
+                "I'm counting on you, Aeru, to take care of Light."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2018,8 +1908,8 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            { "code": 401, "indent": 0, "parameters": ["気を付けるんじゃぞ"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
+            { "code": 401, "indent": 0, "parameters": ["Be careful, okay?"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2227,20 +2117,20 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["あっアイル!"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["マーガレットも来てくれたんだ"]
+              "parameters": ["Ah, Aeru! Margaret came too."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            { "code": 401, "indent": 0, "parameters": ["すまないのう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["朝からバタバタしてしまって"]
+              "parameters": [
+                "I'm sorry, it's been quite hectic since this\nmorning."
+              ]
             },
             {
               "code": 205,
@@ -2261,80 +2151,70 @@
               "parameters": [{ "code": 19, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["いえいえ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["そんな大丈夫ですよっ！"]
+              "parameters": ["No, no! It's totally fine!"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["それでアザミさんの様子は"]
+              "parameters": ["So, is Azami-san doing okay?"]
             },
-            { "code": 401, "indent": 0, "parameters": ["大丈夫なんですか？"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["うむ・・・今はまだ寝ているが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["特別悪いところはなさそうじゃ"]
+              "parameters": [
+                "Hmm... Right now, she's still sleeping, but it\ndoesn't seem like there's anything particularly\nwrong."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 7, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["呪いの影響・・・とか"]
+              "parameters": [
+                "The influence of the curse... or something like\nthat"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今の所アザなどそれらしい症状はない"]
+              "parameters": [
+                "At the moment, there don't seem to be any symptoms\nlike that for Azami... but"
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["・・・ただ"] },
             { "code": 213, "indent": 0, "parameters": [8, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["いや・・・なんでもない"]
+              "parameters": [
+                "No... it's nothing. There have been various things\nhappening recently, so it's probably because of\nthat."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["最近色々あったからな"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["そのせいじゃろう"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・そう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["...I see"] },
             { "code": 213, "indent": 0, "parameters": [7, 11, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["色々っていうのは本当だね"]
+              "parameters": [
+                "It's true that there have been various things\nhappening, especially Azami-san might have been a\nbit reliant..."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["特にアザミさんにはちょっと頼りっぱなし"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["だったかも・・・"] },
             {
               "code": 205,
               "indent": 0,
@@ -2354,12 +2234,13 @@
               "parameters": [{ "code": 16, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ごめんアイル"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日もちょっと探索は難しそうだね"]
+              "parameters": [
+                "Sorry Aeru, it looks like exploration will be a\nbit difficult today too."
+              ]
             },
             {
               "code": 205,
@@ -2381,36 +2262,37 @@
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["・・・私もリラのお手伝いするね"]
+              "parameters": ["...I'll help Lira too."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これでリラまで倒れたら"]
+              "parameters": ["If Lira collapses too, it will be unbearable."]
             },
-            { "code": 401, "indent": 0, "parameters": ["目も当てられない"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["二人の言うことはもっともだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["探索の事は任せてほしいと二人に伝える"]
+              "parameters": [
+                "What the two of you are saying is reasonable. I'll\nleave the exploration to you two."
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [8, 7, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            { "code": 401, "indent": 0, "parameters": ["3人ともすまないの"] },
-            { "code": 401, "indent": 0, "parameters": ["迷惑をかける"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I'm sorry for causing trouble for all three of\nyou."
+              ]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -2449,28 +2331,29 @@
             },
             { "code": 213, "indent": 0, "parameters": [7, 3, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ううん！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今が頑張り時だもん！"]
+              "parameters": ["No! Now is the time to do our best!"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 0, "parameters": ["皆で助け合って"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["乗り越えていけたらって思う！"]
+              "parameters": [
+                "I think we can overcome this by helping each\nother!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【村長】"] },
-            { "code": 401, "indent": 0, "parameters": ["ありがとう・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アイルも探索くれぐれも気を付けるんじゃぞ"]
+              "parameters": [
+                "Thank you... Aeru, please be very careful during\nthe exploration."
+              ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 121, "indent": 0, "parameters": [55, 55, 0] },
@@ -2568,27 +2451,24 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今日は一緒に行けなくてごめん"]
+              "parameters": ["I'm sorry I can't go with you today."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アザミさんも良くなって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["落ち着いたらまた一緒に行こ"]
+              "parameters": [
+                "When Azami-san gets better and calms down, let's\ngo together again."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["気を付けてね"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Take care."] },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2633,8 +2513,8 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["気を付けてね"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["Take care."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -2730,12 +2610,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["アザミさんが眠っている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今はそっとしておこう"]
+              "parameters": [
+                "Let's leave Azami-san alone while she's sleeping."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

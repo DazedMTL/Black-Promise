@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "ライトの部屋",
+  "displayName": "Light's room",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -167,27 +167,25 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["当たり障りのない服が並んでいる"]
+              "parameters": ["There are nondescript clothes lined up."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["こらこら"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺がいる前で堂々と開けないでくれよ"]
+              "parameters": [
+                "Hey, hey, don't just boldly open it in front of\nme."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["別にアイルに見られて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["困るようなものはないけどさ"]
+              "parameters": [
+                "It's not like there's anything I'd be troubled by\nif Aeru saw it."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -235,7 +233,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["当たり障りのない服が並んでいる"]
+              "parameters": ["There are nondescript clothes lined up."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -292,15 +290,16 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["机の上に綺麗な花が飾られている"]
+              "parameters": ["There are beautiful flowers arranged on the desk"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["月並みだけど"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["花があると心が落ち着く気がするんだ"]
+              "parameters": [
+                "It's cliché, but having flowers makes me feel calm"
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -348,7 +347,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["机の上に綺麗な花が飾られている"]
+              "parameters": ["There are beautiful flowers arranged on the desk"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -407,17 +406,24 @@
               "parameters": [5, "sin", 0, 0, 100, 30, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["こんばんはアイル"] },
-            { "code": 401, "indent": 0, "parameters": ["いい夜だね"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Good evening, Aeru. It's a nice night, isn't it?"]
+            },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["どうかしたのかい？"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 0, "parameters": ["What's the matter?"] },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["何か相談したいことある？", "腕を触る", "なんでもない"],
+                [
+                  "Do you have something to discuss?",
+                  "Touch the arm",
+                  "It's nothing"
+                ],
                 2,
                 0,
                 2,
@@ -430,63 +436,62 @@
               "parameters": [0, "何か相談したいことある？"]
             },
             { "code": 101, "indent": 1, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["・・・アイルに隠し事は出来ないね"]
+              "parameters": ["...I can't keep secrets from Aeru, huh?"]
             },
             { "code": 101, "indent": 1, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・ごめん"] },
+            { "code": 401, "indent": 1, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["少しだけ待ってほしい"]
+              "parameters": ["...I'm sorry, please wait just a little bit."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["言いたくなったらで"] },
-            { "code": 401, "indent": 1, "parameters": ["構わないと伝える"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "I'll tell you if I feel like it, so don't worry\nabout it."
+              ]
+            },
             { "code": 101, "indent": 1, "parameters": ["sinn", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 1, "parameters": ["ありがとうアイル"] },
+            { "code": 401, "indent": 1, "parameters": ["【Light】"] },
+            { "code": 401, "indent": 1, "parameters": ["Thank you, Aeru"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "腕を触る"] },
             { "code": 101, "indent": 1, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ちょっとアイル・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["いきなりどうしたのさ！"]
+              "parameters": ["Hey Aeru... What's the sudden change for!"]
             },
             { "code": 101, "indent": 1, "parameters": ["sinn", 5, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["うぅ・・・そんなに触っても楽しいもんじゃ"]
+              "parameters": [
+                "Ugh... I don't think it's fun to touch me that\nmuch."
+              ]
             },
-            { "code": 401, "indent": 1, "parameters": ["ないと思うけど"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["しばらくライトの腕を堪能した"]
+              "parameters": ["I enjoyed Light's arms for a while."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [2, "なんでもない"] },
             { "code": 101, "indent": 1, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 1, "parameters": ["そうかい？"] },
+            { "code": 401, "indent": 1, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["アイルならいつでも歓迎だよ"]
+              "parameters": ["Is that so? Aeru, you're always welcome."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -535,14 +540,14 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ライト】"] },
-            { "code": 401, "indent": 0, "parameters": ["あまり遅くなると"] },
+            { "code": 401, "indent": 0, "parameters": ["【Light】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["明日の朝起きられなくなるよ"]
+              "parameters": [
+                "If you stay up too late, you won't be able to wake\nup tomorrow morning. Good night."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["おやすみ"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -742,7 +747,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["鍵が掛けられているようだ"]
+              "parameters": ["It seems the key is locked."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

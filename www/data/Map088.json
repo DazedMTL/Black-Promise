@@ -1360,96 +1360,73 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【パパ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Papa】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["よし！やっとついたぞ！"]
+              "parameters": [
+                "Alright! We finally made it! This is the Lal-La\nVillage."
+              ]
             },
-            { "code": 401, "indent": 0, "parameters": ["ここがラルーラ村だ"] },
             { "code": 213, "indent": 0, "parameters": [8, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・なんにもない"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["...There's nothing here"]
+            },
             { "code": 213, "indent": 0, "parameters": [4, 6, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【パパ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Papa】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["はは・・・手厳しいな"]
+              "parameters": ["Haha... tough crowd."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【パパ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Papa】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["実はここの村長とは仲が良くてな"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["村で道具屋をやってほしいって頼まれたのさ"]
+              "parameters": [
+                "Actually, I'm quite close with the village chief\nhere, and he asked me to run the tool shop in the\nvillage."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【パパ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Papa】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["王都での商売はあれはあれで楽しいが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["こういう村で必要とされるお店も"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["違ったやりがいがあると思ってね"]
+              "parameters": [
+                "Doing business in the capital city is fun in its\nown way, but I think there's a different sense of\nfulfillment in running a shop that's needed in a\nvillage like this."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・そう"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 0, "parameters": ["...I see"] },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CLパパは優しくしてくれるけど"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ママが流行り病で亡くなってからは"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一層商売ばかりになった"]
+              "parameters": [
+                "\\CLPapa has been kind to me, but ever since Mama\npassed away from the epidemic, he's become even\nmore focused on business."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CLそれなのにお金は減る一方で"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["この村に来たのだって本当は"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あの場所から逃げるためだったって知っている"]
+              "parameters": [
+                "\\CLAnd yet, I know that he came to this village\nbecause the money was decreasing, and the truth\nis, it was to escape from that place."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\CLどうかここでは"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["穏やかな暮らしがで出来ますように・・・"]
+              "parameters": ["\\CLI hope we can have a peaceful life here..."]
             },
             { "code": 201, "indent": 0, "parameters": [0, 88, 22, 6, 0, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
@@ -1512,47 +1489,43 @@
             },
             { "code": 213, "indent": 0, "parameters": [11, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["\\CL私はこの村でも"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["一人でいる事が多かった"]
+              "parameters": ["\\CLI've been alone a lot in this village too."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL大人とも同年代の子供とも距離を置いて"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["本を読んで過ごしていた"]
+              "parameters": [
+                "\\CLI spent my time reading books, keeping my distance\nfrom both adults and children of the same age."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CLだけど、そんな時に彼は・・・・・・"]
+              "parameters": ["\\CLHowever, at times like that, he..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["わたし本を読んでるの"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["気が散るからどこかへ行って"]
+              "parameters": [
+                "I'm getting distracted reading my book, so could\nyou go somewhere else?"
+              ]
             },
             { "code": 213, "indent": 0, "parameters": [12, 8, false] },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["構わず私に話しかけてきた", "何も言わずに行ってしまった"],
+                [
+                  "He talked to me without hesitation",
+                  "Left without saying anything"
+                ],
                 1,
                 0,
                 2,
@@ -1613,31 +1586,22 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CL彼は構わず話しかけてきた"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["最初こそ邪険にしていた私だったけど"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["二人は段々仲良くなっていって"]
+              "parameters": [
+                "\\CLAt first, I was cold to him when he approached me\nwithout hesitation, but gradually we became close."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CL今では彼も大切な"]
+              "parameters": ["\\CLNow, he is also one of my important friends."]
             },
-            { "code": 401, "indent": 1, "parameters": ["友達の一人だ"] },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [3] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["..."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["..."] },
             { "code": 223, "indent": 1, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 201, "indent": 1, "parameters": [0, 85, 20, 10, 2, 0] },
             { "code": 211, "indent": 1, "parameters": [1] },
@@ -1719,44 +1683,25 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CL私が冷たくあしらうと"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["彼はどこかへ行ってしまった"]
+              "parameters": [
+                "\\CLWhen I treated him coldly, he went somewhere."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CLそうして一人になると"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["また穏やかな時間が過ごせると"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["それが正しいことなんだと思っていた"]
+              "parameters": [
+                "\\CLAnd so, when I'm alone again, I thought that it's\nthe right thing to spend peaceful time."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CLきっとこの時の私には"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["世界が灰色に見えていて"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["自分を守る事しか考えられなかった"]
+              "parameters": [
+                "\\CLSurely, at that time, I could only see the world\nin shades of gray and could only think of\nprotecting myself."
+              ]
             },
             { "code": 222, "indent": 1, "parameters": [] },
             { "code": 213, "indent": 1, "parameters": [11, 8, true] },
@@ -1837,22 +1782,19 @@
             },
             { "code": 213, "indent": 1, "parameters": [12, 8, false] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["・・・気が散るって言った"]
+              "parameters": ["...I said I'm getting distracted"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CL「ごめん、聞こえてたよ"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["でも我慢できなくて・・・その、これ・・・」"]
+              "parameters": [
+                "\\CLSorry, I heard you, but I couldn't help it... um,\nthis..."
+              ]
             },
             {
               "code": 205,
@@ -1889,154 +1831,104 @@
             },
             { "code": 213, "indent": 1, "parameters": [11, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・お花？"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 1, "parameters": ["...Flowers?"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CL「うん、一目見たときから思ってたんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["君ってこの花に似てるなって"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["それだけどうしても伝えたくて」"]
+              "parameters": [
+                "\\CLYeah, from the moment I first saw you, I thought\nyou resembled this flower. I just really wanted to\nconvey that resemblance."
+              ]
             },
             { "code": 213, "indent": 1, "parameters": [11, 8, true] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CL渡された花は小さくて白い花だった"]
+              "parameters": ["\\CLThe flower handed to me was small and white."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CL私の髪と同じ色をしているのに"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["その花はなぜかとても輝いて見えて動揺してしまう"]
+              "parameters": [
+                "\\CLEven though it's the same color as my hair, for\nsome reason that flower looks so radiant and it\nmakes me feel uneasy."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["・・・どうして・・・"]
-            },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 1, "parameters": ["...Why..."] },
             { "code": 213, "indent": 1, "parameters": [12, 2, false] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["Why did you think this flower resembles me?"]
+            },
+            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
               "parameters": [
-                "どうして、この花がわたしみたいだって思ったの・・・"
+                "\\CLHuh!? You're asking that! Um... well... um..."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CL「えっ！？それ聞いちゃうの！"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["あの・・・その・・・えっと・・・」"]
+              "parameters": [
+                "\\CLSee? You're small and... a-and!... really\nbeautiful... That's why, you're like it..."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CL「ほら？君って小さいし・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["そ、それと！・・・すごく綺麗だから・・・"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["だから、君みたいだって・・・」"]
+              "parameters": [
+                "\\CLIt was the first time I had been told such a\nthing, and I hated the people around me... but I\nhated my weak self even more for thinking that\nway."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CLそんなことを言われたのは初めてだった"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["私は周りの人たちの事が嫌いだった・・・だけど"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["そう思ってしまう弱い自分がもっと嫌いだった"]
-            },
-            { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["\\CLそんな私の事を綺麗だと言ってくれる人がいる"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["それだけの事なのにどうして・・・"]
+              "parameters": [
+                "\\CLJust because there's someone who says I'm\nbeautiful, why..."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・わたし・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 1, "parameters": ["...I..."] },
             { "code": 213, "indent": 1, "parameters": [12, 2, false] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["わたしは、どこからどう見ても大人のレディ"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["残念だけどあなたは目が悪いみたい"]
+              "parameters": [
+                "No matter how you look at it, I'm a sorry excuse\nfor a lady, but it seems like you have poor\neyesight."
+              ]
             },
             { "code": 213, "indent": 1, "parameters": [12, 1, false] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CL「大人のレディ？"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["いや、それはないでしょ"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["そんなちんちくりんで・・・」"]
+              "parameters": [
+                "\\CLAn adult lady? No, that's not it. I'm not like\nthat at all..."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 1, "parameters": ["うるさい"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 1, "parameters": ["Shut up"] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CL「本当の事言っただけじゃん！」"]
+              "parameters": ["\\CLYou just spoke the truth!"]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 242, "indent": 1, "parameters": [4] },
@@ -2044,28 +1936,22 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CLその時の彼とは今も一緒にいる"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["未だに私の事を大人のレディとは認めないけれど"]
+              "parameters": [
+                "\\CLEven now, the person from that time still doesn't\nsee me as a grown-up lady."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["\\CLいつか見返してやりたい"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["・・・どうかそれまでは、ずっと・・・"]
+              "parameters": [
+                "\\CLSomeday, I want to get back at them... Until then,\nplease, always..."
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": ["\\CL・・・・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["\\CL..."] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 1, "parameters": ["\\CL・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["\\CL..."] },
             { "code": 223, "indent": 1, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 211, "indent": 1, "parameters": [1] },
             { "code": 201, "indent": 1, "parameters": [0, 85, 20, 10, 2, 0] },
@@ -2744,23 +2630,20 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["道具屋さんには隣の扉から入ろっ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日は遊びに来たわけじゃなくて"]
+              "parameters": [
+                "I'm entering from the next door to the tool shop.\nI didn't come here to play today."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["商品を買うために来たからね！"]
+              "parameters": ["I came to buy some items, you know!"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2806,11 +2689,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["すぐ隣の扉から入ろっ"]
+              "parameters": ["Enter through the door right next to us."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

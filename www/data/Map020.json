@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "宿屋２Ｆ",
+  "displayName": "Inn 2F",
   "encounterList": [],
   "encounterStep": 30,
   "height": 13,
@@ -171,16 +171,13 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["さぁて、ここの遺跡には"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["どんなお宝ちゃんが眠っているのかな"]
+              "parameters": [
+                "I wonder what kind of treasures are sleeping in\nthis ruins."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -226,37 +223,29 @@
           "list": [
             { "code": 213, "indent": 0, "parameters": [0, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あの結界の先に行けたのか"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["すごいな・・・"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["教えてくれてありがとな！"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["俺も探索してみることにするよ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何かあったら情報交換をしようぜ"]
+              "parameters": [
+                "You managed to go beyond that barrier, amazing..."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【冒険者】"] },
-            { "code": 401, "indent": 0, "parameters": ["それじゃ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["俺はさっそく行かせてもらうよ"]
+              "parameters": [
+                "Thanks for telling me! I'll also try exploring.\nLet's exchange information if anything happens."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Adventurer】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Well then! I'll go right away."]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             {
@@ -403,7 +392,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["まだ暖炉を使うような季節ではない"]
+              "parameters": ["It's not the season to use the fireplace yet."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -955,72 +944,67 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ガラの悪い男】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Bad guy】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["この村本当に何もねぇな"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["来るんじゃなかったぜ"]
+              "parameters": [
+                "There really is nothing in this village, I\nshouldn't have come."
+              ]
             },
             { "code": 111, "indent": 0, "parameters": [4, 3, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ガラの悪い男】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Bad guy】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["なんだお前・・・へへっ"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ここの宿はそういうサービスもやってるのか？"]
+              "parameters": [
+                "What's this...hehe, does this inn also provide\nthat kind of service?"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 3, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【リラ】"] },
-            { "code": 401, "indent": 1, "parameters": ["何言ってるの！"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・もう行こう"] },
+            { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["What are you saying! ...Let's go already"]
+            },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 111, "indent": 0, "parameters": [4, 4, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ガラの悪い男】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["なんだお前・・・へへっ"]
+              "parameters": ["【Bad-tempered man】"]
             },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["ここの宿はそういうサービスもやってるのか？"]
+              "parameters": [
+                "What the hell are you...heh, does this inn also\nprovide that kind of service?"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 2, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 1, "parameters": ["・・・・・・・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 1, "parameters": ["..."] },
             { "code": 123, "indent": 1, "parameters": ["B", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
             { "code": 111, "indent": 0, "parameters": [4, 5, 0] },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【ガラの悪い男】"] },
+            { "code": 401, "indent": 1, "parameters": ["【Bad man】"] },
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["なんだお前・・・へへっ"]
-            },
-            {
-              "code": 401,
-              "indent": 1,
-              "parameters": ["ここの宿はそういうサービスもやってるのか？"]
+              "parameters": [
+                "What the hell are you...heh, does this inn also\nprovide that kind of service?"
+              ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 2, 0, 2] },
-            { "code": 401, "indent": 1, "parameters": ["【マーガレット】"] },
-            { "code": 401, "indent": 1, "parameters": ["サイテー・・・"] },
+            { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
+            { "code": 401, "indent": 1, "parameters": ["Disgusting..."] },
             { "code": 123, "indent": 1, "parameters": ["C", 0] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 412, "indent": 0, "parameters": [] },
@@ -1067,8 +1051,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ガラの悪い男】"] },
-            { "code": 401, "indent": 0, "parameters": ["へへっ"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【Bad-tempered man】"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["Heheh"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1112,8 +1100,12 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ガラの悪い男】"] },
-            { "code": 401, "indent": 0, "parameters": ["へへっ"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["【Bad-tempered man】"]
+            },
+            { "code": 401, "indent": 0, "parameters": ["Heheh"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -1249,7 +1241,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["コンドームが落ちている・・・"]
+              "parameters": ["A condom has fallen..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],

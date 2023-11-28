@@ -176,51 +176,31 @@
               "parameters": [{ "code": 2, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぁっ・・・はぁっ・・・"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            { "code": 401, "indent": 0, "parameters": ["*panting* *panting*"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\CLここまで来ればもう大丈夫だろうか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["思い出すのは先ほどまでの光景・・・"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["\\CL平和に暮らしていたあたしたちの住処に"]
-            },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "突然魔物が押し寄せて来てめちゃくちゃにされてしまった"
+                "\\CLI wonder if it's okay now that we've come this\nfar. What comes to mind is the scenery from just a\nmoment ago..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CLそこから必死で逃げるうちに"]
+              "parameters": [
+                "\\CLSuddenly, monsters invaded our peaceful home and\nturned it into a complete mess."
+              ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["みんなどこかへ行ってしまって"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["気が付けば一人森の中を彷徨っている"]
+              "parameters": [
+                "\\CLAs I desperately ran away from there, everyone\nwent somewhere and before I knew it, I was\nwandering alone in the forest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [244, 244, 0] },
             {
@@ -281,45 +261,39 @@
               "parameters": [{ "code": 3, "indent": null }]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["これからどうしよう・・・"]
+              "parameters": ["What should I do from now on..."]
             },
             { "code": 213, "indent": 0, "parameters": [2, 8, true] },
             { "code": 213, "indent": 0, "parameters": [2, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
-            { "code": 401, "indent": 0, "parameters": ["・・・っ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
+            { "code": 401, "indent": 0, "parameters": ["...!"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL疲れていたせいだろう"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["顔を上げると目の前に人間がいた"]
+              "parameters": [
+                "\\CLBecause I was tired, when I raised my head, there\nwas a person in front of me."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CLパパから人間はあたしたちを売り飛ばし"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["道具のように使うのだと聞かされていた"]
+              "parameters": [
+                "\\CLI was told by Papa that humans sell us off and use\nus like tools."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【ミール】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["近寄らないでっ・・・"]
+              "parameters": ["Don't come any closer..."]
             },
             {
               "code": 205,
@@ -352,19 +326,15 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CL早く逃げなくちゃだめだ"]
+              "parameters": [
+                "\\CLI have to escape quickly, but I'm already\nexhausted and losing consciousness."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["だけど、あたしはもう疲れ果てていて"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["意識が遠のいていく"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\CLパパ、ママごめんなさい・・・・・・"]
+              "parameters": ["\\CLI'm sorry, Papa, Mama..."]
             },
             {
               "code": 205,

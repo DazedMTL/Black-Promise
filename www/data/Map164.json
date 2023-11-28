@@ -6,7 +6,7 @@
   "bgm": { "name": "CT_Yaichi", "pan": 0, "pitch": 100, "volume": 65 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "ラリウス遺跡　１",
+  "displayName": "Larius Ruins 1",
   "encounterList": [
     { "regionSet": [], "troopId": 30, "weight": 5 },
     { "regionSet": [], "troopId": 31, "weight": 5 },
@@ -665,7 +665,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["趣味の悪い石像が立てられている"]
+              "parameters": ["A tasteless statue has been erected."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -722,12 +722,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["壁には亀裂が入っている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何年も放置されているようだ"]
+              "parameters": [
+                "It seems like there have been cracks in the wall\nfor many years, left untouched."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -784,12 +781,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["壁には亀裂が入っている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何年も放置されているようだ"]
+              "parameters": [
+                "It seems like there have been cracks in the wall\nfor many years, left untouched."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -846,12 +840,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["壁には亀裂が入っている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何年も放置されているようだ"]
+              "parameters": [
+                "There seems to be cracks in the wall, as if it has\nbeen left alone for many years."
+              ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -1311,12 +1302,12 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
-            { "code": 401, "indent": 0, "parameters": ["セーブしますか？"] },
+            { "code": 401, "indent": 0, "parameters": ["Will you save?"] },
             {
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["セーブしておく", "いらないよ！", "心の準備が・・・"],
+                ["Save the game", "No need!", "Are you ready"],
                 2,
                 0,
                 2,
@@ -1380,18 +1371,12 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["心の準備は大丈夫ですか？"]
+              "parameters": ["Are you ready in your heart?"]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [
-                ["完璧！", "あ、いえ、まだちょっと・・・"],
-                1,
-                0,
-                2,
-                0
-              ]
+              "parameters": [["Perfect!", "No, not yet"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "完璧！"] },
             { "code": 123, "indent": 1, "parameters": ["A", 0] },
@@ -1714,22 +1699,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }

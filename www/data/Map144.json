@@ -408,22 +408,18 @@
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["各マップに一つずつ"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["クリスタルが配置されております"]
+              "parameters": ["There is one crystal placed in each map"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["こちらで回復を行うことが出来ますので"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ダンジョン攻略にお役立てください"]
+              "parameters": [
+                "You can recover here, so please make use of it for\ndungeon conquest."
+              ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1678,15 +1674,11 @@
             { "code": 211, "indent": 0, "parameters": [0] },
             { "code": 223, "indent": 0, "parameters": [[0, 0, 0, 0], 1, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あっ\\i[249]んっ\\i[249]はぁっ\\i[249]"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            { "code": 401, "indent": 0, "parameters": ["Ahh..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            { "code": 401, "indent": 0, "parameters": ["ふんっ！ふんっ！"] },
+            { "code": 401, "indent": 0, "parameters": ["【Okunii】"] },
+            { "code": 401, "indent": 0, "parameters": ["Hmph! Hmph!"] },
             { "code": 117, "indent": 0, "parameters": [5] },
             {
               "code": 231,
@@ -1694,184 +1686,127 @@
               "parameters": [1, "hiro1 oku 2-17", 0, 0, 0, 0, 100, 100, 255, 0]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["あっ───\\i[249]\\i[249]\\i[249]"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぁ・・・あっ\\i[249]んっ\\i[249]んっ\\i[249]"]
+              "parameters": [
+                "Ahh───\\i[249]\\i[249]\\i[249]haa...\nAhh\\i[249]n...n...n..."
+              ]
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今日もご主人様に子種を注がれている"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その度に私の身体は喜びに震えた"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ここでの暮らしは寝ているか"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["おちんちんを挿入されているかのどちらかだ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["いや、あまりの気持ちよさに気を失い"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["その間もひたすら犯されていることもあるから"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ほぼずっと行為を続けている"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["んっ\\i[249]はぁ\\i[249]きもちぃ\\i[249]"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ったく、自分だけ楽しんでんじゃねぇよ"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["ほら、舌出せ！"] },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["あぁ\\i[249]ごめんなさいっ\\i[249]"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "ご主人さまぁ\\i[249]ちゅっ\\i[249]はぁ\\i[249]じゅるる\\i[249]"
+                "Every time my master pours his seed into me, my\nbody trembles with joy."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ご主人様の唇に吸い付き"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["舌を潜り込ませて唾液を啜る"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["鼻に付く臭いや触れ合う熱さも"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["頭の中がとろけるように気持ちいい"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["今はもう村に戻ろうという気などなく"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ただ、ご主人様に相手をしてもらえることが"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["私のすべてで幸せだった"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            { "code": 401, "indent": 0, "parameters": ["はぁ・・・いい子だ"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ご褒美にまた注いでやるからな俺様の子種を！"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["毎日これだけヤッてるんだ"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["当の昔に孕んでるんだろうがな"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["一度で終わりになんて絶対しねぇ"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【おくにぃ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["何回だって孕ませてやる"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["とんだ幸せ者だぜお前はよ！"]
-            },
-            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["はぃ\\i[249]うれしっ\\i[249]"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "んっ\\i[249]んっ\\i[249]いっぱい\\i[249]いっぱい\\i[249]"
+                "Life here is either sleeping or having a dick\ninserted."
               ]
             },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["孕ませてくださぃっ\\i[249]\\i[249]\\i[249]"]
+              "parameters": [
+                "No, because the pleasure is so overwhelming, I\nsometimes lose consciousness and continue to be\nviolated single-mindedly during that time, so the\nact continues almost constantly."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Nn...haa...feels good."]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Geez, don't enjoy it all by yourself. Come on,\nstick out your tongue!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Ah, I'm sorry, master. *kiss* Haa, *lick*"]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I suck on my master's lips, slip my tongue in, and\nslurp up the saliva."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "The smell that lingers in my nose and the warmth\nof our contact are so pleasant that it feels like\nmy mind is melting."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Right now, I don't even feel like going back to\nthe village. Just being able to be with my master\nis everything to me and makes me happy."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Haa... You're a good girl, so as a reward, I'll\npour my seed into you again!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You're doing it every day, so you must have gotten\npregnant a long time ago. There's no way it's\ngoing to end after just one time."
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Okuni】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I'll impregnate you as many times as it takes, you\nlucky one!"
+              ]
+            },
+            { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Yes, I'm so happy, please impregnate me a lot, a\nlot."
+              ]
             },
             {
               "code": 231,
@@ -1881,56 +1816,39 @@
             { "code": 235, "indent": 0, "parameters": [1] },
             { "code": 117, "indent": 0, "parameters": [5] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["───ッッ\\i[249]\\i[249]\\i[249]"]
-            },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "すごぃ\\i[249]あぁ・・・\\i[249]しあわせぇ\\i[249]"
+                "───\\i[249]\\i[249]\\i[249]Amazing\\i[249]Ahh...\\i[249\n]So happy\\i[249]"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["難しく考える必要なんて始めから無くて"]
+              "parameters": [
+                "There's no need to overthink it. From the start,\nthe greatest joy for a female is to dedicate her\nbody to a strong male."
+              ]
             },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["メスとして強いオスに身体を捧げることが"]
-            },
-            { "code": 401, "indent": 0, "parameters": ["何よりの喜びだ"] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【リラ】"] },
+            { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["今の私はただのメスとして"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["ご主人様の子供を産みたいと"]
-            },
-            {
-              "code": 401,
-              "indent": 0,
-              "parameters": ["それだけを考えていた"]
+              "parameters": [
+                "Right now, I was only thinking about wanting to\nbear my master's child as a mere female."
+              ]
             },
             { "code": 242, "indent": 0, "parameters": [5] },
             { "code": 246, "indent": 0, "parameters": [5] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["・・・"] },
+            { "code": 401, "indent": 0, "parameters": ["..."] },
             { "code": 121, "indent": 0, "parameters": [323, 323, 1] },
             { "code": 117, "indent": 0, "parameters": [6] },
             { "code": 251, "indent": 0, "parameters": [] },

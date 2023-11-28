@@ -6,7 +6,7 @@
   "bgm": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "bgs": { "name": "", "pan": 0, "pitch": 100, "volume": 90 },
   "disableDashing": false,
-  "displayName": "リラの家",
+  "displayName": "Lira's house",
   "encounterList": [],
   "encounterStep": 30,
   "height": 10,
@@ -160,8 +160,11 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["起こすのは悪いので"] },
-            { "code": 401, "indent": 0, "parameters": ["静かにしていよう"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Let's be quiet because it's bad to wake them up."]
+            },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -278,7 +281,7 @@
           },
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
-            { "code": 401, "indent": 0, "parameters": ["食べ物が並んでいる"] },
+            { "code": 401, "indent": 0, "parameters": ["Food is lined up"] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -383,7 +386,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["にんじんはいらないな。。。"]
+              "parameters": ["I don't need carrots..."]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
