@@ -37,7 +37,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Restore the entire party's HP Everyone drinks\ntogether",
+    "description": "Restore the entire party's HP Everyone drinks together",
     "effects": [{ "code": 11, "dataId": 0, "value1": 0, "value2": 500 }],
     "hitType": 0,
     "iconIndex": 0,
@@ -63,7 +63,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Restore the HP and GP of a single ally. They'll do\ntheir best inside their body.",
+    "description": "Restore the HP and GP of a single ally. They'll do their best inside their body.",
     "effects": [
       { "code": 11, "dataId": 0, "value1": 0.8, "value2": 0 },
       { "code": 12, "dataId": 0, "value1": 0.8, "value2": 0 }
@@ -92,7 +92,7 @@
       "type": 3,
       "variance": 20
     },
-    "description": "Recovery from ally's individual abnormal status\nWhen you're feeling unwell, it's gotta be kumquat!",
+    "description": "Recovery from ally's individual abnormal status When you're feeling unwell, it's\ngotta be kumquat!",
     "effects": [
       { "code": 22, "dataId": 4, "value1": 1, "value2": 0 },
       { "code": 22, "dataId": 5, "value1": 1, "value2": 0 },
@@ -178,7 +178,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Restore a single ally from being unable to battle.\nSour enough to bring you back to life. A little\nhard to eat.",
+    "description": "Restore a single ally from being unable to battle. Sour enough to bring you back\nto life. A little hard to eat.",
     "effects": [
       { "code": 22, "dataId": 1, "value1": 1, "value2": 0 },
       { "code": 11, "dataId": 0, "value1": 1, "value2": 0 }
@@ -415,7 +415,7 @@
       "type": 1,
       "variance": 0
     },
-    "description": "A small comet slime Three times friendlier than a\nnormal slime",
+    "description": "A small comet slime Three times friendlier than a normal slime",
     "effects": [],
     "hitType": 0,
     "iconIndex": 0,
@@ -545,7 +545,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Are animal intestines and the like being used? I\nwonder if there is a demand for them in this\nvillage.",
+    "description": "Are animal intestines and the like being used? I wonder if there is a demand for\nthem in this village.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 0,
@@ -571,7 +571,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "It is possible to record specific images. The\nlatest trend in the royal capital.",
+    "description": "It is possible to record specific images. The latest trend in the royal capital.",
     "effects": [{ "code": 44, "dataId": 42, "value1": 1, "value2": 0 }],
     "hitType": 0,
     "iconIndex": 0,
@@ -623,7 +623,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "It is possible to record specific images. The\nlatest trend in the royal capital.",
+    "description": "It is possible to record specific images. The latest trend in the royal capital.",
     "effects": [{ "code": 44, "dataId": 43, "value1": 1, "value2": 0 }],
     "hitType": 0,
     "iconIndex": 0,
@@ -883,7 +883,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "It's packed with this and that needed for camping\nout. Hand-me-downs from when the village chief was\nan adventurer.",
+    "description": "It's packed with this and that needed for camping out. Hand-me-downs from when\nthe village chief was an adventurer.",
     "effects": [],
     "hitType": 0,
     "iconIndex": 0,

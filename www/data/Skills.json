@@ -345,7 +345,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "Staring intently at the other person, they start\nto feel uncomfortable for some reason.",
+    "description": "Staring intently at the other person, they start to feel uncomfortable for some\nreason.",
     "effects": [
       { "code": 32, "dataId": 2, "value1": 5, "value2": 0 },
       { "code": 32, "dataId": 6, "value1": 5, "value2": 0 },
@@ -439,7 +439,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "Summon something from another world and attack.\nEspecially do nothing to the master.",
+    "description": "Summon something from another world and attack. Especially do nothing to the\nmaster.",
     "effects": [{ "code": 21, "dataId": 11, "value1": 0.8, "value2": 0 }],
     "hitType": 0,
     "iconIndex": 0,
@@ -499,7 +499,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "When your heart is broken and you give up, that\nresignation will surely be conveyed to the\nmembers.",
+    "description": "When your heart is broken and you give up, that resignation will surely be\nconveyed to the members.",
     "effects": [{ "code": 21, "dataId": 1, "value1": 1, "value2": 0 }],
     "hitType": 0,
     "iconIndex": 1,
@@ -619,7 +619,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "With a speed too fast for the eye to follow, he\npulverizes the enemy into dust.",
+    "description": "With a speed too fast for the eye to follow, he pulverizes the enemy into dust.",
     "effects": [],
     "hitType": 1,
     "iconIndex": 0,
@@ -649,7 +649,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "Summon a meteor from the tip of the sword and hurl\nit at the opponent",
+    "description": "Summon a meteor from the tip of the sword and hurl it at the opponent",
     "effects": [],
     "hitType": 0,
     "iconIndex": 0,
@@ -769,7 +769,7 @@
       "type": 3,
       "variance": 20
     },
-    "description": "Fully recover from any and all status\nabnormalities",
+    "description": "Fully recover from any and all status abnormalities",
     "effects": [
       { "code": 22, "dataId": 1, "value1": 1, "value2": 0 },
       { "code": 22, "dataId": 11, "value1": 1, "value2": 0 },
@@ -833,7 +833,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "Mysterious power passed down to the fairies. The\nfairies are cute.",
+    "description": "Mysterious power passed down to the fairies. The fairies are cute.",
     "effects": [{ "code": 21, "dataId": 8, "value1": 0.5, "value2": 0 }],
     "hitType": 2,
     "iconIndex": 0,
@@ -863,7 +863,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "Mysterious beam transmitted to the fairy. The\nfairy is cute.",
+    "description": "Mysterious beam transmitted to the fairy. The fairy is cute.",
     "effects": [
       { "code": 21, "dataId": 8, "value1": 0.5, "value2": 0 },
       { "code": 21, "dataId": 4, "value1": 1, "value2": 0 }
@@ -896,7 +896,7 @@
       "type": 1,
       "variance": 20
     },
-    "description": "The fairy's head is very stubborn. The fairy is\ncute.",
+    "description": "The fairy's head is very stubborn. The fairy is cute.",
     "effects": [{ "code": 21, "dataId": 1, "value1": 1, "value2": 0 }],
     "hitType": 2,
     "iconIndex": 0,
@@ -1106,7 +1106,7 @@
       "type": 3,
       "variance": 20
     },
-    "description": "I'll treat you to my special mochi. Here you\ngo...",
+    "description": "I'll treat you to my special mochi. Here you go...",
     "effects": [
       { "code": 31, "dataId": 3, "value1": 5, "value2": 0 },
       { "code": 31, "dataId": 5, "value1": 5, "value2": 0 }
