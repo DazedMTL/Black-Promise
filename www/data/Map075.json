@@ -140,7 +140,7 @@
               "code": 655,
               "indent": 0,
               "parameters": [
-                "\"1_t=11_subject=最近の想像相手　体格のいいお兄さん\""
+                "\"1_t=11_subject=Recent imaginary partner, a well-built older brother\""
               ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
@@ -292,7 +292,7 @@
               "code": 655,
               "indent": 0,
               "parameters": [
-                "\"1_t=11_subject=最近の想像相手　体格のいいお兄さん\""
+                "\"1_t=11_subject=Recent imaginary partner, a well-built big brother\""
               ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
@@ -439,7 +439,7 @@
               "code": 655,
               "indent": 0,
               "parameters": [
-                "\"2_t=11_subject=最近の想像相手　冴えない顔のお兄さん\""
+                "\"2_t=11_subject=Recent Imaginary Partner: A dull-looking older brother\""
               ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
@@ -549,7 +549,7 @@
               "code": 655,
               "indent": 0,
               "parameters": [
-                "\"2_t=11_subject=最近の想像相手　冴えない顔のお兄さん\""
+                "\"2_t=11_subject=Recent imaginary partner, a dull-looking older brother\""
               ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
@@ -666,7 +666,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=11_subject=最近の想像相手　畑の親分\""]
+              "parameters": [
+                "\"3_t=11_subject=Recent imaginary partner, boss of the imagination field\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -776,7 +778,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=11_subject=最近の想像相手　ロール\""]
+              "parameters": ["\"3_t=11_subject=Recent Imaginary Partner Role\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -985,7 +987,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"1_t=11_subject=最近の想像相手　ライト\""]
+              "parameters": [
+                "\"1_t=11_subject=Recent Imaginary Partner Light\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -1131,7 +1135,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"2_t=11_subject=最近の想像相手　ライト\""]
+              "parameters": [
+                "\"2_t=11_subject=Recent Imaginary Partner Light\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -1277,7 +1283,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=11_subject=最近の想像相手　ライト\""]
+              "parameters": [
+                "\"3_t=11_subject=Recent Imaginary Partner Light\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -1474,7 +1482,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"1_t=11_subject=最近の想像相手　ライト\""]
+              "parameters": [
+                "\"1_t=11_subject=Recent Imaginary Partner Light\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -1622,7 +1632,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"2_t=11_subject=最近の想像相手　ライト\""]
+              "parameters": [
+                "\"2_t=11_subject=Recent Imaginary Partner Light\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -1770,7 +1782,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=11_subject=最近の想像相手　ライト\""]
+              "parameters": [
+                "\"3_t=11_subject=Recent Imaginary Partner Light\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -2017,7 +2031,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"1_t=11_subject=最近の想像相手　おくすけ\""]
+              "parameters": [
+                "\"1_t=11_subject=Recent Imaginary Friend Okusuke\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -2129,7 +2145,19 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"1_t=10_subject=非処女\""]
+              "parameters": ["\"1_t=10_subject=Non-virgin\""]
+            },
+            { "code": 655, "indent": 0, "parameters": [""] },
+            { "code": 655, "indent": 0, "parameters": ["])"] },
+            {
+              "code": 355,
+              "indent": 0,
+              "parameters": ["$gameSystem.CBR_eroSta_change(["]
+            },
+            {
+              "code": 655,
+              "indent": 0,
+              "parameters": ["\"1_t=2_subject=Partner: We're not dating yet\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -2142,20 +2170,8 @@
               "code": 655,
               "indent": 0,
               "parameters": [
-                "\"1_t=2_subject=交際相手：　まだ付き合ってないよ\""
+                "\"1_t=11_subject=Recent Imaginary Friend Okusuke\""
               ]
-            },
-            { "code": 655, "indent": 0, "parameters": [""] },
-            { "code": 655, "indent": 0, "parameters": ["])"] },
-            {
-              "code": 355,
-              "indent": 0,
-              "parameters": ["$gameSystem.CBR_eroSta_change(["]
-            },
-            {
-              "code": 655,
-              "indent": 0,
-              "parameters": ["\"1_t=11_subject=最近の想像相手　おくすけ\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -2275,7 +2291,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"2_t=11_subject=最近の想像相手　冒険者\""]
+              "parameters": [
+                "\"2_t=11_subject=Recent Imaginary Partner Adventurer\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -2388,7 +2406,7 @@
               "code": 655,
               "indent": 0,
               "parameters": [
-                "\"2_t=2_subject=交際相手：　気になってる人はいる・・・\""
+                "\"2_t=2_subject=Dating Partner: There's someone I'm interested in\""
               ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
@@ -2401,7 +2419,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"2_t=10_subject=非処女\""]
+              "parameters": ["\"2_t=10_subject=Non-virgin\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -2413,7 +2431,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"2_t=11_subject=最近の想像相手　冒険者\""]
+              "parameters": [
+                "\"2_t=11_subject=Recent Imaginary Partner Adventurer\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -2534,7 +2554,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=2_subject=結婚相手：　レイ\""]
+              "parameters": ["\"3_t=2_subject=Marriage Partner: Rei\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -2546,7 +2566,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=10_subject=非処女\""]
+              "parameters": ["\"3_t=10_subject=Non-virgin\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -2558,7 +2578,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=11_subject=最近の想像相手　レイ\""]
+              "parameters": ["\"3_t=11_subject=Recent Imaginary Partner, Rei\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -2681,7 +2701,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=2_subject=結婚相手：　レイ\""]
+              "parameters": ["\"3_t=2_subject=Marriage Partner: Rei\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -2693,7 +2713,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=10_subject=非処女\""]
+              "parameters": ["\"3_t=10_subject=Non-virgin\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -2705,7 +2725,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=11_subject=最近の想像相手　レイ\""]
+              "parameters": ["\"3_t=11_subject=Recent Imaginary Partner, Rei\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -2816,7 +2836,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=2_subject=種付け相手：　白い化け物\""]
+              "parameters": [
+                "\"3_t=2_subject=Impregnation Partner: White Monster\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -2828,7 +2850,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=10_subject=非処女\""]
+              "parameters": ["\"3_t=10_subject=Non-virgin\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -2840,7 +2862,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=11_subject=最近の想像相手　\\アイル\""]
+              "parameters": [
+                "\"3_t=11_subject=Recent Imaginary Partner \\Aeru\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -2952,7 +2976,7 @@
               "code": 655,
               "indent": 0,
               "parameters": [
-                "\"1_t=11_subject=最近の想像相手　体格のいいお兄さん\""
+                "\"1_t=11_subject=Recent imaginary partner, a well-built big brother\""
               ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
@@ -3105,7 +3129,7 @@
               "code": 655,
               "indent": 0,
               "parameters": [
-                "\"1_t=11_subject=最近の想像相手　体格のいいお兄さん\""
+                "\"1_t=11_subject=Recent imaginary partner, a well-built big brother\""
               ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
@@ -3252,7 +3276,7 @@
               "code": 655,
               "indent": 0,
               "parameters": [
-                "\"2_t=11_subject=最近の想像相手　冴えない顔のお兄さん\""
+                "\"2_t=11_subject=Recent Imaginary Partner: A dull-looking older brother\""
               ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
@@ -3365,7 +3389,7 @@
               "code": 655,
               "indent": 0,
               "parameters": [
-                "\"2_t=11_subject=最近の想像相手　冴えない顔のお兄さん\""
+                "\"2_t=11_subject=Recent Imaginary Partner: A dull-faced older brother\""
               ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
@@ -3483,7 +3507,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=11_subject=最近の想像相手　ロール\""]
+              "parameters": ["\"3_t=11_subject=Recent Imaginary Partner Role\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -3593,7 +3617,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=11_subject=最近の想像相手　ロール\""]
+              "parameters": ["\"3_t=11_subject=Recent Imaginary Partner Role\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -3703,7 +3727,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"1_t=11_subject=最近の想像相手　ライト\""]
+              "parameters": [
+                "\"1_t=11_subject=Recent Imaginary Partner Light\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -3851,7 +3877,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=11_subject=最近の想像相手　ライト\""]
+              "parameters": [
+                "\"3_t=11_subject=Recent Imaginary Partner Light\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -4002,7 +4030,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"2_t=11_subject=最近の想像相手　ライト\""]
+              "parameters": [
+                "\"2_t=11_subject=Recent Imaginary Partner, Light\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -4154,7 +4184,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"1_t=10_subject=種付け済み\""]
+              "parameters": ["\"1_t=10_subject=Impregnated\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -4387,7 +4417,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"2_t=2_subject=所有者：　お頭\""]
+              "parameters": ["\"2_t=2_subject=Owner: Boss\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -4399,7 +4429,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"2_t=10_subject=種付け済み\""]
+              "parameters": ["\"2_t=10_subject=Impregnated\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -4411,7 +4441,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"2_t=11_subject=最近の想像相手　・・・・・・\""]
+              "parameters": ["\"2_t=11_subject=Recent Imaginary Partner \""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -4483,7 +4513,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"2_t=2_subject=交際相手：　冒険者\""]
+              "parameters": ["\"2_t=2_subject=Partner: Adventurer\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -4495,7 +4525,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"2_t=10_subject=種付け済み\""]
+              "parameters": ["\"2_t=10_subject=Impregnated\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -4507,7 +4537,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"2_t=11_subject=最近の想像相手　冒険者\""]
+              "parameters": [
+                "\"2_t=11_subject=Recent Imaginary Partner Adventurer\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -4677,7 +4709,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=2_subject=結婚相手：　レイ\""]
+              "parameters": ["\"3_t=2_subject=Marriage Partner: Rei\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -4689,7 +4721,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=10_subject=種付け済み\""]
+              "parameters": ["\"3_t=10_subject=Impregnated\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -4701,7 +4733,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=11_subject=最近の想像相手　レイ\""]
+              "parameters": ["\"3_t=11_subject=Recent Imaginary Friend, Rei\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -4871,7 +4903,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=2_subject=種付け相手：　白い化け物\""]
+              "parameters": [
+                "\"3_t=2_subject=Impregnation Partner: White Monster\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -4883,7 +4917,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=10_subject=種付け済み\""]
+              "parameters": ["\"3_t=10_subject=Impregnated\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -4895,7 +4929,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=11_subject=最近の想像相手　\\アイル\""]
+              "parameters": [
+                "\"3_t=11_subject=Recent Imaginary Partner \\Aeru\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -5062,7 +5098,7 @@
               "code": 655,
               "indent": 0,
               "parameters": [
-                "\"2_t=11_subject=最近の想像相手　冴えない顔のお兄さん\""
+                "\"2_t=11_subject=Recent Imaginary Partner: A dull-faced older brother\""
               ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
@@ -5076,7 +5112,7 @@
               "code": 655,
               "indent": 0,
               "parameters": [
-                "\"2_t=2_subject=交際相手：　冴えない顔のお兄さん\""
+                "\"2_t=2_subject=Partner: Unattractive-looking older brother\""
               ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
@@ -5089,7 +5125,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"2_t=10_subject=非処女\""]
+              "parameters": ["\"2_t=10_subject=Non-virgin\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -5311,7 +5347,7 @@
               "code": 655,
               "indent": 0,
               "parameters": [
-                "\"1_t=11_subject=最近の想像相手　体格のいいお兄さん\""
+                "\"1_t=11_subject=Recent imaginary partner, a well-built big brother\""
               ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
@@ -5324,7 +5360,9 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"1_t=2_subject=交際相手：　体格のいいお兄さん\""]
+              "parameters": [
+                "\"1_t=2_subject=Partner: Well-built big brother\""
+              ]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -5336,7 +5374,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"1_t=10_subject=非処女\""]
+              "parameters": ["\"1_t=10_subject=Non-virgin\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -5566,7 +5604,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=11_subject=最近の想像相手　ロール\""]
+              "parameters": ["\"3_t=11_subject=Recent Imaginary Partner Role\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -5578,7 +5616,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=2_subject=交際相手：　ロール\""]
+              "parameters": ["\"3_t=2_subject=Partner: Lira\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
@@ -5590,7 +5628,7 @@
             {
               "code": 655,
               "indent": 0,
-              "parameters": ["\"3_t=10_subject=非処女\""]
+              "parameters": ["\"3_t=10_subject=Non-virgin\""]
             },
             { "code": 655, "indent": 0, "parameters": [""] },
             { "code": 655, "indent": 0, "parameters": ["])"] },
