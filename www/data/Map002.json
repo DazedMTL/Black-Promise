@@ -659,7 +659,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Aeru, it's really tough!!"]
+              "parameters": ["\\n[1], it's really tough!!"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 1, false] },
             {
@@ -813,7 +813,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Aeru, come quickly! You're my best friend, right?!"
+                "\\n[1], come quickly! You're my best friend, right?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 4, 1, 2] },
@@ -929,7 +929,7 @@
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
-            { "code": 401, "indent": 0, "parameters": ["Good morning! Aeru!"] },
+            { "code": 401, "indent": 0, "parameters": ["Good morning! \\n[1]!"] },
             { "code": 121, "indent": 0, "parameters": [37, 37, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             {
@@ -1319,7 +1319,7 @@
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
-            { "code": 401, "indent": 0, "parameters": ["Good morning, Aeru"] },
+            { "code": 401, "indent": 0, "parameters": ["Good morning, \\n[1]"] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
@@ -1334,7 +1334,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ask Aeru to come too... Let's go as well"]
+              "parameters": ["Ask \\n[1] to come too... Let's go as well"]
             },
             { "code": 221, "indent": 0, "parameters": [] },
             { "code": 235, "indent": 0, "parameters": [1] },

@@ -1232,11 +1232,11 @@
             },
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[1]】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hello! I'm Aeru, what's your name?"]
+              "parameters": ["Hello! I'm \\n[1], what's your name?"]
             },
             { "code": 213, "indent": 0, "parameters": [11, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1248,7 +1248,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [12, 2, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[1]】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1274,7 +1274,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [12, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[1]】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1292,7 +1292,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [12, 3, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[1]】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1310,7 +1310,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [12, 4, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[1]】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1326,7 +1326,7 @@
               "parameters": ["I've never seen it... so..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[1]】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1334,7 +1334,7 @@
             },
             { "code": 213, "indent": 0, "parameters": [12, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
-            { "code": 401, "indent": 0, "parameters": ["【Aeru】"] },
+            { "code": 401, "indent": 0, "parameters": ["【\\n[1]】"] },
             {
               "code": 401,
               "indent": 0,
@@ -1357,7 +1357,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\CLEach experience with Aeru was wonderful, and with\neach memory we made, my heart became richer."
+                "\\CLEach experience with \\n[1] was wonderful, and with\neach memory we made, my heart became richer."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -1365,7 +1365,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\CLSince losing my memory, I have been made up of\nmemories with Aeru."
+                "\\CLSince losing my memory, I have been made up of\nmemories with \\n[1]."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -1373,7 +1373,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\CLIt may be a little different from the old me, but\nthe days I spent with Aeru and everyone were\ndefinitely happy."
+                "\\CLIt may be a little different from the old me, but\nthe days I spent with \\n[1] and everyone were\ndefinitely happy."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },

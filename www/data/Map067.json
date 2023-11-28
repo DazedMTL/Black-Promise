@@ -382,7 +382,7 @@
             { "code": 213, "indent": 0, "parameters": [6, 1, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
-            { "code": 401, "indent": 0, "parameters": ["Ah, Aeru!"] },
+            { "code": 401, "indent": 0, "parameters": ["Ah, \\n[1]!"] },
             {
               "code": 205,
               "indent": 0,
@@ -444,7 +444,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh! It's Aeru. I was just talking to Lira for a\nbit."
+                "Oh! It's \\n[1]. I was just talking to Lira for a\nbit."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -457,7 +457,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "This guy isn't keeping his promise. Aeru, can you\ntell him too?"
+                "This guy isn't keeping his promise. \\n[1], can you\ntell him too?"
               ]
             },
             {
@@ -516,7 +516,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "See, even Aeru is saying the same thing. You'll\nkeep your promise, right?"
+                "See, even \\n[1] is saying the same thing. You'll\nkeep your promise, right?"
               ]
             },
             { "code": 213, "indent": 1, "parameters": [6, 8, false] },
@@ -621,7 +621,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Aeru, I'm sorry for making you look so scared."]
+              "parameters": ["\\n[1], I'm sorry for making you look so scared."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
             {
@@ -671,7 +671,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Thank you, Aeru, for helping me."]
+              "parameters": ["Thank you, \\n[1], for helping me."]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
@@ -687,7 +687,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Yeah, it's true. It seems like I really can't\nmanage on my own without Aeru."
+                "Yeah, it's true. It seems like I really can't\nmanage on my own without \\n[1]."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },

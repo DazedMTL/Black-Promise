@@ -699,7 +699,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Aeru, good morning. I have something to do with\nLight for a moment."
+                "\\n[1], good morning. I have something to do with\nLight for a moment."
               ]
             },
             {
@@ -713,7 +713,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Is Aeru sulking? ...Let's have sex next time."]
+              "parameters": ["Is \\n[1] sulking? ...Let's have sex next time."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "どんな用事？"] },
@@ -780,7 +780,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thank you for coming, Aeru. Lately, I haven't been\nable to go out more than before."
+                "Thank you for coming, \\n[1]. Lately, I haven't been\nable to go out more than before."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
@@ -789,7 +789,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm sure the baby in my belly will be happy too.\nIt's almost time for it to be born, so Aeru,\nplease come."
+                "I'm sure the baby in my belly will be happy too.\nIt's almost time for it to be born, so \\n[1],\nplease come."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -1003,7 +1003,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ah... Aeru, good morning. Um, I've been helping\nwith the housework lately because Light seems\nbusy."
+                "Ah... \\n[1], good morning. Um, I've been helping\nwith the housework lately because Light seems\nbusy."
               ]
             },
             {
@@ -1084,7 +1084,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Good morning Aeru, ehehe, my belly has gotten\nreally big."
+                "Good morning \\n[1], ehehe, my belly has gotten\nreally big."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
@@ -1093,7 +1093,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ehehe, Aeru-ojisan, I can't wait to see you soon~"
+                "Ehehe, \\n[1]-ojisan, I can't wait to see you soon~"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -1264,7 +1264,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ah...good morning, Aeru"]
+              "parameters": ["Ah...good morning, \\n[1]"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -1585,7 +1585,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Good morning, Aeru. I'm busy right now, so let's\ntalk later!"
+                "Good morning, \\n[1]. I'm busy right now, so let's\ntalk later!"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },

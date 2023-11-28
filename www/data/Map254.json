@@ -366,7 +366,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We should stop soon, because Aeru is coming\ntoday...hyaan!"
+                "We should stop soon, because \\n[1] is coming\ntoday...hyaan!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -407,7 +407,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Aeru has nothing to do with this, I just want to\ndo it. Miiru is my wife, right?!"
+                "\\n[1] has nothing to do with this, I just want to\ndo it. Miiru is my wife, right?!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },

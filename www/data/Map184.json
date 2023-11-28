@@ -1282,7 +1282,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...Aeru, the atmosphere of the village seems to\nhave changed somehow. If it's Aeru... no, it's\nnothing..."
+                "...\\n[1], the atmosphere of the village seems to\nhave changed somehow. If it's \\n[1]... no, it's\nnothing..."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1294,7 +1294,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "...Aeru, the atmosphere of the village seems to\nhave changed somehow. If it's Aeru... no, it's\nnothing..."
+                "...\\n[1], the atmosphere of the village seems to\nhave changed somehow. If it's \\n[1]... no, it's\nnothing..."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -1304,7 +1304,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Good morning, Aeru! You look cool today too!"]
+              "parameters": ["Good morning, \\n[1]! You look cool today too!"]
             },
             { "code": 0, "indent": 2, "parameters": [] },
             { "code": 412, "indent": 1, "parameters": [] },
@@ -1945,7 +1945,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If anything happens, I might ask Aeru-san for\nhelp. Thank you in advance."
+                "If anything happens, I might ask \\n[1]-san for\nhelp. Thank you in advance."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2279,7 +2279,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Aeru! Let's play together!"]
+              "parameters": ["\\n[1]! Let's play together!"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -2476,7 +2476,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Watching Aeru and the others, I think to myself,\nInstead of complaining all the time, let's take\naction. I'll do my best too."
+                "Watching \\n[1] and the others, I think to myself,\nInstead of complaining all the time, let's take\naction. I'll do my best too."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

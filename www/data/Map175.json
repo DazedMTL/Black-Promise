@@ -659,7 +659,7 @@
             { "code": 213, "indent": 0, "parameters": [9, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
-            { "code": 401, "indent": 0, "parameters": ["What's wrong, Aeru?"] },
+            { "code": 401, "indent": 0, "parameters": ["What's wrong, \\n[1]?"] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
@@ -692,7 +692,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Thank you, Aeru. I'm happy to hear you say that."]
+              "parameters": ["Thank you, \\n[1]. I'm happy to hear you say that."]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
@@ -700,7 +700,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I also want to be together like this forever. I\nlike you, Aeru."
+                "I also want to be together like this forever. I\nlike you, \\n[1]."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 4, false] },
@@ -761,7 +761,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If Aeru wants to do that kind of thing, I know it\nproperly... It's okay."
+                "If \\n[1] wants to do that kind of thing, I know it\nproperly... It's okay."
               ]
             },
             {
@@ -861,7 +861,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ehehe... I'm happy to be lovers with you, Aeru."]
+              "parameters": ["Ehehe... I'm happy to be lovers with you, \\n[1]."]
             },
             {
               "code": 250,
@@ -952,7 +952,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You know, I get really excited and nervous when I\nsee Aeru getting excited too."
+                "You know, I get really excited and nervous when I\nsee \\n[1] getting excited too."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 5, 0, 2] },
@@ -960,7 +960,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["You can do as you like with Aeru... \\i[249]"]
+              "parameters": ["You can do as you like with \\n[1]... \\i[249]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {

@@ -765,7 +765,7 @@
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
-            { "code": 401, "indent": 0, "parameters": ["What's wrong, Aeru?"] },
+            { "code": 401, "indent": 0, "parameters": ["What's wrong, \\n[1]?"] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
@@ -868,7 +868,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I will give this herb to him later. Aeru, you\nshould rest now."
+                "I will give this herb to him later. \\n[1], you\nshould rest now."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -877,7 +877,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thank you for everything, Aeru. I'm counting on\nyou."
+                "Thank you for everything, \\n[1]. I'm counting on\nyou."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [74, 74, 0] },
@@ -1158,7 +1158,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I think it will be a valuable experience... Come\non, Aeru, say hello."
+                "I think it will be a valuable experience... Come\non, \\n[1], say hello."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },

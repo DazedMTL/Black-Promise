@@ -3123,7 +3123,7 @@
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
-            { "code": 401, "indent": 0, "parameters": ["Ah! Aeru came."] },
+            { "code": 401, "indent": 0, "parameters": ["Ah! \\n[1] came."] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
@@ -3180,7 +3180,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ah... Aeru, welcome!"]
+              "parameters": ["Ah... \\n[1], welcome!"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Lira】"] },

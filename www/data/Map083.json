@@ -769,7 +769,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I wonder if Aeru trusts Lira and said that to me."
+                "I wonder if \\n[1] trusts Lira and said that to me."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -821,7 +821,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'm not worried, but I wonder how Aeru feels?"]
+              "parameters": ["I'm not worried, but I wonder how \\n[1] feels?"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
@@ -845,7 +845,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Of course, I also like everyone, including Lira\nand Aeru, so there's nothing to worry about."
+                "Of course, I also like everyone, including Lira\nand \\n[1], so there's nothing to worry about."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
@@ -923,7 +923,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Shall I carry it to the tent? Come to think of it,\nAeru always took care of Lira, didn't he?"
+                "Shall I carry it to the tent? Come to think of it,\n\\n[1] always took care of Lira, didn't he?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
@@ -1111,7 +1111,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's already late today, so let's go to bed early\nand prepare for tomorrow. Shall Aeru and I take\nturns keeping watch?"
+                "It's already late today, so let's go to bed early\nand prepare for tomorrow. Shall \\n[1] and I take\nturns keeping watch?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 8, false] },
@@ -1212,7 +1212,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hey, hey- why won't Aeru sleep with me?"]
+              "parameters": ["Hey, hey- why won't \\n[1] sleep with me?"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 6, false] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
@@ -1237,7 +1237,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you're going to say that much, then I'll wait\nuntil Aeru is emotionally ready!"
+                "If you're going to say that much, then I'll wait\nuntil \\n[1] is emotionally ready!"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
@@ -1246,7 +1246,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Aeru dodged skillfully..."]
+              "parameters": ["\\n[1] dodged skillfully..."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Light】"] },
@@ -1306,7 +1306,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That's right, Aeru. From my perspective, Miiru has\nchanged a lot. Probably more than anyone else in\nour group."
+                "That's right, \\n[1]. From my perspective, Miiru has\nchanged a lot. Probably more than anyone else in\nour group."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
@@ -1448,7 +1448,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If we're talking about being strange, I honestly\nthink Aeru is much more so."
+                "If we're talking about being strange, I honestly\nthink \\n[1] is much more so."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 7, false] },
@@ -1468,7 +1468,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm grateful, surely if Aeru wasn't here, I\nwouldn't be who I am now."
+                "I'm grateful, surely if \\n[1] wasn't here, I\nwouldn't be who I am now."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -1485,7 +1485,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Even so, thank you, Aeru."]
+              "parameters": ["Even so, thank you, \\n[1]."]
             },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -1522,7 +1522,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well, I guess I'll just have to accept that it's\npartly Aeru's responsibility that I turned out\nthis way."
+                "Well, I guess I'll just have to accept that it's\npartly \\n[1]'s responsibility that I turned out\nthis way."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 7, false] },
@@ -1843,7 +1843,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I wonder if Aeru trusts Lira and said something\nlike that to her."
+                "I wonder if \\n[1] trusts Lira and said something\nlike that to her."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -1896,7 +1896,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm not worried, but I wonder how Aeru feels about\nit?"
+                "I'm not worried, but I wonder how \\n[1] feels about\nit?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
@@ -1921,7 +1921,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Of course, I also like everyone, including Lira\nand Aeru, so there's nothing to worry about."
+                "Of course, I also like everyone, including Lira\nand \\n[1], so there's nothing to worry about."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
@@ -1999,7 +1999,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Shall I carry it to the tent? Come to think of it,\nAeru always took care of Lira, didn't he?"
+                "Shall I carry it to the tent? Come to think of it,\n\\n[1] always took care of Lira, didn't he?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
@@ -2188,7 +2188,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's already late today, so let's go to bed early\nand prepare for tomorrow. Shall Aeru and I take\nturns keeping watch?"
+                "It's already late today, so let's go to bed early\nand prepare for tomorrow. Shall \\n[1] and I take\nturns keeping watch?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [2, 8, false] },
@@ -2290,7 +2290,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hey, hey- why won't Aeru sleep with me?"]
+              "parameters": ["Hey, hey- why won't \\n[1] sleep with me?"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 6, false] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
@@ -2315,7 +2315,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you're going to say that much, then I'll wait\nuntil Aeru is emotionally ready!"
+                "If you're going to say that much, then I'll wait\nuntil \\n[1] is emotionally ready!"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [4, 8, true] },
@@ -2324,7 +2324,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Aeru dodged skillfully..."]
+              "parameters": ["\\n[1] dodged skillfully..."]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Light】"] },
@@ -2384,7 +2384,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "That's right, Aeru. From my perspective, Miiru has\nchanged a lot. Probably more than anyone else in\nour group."
+                "That's right, \\n[1]. From my perspective, Miiru has\nchanged a lot. Probably more than anyone else in\nour group."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
@@ -2527,7 +2527,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If we're talking about being strange, I honestly\nthink Aeru is much more so."
+                "If we're talking about being strange, I honestly\nthink \\n[1] is much more so."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 7, false] },
@@ -2547,7 +2547,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm grateful, surely if Aeru wasn't here, I\nwouldn't be who I am now."
+                "I'm grateful, surely if \\n[1] wasn't here, I\nwouldn't be who I am now."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -2564,7 +2564,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Even so, thank you, Aeru."]
+              "parameters": ["Even so, thank you, \\n[1]."]
             },
             { "code": 213, "indent": 0, "parameters": [4, 8, false] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -2601,7 +2601,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well, I guess I'll just have to accept that it's\npartly Aeru's responsibility that I turned out\nthis way."
+                "Well, I guess I'll just have to accept that it's\npartly \\n[1]'s responsibility that I turned out\nthis way."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 7, false] },

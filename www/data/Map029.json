@@ -554,7 +554,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The shop can take a backseat, Aeru-kun. I've also\nasked my daughter for help."
+                "The shop can take a backseat, \\n[1]-kun. I've also\nasked my daughter for help."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -1699,7 +1699,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Yeah! I got it! Aeru may be a little unreliable\nnormally, but when it's time to step up, he really\ndoes."
+                "Yeah! I got it! \\n[1] may be a little unreliable\nnormally, but when it's time to step up, he really\ndoes."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 3, false] },
@@ -1981,7 +1981,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ah, good morning, Aeru."]
+              "parameters": ["Ah, good morning, \\n[1]."]
             },
             {
               "code": 102,
@@ -2029,7 +2029,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I wonder what Aeru thinks? Well, it doesn't really\nmatter anymore."
+                "I wonder what \\n[1] thinks? Well, it doesn't really\nmatter anymore."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
@@ -2519,7 +2519,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ah...Aeru...have you found my daughter?"]
+              "parameters": ["Ah...\\n[1]...have you found my daughter?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
@@ -3390,7 +3390,7 @@
             { "code": 121, "indent": 0, "parameters": [413, 413, 1] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
-            { "code": 401, "indent": 0, "parameters": ["Ah...Aeru..."] },
+            { "code": 401, "indent": 0, "parameters": ["Ah...\\n[1]..."] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
@@ -3724,7 +3724,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ah... Aeru, what's wrong?"]
+              "parameters": ["Ah... \\n[1], what's wrong?"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -3741,14 +3741,14 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["...Yeah, thank you Aeru"]
+              "parameters": ["...Yeah, thank you \\n[1]"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Um... Have you ever liked someone, Aeru?"]
+              "parameters": ["Um... Have you ever liked someone, \\n[1]?"]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 11, false] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
@@ -3817,7 +3817,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Aeru, I think that's how it is with love."]
+              "parameters": ["\\n[1], I think that's how it is with love."]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 0, 1, 2] },
             { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
@@ -3825,7 +3825,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Aeru gave me his own words in response to my vague\nquestion."
+                "\\n[1] gave me his own words in response to my vague\nquestion."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 0, 1, 2] },
@@ -3834,7 +3834,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Aeru gave me his own words in response to my vague\nquestion, carefully choosing his words as if love\nis something that comes after various\naccumulations."
+                "\\n[1] gave me his own words in response to my vague\nquestion, carefully choosing his words as if love\nis something that comes after various\naccumulations."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 0, 1, 2] },
@@ -3843,7 +3843,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "When I heard that story, what came to mind were\nthe memories with Aeru and everyone."
+                "When I heard that story, what came to mind were\nthe memories with \\n[1] and everyone."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 0, 1, 2] },
@@ -3869,7 +3869,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Thank you, Aeru. I'm glad I consulted with you."]
+              "parameters": ["Thank you, \\n[1]. I'm glad I consulted with you."]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 0, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["【Margaret】"] },
@@ -3877,7 +3877,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "If I were to fall in love... it might be with\nAeru."
+                "If I were to fall in love... it might be with\n\\n[1]."
               ]
             },
             { "code": 213, "indent": 1, "parameters": [-1, 11, false] },
@@ -3994,7 +3994,7 @@
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
-            { "code": 401, "indent": 0, "parameters": ["Good morning, Aeru."] },
+            { "code": 401, "indent": 0, "parameters": ["Good morning, \\n[1]."] },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
           "moveFrequency": 3,
@@ -4316,7 +4316,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "...How's it going, Aeru? Have you found the girl?"
+                "...How's it going, \\n[1]? Have you found the girl?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -4648,7 +4648,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Aeru...good morning...uh..."]
+              "parameters": ["\\n[1]...good morning...uh..."]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 2, false] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -4680,7 +4680,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Yeah, today, Aeru will help me out."]
+              "parameters": ["Yeah, today, \\n[1] will help me out."]
             },
             {
               "code": 205,
@@ -4736,7 +4736,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Aeru, that's why I don't want you to worry about\nme...thank you."
+                "\\n[1], that's why I don't want you to worry about\nme...thank you."
               ]
             },
             {
@@ -5094,7 +5094,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh, Aeru was here... I thought it was you, Light.\nBut I guess there's no helping it once it's\npassed."
+                "Oh, \\n[1] was here... I thought it was you, Light.\nBut I guess there's no helping it once it's\npassed."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -5231,7 +5231,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you find her, tell Aeru that he's been looking\nfor her. Good luck with the search."
+                "If you find her, tell \\n[1] that he's been looking\nfor her. Good luck with the search."
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["B", 0] },

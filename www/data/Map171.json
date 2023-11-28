@@ -670,7 +670,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's no sign of anyone nearby, and Aeru surely\nisn't by my side either."
+                "There's no sign of anyone nearby, and \\n[1] surely\nisn't by my side either."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
@@ -679,7 +679,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Unknowingly, I was hurting Aeru inside by\nrecalling the scene from earlier."
+                "Unknowingly, I was hurting \\n[1] inside by\nrecalling the scene from earlier."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
@@ -688,7 +688,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Every word Aeru said strikes a chord with me, and\nnow I'm weighed down by nothing but regret. It's\ntoo late to regret now, but..."
+                "Every word \\n[1] said strikes a chord with me, and\nnow I'm weighed down by nothing but regret. It's\ntoo late to regret now, but..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 1, 2] },
@@ -921,7 +921,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's just as Aeru said. I've always caused trouble\nfor others and relied on them too much."
+                "It's just as \\n[1] said. I've always caused trouble\nfor others and relied on them too much."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 5, 0, 2] },
@@ -1590,7 +1590,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Let's talk with Aeru again. If not, I..."]
+              "parameters": ["Let's talk with \\n[1] again. If not, I..."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 5, 1, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
@@ -1598,7 +1598,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Aeru... Because he's a special person to both of\nus, it's not good to stay like this."
+                "\\n[1]... Because he's a special person to both of\nus, it's not good to stay like this."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 5, 1, 2] },
@@ -1624,7 +1624,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I might have to have a difficult conversation with\nAeru again."
+                "I might have to have a difficult conversation with\n\\n[1] again."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 5, 1, 2] },
@@ -1633,7 +1633,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But, because Aeru is special after all, let's have\na proper conversation."
+                "But, because \\n[1] is special after all, let's have\na proper conversation."
               ]
             },
             { "code": 242, "indent": 0, "parameters": [8] },

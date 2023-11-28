@@ -700,7 +700,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thank you so much, Aeru. I always seem to be\nrelying on you."
+                "Thank you so much, \\n[1]. I always seem to be\nrelying on you."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -750,7 +750,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["... *sigh* Aeru, is something the matter?"]
+              "parameters": ["... *sigh* \\n[1], is something the matter?"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -799,7 +799,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["...*sigh* Ah, Aeru, is something the matter?"]
+              "parameters": ["...*sigh* Ah, \\n[1], is something the matter?"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -848,7 +848,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["...*sigh* Ah, Aeru, is something the matter?"]
+              "parameters": ["...*sigh* Ah, \\n[1], is something the matter?"]
             },
             { "code": 0, "indent": 0, "parameters": [] }
           ],
@@ -898,7 +898,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thanks to Aeru, I really think our current\nrelationship with Lira exists. Thank you so much."
+                "Thanks to \\n[1], I really think our current\nrelationship with Lira exists. Thank you so much."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -949,7 +949,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thanks to Aeru, I think my current relationship\nwith Margaret exists. Thank you so much."
+                "Thanks to \\n[1], I think my current relationship\nwith Margaret exists. Thank you so much."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1000,7 +1000,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Aeru, hurry up and... well, it's not for me to\nsay."
+                "\\n[1], hurry up and... well, it's not for me to\nsay."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1060,7 +1060,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm really grateful for having such a good friend,\nthank you Aeru"
+                "I'm really grateful for having such a good friend,\nthank you \\n[1]"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -1216,7 +1216,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Aeru... I'm truly sorry for causing trouble with\nthe curse incident."
+                "\\n[1]... I'm truly sorry for causing trouble with\nthe curse incident."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["kurotilyan", 0, 0, 2] },
@@ -1464,7 +1464,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Fua... Good morning, Aeru"]
+              "parameters": ["Fua... Good morning, \\n[1]"]
             },
             {
               "code": 102,
@@ -1492,7 +1492,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Yeah! Good morning, Aeru!"]
+              "parameters": ["Yeah! Good morning, \\n[1]!"]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },
@@ -1548,7 +1548,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["G-Good morning, Aeru! You look cool today too!"]
+              "parameters": ["G-Good morning, \\n[1]! You look cool today too!"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },

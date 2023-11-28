@@ -765,7 +765,7 @@
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
-            { "code": 401, "indent": 0, "parameters": ["What's wrong, Aeru?"] },
+            { "code": 401, "indent": 0, "parameters": ["What's wrong, \\n[1]?"] },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
@@ -872,7 +872,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I will give this medicinal herb to him later.\nAeru, you should rest now."
+                "I will give this medicinal herb to him later.\n\\n[1], you should rest now."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -881,7 +881,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thank you for everything, Aeru. I'm counting on\nyou."
+                "Thank you for everything, \\n[1]. I'm counting on\nyou."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [74, 74, 0] },

@@ -2826,7 +2826,7 @@
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
-            { "code": 401, "indent": 0, "parameters": ["Good morning, Aeru"] },
+            { "code": 401, "indent": 0, "parameters": ["Good morning, \\n[1]"] },
             {
               "code": 102,
               "indent": 0,
@@ -2864,7 +2864,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I really want a lot... I think if it's with Aeru,\nwe'll surely have a happy family"
+                "I really want a lot... I think if it's with \\n[1],\nwe'll surely have a happy family"
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -2978,7 +2978,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Aeru is steadily improving day by day. Keep up the\ngood work."
+                "\\n[1] is steadily improving day by day. Keep up the\ngood work."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -3078,7 +3078,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ehehe... Good morning, Aeru! Your sleeping face\nwas so cute!"
+                "Ehehe... Good morning, \\n[1]! Your sleeping face\nwas so cute!"
               ]
             },
             {

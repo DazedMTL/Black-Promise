@@ -2409,7 +2409,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh no, it's a monster! What should we do, Aeru..."
+                "Oh no, it's a monster! What should we do, \\n[1]..."
               ]
             },
             {
@@ -2758,7 +2758,7 @@
             { "code": 213, "indent": 1, "parameters": [9, 1, false] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 4, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
-            { "code": 401, "indent": 1, "parameters": ["Aeru! Are you okay?"] },
+            { "code": 401, "indent": 1, "parameters": ["\\n[1]! Are you okay?"] },
             { "code": 213, "indent": 1, "parameters": [12, 8, false] },
             { "code": 101, "indent": 1, "parameters": ["", 2, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["【Okusuke】"] },
@@ -2961,7 +2961,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Aeru was so strong, it was kind of cool..."]
+              "parameters": ["\\n[1] was so strong, it was kind of cool..."]
             },
             { "code": 213, "indent": 1, "parameters": [9, 11, false] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 4, 0, 2] },
@@ -2986,7 +2986,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "For now, let's head back today. Aeru had a tough\ntime too, so it's better to rest."
+                "For now, let's head back today. \\n[1] had a tough\ntime too, so it's better to rest."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
@@ -3141,7 +3141,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Kyaa, Aeru! Pull yourself together!"]
+              "parameters": ["Kyaa, \\n[1]! Pull yourself together!"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             {
@@ -3426,7 +3426,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's finally time, huh Aeru? I'm a little scared,\nbut let's do our best."
+                "It's finally time, huh \\n[1]? I'm a little scared,\nbut let's do our best."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
@@ -6144,7 +6144,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I honestly thought I was done for, but Aeru\nquickly came to help me and I'm glad..."
+                "I honestly thought I was done for, but \\n[1]\nquickly came to help me and I'm glad..."
               ]
             },
             {
@@ -6648,7 +6648,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Huh...? Where did Aeru go!!"]
+              "parameters": ["Huh...? Where did \\n[1] go!!"]
             },
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 121, "indent": 1, "parameters": [63, 63, 1] },
@@ -6686,7 +6686,7 @@
             { "code": 221, "indent": 1, "parameters": [] },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 5, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["【Miiru】"] },
-            { "code": 401, "indent": 1, "parameters": ["Aeru!"] },
+            { "code": 401, "indent": 1, "parameters": ["\\n[1]!"] },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 5, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["【Miiru】"] },
             {
@@ -6699,7 +6699,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Sto...stop...help...Aeru"]
+              "parameters": ["Sto...stop...help...\\n[1]"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 5, 1, 2] },
             {
@@ -6794,7 +6794,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["A...Aeru, are you okay?"]
+              "parameters": ["A...\\n[1], are you okay?"]
             },
             { "code": 101, "indent": 1, "parameters": ["", 5, 1, 2] },
             {
@@ -7377,7 +7377,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well, if Aeru says he won't go home today, I don't\nmind staying here..."
+                "Well, if \\n[1] says he won't go home today, I don't\nmind staying here..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
@@ -7492,7 +7492,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well, if Aeru says he's not going home today, then\nI don't mind staying here..."
+                "Well, if \\n[1] says he's not going home today, then\nI don't mind staying here..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 1, 2] },
@@ -8238,7 +8238,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But I know that both Aeru and Light are stubborn\nonce they've decided to do something."
+                "But I know that both \\n[1] and Light are stubborn\nonce they've decided to do something."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
@@ -8391,7 +8391,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Because he was very kind to me, well! But the\nnumber one is Aeru!"
+                "Because he was very kind to me, well! But the\nnumber one is \\n[1]!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
@@ -8399,7 +8399,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Haha, as usual, Aeru is quite popular, isn't he?"]
+              "parameters": ["Haha, as usual, \\n[1] is quite popular, isn't he?"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
             {
@@ -8415,7 +8415,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Aeru can hear you, you know! He's always so\ndistant as usual..."
+                "\\n[1] can hear you, you know! He's always so\ndistant as usual..."
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -8529,7 +8529,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "...Was it okay for Aeru and me to go alone?\nEveryone seemed like they wanted to go together."
+                "...Was it okay for \\n[1] and me to go alone?\nEveryone seemed like they wanted to go together."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
@@ -8554,7 +8554,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Well, it's actually just Aeru and me, though."]
+              "parameters": ["Well, it's actually just \\n[1] and me, though."]
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 1, 2] },
             {
@@ -8569,7 +8569,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Haha, sorry! ...Well then, shall we go, Aeru?"]
+              "parameters": ["Haha, sorry! ...Well then, shall we go, \\n[1]?"]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
             { "code": 0, "indent": 0, "parameters": [] }

@@ -1900,7 +1900,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["That's right, I believe that Aeru can do it!"]
+              "parameters": ["That's right, I believe that \\n[1] can do it!"]
             },
             { "code": 242, "indent": 0, "parameters": [4] },
             { "code": 213, "indent": 0, "parameters": [6, 8, false] },
@@ -2392,7 +2392,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When Aeru says that, it somehow makes me feel like\neverything will be okay too."
+                "When \\n[1] says that, it somehow makes me feel like\neverything will be okay too."
               ]
             },
             { "code": 242, "indent": 0, "parameters": [4] },
@@ -2957,7 +2957,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I feel like I'm about to remember something...\nSorry, Aeru."
+                "I feel like I'm about to remember something...\nSorry, \\n[1]."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -3339,7 +3339,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Light was amazing! Aeru was watching too! It's\nkind of admirable, isn't it?"
+                "Light was amazing! \\n[1] was watching too! It's\nkind of admirable, isn't it?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 7, false] },

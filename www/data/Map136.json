@@ -331,7 +331,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\CLOne day, a change occurred in our daily lives when\nAeru brought a boy with him."
+                "\\CLOne day, a change occurred in our daily lives when\n\\n[1] brought a boy with him."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -339,7 +339,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\CLI was extremely wary because other than Aeru, I\nonly had contact with two other people..."
+                "\\CLI was extremely wary because other than \\n[1], I\nonly had contact with two other people..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -361,7 +361,7 @@
               "code": 102,
               "indent": 0,
               "parameters": [
-                ["Ask Aeru for help", "Stare at Light"],
+                ["Ask \\n[1] for help", "Stare at Light"],
                 1,
                 0,
                 2,
@@ -390,7 +390,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLLight had various things happen to him, and just\nlike me, he was helped by Aeru."
+                "\\CLLight had various things happen to him, and just\nlike me, he was helped by \\n[1]."
               ]
             },
             { "code": 242, "indent": 1, "parameters": [5] },
@@ -444,7 +444,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLI actually wanted to have Aeru all to myself, but\nI no longer felt that way."
+                "\\CLI actually wanted to have \\n[1] all to myself, but\nI no longer felt that way."
               ]
             },
             { "code": 242, "indent": 1, "parameters": [5] },

@@ -4220,7 +4220,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hey Aeru, you seem to have a troubled expression."
+                "Hey \\n[1], you seem to have a troubled expression."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
@@ -20850,7 +20850,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["I see... Is that about Aeru?"]
+              "parameters": ["I see... Is that about \\n[1]?"]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 3, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["【Miiru】"] },
@@ -21039,7 +21039,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["I see... Is that about Aeru?"]
+              "parameters": ["I see... Is that about \\n[1]?"]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 3, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["【Miiru】"] },

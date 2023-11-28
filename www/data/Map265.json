@@ -484,7 +484,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ahh, it feels so good, I can't hold back my voice,\nAeru will wake up, ah, ah."
+                "Ahh, it feels so good, I can't hold back my voice,\n\\n[1] will wake up, ah, ah."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -1920,7 +1920,7 @@
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
-            { "code": 401, "indent": 0, "parameters": ["Ah! Aeru came."] },
+            { "code": 401, "indent": 0, "parameters": ["Ah! \\n[1] came."] },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
             {
@@ -1977,7 +1977,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Ah... Aeru, welcome!"]
+              "parameters": ["Ah... \\n[1], welcome!"]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Lira】"] },

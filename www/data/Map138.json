@@ -512,7 +512,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The shop can take a back seat. Aeru, you've also\ngot a daughter to rely on."
+                "The shop can take a back seat. \\n[1], you've also\ngot a daughter to rely on."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -1001,7 +1001,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["It was Aeru", "It was Light"], 1, 0, 2, 0]
+              "parameters": [["It was \\n[1]", "It was Light"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "アイルだった"] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -1069,7 +1069,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Aeru... If she's feeling confused, I think it's\nbest for her to come when she wants to..."
+                "\\n[1]... If she's feeling confused, I think it's\nbest for her to come when she wants to..."
               ]
             },
             { "code": 213, "indent": 1, "parameters": [7, 8, false] },
@@ -1106,7 +1106,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLJust like Aeru did for me someday, I naturally\nstarted to think that I would help Light when\nsomething suited him..."
+                "\\CLJust like \\n[1] did for me someday, I naturally\nstarted to think that I would help Light when\nsomething suited him..."
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },

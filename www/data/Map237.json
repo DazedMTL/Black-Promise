@@ -199,7 +199,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Aeru... Are you still awake?"]
+              "parameters": ["\\n[1]... Are you still awake?"]
             },
             {
               "code": 250,
@@ -407,7 +407,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You're so gentle, Aeru... But, how long are you\ngoing to keep me waiting?"
+                "You're so gentle, \\n[1]... But, how long are you\ngoing to keep me waiting?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },

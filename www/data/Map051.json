@@ -621,14 +621,14 @@
             },
             { "code": 101, "indent": 0, "parameters": ["", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
-            { "code": 401, "indent": 0, "parameters": ["...Nn, Aeru"] },
+            { "code": 401, "indent": 0, "parameters": ["...Nn, \\n[1]"] },
             { "code": 101, "indent": 0, "parameters": ["", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Aeru, did you fall down here too? ...Haha, what a\nclumsy guy."
+                "\\n[1], did you fall down here too? ...Haha, what a\nclumsy guy."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -692,7 +692,7 @@
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
-            { "code": 401, "indent": 0, "parameters": ["...Aeru, I'm sorry."] },
+            { "code": 401, "indent": 0, "parameters": ["...\\n[1], I'm sorry."] },
             {
               "code": 250,
               "indent": 0,

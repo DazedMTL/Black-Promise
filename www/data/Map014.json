@@ -184,7 +184,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's not like there's anything I'd be troubled by\nif Aeru saw it."
+                "It's not like there's anything I'd be troubled by\nif \\n[1] saw it."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -410,7 +410,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Good evening, Aeru. It's a nice night, isn't it?"]
+              "parameters": ["Good evening, \\n[1]. It's a nice night, isn't it?"]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Light】"] },
@@ -440,7 +440,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["...I can't keep secrets from Aeru, huh?"]
+              "parameters": ["...I can't keep secrets from \\n[1], huh?"]
             },
             { "code": 101, "indent": 1, "parameters": ["sinn", 1, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["【Light】"] },
@@ -459,7 +459,7 @@
             },
             { "code": 101, "indent": 1, "parameters": ["sinn", 0, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["【Light】"] },
-            { "code": 401, "indent": 1, "parameters": ["Thank you, Aeru"] },
+            { "code": 401, "indent": 1, "parameters": ["Thank you, \\n[1]"] },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 402, "indent": 0, "parameters": [1, "腕を触る"] },
             { "code": 101, "indent": 1, "parameters": ["sinn", 5, 0, 2] },
@@ -467,7 +467,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Hey Aeru... What's the sudden change for!"]
+              "parameters": ["Hey \\n[1]... What's the sudden change for!"]
             },
             { "code": 101, "indent": 1, "parameters": ["sinn", 5, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["【Light】"] },
@@ -491,7 +491,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Is that so? Aeru, you're always welcome."]
+              "parameters": ["Is that so? \\n[1], you're always welcome."]
             },
             { "code": 0, "indent": 1, "parameters": [] },
             { "code": 404, "indent": 0, "parameters": [] },

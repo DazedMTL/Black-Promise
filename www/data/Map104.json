@@ -1799,7 +1799,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Aeru, let's do it! The two of us together can\ndefinitely win!"
+                "\\n[1], let's do it! The two of us together can\ndefinitely win!"
               ]
             },
             { "code": 129, "indent": 0, "parameters": [2, 1, false] },
@@ -1987,7 +1987,7 @@
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 1, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
-            { "code": 401, "indent": 1, "parameters": ["Aeru!"] },
+            { "code": 401, "indent": 1, "parameters": ["\\n[1]!"] },
             { "code": 223, "indent": 1, "parameters": [[0, 0, 0, 0], 1, true] },
             {
               "code": 205,
@@ -2711,7 +2711,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["N-no... Aeru!... Light..."]
+              "parameters": ["N-no... \\n[1]!... Light..."]
             },
             {
               "code": 223,
@@ -3110,7 +3110,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Shit! There's a swarm of them... I'll take care of\nthese two, Aeru, cooperate with Miiru and take\ncare of the one in front!"
+                "Shit! There's a swarm of them... I'll take care of\nthese two, \\n[1], cooperate with Miiru and take\ncare of the one in front!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 2, 0, 2] },
@@ -3245,7 +3245,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": ["Aeru, are you okay?!"]
+              "parameters": ["\\n[1], are you okay?!"]
             },
             { "code": 101, "indent": 1, "parameters": ["sinn", 5, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["【Light】"] },
@@ -3429,7 +3429,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Aeru... Yes, I understand. I will go with Ray."]
+              "parameters": ["\\n[1]... Yes, I understand. I will go with Ray."]
             },
             {
               "code": 205,
@@ -3491,7 +3491,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Goodbye... Aeru... My precious person."]
+              "parameters": ["Goodbye... \\n[1]... My precious person."]
             },
             {
               "code": 205,
@@ -3564,7 +3564,7 @@
             },
             { "code": 101, "indent": 2, "parameters": ["hiroin3", 2, 0, 2] },
             { "code": 401, "indent": 2, "parameters": ["【Miiru】"] },
-            { "code": 401, "indent": 2, "parameters": ["Aeru, you idiot-!!"] },
+            { "code": 401, "indent": 2, "parameters": ["\\n[1], you idiot-!!"] },
             {
               "code": 250,
               "indent": 2,
@@ -3768,7 +3768,7 @@
             },
             { "code": 101, "indent": 2, "parameters": ["hiroin3", 0, 0, 2] },
             { "code": 401, "indent": 2, "parameters": ["【Miiru】"] },
-            { "code": 401, "indent": 2, "parameters": ["Aeru..."] },
+            { "code": 401, "indent": 2, "parameters": ["\\n[1]..."] },
             { "code": 213, "indent": 2, "parameters": [25, 8, true] },
             {
               "code": 205,
@@ -3986,7 +3986,7 @@
             {
               "code": 401,
               "indent": 2,
-              "parameters": ["Aeru really isn't obedient at all, huh?"]
+              "parameters": ["\\n[1] really isn't obedient at all, huh?"]
             },
             { "code": 221, "indent": 2, "parameters": [] },
             { "code": 242, "indent": 2, "parameters": [5] },
@@ -4324,7 +4324,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There are monsters coming from behind...! I'll\ntake care of them, so I'll leave the ones in front\nto Aeru and the others!"
+                "There are monsters coming from behind...! I'll\ntake care of them, so I'll leave the ones in front\nto \\n[1] and the others!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },

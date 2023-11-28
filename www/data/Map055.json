@@ -538,7 +538,7 @@
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 5, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Miiru】"] },
-            { "code": 401, "indent": 0, "parameters": ["Aeru!"] },
+            { "code": 401, "indent": 0, "parameters": ["\\n[1]!"] },
             {
               "code": 250,
               "indent": 0,
@@ -558,7 +558,7 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Sto...stop it...help...Aeru"]
+              "parameters": ["Sto...stop it...help...\\n[1]"]
             },
             { "code": 101, "indent": 0, "parameters": ["", 5, 1, 2] },
             {
@@ -615,7 +615,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I was caught by the monster, and even Aeru, who\ntried to help me, was done in."
+                "I was caught by the monster, and even \\n[1], who\ntried to help me, was done in."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 5, 1, 2] },

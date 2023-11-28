@@ -916,7 +916,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Please pick up Aeru-sama and Miiru-sama today as\nthey are in the middle of a ceremony."
+                "Please pick up \\n[1]-sama and Miiru-sama today as\nthey are in the middle of a ceremony."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2088,7 +2088,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Long time no see, Aeru... but it hasn't been that\nlong, right?"
+                "Long time no see, \\n[1]... but it hasn't been that\nlong, right?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
@@ -2106,7 +2106,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I think a lot of things will change from now on,\nbut as for me, Aeru... no, sorry. You can come by\nanytime!"
+                "I think a lot of things will change from now on,\nbut as for me, \\n[1]... no, sorry. You can come by\nanytime!"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
