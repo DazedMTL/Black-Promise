@@ -407,7 +407,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When Margaret introduced her boyfriend, I was\nsurprised, but he seems reliable despite his\nappearance, so I feel relieved."
+                "When Margaret introduced her boyfriend, I was surprised, but he seems\nreliable despite his appearance, so I feel relieved."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -458,7 +458,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Please stay by Margaret's side until she gets\nbetter..."
+                "Please stay by Margaret's side until she gets better..."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -509,7 +509,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I thought he was a spineless wimp, but turns out\nhe's got some guts after all. I've reevaluated him\na little bit."
+                "I thought he was a spineless wimp, but turns out he's got some guts\nafter all. I've reevaluated him a little bit."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -560,7 +560,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Take care of Margaret, okay? Well, I guess there\nwon't be any problems with you."
+                "Take care of Margaret, okay? Well, I guess there won't be any problems\nwith you."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -611,7 +611,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Are you two really dating? Well, Margaret only\ntalks about Light, so..."
+                "Are you two really dating? Well, Margaret only talks about Light,\nso..."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -662,7 +662,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If Light becomes my son-in-law, our shop will be\nsecure."
+                "If Light becomes my son-in-law, our shop will be secure."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -713,7 +713,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I always thought Light was an amazing guy, but to\nthink he'd have three women... If only I were\nyounger..."
+                "I always thought Light was an amazing guy, but to think he'd have\nthree women... If only I were younger..."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -764,7 +764,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Even though they're called demons, they're no\ndifferent from humans. They came to buy sweets the\nother day."
+                "Even though they're called demons, they're no different from humans.\nThey came to buy sweets the other day."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -948,7 +948,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Ah...\\n[1]...I'm sorry, I want you to be by her\nside and care for her more than worrying about me."
+                "Ah...\\n[1]...I'm sorry, I want you to be by her side and care for her\nmore than worrying about me."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -960,7 +960,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Ah...\\n[1]...I'm sorry, I want you to be by her\nside and care for her more than worrying about me."
+                "Ah...\\n[1]...I'm sorry, I want you to be by her side and care for her\nmore than worrying about me."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -1026,7 +1026,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "...Kuro-chan was shorter than me...if you don't\ncount the horns."
+                "...Kuro-chan was shorter than me...if you don't count the horns."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1082,7 +1082,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome! If you need anything, please call out to\nthe person at the counter."
+                "Welcome! If you need anything, please call out to the person at the\ncounter."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -1090,7 +1090,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The gaze staring at the counter seems somewhat\nmature."
+                "The gaze staring at the counter seems somewhat mature."
               ]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -1147,7 +1147,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome! If you need anything, just call out to\nthe person at the counter."
+                "Welcome! If you need anything, just call out to the person at the\ncounter."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -1155,7 +1155,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The gaze staring at the counter seems somewhat\nmature."
+                "The gaze staring at the counter seems somewhat mature."
               ]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -1419,7 +1419,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Hey, \\n[1]! There are various products available!"]
+              "parameters": [
+                "Hey, \\n[1]! There are various products available!"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             {
@@ -1431,7 +1433,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'm still not used to it, but I'll try to remember\neach one as we go along. Please take care of me\nfrom now on!"
+                "I'm still not used to it, but I'll try to remember each one as we go\nalong. Please take care of me from now on!"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -1482,7 +1484,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It looks like you're busy with work, so I'll\nrefrain from bothering you further."
+                "It looks like you're busy with work, so I'll refrain from bothering\nyou further."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1533,7 +1535,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I never thought I'd do something like this in my\nwildest dreams. Well, it's for her sake, so I\nguess there's no helping it."
+                "I never thought I'd do something like this in my wildest dreams. Well,\nit's for her sake, so I guess there's no helping it."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1542,7 +1544,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hey, you there. Instead of just standing around,\nhow about buying something?"
+                "Hey, you there. Instead of just standing around, how about buying\nsomething?"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -1593,7 +1595,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It looks like you're busy with work, so I'll\nrefrain from bothering you further."
+                "It looks like you're busy with work, so I'll refrain from bothering\nyou further."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

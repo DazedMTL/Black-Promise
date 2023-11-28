@@ -389,7 +389,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Come to think of it, there's been a strangely\nlackluster guy hanging around with my daughter\nlately. Do you happen to know anything about it?"
+                "Come to think of it, there's been a strangely lackluster guy hanging\naround with my daughter lately. Do you happen to know anything about\nit?"
               ]
             },
             {
@@ -489,7 +489,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hey, welcome. It looks like Margaret is working\nhard too."
+                "Hey, welcome. It looks like Margaret is working hard too."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
@@ -512,7 +512,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The shop can take a back seat. \\n[1], you've also\ngot a daughter to rely on."
+                "The shop can take a back seat. \\n[1], you've also got a daughter to\nrely on."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -527,7 +527,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Alright! That's the spirit of a man! I'm counting\non you."
+                "Alright! That's the spirit of a man! I'm counting on you."
               ]
             },
             { "code": 117, "indent": 0, "parameters": [10] },
@@ -537,7 +537,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you need anything, feel free to call out to me\nanytime."
+                "If you need anything, feel free to call out to me anytime."
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -620,7 +620,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Come to think of it, there's a strangely dull guy\nhanging around with my daughter lately. Do you\nhappen to know anything about it?"
+                "Come to think of it, there's a strangely dull guy hanging around with\nmy daughter lately. Do you happen to know anything about it?"
               ]
             },
             {
@@ -736,7 +736,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "If you need anything, feel free to call out to me\nanytime."
+                "If you need anything, feel free to call out to me anytime."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -970,7 +970,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\CLBy that time, I think I had become more sociable,\nthanks to someone."
+                "\\CLBy that time, I think I had become more sociable, thanks to someone."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -978,7 +978,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\CLHey, Margaret! Let's play together! Everyone is\nhere, so come on!"
+                "\\CLHey, Margaret! Let's play together! Everyone is here, so come on!"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },
@@ -987,7 +987,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\CLHowever, I still think there are parts of me that\nI'm not good at, deep down in my heart."
+                "\\CLHowever, I still think there are parts of me that I'm not good at,\ndeep down in my heart."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -995,13 +995,13 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\CLThere were times when I felt intimidated, and at\nthose times, someone was considerate of me..."
+                "\\CLThere were times when I felt intimidated, and at those times, someone\nwas considerate of me..."
               ]
             },
             {
               "code": 102,
               "indent": 0,
-              "parameters": [["It was \\n[1]", "It was Light"], 1, 0, 2, 0]
+              "parameters": [["It was [1]", "It was Light"], 1, 0, 2, 0]
             },
             { "code": 402, "indent": 0, "parameters": [0, "アイルだった"] },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -1013,7 +1013,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLSorry, but there are times when I want to take it\neasy, you know?"
+                "\\CLSorry, but there are times when I want to take it easy, you know?"
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
@@ -1021,7 +1021,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLIf you feel like it, come outside anytime. I'll be\nwaiting."
+                "\\CLIf you feel like it, come outside anytime. I'll be waiting."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -1036,7 +1036,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLDeep down in my heart, I always felt that being by\nhis side was comforting. I thought of him as my\nclosest confidant."
+                "\\CLDeep down in my heart, I always felt that being by his side was\ncomforting. I thought of him as my closest confidant."
               ]
             },
             { "code": 242, "indent": 1, "parameters": [5] },
@@ -1045,7 +1045,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLThere's no doubt that my days with him gradually\nchanged my heart..."
+                "\\CLThere's no doubt that my days with him gradually changed my heart..."
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -1069,7 +1069,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\n[1]... If she's feeling confused, I think it's\nbest for her to come when she wants to..."
+                "\\n[1]... If she's feeling confused, I think it's best for her to come\nwhen she wants to..."
               ]
             },
             { "code": 213, "indent": 1, "parameters": [7, 8, false] },
@@ -1081,7 +1081,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLBefore I knew it, the words of the boy Light, who\nwas always by his side, seemed cold at first\nglance, but were actually very comforting."
+                "\\CLBefore I knew it, the words of the boy Light, who was always by his\nside, seemed cold at first glance, but were actually very comforting."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
@@ -1089,7 +1089,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLI instinctively felt that we were probably similar\nat the core."
+                "\\CLI instinctively felt that we were probably similar at the core."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
@@ -1097,7 +1097,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLBecause I'm changing, I can't take my eyes off the\nold me, feeling like I'm looking at myself from\nthe past even more."
+                "\\CLBecause I'm changing, I can't take my eyes off the old me, feeling\nlike I'm looking at myself from the past even more."
               ]
             },
             { "code": 242, "indent": 1, "parameters": [5] },
@@ -1106,7 +1106,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLJust like \\n[1] did for me someday, I naturally\nstarted to think that I would help Light when\nsomething suited him..."
+                "\\CLJust like \\n[1] did for me someday, I naturally started to think that\nI would help Light when something suited him..."
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },

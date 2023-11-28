@@ -169,7 +169,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh \\n[1], thank you for always getting along with\nLira."
+                "Oh \\n[1], thank you for always getting along with Lira."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -220,7 +220,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n[1], thank you for always getting along with\nLira."
+                "\\n[1], thank you for always getting along with Lira."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -229,7 +229,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n[1], make sure not to cause Lira too much\ntrouble, okay?"
+                "\\n[1], make sure not to cause Lira too much trouble, okay?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 2, 0, 2] },
@@ -295,7 +295,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems like Lira hasn't been feeling well\nlately. Do you have any idea why?"
+                "It seems like Lira hasn't been feeling well lately. Do you have any\nidea why?"
               ]
             },
             {
@@ -331,7 +331,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Is that so? If \\n[1] says it, then there's no\nmistake."
+                "Is that so? If \\n[1] says it, then there's no mistake."
               ]
             },
             { "code": 121, "indent": 1, "parameters": [146, 146, 0] },
@@ -385,7 +385,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n[1], thank you for always getting along with\nLira."
+                "\\n[1], thank you for always getting along with Lira."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -432,14 +432,18 @@
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
-            { "code": 401, "indent": 0, "parameters": ["Oh, \\n[1], welcome."] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Oh, \\n[1], welcome."]
+            },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lately, that big, strong guy from the\nneighborhood... he and Lira are often together,\nyou know."
+                "Lately, that big, strong guy from the neighborhood... he and Lira are\noften together, you know."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -448,7 +452,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I shouldn't be telling \\n[1] things like 'I wonder\nif they've started dating'."
+                "I shouldn't be telling \\n[1] things like 'I wonder if they've started\ndating'."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -499,7 +503,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh \\n[1], thank you for always getting along with\nLira."
+                "Oh \\n[1], thank you for always getting along with Lira."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -508,7 +512,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n[1], you must not cause Lira too much trouble,\nokay?"
+                "\\n[1], you must not cause Lira too much trouble, okay?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 2, 0, 2] },
@@ -576,7 +580,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Being alone in the dwelling of demons... Please go\nand check on her, \\n[1]."
+                "Being alone in the dwelling of demons... Please go and check on her,\n\\n[1]."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -1109,7 +1113,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...You know, I've been feeling some strange\nglances lately."
+                "...You know, I've been feeling some strange glances lately."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin1 2", 1, 0, 2] },
@@ -1118,7 +1122,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Um... It's just my imagination that someone's been\ngiving me lewd looks, right? Sorry! Forget I said\nanything!"
+                "Um... It's just my imagination that someone's been giving me lewd\nlooks, right? Sorry! Forget I said anything!"
               ]
             },
             { "code": 213, "indent": 1, "parameters": [0, 11, false] },
@@ -1147,7 +1151,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It's time to clean up after breakfast. I always do\nit."
+                "It's time to clean up after breakfast. I always do it."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 0, 0, 2] },
@@ -1190,7 +1194,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I haven't thought about things like getting\nmarried yet."
+                "I haven't thought about things like getting married yet."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 5, 0, 2] },
@@ -1199,7 +1203,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I mean, even I have a little bit of longing for\nthat."
+                "I mean, even I have a little bit of longing for that."
               ]
             },
             { "code": 121, "indent": 1, "parameters": [93, 93, 0] },
@@ -1719,7 +1723,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lira's cooking is delicious! It's so good that I\nwant her to become my wife."
+                "Lira's cooking is delicious! It's so good that I want her to become my\nwife."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1732,7 +1736,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n[1], what do you think? I'm just kidding, don't\nmake that face."
+                "\\n[1], what do you think? I'm just kidding, don't make that face."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -1745,7 +1749,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's because you, \\n[1], are spacing out, that I\ncan almost make Lira mine."
+                "It's because you, \\n[1], are spacing out, that I can almost make Lira\nmine."
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -1976,7 +1980,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh, \\n[1] is here. It seems like onii-san wants to\neat something."
+                "Oh, \\n[1] is here. It seems like onii-san wants to eat something."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
@@ -1985,7 +1989,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I asked if there was something that gave me the\nimpression that we've been together a lot lately.\nWas there something going on?"
+                "I asked if there was something that gave me the impression that we've\nbeen together a lot lately. Was there something going on?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [14, 11, false] },
@@ -1995,7 +1999,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well, it's not a big deal, but I'm helping onii-\nsan with something that only I can do..."
+                "Well, it's not a big deal, but I'm helping onii- san with something\nthat only I can do..."
               ]
             },
             {
@@ -2026,7 +2030,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well, saying it's not a big deal like that isn't\nthe right way to put it, isn't it?"
+                "Well, saying it's not a big deal like that isn't the right way to put\nit, isn't it?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [13, 4, false] },
@@ -2040,7 +2044,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thanks to Lira, my body is in good shape, you\nknow? If you want, go ahead and touch it."
+                "Thanks to Lira, my body is in good shape, you know? If you want, go\nahead and touch it."
               ]
             },
             {
@@ -2067,7 +2071,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'll stop in front of \\n[1] and help you again\nlater, is that okay?"
+                "I'll stop in front of \\n[1] and help you again later, is that okay?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2080,7 +2084,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you say something like that, I'll become even\nmore energetic. Don't be stingy about doing it\nlater, let's do it now, okay?"
+                "If you say something like that, I'll become even more energetic. Don't\nbe stingy about doing it later, let's do it now, okay?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 3, 0, 2] },
@@ -2089,7 +2093,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you say anything more, I'll seriously get\nangry... I'm sorry, \\n[1]. Call out to me when we\ngo exploring again."
+                "If you say anything more, I'll seriously get angry... I'm sorry,\n\\n[1]. Call out to me when we go exploring again."
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -2143,7 +2147,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "There's no point in getting angry, I have to do\nwhat I can..."
+                "There's no point in getting angry, I have to do what I can..."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2458,7 +2462,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Oh \\n[1], welcome. By the way, it seems like Lira\nhas been doing well lately."
+                "Oh \\n[1], welcome. By the way, it seems like Lira has been doing well\nlately."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2466,7 +2470,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["I'm sure \\n[1] did something for her, thank you."]
+              "parameters": [
+                "I'm sure \\n[1] did something for her, thank you."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Lira's mother】"] },
@@ -2474,7 +2480,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Personally, I wish I could make Lira my daughter-\nin-law, but I shouldn't meddle too much."
+                "Personally, I wish I could make Lira my daughter- in-law, but I\nshouldn't meddle too much."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [4, 3, 0] },
@@ -2585,7 +2591,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I never thought those two would end up together,\nbut if it makes Lira happy, then that's fine..."
+                "I never thought those two would end up together, but if it makes Lira\nhappy, then that's fine..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -2594,7 +2600,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Please continue to get along well with Lira from\nnow on."
+                "Please continue to get along well with Lira from now on."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -2667,7 +2673,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thank you for the other day, \\n[1]. I couldn't help\nbut think again that you're really cool...ehehe"
+                "Thank you for the other day, \\n[1]. I couldn't help but think again\nthat you're really cool...ehehe"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
@@ -2676,7 +2682,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "From now on, let's not push ourselves and consult\nwith \\n[1] properly, okay?"
+                "From now on, let's not push ourselves and consult with \\n[1] properly,\nokay?"
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },

@@ -609,7 +609,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems that Margaret has also fallen to where I\nam."
+                "It seems that Margaret has also fallen to where I am."
               ]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -627,7 +627,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n[1], did you fall down here too? ...Haha, what a\nclumsy person."
+                "\\n[1], did you fall down here too? ...Haha, what a clumsy person."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -660,7 +660,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But I managed to find some clues while looking\naround."
+                "But I managed to find some clues while looking around."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 3, 1, 2] },
@@ -691,7 +691,11 @@
             },
             { "code": 101, "indent": 0, "parameters": ["", 2, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
-            { "code": 401, "indent": 0, "parameters": ["...\\n[1], I'm sorry."] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["...\\n[1], I'm sorry."]
+            },
             {
               "code": 250,
               "indent": 0,
@@ -705,7 +709,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ah... It seems that I have inadvertently pinned\nMargaret down."
+                "Ah... It seems that I have inadvertently pinned Margaret down."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -713,7 +717,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I apologize and put strength into my arms to stand\nup."
+                "I apologize and put strength into my arms to stand up."
               ]
             },
             {
@@ -728,7 +732,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Somehow, the touch of this ground feels like a\nfreshly laid sheet."
+                "Somehow, the touch of this ground feels like a freshly laid sheet."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -736,7 +740,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Somehow, it feels so good that I unintentionally\ncheck the sensation."
+                "Somehow, it feels so good that I unintentionally check the sensation."
               ]
             },
             { "code": 235, "indent": 0, "parameters": [3] },
@@ -757,7 +761,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Somehow, Margaret's breathing has\nbecome rough. I wonder what's going on."
+                "Somehow, Margaret's breathing has become rough. I wonder what's going\non."
               ]
             },
             {
@@ -885,7 +889,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Even though I didn't realize, I did something\nterrible."
+                "Even though I didn't realize, I did something terrible."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -904,7 +908,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "My heart is not free. I expect sincerity from now\non."
+                "My heart is not free. I expect sincerity from now on."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 11, false] },

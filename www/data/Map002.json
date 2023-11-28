@@ -228,7 +228,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You're not tired yet, let's keep pushing a little\nlonger."
+                "You're not tired yet, let's keep pushing a little longer."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -804,7 +804,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems like Light has collapsed, so right now\nhe's at the village chief's house!"
+                "It seems like Light has collapsed, so right now he's at the village\nchief's house!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
@@ -821,7 +821,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He nodded without hesitation and immediately\nheaded to the village chief's house."
+                "He nodded without hesitation and immediately headed to the village\nchief's house."
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -929,7 +929,11 @@
           "list": [
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
-            { "code": 401, "indent": 0, "parameters": ["Good morning! \\n[1]!"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Good morning! \\n[1]!"]
+            },
             { "code": 121, "indent": 0, "parameters": [37, 37, 0] },
             { "code": 222, "indent": 0, "parameters": [] },
             {
@@ -943,7 +947,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "How are you feeling? Have you recovered from\nfatigue? Let's go explore with full energy today!"
+                "How are you feeling? Have you recovered from fatigue? Let's go explore\nwith full energy today!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
@@ -952,7 +956,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I want to say that, but first, should we go check\non Light's condition? He's probably still at the\nvillage chief's house, right?"
+                "I want to say that, but first, should we go check on Light's\ncondition? He's probably still at the village chief's house, right?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
@@ -1230,7 +1234,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Here, you can freely change the name of the male\ngenitalia."
+                "Here, you can freely change the name of the male genitalia."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -1238,7 +1242,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Will it be changed? The current setting is\n\\c[2]dick\\c[0]."
+                "Will it be changed? The current setting is \\c[2]dick\\c[0]."
               ]
             },
             {
@@ -1319,14 +1323,18 @@
             { "code": 222, "indent": 0, "parameters": [] },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
-            { "code": 401, "indent": 0, "parameters": ["Good morning, \\n[1]"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["Good morning, \\n[1]"]
+            },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Margaret】"] },
             {
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I just met Lira in front of the house. It seems\nlike we're going to the village chief's house."
+                "I just met Lira in front of the house. It seems like we're going to\nthe village chief's house."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 1, 0, 2] },
@@ -1611,7 +1619,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Here, you can freely change the size of the male\ngenitalia."
+                "Here, you can freely change the size of the male genitalia."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 379, 0] },

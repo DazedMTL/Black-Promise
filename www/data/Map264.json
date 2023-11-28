@@ -248,7 +248,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You can recover here, so please make use of it for\ndungeon conquest."
+                "You can recover here, so please make use of it for dungeon conquest."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
@@ -580,7 +580,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1] came, ehehe, it's been a while, hasn't it?"]
+              "parameters": [
+                "\\n[1] came, ehehe, it's been a while, hasn't it?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 5, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
@@ -588,7 +590,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Recently, my belly has gotten bigger so I can't go\nout as much... I'm happy, but it's a little tough."
+                "Recently, my belly has gotten bigger so I can't go out as much... I'm\nhappy, but it's a little tough."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
@@ -597,7 +599,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When I give birth, I plan to return to the\nvillage, so please take care of things then."
+                "When I give birth, I plan to return to the village, so please take\ncare of things then."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
@@ -606,7 +608,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I know! Since you're here, I'll make some food for\nyou! If you'd like, please eat it!"
+                "I know! Since you're here, I'll make some food for you! If you'd like,\nplease eat it!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -614,7 +616,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It looks like the sun is about to set, so I'll\ntake you up on your offer and stay the night."
+                "It looks like the sun is about to set, so I'll take you up on your\noffer and stay the night."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 6, 0, 2] },
@@ -623,7 +625,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Yeah, yeah! That sounds good! I'm feeling happy\nfor some reason."
+                "Yeah, yeah! That sounds good! I'm feeling happy for some reason."
               ]
             },
             { "code": 235, "indent": 0, "parameters": [1] },
@@ -735,7 +737,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The barrier is set up, so we can't seem to get\ninside without doing something about it..."
+                "The barrier is set up, so we can't seem to get inside without doing\nsomething about it..."
               ]
             },
             { "code": 111, "indent": 0, "parameters": [0, 488, 0] },
@@ -744,7 +746,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "From beyond the barrier, the sound of something\ncolliding violently and a woman's voice can be\nheard."
+                "From beyond the barrier, the sound of something colliding violently\nand a woman's voice can be heard."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -811,7 +813,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Came to see Lira-san? Um, maybe it's better to\nstop for now..."
+                "Came to see Lira-san? Um, maybe it's better to stop for now..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -820,7 +822,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Okusuke's condition is worsening, and, um, that's\nwhy... it might be better to come back later."
+                "Okusuke's condition is worsening, and, um, that's why... it might be\nbetter to come back later."
               ]
             },
             {
@@ -1084,7 +1086,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\n[1], it's good to see you. Lira will be happy\ntoo."
+                "\\n[1], it's good to see you. Lira will be happy too."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -1859,7 +1861,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Lira-chan is cute, isn't she? I wonder if I should\nalso marry a human girl."
+                "Lira-chan is cute, isn't she? I wonder if I should also marry a human\ngirl."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

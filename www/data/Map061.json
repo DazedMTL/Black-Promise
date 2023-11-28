@@ -979,7 +979,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You can recover here, so please make use of it for\ndungeon conquest."
+                "You can recover here, so please make use of it for dungeon conquest."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
@@ -1250,7 +1250,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's true... I wonder what it is? Shall we take a\nlook?"
+                "It's true... I wonder what it is? Shall we take a look?"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1375,7 +1375,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems like something is embedded in the stone\nslab. Let's pick it up with a little caution."
+                "It seems like something is embedded in the stone slab. Let's pick it\nup with a little caution."
               ]
             },
             { "code": 126, "indent": 0, "parameters": [33, 0, 0, 1] },
@@ -1384,14 +1384,18 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can't quite put it into words, but there's a\nstrong power flowing in."
+                "I can't quite put it into words, but there's a strong power flowing\nin."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Light】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1], are you okay?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[1], are you okay?"]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -1415,7 +1419,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems like there's no problem, so I\nwas about to tell you..."
+                "It seems like there's no problem, so I was about to tell you..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -1477,7 +1481,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Doesn't seem like there's anything in particular,\nhuh?"
+                "Doesn't seem like there's anything in particular, huh?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 11, true] },
@@ -1487,7 +1491,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Really!? Is it really true!? ...Phew, thank\ngoodness."
+                "Really!? Is it really true!? ...Phew, thank goodness."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
@@ -1496,7 +1500,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "However, I can feel some kind of power from that\nbracelet."
+                "However, I can feel some kind of power from that bracelet."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
@@ -1505,7 +1509,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Should we bring it back just in case it might be a\nclue to lift the curse?"
+                "Should we bring it back just in case it might be a clue to lift the\ncurse?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
@@ -1515,7 +1519,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Also, if possible, could \\n[1] hold onto it? I'm a\nlittle uneasy about it being with me..."
+                "Also, if possible, could \\n[1] hold onto it? I'm a little uneasy about\nit being with me..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -1523,7 +1527,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I agreed with that opinion and decided to take\ncare of the black bracelet."
+                "I agreed with that opinion and decided to take care of the black\nbracelet."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
@@ -1533,7 +1537,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Anyway, I guess this means we've made a little\nprogress, right?"
+                "Anyway, I guess this means we've made a little progress, right?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
@@ -1542,7 +1546,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The sun is starting to set soon, so should we head\nback around here for today?"
+                "The sun is starting to set soon, so should we head back around here\nfor today?"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1676,7 +1680,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's true... I wonder what it is? Shall we take a\nlook?"
+                "It's true... I wonder what it is? Shall we take a look?"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -1801,7 +1805,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems like something is embedded in the stone\ntablet. Let's take it with caution and see what it\nis."
+                "It seems like something is embedded in the stone tablet. Let's take it\nwith caution and see what it is."
               ]
             },
             { "code": 126, "indent": 0, "parameters": [33, 0, 0, 1] },
@@ -1810,14 +1814,18 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can't quite put it into words, but there's a\nstrong power flowing in."
+                "I can't quite put it into words, but there's a strong power flowing\nin."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Light】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1], are you okay?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[1], are you okay?"]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -1909,7 +1917,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Is that so? It didn't look like everything was\nokay though..."
+                "Is that so? It didn't look like everything was okay though..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
@@ -1918,7 +1926,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's true... It doesn't seem like an ordinary\nbracelet. I can feel some sort of power."
+                "It's true... It doesn't seem like an ordinary bracelet. I can feel\nsome sort of power."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
@@ -1927,7 +1935,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Should we bring it back just in case it might be a\nclue to lift the curse?"
+                "Should we bring it back just in case it might be a clue to lift the\ncurse?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
@@ -1937,7 +1945,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Also, if possible, could \\n[1] hold onto it? I'm a\nlittle uneasy about having it myself..."
+                "Also, if possible, could \\n[1] hold onto it? I'm a little uneasy about\nhaving it myself..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -1945,7 +1953,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I agreed with that opinion and decided to take\ncare of the black bracelet."
+                "I agreed with that opinion and decided to take care of the black\nbracelet."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
@@ -2096,7 +2104,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's true.. I wonder what it is? Shall we take a\nlook?"
+                "It's true.. I wonder what it is? Shall we take a look?"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -2221,7 +2229,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems like something is embedded in the stone\nslab. Let's pick it up with a little caution."
+                "It seems like something is embedded in the stone slab. Let's pick it\nup with a little caution."
               ]
             },
             { "code": 126, "indent": 0, "parameters": [33, 0, 0, 1] },
@@ -2230,14 +2238,18 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can't quite put it into words, but there's a\nstrong power flowing in."
+                "I can't quite put it into words, but there's a strong power flowing\nin."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Light】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1], are you okay?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[1], are you okay?"]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -2261,7 +2273,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As if to convey that there seems to be no\nproblem..."
+                "As if to convey that there seems to be no problem..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -2340,7 +2352,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "However, I can feel some kind of power from that\nbracelet."
+                "However, I can feel some kind of power from that bracelet."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
@@ -2349,7 +2361,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Maybe it could be a clue to lift the curse. Should\nwe bring it back just in case?"
+                "Maybe it could be a clue to lift the curse. Should we bring it back\njust in case?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
@@ -2359,7 +2371,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Also, if possible, could \\n[1] hold onto it? I'm a\nlittle uneasy about having it myself..."
+                "Also, if possible, could \\n[1] hold onto it? I'm a little uneasy about\nhaving it myself..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -2367,7 +2379,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I agreed with that opinion and decided to take\ncare of the black bracelet."
+                "I agreed with that opinion and decided to take care of the black\nbracelet."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
@@ -2377,7 +2389,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "We can handle something like this! Let's keep\ngoing like this!"
+                "We can handle something like this! Let's keep going like this!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
@@ -2386,7 +2398,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well, we did have some gains today, so let's head\nback to the village for now!"
+                "Well, we did have some gains today, so let's head back to the village\nfor now!"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -2499,7 +2511,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When I looked in the direction Light indicated, I\ncould see something shining."
+                "When I looked in the direction Light indicated, I could see something\nshining."
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -2624,7 +2636,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems like something is embedded in the stone\nslab. I cautiously pick it up, while being a\nlittle wary."
+                "It seems like something is embedded in the stone slab. I cautiously\npick it up, while being a little wary."
               ]
             },
             { "code": 126, "indent": 0, "parameters": [33, 0, 0, 1] },
@@ -2633,14 +2645,18 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can't quite put it into words, but there's a\nstrong power flowing into me."
+                "I can't quite put it into words, but there's a strong power flowing\ninto me."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Light】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1], are you okay?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[1], are you okay?"]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -2664,7 +2680,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I was about to say that it seems like there's no\nproblem..."
+                "I was about to say that it seems like there's no problem..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -2707,7 +2723,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Doesn't seem like there's anything in particular,\nhuh?"
+                "Doesn't seem like there's anything in particular, huh?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -2716,7 +2732,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I'll triple check to make sure everything is\nreally okay."
+                "I'll triple check to make sure everything is really okay."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
@@ -2725,7 +2741,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Yeah, I was a little surprised... but I feel some\nkind of power coming from that bracelet."
+                "Yeah, I was a little surprised... but I feel some kind of power coming\nfrom that bracelet."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
@@ -2734,7 +2750,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Should we bring it back just in case it might be a\nclue to lift the curse?"
+                "Should we bring it back just in case it might be a clue to lift the\ncurse?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
@@ -2744,7 +2760,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Also, if possible, could \\n[1] hold onto it? I'm a\nlittle uneasy about having it myself..."
+                "Also, if possible, could \\n[1] hold onto it? I'm a little uneasy about\nhaving it myself..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -2752,7 +2768,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I agreed with that opinion and decided to take\ncare of the black bracelet."
+                "I agreed with that opinion and decided to take care of the black\nbracelet."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -2761,7 +2777,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Considering the black haze from earlier, I suggest\nwe play it safe and return to the village today."
+                "Considering the black haze from earlier, I suggest we play it safe and\nreturn to the village today."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
@@ -2770,7 +2786,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Yeah, it's getting dark, so let's call it a day\naround here."
+                "Yeah, it's getting dark, so let's call it a day around here."
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -3227,7 +3243,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's true... I wonder what it is. Shall we take a\nlook?"
+                "It's true... I wonder what it is. Shall we take a look?"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -3352,7 +3368,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems like something is embedded in the stone\nslab. I cautiously pick it up to take a look."
+                "It seems like something is embedded in the stone slab. I cautiously\npick it up to take a look."
               ]
             },
             { "code": 126, "indent": 0, "parameters": [33, 0, 0, 1] },
@@ -3361,14 +3377,18 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can't quite put it into words, but I feel a\nstrong power flowing in."
+                "I can't quite put it into words, but I feel a strong power flowing in."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Light】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1], are you okay?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[1], are you okay?"]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -3392,7 +3412,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As if to convey that there doesn't seem to be a\nproblem..."
+                "As if to convey that there doesn't seem to be a problem..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -3425,7 +3445,11 @@
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 4, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Lira】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1], are you okay?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[1], are you okay?"]
+            },
             { "code": 213, "indent": 0, "parameters": [9, 8, true] },
             {
               "code": 205,
@@ -3462,7 +3486,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Really!? Is it really true!? ...Phew, thank\ngoodness."
+                "Really!? Is it really true!? ...Phew, thank goodness."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
@@ -3480,7 +3504,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Maybe it could be a clue to lift the curse. Should\nwe bring it back just in case?"
+                "Maybe it could be a clue to lift the curse. Should we bring it back\njust in case?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
@@ -3490,7 +3514,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Also, if possible, could \\n[1] hold onto it? I'm a\nlittle uneasy about having it myself..."
+                "Also, if possible, could \\n[1] hold onto it? I'm a little uneasy about\nhaving it myself..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -3498,7 +3522,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I agreed with that opinion and decided to take\ncare of the black bracelet."
+                "I agreed with that opinion and decided to take care of the black\nbracelet."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
@@ -3508,7 +3532,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Anyway, I guess this is a little bit of progress,\nhuh?"
+                "Anyway, I guess this is a little bit of progress, huh?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin1", 0, 0, 2] },
@@ -3517,7 +3541,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The sun is starting to set soon, so should we head\nback around here for today?"
+                "The sun is starting to set soon, so should we head back around here\nfor today?"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -3651,7 +3675,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's true... I wonder what it is? Shall we take a\nlook?"
+                "It's true... I wonder what it is? Shall we take a look?"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -3776,7 +3800,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems like something is embedded in the stone\ntablet. Let's take it with caution and see what it\nis."
+                "It seems like something is embedded in the stone tablet. Let's take it\nwith caution and see what it is."
               ]
             },
             { "code": 126, "indent": 0, "parameters": [33, 0, 0, 1] },
@@ -3785,14 +3809,18 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can't quite put it into words, but there's a\nstrong power flowing in."
+                "I can't quite put it into words, but there's a strong power flowing\nin."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Light】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1], are you okay?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[1], are you okay?"]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -3816,7 +3844,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems like there's no problem, so I\nwas about to tell you..."
+                "It seems like there's no problem, so I was about to tell you..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -3878,7 +3906,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Doesn't seem like there's anything in particular,\nhuh?"
+                "Doesn't seem like there's anything in particular, huh?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 7, true] },
@@ -3888,7 +3916,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Is that so? It didn't seem like he was okay\nthough..."
+                "Is that so? It didn't seem like he was okay though..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
@@ -3897,7 +3925,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's true... It doesn't seem like an ordinary\nbracelet. I can feel some sort of power in it."
+                "It's true... It doesn't seem like an ordinary bracelet. I can feel\nsome sort of power in it."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
@@ -3906,7 +3934,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Should we bring it back just in case it might be a\nclue to lift the curse?"
+                "Should we bring it back just in case it might be a clue to lift the\ncurse?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
@@ -3916,7 +3944,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Also, if possible, could \\n[1] hold onto it? I'm a\nlittle uneasy about having it myself..."
+                "Also, if possible, could \\n[1] hold onto it? I'm a little uneasy about\nhaving it myself..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -3924,7 +3952,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I agreed with that opinion and decided to take\ncare of the black bracelet."
+                "I agreed with that opinion and decided to take care of the black\nbracelet."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
@@ -4075,7 +4103,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's true.. I wonder what it is? Shall we take a\nlook?"
+                "It's true.. I wonder what it is? Shall we take a look?"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -4200,7 +4228,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems like something is embedded in the stone\nslab. Let's pick it up with a little caution."
+                "It seems like something is embedded in the stone slab. Let's pick it\nup with a little caution."
               ]
             },
             { "code": 126, "indent": 0, "parameters": [33, 0, 0, 1] },
@@ -4209,14 +4237,18 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can't quite put it into words, but there's a\nstrong power flowing in."
+                "I can't quite put it into words, but there's a strong power flowing\nin."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Light】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1], are you okay?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[1], are you okay?"]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -4240,7 +4272,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "As if to convey that there doesn't seem to be a\nproblem..."
+                "As if to convey that there doesn't seem to be a problem..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -4317,7 +4349,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "But, I can feel some kind of power from that\nbracelet, you know?"
+                "But, I can feel some kind of power from that bracelet, you know?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
@@ -4326,7 +4358,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Maybe it could be a clue to lift the curse. Should\nwe bring it back just in case?"
+                "Maybe it could be a clue to lift the curse. Should we bring it back\njust in case?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
@@ -4336,7 +4368,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Also, if possible, could \\n[1] hold onto it? I'm a\nlittle uneasy about having it myself..."
+                "Also, if possible, could \\n[1] hold onto it? I'm a little uneasy about\nhaving it myself..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -4344,7 +4376,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I agreed with that opinion and decided to take\ncare of the black bracelet."
+                "I agreed with that opinion and decided to take care of the black\nbracelet."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [10, 8, true] },
@@ -4354,7 +4386,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If it's us, this should be a piece of cake! Let's\nkeep going like this!"
+                "If it's us, this should be a piece of cake! Let's keep going like\nthis!"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 3, 0, 2] },
@@ -4363,7 +4395,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Well, we did have some gains today, so let's head\nback to the village for now!"
+                "Well, we did have some gains today, so let's head back to the village\nfor now!"
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -4476,7 +4508,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "When I look in the direction Light indicated, I\ncan see something shining."
+                "When I look in the direction Light indicated, I can see something\nshining."
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },
@@ -4601,7 +4633,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems like something is embedded in the stone\nslab. I cautiously pick it up, keeping a little\nbit of vigilance."
+                "It seems like something is embedded in the stone slab. I cautiously\npick it up, keeping a little bit of vigilance."
               ]
             },
             { "code": 126, "indent": 0, "parameters": [33, 0, 0, 1] },
@@ -4610,14 +4642,18 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I can't quite put it into words, but there's a\nstrong power flowing in."
+                "I can't quite put it into words, but there's a strong power flowing\nin."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [111, 111, 0] },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Light】"] },
-            { "code": 401, "indent": 0, "parameters": ["\\n[1], are you okay?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["\\n[1], are you okay?"]
+            },
             {
               "code": 205,
               "indent": 0,
@@ -4641,7 +4677,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I was about to say that there doesn't seem to be a\nproblem..."
+                "I was about to say that there doesn't seem to be a problem..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -4684,7 +4720,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Doesn't seem like there's anything in particular,\nhuh?"
+                "Doesn't seem like there's anything in particular, huh?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -4700,7 +4736,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Yeah, I was a little surprised, but... I feel some\nkind of power coming from that bracelet."
+                "Yeah, I was a little surprised, but... I feel some kind of power\ncoming from that bracelet."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
@@ -4709,7 +4745,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Should we bring it back just in case it might be a\nclue to lift the curse?"
+                "Should we bring it back just in case it might be a clue to lift the\ncurse?"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [9, 8, false] },
@@ -4719,7 +4755,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Also, if possible, could \\n[1] hold onto it? I'm a\nlittle uneasy about it being with me..."
+                "Also, if possible, could \\n[1] hold onto it? I'm a little uneasy about\nit being with me..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -4727,7 +4763,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I agreed with that opinion and decided to take\ncare of the black bracelet."
+                "I agreed with that opinion and decided to take care of the black\nbracelet."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
@@ -4736,7 +4772,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Considering the recent black haze incident, I\nsuggest we play it safe and return to the village\ntoday."
+                "Considering the recent black haze incident, I suggest we play it safe\nand return to the village today."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
@@ -4745,7 +4781,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Yeah, it's getting dark, so let's call it a day\naround here."
+                "Yeah, it's getting dark, so let's call it a day around here."
               ]
             },
             { "code": 221, "indent": 0, "parameters": [] },

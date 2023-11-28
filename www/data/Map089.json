@@ -384,7 +384,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "...Before returning, let's give the village chief\nthe medicinal herbs."
+                "...Before returning, let's give the village chief the medicinal herbs."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -718,7 +718,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's most important that you're safe. You should\ntake it easy and rest today."
+                "It's most important that you're safe. You should take it easy and rest\ntoday."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -765,7 +765,11 @@
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
-            { "code": 401, "indent": 0, "parameters": ["What's wrong, \\n[1]?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["What's wrong, \\n[1]?"]
+            },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
@@ -773,7 +777,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What's wrong, Azami? Ah, I woke up a little while\nago and checked on Light's condition."
+                "What's wrong, Azami? Ah, I woke up a little while ago and checked on\nLight's condition."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -811,7 +815,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Even if something happened, they have always been\nclose since long ago."
+                "Even if something happened, they have always been close since long\nago."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -826,7 +830,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...That's right, I don't have the right to\ninterrupt."
+                "...That's right, I don't have the right to interrupt."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -868,7 +872,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I will give this herb to him later. \\n[1], you\nshould rest now."
+                "I will give this herb to him later. \\n[1], you should rest now."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -877,7 +881,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thank you for everything, \\n[1]. I'm counting on\nyou."
+                "Thank you for everything, \\n[1]. I'm counting on you."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [74, 74, 0] },
@@ -1085,7 +1089,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\CLI was dreaming, and in that dream, I could hear\nsomeone's voice."
+                "\\CLI was dreaming, and in that dream, I could hear someone's voice."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [5, 3, false] },
@@ -1095,7 +1099,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Welcome, scholar-sama. We have been eagerly\nawaiting your arrival."
+                "Welcome, scholar-sama. We have been eagerly awaiting your arrival."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [6, 6, false] },
@@ -1112,7 +1116,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Investigating ruins like this is somewhat of a\nhobby for me"
+                "Investigating ruins like this is somewhat of a hobby for me"
               ]
             },
             { "code": 213, "indent": 0, "parameters": [5, 2, false] },
@@ -1122,7 +1126,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "No, no, please don't be so modest... Are you the\nscholar's son?"
+                "No, no, please don't be so modest... Are you the scholar's son?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -1131,7 +1135,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Yes, that's right. Normally, I don't accompany the\ninvestigation, but this time I was forcefully\ndragged along."
+                "Yes, that's right. Normally, I don't accompany the investigation, but\nthis time I was forcefully dragged along."
               ]
             },
             {
@@ -1158,7 +1162,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I think it will be a valuable experience... Come\non, \\n[1], say hello."
+                "I think it will be a valuable experience... Come on, \\n[1], say hello."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [7, 8, false] },

@@ -384,7 +384,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "...Before returning, let's give the village chief\nthe medicinal herbs."
+                "...Before returning, let's give the village chief the medicinal herbs."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -718,7 +718,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thank goodness you're safe. You should take it\neasy and rest today."
+                "Thank goodness you're safe. You should take it easy and rest today."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -765,7 +765,11 @@
           "list": [
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
-            { "code": 401, "indent": 0, "parameters": ["What's wrong, \\n[1]?"] },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": ["What's wrong, \\n[1]?"]
+            },
             { "code": 213, "indent": 0, "parameters": [-1, 8, true] },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Village Chief】"] },
@@ -773,7 +777,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "What's wrong, Azami? Ah, I woke up a little while\nago and checked on Light's condition."
+                "What's wrong, Azami? Ah, I woke up a little while ago and checked on\nLight's condition."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -782,7 +786,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "He looked much better than this morning, didn't\nhe?"
+                "He looked much better than this morning, didn't he?"
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -813,7 +817,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Even if something happened, they have been close\nsince old times, so..."
+                "Even if something happened, they have been close since old times,\nso..."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -828,7 +832,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...That's right, I don't have the right to\ninterrupt."
+                "...That's right, I don't have the right to interrupt."
               ]
             },
             { "code": 0, "indent": 1, "parameters": [] },
@@ -855,7 +859,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I handed the village chief the medicinal herbs I\nbrought."
+                "I handed the village chief the medicinal herbs I brought."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [0, 1, true] },
@@ -872,7 +876,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I will give this medicinal herb to him later.\n\\n[1], you should rest now."
+                "I will give this medicinal herb to him later. \\n[1], you should rest\nnow."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -881,7 +885,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Thank you for everything, \\n[1]. I'm counting on\nyou."
+                "Thank you for everything, \\n[1]. I'm counting on you."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [74, 74, 0] },

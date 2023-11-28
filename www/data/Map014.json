@@ -175,7 +175,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Hey, hey, don't just boldly open it in front of\nme."
+                "Hey, hey, don't just boldly open it in front of me."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 0, 0, 2] },
@@ -184,7 +184,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It's not like there's anything I'd be troubled by\nif \\n[1] saw it."
+                "It's not like there's anything I'd be troubled by if \\n[1] saw it."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
@@ -410,7 +410,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["Good evening, \\n[1]. It's a nice night, isn't it?"]
+              "parameters": [
+                "Good evening, \\n[1]. It's a nice night, isn't it?"
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["sinn", 1, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Light】"] },
@@ -454,7 +456,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I'll tell you if I feel like it, so don't worry\nabout it."
+                "I'll tell you if I feel like it, so don't worry about it."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["sinn", 0, 0, 2] },
@@ -475,7 +477,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Ugh... I don't think it's fun to touch me that\nmuch."
+                "Ugh... I don't think it's fun to touch me that much."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
@@ -545,7 +547,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If you stay up too late, you won't be able to wake\nup tomorrow morning. Good night."
+                "If you stay up too late, you won't be able to wake up tomorrow\nmorning. Good night."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

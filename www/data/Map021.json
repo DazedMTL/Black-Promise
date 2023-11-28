@@ -226,7 +226,9 @@
             {
               "code": 401,
               "indent": 0,
-              "parameters": ["\\n[1], hello. The children wanted to play again."]
+              "parameters": [
+                "\\n[1], hello. The children wanted to play again."
+              ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
             { "code": 401, "indent": 0, "parameters": ["【Twin Mother】"] },
@@ -234,7 +236,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You're so good at taking care of them, that's why\nthey've gotten so attached to you."
+                "You're so good at taking care of them, that's why they've gotten so\nattached to you."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }

@@ -331,7 +331,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\CLOne day, a change occurred in our daily lives when\n\\n[1] brought a boy with him."
+                "\\CLOne day, a change occurred in our daily lives when \\n[1] brought a boy\nwith him."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -339,7 +339,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\CLI was extremely wary because other than \\n[1], I\nonly had contact with two other people..."
+                "\\CLI was extremely wary because other than \\n[1], I only had contact with\ntwo other people..."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 1] },
@@ -347,7 +347,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "\\CLDon't be so scared, it's okay. This guy's name is\nLight. Please get along with him."
+                "\\CLDon't be so scared, it's okay. This guy's name is Light. Please get\nalong with him."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 0, 2] },
@@ -360,13 +360,7 @@
             {
               "code": 102,
               "indent": 0,
-              "parameters": [
-                ["Ask \\n[1] for help", "Stare at Light"],
-                1,
-                0,
-                2,
-                0
-              ]
+              "parameters": [["Ask [1] for help", "Stare at Light"], 1, 0, 2, 0]
             },
             {
               "code": 402,
@@ -382,7 +376,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLAt that time, I only saw Light as a nuisance, but\nas we met several times after that, I came to\nunderstand that it was a misunderstanding."
+                "\\CLAt that time, I only saw Light as a nuisance, but as we met several\ntimes after that, I came to understand that it was a misunderstanding."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 1] },
@@ -390,7 +384,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLLight had various things happen to him, and just\nlike me, he was helped by \\n[1]."
+                "\\CLLight had various things happen to him, and just like me, he was\nhelped by \\n[1]."
               ]
             },
             { "code": 242, "indent": 1, "parameters": [5] },
@@ -399,7 +393,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLI thought that I could continue to get along with\nhim a little bit from now on..."
+                "\\CLI thought that I could continue to get along with him a little bit\nfrom now on..."
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -429,7 +423,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLHis dark eyes, devoid of any light, were similar\nto me on the day I lost everything, and it made my\nheart feel tight."
+                "\\CLHis dark eyes, devoid of any light, were similar to me on the day I\nlost everything, and it made my heart feel tight."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["", 0, 0, 2] },
@@ -444,7 +438,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLI actually wanted to have \\n[1] all to myself, but\nI no longer felt that way."
+                "\\CLI actually wanted to have \\n[1] all to myself, but I no longer felt\nthat way."
               ]
             },
             { "code": 242, "indent": 1, "parameters": [5] },
@@ -453,7 +447,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "\\CLSurely, it will be a long relationship from now\non. As a senior, I didn't mind taking a step\ntowards him..."
+                "\\CLSurely, it will be a long relationship from now on. As a senior, I\ndidn't mind taking a step towards him..."
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },

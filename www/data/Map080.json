@@ -931,7 +931,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "You can recover here, so please make use of it for\ndungeon conquest."
+                "You can recover here, so please make use of it for dungeon conquest."
               ]
             },
             { "code": 121, "indent": 0, "parameters": [82, 82, 0] },
@@ -1583,7 +1583,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "A special event \\c[0]will occur\\c[2] in this area,\nso please be careful as \\c[0]quick judgment\\c[2]\nis required."
+                "A special event \\c[0]will occur\\c[2] in this area, so please be\ncareful as \\c[0]quick judgment\\c[2] is required."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -1591,7 +1591,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Depending on the outcome of the event, the\nrelationship with the \\c[2]heroine\\c[0] will\nchange, so please act like a proper protagonist."
+                "Depending on the outcome of the event, the relationship with the\n\\c[2]heroine\\c[0] will change, so please act like a proper\nprotagonist."
               ]
             },
             { "code": 123, "indent": 0, "parameters": ["A", 0] },
@@ -2236,7 +2236,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Since it's a narrow bridge, let's be careful when\ncrossing."
+                "Since it's a narrow bridge, let's be careful when crossing."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin2", 0, 0, 2] },
@@ -2294,9 +2294,7 @@
             {
               "code": 401,
               "indent": 1,
-              "parameters": [
-                "I instinctively grabbed Margaret's\narm."
-              ]
+              "parameters": ["I instinctively grabbed Margaret's arm."]
             },
             { "code": 213, "indent": 1, "parameters": [19, 1, false] },
             { "code": 101, "indent": 1, "parameters": ["sinn", 0, 0, 2] },
@@ -2313,7 +2311,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "...I'm sorry, if it weren't for you, I would\nhave... fallen into the river."
+                "...I'm sorry, if it weren't for you, I would have... fallen into the\nriver."
               ]
             },
             {
@@ -2348,7 +2346,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I'm relieved Margaret didn't get wet, I pat my\nchest."
+                "I'm relieved Margaret didn't get wet, I pat my chest."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin2", 0, 0, 2] },
@@ -2433,7 +2431,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Light instinctively supported Margaret, who was\nbeing buffeted by the wind, but in doing so, Light\nlost his balance."
+                "Light instinctively supported Margaret, who was being buffeted by the\nwind, but in doing so, Light lost his balance."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["sinn", 5, 0, 2] },
@@ -2552,7 +2550,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Light was found soon enough and he said he was\nokay, but to be on the safe side, we decided to\nrest in the tent by the river."
+                "Light was found soon enough and he said he was okay, but to be on the\nsafe side, we decided to rest in the tent by the river."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -2562,7 +2560,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Light was found soon enough and he said he was\nokay, but to be on the safe side, we decided to\nsearch for a nearby place to rest."
+                "Light was found soon enough and he said he was okay, but to be on the\nsafe side, we decided to search for a nearby place to rest."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -2821,7 +2819,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "I thought there might be some clues hidden in the\nknee-high grass around here, but I couldn't find\nanything that seemed like it."
+                "I thought there might be some clues hidden in the knee-high grass\naround here, but I couldn't find anything that seemed like it."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["hiroin3", 2, 0, 2] },
@@ -2830,7 +2828,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The grass here... feels like I've seen it\nsomewhere before."
+                "The grass here... feels like I've seen it somewhere before."
               ]
             },
             { "code": 117, "indent": 0, "parameters": [38] },
@@ -2958,7 +2956,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "It seems like there were highly toxic plants\nhidden around here, and it looks like I got\npoisoned by their venom..."
+                "It seems like there were highly toxic plants hidden around here, and\nit looks like I got poisoned by their venom..."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 5, 0, 2] },
@@ -2967,7 +2965,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "We need to carry him to a place where he can rest\nfor now!"
+                "We need to carry him to a place where he can rest for now!"
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -2977,7 +2975,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "We left the area so as not to disturb the grass,\nbut Light's breathing was still rough, so we\nhurriedly carried him to the tent by the\nriverside."
+                "We left the area so as not to disturb the grass, but Light's breathing\nwas still rough, so we hurriedly carried him to the tent by the\nriverside."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -2987,7 +2985,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "We left the area so as not to disturb the grass,\nbut Light's breathing was still rough, so we\nhurriedly decided to find a place for him to rest."
+                "We left the area so as not to disturb the grass, but Light's breathing\nwas still rough, so we hurriedly decided to find a place for him to\nrest."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -3073,7 +3071,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "If you look closely, there are also highly toxic\nplants hidden among the ordinary ones."
+                "If you look closely, there are also highly toxic plants hidden among\nthe ordinary ones."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["hiroin3", 0, 0, 2] },
@@ -3082,7 +3080,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "I'll check it out, so go back slowly and\ncarefully!"
+                "I'll check it out, so go back slowly and carefully!"
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -3351,7 +3349,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Light, are you okay? Is something wrong with your\ncondition or..."
+                "Light, are you okay? Is something wrong with your condition or..."
               ]
             },
             {
@@ -3396,7 +3394,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "Ah... no, sorry. It's no good if I'm in this\ncondition. I'm fine, don't worry about it."
+                "Ah... no, sorry. It's no good if I'm in this condition. I'm fine,\ndon't worry about it."
               ]
             },
             { "code": 213, "indent": 0, "parameters": [-1, 8, false] },
@@ -3405,7 +3403,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "It seems like you're a little tired. It might not\nbe good to push yourself too hard."
+                "It seems like you're a little tired. It might not be good to push\nyourself too hard."
               ]
             },
             {
@@ -3626,7 +3624,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Without hesitation, I raise my sword and ask for\nsupport from the two of you."
+                "Without hesitation, I raise my sword and ask for support from the two\nof you."
               ]
             },
             { "code": 213, "indent": 2, "parameters": [25, 8, true] },
@@ -3636,7 +3634,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "...I understand. Lira, let's support \\n[1]\ntogether!"
+                "...I understand. Lira, let's support \\n[1] together!"
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 1, 0, 2] },
@@ -3731,7 +3729,11 @@
             { "code": 222, "indent": 2, "parameters": [] },
             { "code": 101, "indent": 2, "parameters": ["hiroin1", 1, 0, 2] },
             { "code": 401, "indent": 2, "parameters": ["【Lira】"] },
-            { "code": 401, "indent": 2, "parameters": ["\\n[1] is amazing..."] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["\\n[1] is amazing..."]
+            },
             { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
             {
               "code": 401,
@@ -3762,7 +3764,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "I'm sorry... \\n[1], it's all because of my\nincompetence..."
+                "I'm sorry... \\n[1], it's all because of my incompetence..."
               ]
             },
             { "code": 101, "indent": 2, "parameters": ["", 0, 1, 2] },
@@ -3770,13 +3772,17 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "I'll be happy as long as you let me eat some\ndelicious food next time."
+                "I'll be happy as long as you let me eat some delicious food next time."
               ]
             },
             { "code": 213, "indent": 2, "parameters": [25, 8, false] },
             { "code": 101, "indent": 2, "parameters": ["sinn", 0, 0, 2] },
             { "code": 401, "indent": 2, "parameters": ["【Light】"] },
-            { "code": 401, "indent": 2, "parameters": ["...Thank you, \\n[1]"] },
+            {
+              "code": 401,
+              "indent": 2,
+              "parameters": ["...Thank you, \\n[1]"]
+            },
             { "code": 221, "indent": 2, "parameters": [] },
             { "code": 121, "indent": 2, "parameters": [248, 248, 1] },
             { "code": 123, "indent": 2, "parameters": ["C", 0] },
@@ -3989,7 +3995,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Light seemed to waver for a moment, then collapsed\nforward. It seems he was more exhausted than I had\nimagined from the previous battle. I'll take him\nto the tent by the river for now."
+                "Light seemed to waver for a moment, then collapsed forward. It seems\nhe was more exhausted than I had imagined from the previous battle.\nI'll take him to the tent by the river for now."
               ]
             },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -4000,7 +4006,7 @@
               "code": 401,
               "indent": 3,
               "parameters": [
-                "Light seemed to waver for a moment, then collapsed\nforward. It seems he was more exhausted than I had\nimagined from the previous battle. I'll take him\nto the tent by the river for now. We'll search\ntogether to see if there's anywhere nearby for him\nto rest."
+                "Light seemed to waver for a moment, then collapsed forward. It seems\nhe was more exhausted than I had imagined from the previous battle.\nI'll take him to the tent by the river for now. We'll search together\nto see if there's anywhere nearby for him to rest."
               ]
             },
             { "code": 0, "indent": 3, "parameters": [] },
@@ -4086,7 +4092,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "Damn it... There's no end to this! But I have to\ndo it..."
+                "Damn it... There's no end to this! But I have to do it..."
               ]
             },
             { "code": 221, "indent": 1, "parameters": [] },
@@ -4200,7 +4206,11 @@
             { "code": 213, "indent": 1, "parameters": [24, 1, false] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 4, 0, 2] },
             { "code": 401, "indent": 1, "parameters": ["【Lira】"] },
-            { "code": 401, "indent": 1, "parameters": ["\\n[1], are you okay?"] },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": ["\\n[1], are you okay?"]
+            },
             { "code": 101, "indent": 1, "parameters": ["", 0, 1, 2] },
             { "code": 401, "indent": 1, "parameters": ["The monsters..."] },
             { "code": 101, "indent": 1, "parameters": ["hiroin1", 1, 0, 2] },
@@ -4209,7 +4219,7 @@
               "code": 401,
               "indent": 1,
               "parameters": [
-                "We managed to pull through with the help of Light\nand me, but..."
+                "We managed to pull through with the help of Light and me, but..."
               ]
             },
             { "code": 101, "indent": 1, "parameters": ["sinn", 5, 0, 2] },
@@ -4239,7 +4249,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Light seemed to waver for a moment, then collapsed\nforward. It seems he was more exhausted than I had\nimagined from the previous battle. I'll take him\nto the tent by the river for now."
+                "Light seemed to waver for a moment, then collapsed forward. It seems\nhe was more exhausted than I had imagined from the previous battle.\nI'll take him to the tent by the river for now."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -4250,7 +4260,7 @@
               "code": 401,
               "indent": 2,
               "parameters": [
-                "Light seemed to waver for a moment, then collapsed\nforward. It seems he was more exhausted than I had\nimagined from the previous battle. I'll take him\nto the tent by the river for now. We'll search\ntogether to see if there's anywhere nearby for him\nto rest."
+                "Light seemed to waver for a moment, then collapsed forward. It seems\nhe was more exhausted than I had imagined from the previous battle.\nI'll take him to the tent by the river for now. We'll search together\nto see if there's anywhere nearby for him to rest."
               ]
             },
             { "code": 0, "indent": 2, "parameters": [] },
@@ -4364,7 +4374,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "In this map, each heroine's cuckold event will\noccur."
+                "In this map, each heroine's cuckold event will occur."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -4372,7 +4382,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "If there's a heroine you're interested in, try\nexploring this map while accompanying her."
+                "If there's a heroine you're interested in, try exploring this map\nwhile accompanying her."
               ]
             },
             { "code": 101, "indent": 0, "parameters": ["", 0, 1, 2] },
@@ -4380,7 +4390,7 @@
               "code": 401,
               "indent": 0,
               "parameters": [
-                "The outcome of the event will also affect future\nevents and endings, so be careful."
+                "The outcome of the event will also affect future events and endings,\nso be careful."
               ]
             },
             { "code": 0, "indent": 0, "parameters": [] }
